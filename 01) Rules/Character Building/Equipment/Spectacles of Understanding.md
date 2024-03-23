@@ -1,0 +1,34 @@
+---
+obsidianUIMode: preview
+title: "Spectacles of Understanding"
+cssclasses: pf2e,pf2e-spell
+tags:
+  - trait/invested
+  - trait/magical
+  - trait/uncommon
+aliases: "Compendium.pf2e.equipment-srd.Item.x4l3JjePzROLDSK6"
+license: OGL
+---
+# Spectacles of Understanding
+## Item 5
+### [uncommon](uncommon "Uncommon Rarity Trait")[[invested]][[magical]]
+
+
+**Price** 130 gp; 
+**Bulk** 0; **Size** med
+**Usage** worneyepiece
+
+These folding, wood-framed spectacles hold flat discs of cut crystal as lenses and are held in place with thin cords that wrap around each ear, with another strap holding them around the neck while not in use. While you are wearing the spectacles, you gain a +1 item bonus to checks to Decipher Writing.
+
+* * *
+
+**Activate** `pf2:1` Interact
+
+**Frequency** once per day
+
+* * *
+
+**Effect** Unfolding the spectacles onto the bridge of the nose, you gain the effects of 2nd-rank [[Spells/Translate|Translate]] for one hour except that it applies to all languages you see rather than a single language, and it does not apply to language you hear.
+
+*Source: Pathfinder Lost Omens: Pathfinder Society Guide*
+*OGL*

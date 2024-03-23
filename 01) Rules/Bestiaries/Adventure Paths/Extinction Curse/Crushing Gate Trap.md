@@ -1,0 +1,50 @@
+---
+title: Crushing Gate Trap
+noteType: pf2eHazard
+tags:
+  - trap
+source: Pathfinder #155: Lord of the Black Sands
+aliases: "Compendium.pf2e.extinction-curse-bestiary.Actor.V4LPaPABVm9YYqdH" 
+level: 16
+license: OGL
+---
+
+```statblock
+columns: 2
+forcecolumns: true
+layout: Basic Pathfinder 2e Layout
+source: "Pathfinder #155: Lord of the Black Sands"
+name: "Crushing Gate Trap"
+level: "Hazard 16"
+
+trait_01: "trap"
+sourcebook: "_Pathfinder #155: Lord of the Black Sands_"
+armorclass:
+  - name: AC
+    desc: "40; __Fort__ +32, __Ref__ +25, __Will__ +0"
+hp: 104
+health:
+  - name: ""
+  - name: "HP"
+    desc: "104; __Hardness__ 26; __Immunities__  object immunities,  critical hits,  precision"
+perception:
+  - name: ""
+  - name: "Stealth DC 42" 
+    desc: "DC 42 Perception check (master) to spot the triggering rod beneath the black sand."
+abilities_top:
+  - name: ""
+  - name: "Description"
+    desc: "A hidden stone rod causes two immense stone doors to fall forward from their gate, crushing anything beneath them. The doors also fall forward if touched."
+abilities_mid:
+  - name: ""
+  - name: "Disable"
+    desc: "DC 42 Thievery check (expert) to secure the doors in place without triggering the trap"
+attacks:
+  - name: ""
+
+  - name: "Gate Collapse"
+    desc: "`pf2:r` (attack) **Trigger** The stone rod is moved or either door is touched\n**Effect** The two falling doors deal 6d12 + 35 bludgeoning damage (DC 37 Reflex check save) to all creatures within 15 feet of the gate. On a failure, a creature is also pinned beneath the door and [[Conditions/Immobilized|Immobilized]] until the door is moved (DC 34 Athletics check) or destroyed; each door has the same AC, Fortitude save, Hardness, and Hit Points as the trap itself. On a critical failure, the creature is trapped in such a way that it can't attempt to free itself. Moving or destroying one door doesn't help free anyone trapped by the other door."
+
+
+
+```

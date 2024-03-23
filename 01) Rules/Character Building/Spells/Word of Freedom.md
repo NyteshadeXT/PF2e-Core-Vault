@@ -1,0 +1,29 @@
+---
+obsidianUIMode: preview
+title: "Word of Freedom"
+noteType: pf2eSpell
+cssclasses: pf2e,pf2e-spell
+tags:
+  - spell/level/4
+  - trait/cleric
+  - trait/concentrate
+  - trait/focus
+  - trait/mental
+  - trait/uncommon
+  - remaster
+aliases: "Compendium.pf2e.spells-srd.Item.2jB9eyX7YekwoCvA" 
+---
+# Word of Freedom  `pf2:1`  
+## Focus 4
+### [uncommon](uncommon "Uncommon Rarity Trait")[[cleric]][[concentrate]][[focus]][[Mental]]
+
+**Range** 30 feet
+**Targets** 1 creature
+**Duration** 1 round
+* * * 
+You utter a liberating word of power that frees a creature. You suppress one of the following conditions of your choice: [[Conditions/Confused|Confused]], [[Conditions/Frightened 1|Frightened]], [[Conditions/Grabbed|Grabbed]], [[Conditions/Paralyzed|Paralyzed]], or [[Conditions/Restrained|Restrained]]. The target isn't affected by the chosen condition, and if you suppress the Grabbed or Restrained condition, the target automatically breaks free from the grab or restraint when you Cast the Spell.
+
+If you don't remove the effect that provided the condition, the condition returns after the spell ends. For example, if a spell was making the target Confused for 1 minute, _word of freedom_ would let the target act normally for a round, but the Confused condition would return afterward.
+
+*Source: Pathfinder Player Core*
+*ORC*

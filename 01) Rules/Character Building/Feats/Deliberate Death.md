@@ -1,0 +1,34 @@
+---
+obsidianUIMode: preview
+title: "Deliberate Death"
+cssclasses: pf2e,pf2e-spell
+tags:
+  - trait/duskwalker
+  - trait/common
+  - category/ancestry
+aliases: "Compendium.pf2e.feats-srd.Item.30e9SdbmI3t5OJQE"
+license: OGL
+---
+# Deliberate Death `pf2:r`
+## Feat 1
+### [[duskwalker]]
+
+**Category** ancestry; 
+
+
+
+
+**Frequency** once per day
+
+**Trigger** You are about to gain the dying condition as a result of another creature's attack or ability, and that creature is within your melee reach.
+
+* * *
+
+Once, you died because someone—murderer or monster, soldier or executioner—chose to strike you down. Just before losing consciousness, make a melee Strike against the triggering creature.
+
+* * *
+
+**Special** You can select this feat only at 1st level, and you can't retrain into or out of this feat.
+
+*Source: Pathfinder Lost Omens: Ancestry Guide*
+*OGL*

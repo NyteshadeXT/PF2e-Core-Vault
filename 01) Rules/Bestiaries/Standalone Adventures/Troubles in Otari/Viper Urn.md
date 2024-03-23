@@ -1,0 +1,54 @@
+---
+title: Viper Urn
+noteType: pf2eHazard
+tags:
+  - mechanical
+  - trap
+source: Pathfinder Adventure: Troubles in Otari
+aliases: "Compendium.pf2e.troubles-in-otari-bestiary.Actor.NeFSJTGROSgGIKNd" 
+level: 1
+license: OGL
+---
+
+```statblock
+columns: 2
+forcecolumns: true
+layout: Basic Pathfinder 2e Layout
+source: "Pathfinder Adventure: Troubles in Otari"
+name: "Viper Urn"
+level: "Hazard 1"
+
+trait_01: "mechanical"
+trait_02: "trap"
+sourcebook: "_Pathfinder Adventure: Troubles in Otari_"
+armorclass:
+  - name: AC
+    desc: "15; __Fort__ +8, __Ref__ +5, __Will__ +0"
+hp: 4
+health:
+  - name: ""
+  - name: "HP"
+    desc: "4; __Hardness__ 6; __Immunities__  object immunities,  critical hits"
+perception:
+  - name: ""
+  - name: "Stealth DC 15" 
+    desc: " +5"
+abilities_top:
+  - name: ""
+  - name: "Description"
+    desc: "A ceramic urn containing a coiled viper tips and shatters when a tripwire is pulled."
+abilities_mid:
+  - name: ""
+  - name: "Disable"
+    desc: "DC 15 Thievery check (trained) to stabilize the urn, or DC 15 Athletics check to carefully lower the heavy urn"
+attacks:
+  - name: ""
+
+  - name: "Topple"
+    desc: "`pf2:r` When someone pulls the trip wire, the urn smashes against a creature in the doorway, making a shattering urn Strike against that creature, then releases a [[Bestiary 1/Viper|Viper]] into the square that contained the trap. The viper attacks any non-plant creature it detects."
+  - name: "Melee"
+    desc: "Shattering Urn +12 (deadly d10) "
+
+
+
+```

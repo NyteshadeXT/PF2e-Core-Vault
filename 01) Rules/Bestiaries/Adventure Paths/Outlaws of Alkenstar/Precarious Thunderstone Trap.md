@@ -1,0 +1,52 @@
+---
+title: Precarious Thunderstone Trap
+noteType: pf2eHazard
+tags:
+  - mechanical
+  - trap
+source: Pathfinder #178: Punks in a Powder Keg
+aliases: "Compendium.pf2e.outlaws-of-alkenstar-bestiary.Actor.CMTeUYpFwhN0CKs2" 
+level: 1
+license: OGL
+---
+
+```statblock
+columns: 2
+forcecolumns: true
+layout: Basic Pathfinder 2e Layout
+source: "Pathfinder #178: Punks in a Powder Keg"
+name: "Precarious Thunderstone Trap"
+level: "Hazard 1"
+
+trait_01: "mechanical"
+trait_02: "trap"
+sourcebook: "_Pathfinder #178: Punks in a Powder Keg_"
+armorclass:
+  - name: AC
+    desc: "12; __Fort__ +7, __Ref__ +3, __Will__ +0"
+hp: 10
+health:
+  - name: ""
+  - name: "HP"
+    desc: "10; __Hardness__ 3; __Immunities__  object immunities,  critical hits,  precision"
+perception:
+  - name: ""
+  - name: "Stealth DC 15" 
+    desc: "(trained)"
+abilities_top:
+  - name: ""
+  - name: "Description"
+    desc: "A tripwire fastened to the gate snaps when the gate is opened, releasing a moderate thunderstone to the ground."
+abilities_mid:
+  - name: ""
+  - name: "Disable"
+    desc: "DC 15 Thievery check (trained) to remove the thunderstone or DC 18 Reflex check save to catch the falling thunderstone"
+attacks:
+  - name: ""
+
+  - name: "Thunderstone"
+    desc: "`pf2:r` (sonic) **Trigger** The front gate is opened\n**Effect** A moderate thunderstone falls on the flagstones and activates, dealing 2 sonic splash damage to each creature within 10 feet of the gate. Creatures in the area must succeed at a DC 17 Fortitude check saving throw or be [[Conditions/Deafened|Deafened]] for 1 round. Adjacent creatures can attempt to catch the falling thunderstone (see Disable)."
+
+
+
+```

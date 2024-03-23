@@ -1,0 +1,47 @@
+---
+title: Test of Endurance
+noteType: pf2eHazard
+tags:
+  - cold
+  - magical
+  - trap
+source: Pathfinder Kingmaker
+aliases: "Compendium.pf2e.kingmaker-bestiary.Actor.FkSxn7QSbVqA3dMy" 
+level: 13
+license: OGL
+---
+
+```statblock
+columns: 2
+forcecolumns: true
+layout: Basic Pathfinder 2e Layout
+source: "Pathfinder Kingmaker"
+name: "Test of Endurance"
+level: "Hazard 13"
+
+trait_01: "cold"
+trait_02: "magical"
+trait_03: "trap"
+sourcebook: "_Pathfinder Kingmaker_"
+perception:
+  - name: ""
+  - name: "Stealth DC 40" 
+    desc: "(master)"
+abilities_top:
+  - name: ""
+  - name: "Description"
+    desc: "The room fills with swirling vortexes of freezing wind that swiftly freeze flesh and chill the bones."
+abilities_mid:
+  - name: ""
+  - name: "Disable"
+    desc: "DC 33 Thievery check (master) to adjust the wheel's mechanisms so that it won't trigger the Test of Endurance, or [[Spells/Dispel Magic|Dispel Magic]] (7th level, counteract DC 31) to counteract the trap's magic."
+attacks:
+  - name: ""
+
+  - name: "Freezing Wind"
+    desc: "`pf2:r` (cold) **Trigger** A creature critically fails at an attempt to Rotate the Wheel or releases their grip on the wheel once they've started to rotate it\n**Effect** A vortex of freezing wind howls through the room-all creatures in the room must attempt a DC 33 Fortitude check save.\n**Critical Success** The creature takes no damage.\n**Success** The creature takes 1d6 cold damage for each revolution the wheel has been rotated (max 7d6).\n**Failure** The creature takes 2d6 cold damage for each revolution the wheel has been rotated (max 14d6) and becomes [[Conditions/Fatigued|Fatigued]].\n**Critical Failure** The creature takes 3d6 cold damage for each revolution the wheel has been rotated (max 21d6), becomes [[Conditions/Drained 1|Drained 1]], and becomes fatigued."
+
+
+  - name: "Reset"
+    desc: "The trap resets automatically."
+```

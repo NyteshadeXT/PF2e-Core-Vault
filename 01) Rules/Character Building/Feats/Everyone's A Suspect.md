@@ -1,0 +1,26 @@
+---
+obsidianUIMode: preview
+title: "Everyone's A Suspect"
+cssclasses: pf2e,pf2e-spell
+tags:
+  - trait/investigator
+  - trait/common
+  - category/class
+aliases: "Compendium.pf2e.feats-srd.Item.w4dijKncXx0ssBOQ"
+license: OGL
+---
+# Everyone's A Suspect
+## Feat 20
+### [[investigator]]
+
+**Category** class; 
+
+
+
+
+You are so suspicious of everyone you meet that you keep mental notes on how to defeat them all-even your own allies.
+
+After interacting with a creature for at least 1 minute, you automatically [[Actions/Pursue a Lead|Pursue a Lead]] with that creature as the subject. You can have any number of such leads at any given time, and when you Pursue a Lead again, you don't give up any of these automatic subjects.
+
+*Source: Pathfinder Advanced Player's Guide*
+*OGL*

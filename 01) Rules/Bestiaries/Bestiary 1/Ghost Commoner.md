@@ -1,0 +1,93 @@
+---
+title: "Ghost Commoner"
+obsidianUIMode: preview
+noteType: pf2eMonster
+cssClasses: pf2e
+aliases: "Compendium.pf2e.pathfinder-bestiary.Actor.2H2AEwQnfKJC0nrd" 
+tags:
+  - pf2e/creature/type/chaotic
+  - pf2e/creature/type/evil
+  - pf2e/creature/type/ghost
+  - pf2e/creature/type/incorporeal
+  - pf2e/creature/type/spirit
+  - pf2e/creature/type/undead
+  - pf2e/creature/type/unholy
+  - pf2e/creature/level/4
+statblock: inline
+name: "Ghost Commoner"
+level: 4
+license: OGL
+---
+
+```statblock
+columns: 2
+forcecolumns: true
+layout: Basic Pathfinder 2e Layout
+source: "Pathfinder Bestiary"
+name: "Ghost Commoner"
+level: "Creature 4"
+
+alignment: ""
+size: "Medium"
+trait_01: "chaotic"
+trait_02: "evil"
+trait_03: "ghost"
+trait_04: "incorporeal"
+trait_05: "spirit"
+trait_06: "undead"
+trait_07: "unholy"
+modifier: 10
+perception:
+  - name: "Perception"
+    desc: "+10; Darkvision"
+languages: "Common"
+skills:
+  - name: "Skills"
+    desc: "Dwelling Lore (applies to the place the ghost is bound to): +10, Stealth: +12"
+abilityMods: [-5, 3, 0, 0, 2, 2]
+speed:  fly 25 feet
+sourcebook: "_Pathfinder Bestiary_"
+ac: 20
+armorclass:
+  - name: AC
+    desc: "20; __Fort__ +8, __Ref__ +11, __Will__ +8"
+hp: 30
+health:
+  - name: ""
+  - name: HP
+    desc: "30, void healing, rejuvenation; __Immunities__  death effects,  disease,  paralyzed,  poison,  precision,  unconscious; __Resistances__ all damage 5 (except force, ghost touch, or vitality; double resistance vs. non-magical)"
+abilities_top:
+  - name: ""
+
+  - name: "[[Creature Family Ability Glossary/(Ghost) Site Bound|Site Bound]]"
+    desc: "  A typical ghost can stray only a short distance from where it was killed or the place it haunts. A typical limit is 120 feet. Some ghosts are instead bound to a room, building, item, or creature that was special to it rather than a location."
+
+abilities_mid:
+  - name: ""
+  - name: "[[Creature Family Ability Glossary/(Ghost) Rejuvenation|Rejuvenation]]"
+    desc: " (divine) Setting right the injustice that led to the commoner's death allows it to move on to the afterlife.\nWhen a ghost is destroyed, it re-forms after 2d4 days within the location it's bound to, fully healed. A ghost can be permanently destroyed only if someone determines the reason for its existence and sets right whatever prevents the spirit from resting."
+
+attacks:
+  - name: ""
+
+  - name: "Melee"
+    desc: "`pf2:1` Ghostly Hand +13 (agile, finesse, magical)\n__Damage__  2d6 + 2 void"
+
+  - name: "[[Creature Family Ability Glossary/(Ghost) Frightful Moan|Frightful Moan]]"
+    desc: "`pf2:2` (auditory,divine,emotion,fear,mental) The ghost laments its fate, forcing each living creature within 30 feet to attempt a DC 21 Will check save. On a failure, a creature becomes [[Conditions/Frightened 1|Frightened 2]] (or [[Conditions/Frightened 1|Frightened 3]] on a critical failure). On a success, a creature is temporarily immune to this ghost's frightful moan for 1 minute."
+ 
+```
+
+```encounter-table
+name: Ghost Commoner
+creatures:
+  - 1: Ghost Commoner
+```
+
+
+### Description
+The ghost commoner is an ordinary person who believes they died unjustly, usually due to foul play or betrayal.
+
+* * *
+
+When some mortals die through tragic circumstances or without closure, they can linger on in the world. These anguished souls haunt a locale significant to them in life, constantly trying to right their perceived wrong or wrongdoings.

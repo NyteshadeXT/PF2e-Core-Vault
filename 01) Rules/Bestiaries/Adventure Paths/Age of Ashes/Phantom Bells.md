@@ -1,0 +1,48 @@
+---
+title: Phantom Bells
+noteType: pf2eHazard
+tags:
+  - auditory
+  - haunt
+  - sonic
+source: Pathfinder #147: Tomorrow Must Burn
+aliases: "Compendium.pf2e.age-of-ashes-bestiary.Actor.IdpkEJycZgrkvdSn" 
+level: 6
+license: OGL
+---
+
+```statblock
+columns: 2
+forcecolumns: true
+layout: Basic Pathfinder 2e Layout
+source: "Pathfinder #147: Tomorrow Must Burn"
+name: "Phantom Bells"
+level: "Hazard 6"
+
+trait_01: "auditory"
+trait_02: "haunt"
+trait_03: "sonic"
+sourcebook: "_Pathfinder #147: Tomorrow Must Burn_"
+perception:
+  - name: ""
+  - name: "Stealth DC 20" 
+    desc: " +10"
+abilities_top:
+  - name: ""
+  - name: "Description"
+    desc: "The echo of diabolic bells reverberates with a bone-shaking clamor."
+abilities_mid:
+  - name: ""
+  - name: "Disable"
+    desc: "DC 27 Religion check (expert) to break the curse with recitations against the power of Hell (2 actions), or DC 22 Performance check (expert) to Perform an opposing composition"
+attacks:
+  - name: ""
+
+  - name: "Distant Ringing"
+    desc: "`pf2:r` (auditory, sonic) **Trigger** A living creature approaches within 30 feet.\n**Effect** Sounds of creaking metal fill the area as the phantom bells begin to swing and the haunt rolls initiative."
+
+  - name: "Routine"
+    desc: "(1 action) The bells toll, dealing 4d6 sonic damage to each living creature within 30 feet (DC 24 Fortitude check save)."
+  - name: "Reset"
+    desc: "The bells cease ringing if there are no living creatures within 30 feet."
+```

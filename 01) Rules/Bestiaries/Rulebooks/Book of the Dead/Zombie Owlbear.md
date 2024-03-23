@@ -1,0 +1,94 @@
+---
+title: "Zombie Owlbear"
+obsidianUIMode: preview
+noteType: pf2eMonster
+cssClasses: pf2e
+aliases: "Compendium.pf2e.book-of-the-dead-bestiary.Actor.nbVljZhCnWgGxA18" 
+tags:
+  - pf2e/creature/type/evil
+  - pf2e/creature/type/mindless
+  - pf2e/creature/type/undead
+  - pf2e/creature/type/unholy
+  - pf2e/creature/type/zombie
+  - pf2e/creature/level/3
+statblock: inline
+name: "Zombie Owlbear"
+level: 3
+license: OGL
+---
+
+```statblock
+columns: 2
+forcecolumns: true
+layout: Basic Pathfinder 2e Layout
+source: "Pathfinder Book of the Dead"
+name: "Zombie Owlbear"
+level: "Creature 3"
+
+alignment: ""
+size: "Large"
+trait_01: "evil"
+trait_02: "mindless"
+trait_03: "undead"
+trait_04: "unholy"
+trait_05: "zombie"
+modifier: 8
+perception:
+  - name: "Perception"
+    desc: "+8; Darkvision"
+skills:
+  - name: "Skills"
+    desc: "Acrobatics: +5, Athletics: +12"
+abilityMods: [4, 0, 3, -5, 1, -3]
+speed: 25 feet
+sourcebook: "_Pathfinder Book of the Dead_"
+ac: 16
+armorclass:
+  - name: AC
+    desc: "16; __Fort__ +8, __Ref__ +5, __Will__ +6"
+hp: 85
+health:
+  - name: ""
+  - name: HP
+    desc: "85, void healing; __Immunities__  death effects,  disease,  paralyzed,  poison,  unconscious,  mental; __Weaknesses__ vitality 10, slashing 10"
+abilities_top:
+  - name: ""
+
+abilities_mid:
+  - name: ""
+  - name: "Slow"
+    desc: "  A zombie owlbear is permanently [[Conditions/Slowed 1|Slowed 1]] and can't use reactions."
+
+attacks:
+  - name: ""
+
+  - name: "Melee"
+    desc: "`pf2:1` Talon +12 ()\n__Damage__  1d10 + 7 piercing plus grab"
+
+  - name: "Melee"
+    desc: "`pf2:1` Beak +12 ()\n__Damage__  1d12 + 7 piercing"
+
+  - name: "Ground Slam"
+    desc: "`pf2:2` (attack) **Requirements** The zombie owlbear has a creature [[Conditions/Grabbed|Grabbed]] or [[Conditions/Restrained|Restrained]] with its talons\n**Effect** The zombie owlbear repeatedly slams the creature into the ground. This deals 1d10 + 7 bludgeoning damage (DC 20 Fortitude check). On a critical failure, the creature is [[Conditions/Stunned 1|Stunned 1]], and on a critical success the creature is no longer grabbed or restrained."
+
+  - name: "Horrifying Screech"
+    desc: "`pf2:1` (auditory,emotion,fear,mental) The zombie owlbear unleashes a broken, snarling screech that unnerves those who hear it. Each creature in a 60-foot emanation must attempt a DC 19 Will check save. Regardless of the result, creatures are temporarily immune for 1 minute.\n**Critical Success** The creature is unaffected.\n**Success** The creature is [[Conditions/Frightened 1|Frightened 1]].\n**Failure** The creature is [[Conditions/Frightened 1|Frightened 2]].\n**Critical Failure** The creature is [[Conditions/Fleeing|Fleeing]] for 1 round and [[Conditions/Frightened 1|Frightened 3]]."
+
+  - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
+    desc: "`pf2:1`  "
+ 
+```
+
+```encounter-table
+name: Zombie Owlbear
+creatures:
+  - 1: Zombie Owlbear
+```
+
+
+### Description
+Zombie owlbears combine an owlbear's ferocity with mindless undead hatred. Once it draws near, it often stands up, unleashing a guttural, wet roar, before charging into combat without thought of self-preservation.
+
+* * *
+
+Simple to create and varied in purpose, these shambling undead are often used for their strength and endless stamina to conduct boring, repetitive tasks.

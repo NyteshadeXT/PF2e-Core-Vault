@@ -1,0 +1,51 @@
+---
+title: Frenetic Musician
+noteType: pf2eHazard
+tags:
+  - haunt
+source: Pathfinder Book of the Dead
+aliases: "Compendium.pf2e.book-of-the-dead-bestiary.Actor.XuHQXwAGBdS1s2Kq" 
+level: 8
+license: OGL
+---
+
+```statblock
+columns: 2
+forcecolumns: true
+layout: Basic Pathfinder 2e Layout
+source: "Pathfinder Book of the Dead"
+name: "Frenetic Musician"
+level: "Hazard 8"
+
+trait_01: "haunt"
+sourcebook: "_Pathfinder Book of the Dead_"
+armorclass:
+  - name: AC
+    desc: "10; __Fort__ +0, __Ref__ +0, __Will__ +0"
+hp: 10
+health:
+  - name: ""
+  - name: "HP"
+    desc: "10; __Immunities__  object immunities"
+perception:
+  - name: ""
+  - name: "Stealth DC 28" 
+    desc: "(expert) to hear phantom tones"
+abilities_top:
+  - name: ""
+  - name: "Description"
+    desc: "A spirit musician rises out of an instrument and plays a frantic, bone-shaking melody."
+abilities_mid:
+  - name: ""
+  - name: "Disable"
+    desc: "DC 26 Performance check (trained) to bring the spirit's music to a close or DC 28 Occultism check check (expert) to banish the spirit"
+attacks:
+  - name: ""
+
+  - name: "Musical Assault"
+    desc: "`pf2:r` (auditory, occult, sonic) **Trigger** A creature touches the instrument\n**Effect** The musician's bone-shaking musical performance deals 4d10 + 22 sonic damage to creatures within 30 feet (DC 30 Will check)."
+
+
+  - name: "Reset"
+    desc: "1 hour"
+```

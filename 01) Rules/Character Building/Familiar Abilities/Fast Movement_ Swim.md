@@ -1,0 +1,24 @@
+---
+obsidianUIMode: preview
+title: "Fast Movement: Swim"
+cssclasses: pf2e,pf2e-action
+tags:
+  - trait/common
+  - category/familiar
+  - remaster
+aliases: "Compendium.pf2e.familiar-abilities.Item.vpw2ReYdcyQBpdqn"
+license: ORC
+---
+# Fast Movement: Swim
+
+### 
+
+**Category** familiar; 
+
+
+
+
+Increase the familiar's swim Speed from 25 feet to 40 feet.
+
+*Source: Pathfinder Player Core*
+*ORC*
