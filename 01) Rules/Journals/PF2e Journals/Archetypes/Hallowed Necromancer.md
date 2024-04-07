@@ -22,7 +22,7 @@ As hallowed necromancy lacks any unified credo, its practitioners are found thro
 
 Hallowed necromancers captured in Geb might be executed only to be risen by their foes with their spellcasting ability intact but moral code absent or twisted.
 
-## [[Feats/Hallowed Necromancer Dedication|Hallowed Necromancer Dedication]] Feat 2
+## [[Hallowed Necromancer Dedication|Hallowed Necromancer Dedication]] Feat 2
 
 **Prerequisites** good alignment, able to cast spells using spell slots, able to cast at least one necromancy spell, expert in Religion
 
@@ -32,7 +32,7 @@ You've studied techniques allowing you to blend so-called hallowed necromancy in
 
 **Special** You can't select another dedication feat until you have gained two other feats from the hallowed necromancer archetype.
 
-## [[Feats/Hallowed Initiate|Hallowed Initiate]] Feat 4
+## [[Hallowed Initiate|Hallowed Initiate]] Feat 4
 
 **Prerequisites** Hallowed Necromancer Dedication
 
@@ -42,7 +42,7 @@ You've expanded your focus spellcasting to techniques used by clerics and wizard
 
 **Special** You can select this feat a second time, choosing the other initial focus spell.
 
-## [[Feats/Sacred Spells|Sacred Spells]] Feat 4
+## [[Sacred Spells|Sacred Spells]] Feat 4
 
 **Prerequisites** Hallowed Necromancer Dedication
 
@@ -53,7 +53,7 @@ Add [[Spells/Void Warp|Void Warp]], [[Spells/Death Ward|Death Ward]], [[Spells/V
 *   If you're a prepared spellcaster, you can spend 10 minutes to replace one of the spells you've prepared with a spell of the same rank from the list of sacred spells. You can do this while Refocusing.
 *   If you're a spontaneous spellcaster with the signature spells class feature, add two of the spells from the list of sacred spells to your repertoire. They are signature spells for you, in addition to your normal signature spells. When you gain the ability to cast a new rank of spells, you can choose to switch the spells from this feat to any other spells from the list.
 
-## [[Feats/Death Warden|Death Warden]] Feat 6
+## [[Death Warden|Death Warden]] Feat 6
 
 **Prerequisites** Hallowed Necromancer Dedication
 
@@ -61,7 +61,7 @@ Add [[Spells/Void Warp|Void Warp]], [[Spells/Death Ward|Death Ward]], [[Spells/V
 
 With your intimate familiarity with the duality of vitality and void energy, you're able to stand as a bulwark against death and undeath alike. You gain resistance to void damage equal to half your level and a +1 status bonus to saving throws against effects with the void trait.
 
-## [[Feats/Advanced Hallowed Spell|Advanced Hallowed Spell]] Feat 8
+## [[Advanced Hallowed Spell|Advanced Hallowed Spell]] Feat 8
 
 **Prerequisites** Hallowed Necromancer Dedication, necromancer initial school spell or death initial domain spell
 
@@ -71,7 +71,7 @@ You dig deeper into the magical tools found in wizard schools and divine domains
 
 **Special** You can select this feat a second time, choosing the other advanced focus spell.
 
-## [[Feats/Positive Luminance|Positive Luminance]] Feat 8
+## [[Positive Luminance|Positive Luminance]] Feat 8
 
 **Prerequisites** Hallowed Necromancer Dedication
 
@@ -79,7 +79,7 @@ You dig deeper into the magical tools found in wizard schools and divine domains
 
 You learn how to create a luminous reservoir of vitality energy that you can use to punish undead who dare attack you. You gain the domain spell [[Spells/Vital Luminance|Vital Luminance]]. It costs 1 Focus Point to cast a focus spell. This feat grants a focus pool of 1 Focus Point that you can recover using the Refocus activity.
 
-## [[Feats/Consecrated Aura|Consecrated Aura]] Feat 14
+## [[Consecrated Aura|Consecrated Aura]] Feat 14
 
 **Prerequisites** Hallowed Necromancer Dedication
 

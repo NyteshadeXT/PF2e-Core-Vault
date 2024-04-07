@@ -20,7 +20,7 @@ license: ORC
 
 **Prerequisites** Channel Smite
 * * *
-**Trigger** You miss with your Strike during [[Feats/Channel Smite|Channel Smite]].
+**Trigger** You miss with your Strike during [[Channel Smite|Channel Smite]].
 
 * * *
 

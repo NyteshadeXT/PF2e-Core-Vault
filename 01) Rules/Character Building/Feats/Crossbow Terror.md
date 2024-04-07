@@ -23,7 +23,7 @@ You are a dynamo with the crossbow.
 
 You gain a +2 circumstance bonus to damage with [[Equipment/Crossbow|Crossbows]].
 
-If the crossbow is a simple weapon, also increase the damage die size for your attacks made with that crossbow by one step. As normal, this damage die increase can't be combined with other abilities that alter the weapon damage die (such as the ranger feat [[Feats/Crossbow Ace|Crossbow Ace]]).
+If the crossbow is a simple weapon, also increase the damage die size for your attacks made with that crossbow by one step. As normal, this damage die increase can't be combined with other abilities that alter the weapon damage die (such as the ranger feat [[Crossbow Ace|Crossbow Ace]]).
 
 *Source: Pathfinder Advanced Player's Guide*
 *OGL*

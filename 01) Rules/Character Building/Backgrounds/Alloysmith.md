@@ -21,7 +21,7 @@ Blacksmithing might be an ancient profession, but you are its cutting edge. You'
 
 Choose two attribute boosts. One must be to **Strength** or **Intelligence**, and one is a free attribute boost.
 
-You're trained in the Crafting skill and the Plane of Metal Lore skill. You gain the [[Feats/Specialty Crafting|Specialty Crafting]] skill feat with the blacksmithing specialty.
+You're trained in the Crafting skill and the Plane of Metal Lore skill. You gain the [[Specialty Crafting|Specialty Crafting]] skill feat with the blacksmithing specialty.
 
 *Source: Pathfinder Rage of Elements*
 *OGL*

@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by [[Feats/Precious Arrow|Precious Arrow]]
+Granted by [[Precious Arrow|Precious Arrow]]
 
 Choose cold iron or silver; if you shoot the arrow before the end of your turn, it counts as that material. At 14th level, add adamantine to the list of materials you can choose from.
 

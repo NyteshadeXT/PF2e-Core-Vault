@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by [[Feats/Mountain Stance|Mountain Stance]]
+Granted by [[Mountain Stance|Mountain Stance]]
 
 You enter the stance of an implacable mountain—a technique first discovered by dwarven monks—allowing you to strike with the weight of an avalanche. The only Strikes you can make are falling stone unarmed attacks. These deal 1d8 bludgeoning damage; are in the brawling group; and have the forceful, nonlethal, and unarmed traits.
 

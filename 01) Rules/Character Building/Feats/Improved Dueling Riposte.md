@@ -20,7 +20,7 @@ license: ORC
 
 **Prerequisites** Dueling Riposte
 * * *
-Your weapon whirls and darts, striking foes whenever the slightest opening or moment of weakness presents itself. You can use [[Feats/Dueling Riposte|Dueling Riposte]] even if you aren't benefiting from [[Feats/Dueling Parry (Fighter)|Dueling Parry]]. At the start of each of your turns, you gain an additional reaction that you can use only to make a Dueling Riposte.
+Your weapon whirls and darts, striking foes whenever the slightest opening or moment of weakness presents itself. You can use [[Dueling Riposte|Dueling Riposte]] even if you aren't benefiting from [[Dueling Parry (Fighter)|Dueling Parry]]. At the start of each of your turns, you gain an additional reaction that you can use only to make a Dueling Riposte.
 
 *Source: Pathfinder Player Core*
 *ORC*

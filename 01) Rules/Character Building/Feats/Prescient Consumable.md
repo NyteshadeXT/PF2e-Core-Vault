@@ -20,7 +20,7 @@ license: ORC
 
 **Prerequisites** Prescient Planner
 * * *
-You can predict which consumables you might need in advance. When using [[Feats/Prescient Planner|Prescient Planner]], you can procure a consumable item from your backpack, instead of a piece of adventuring gear. The consumable item must still be common with a level no higher than half your level, and its Bulk must be low enough that carrying it wouldn't have made you encumbered.
+You can predict which consumables you might need in advance. When using [[Prescient Planner|Prescient Planner]], you can procure a consumable item from your backpack, instead of a piece of adventuring gear. The consumable item must still be common with a level no higher than half your level, and its Bulk must be low enough that carrying it wouldn't have made you encumbered.
 
 *Source: Pathfinder Player Core*
 *ORC*

@@ -20,7 +20,7 @@ You died and miraculously returned with knowledge of the realms beyond death and
 
 Choose two ability boosts. One must be to **Constitution** or **Wisdom**, and one is a free ability boost.
 
-You gain the [[Feats/Diehard|Diehard]] feat and the [[Feats/Additional Lore|Additional Lore]] feat for Boneyard Lore.
+You gain the [[Diehard|Diehard]] feat and the [[Additional Lore|Additional Lore]] feat for Boneyard Lore.
 
 *Source: Pathfinder Advanced Player's Guide*
 *OGL*

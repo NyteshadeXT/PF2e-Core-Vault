@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by [[Feats/Ghost Wrangler|Ghost Wrangler]]
+Granted by [[Ghost Wrangler|Ghost Wrangler]]
 
 Your fists gain the effects of the ghost touch property rune.
 

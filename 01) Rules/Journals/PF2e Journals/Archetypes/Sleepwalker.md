@@ -12,7 +12,7 @@ Many think of mental realms and mindscapes as rare and elaborate constructions, 
 
 Sleepwalkers dedicate themselves to unlocking the secrets of the sleeping mind, taking control of their dreams and walking through the slumbering vistas of others. Some are nefarious manipulators, whispering to the slumbering for personal gain. Others use their powers for good, seeking evildoers and those who corrupt dreams to nightmares. As their power grows, a sleepwalker's appearance gradually becomes slightly indistinct, as though they were blurred around the edges, and those who encounter them find it difficult to recall exact details about their appearance.
 
-## [[Feats/Sleepwalker Dedication|Sleepwalker Dedication]] Feat 4
+## [[Sleepwalker Dedication|Sleepwalker Dedication]] Feat 4
 
 **Prerequisites** expert in Occultism
 
@@ -24,7 +24,7 @@ You've learned to manipulate states of consciousness, beginning with your own. Y
 
 **Special** You can't select another dedication feat until you have gained two other feats from the sleepwalker archetype.
 
-## [[Feats/Infiltrate Dream|Infiltrate Dream]] Feat 6
+## [[Infiltrate Dream|Infiltrate Dream]] Feat 6
 
 **Prerequisites** Sleepwalker Dedication
 
@@ -42,7 +42,7 @@ While within the dream, you can attempt an Occultism check check against the tar
 
 **Critical Failure** The dreams mislead you, and you learn an erroneous piece of information.
 
-## [[Feats/Vision of Foresight|Vision of Foresight]] Feat 6
+## [[Vision of Foresight|Vision of Foresight]] Feat 6
 
 **Prerequisites** Sleepwalker Dedication
 
@@ -52,7 +52,7 @@ While within the dream, you can attempt an Occultism check check against the tar
 
 You use your daydreams to predict the success of actions, rapidly envisioning the possibilities. Once before the end of your next turn, you can call upon these predictions before you roll a saving throw or skill check. You can roll the saving throw or skill check twice and take the better result.
 
-## [[Feats/Dream Magic|Dream Magic]] Feat 8
+## [[Dream Magic|Dream Magic]] Feat 8
 
 **Prerequisites** Sleepwalker Dedication
 
@@ -64,7 +64,7 @@ You learn dream-related magic to aid your studies. Choose [[Spells/Dream Message
 
 **Special** You can take this feat twice, gaining the spell you didn't select initially the second time.
 
-## [[Feats/Waking Dream|Waking Dream]] Feat 8
+## [[01) Rules/Character Building/Feats/Waking Dream|Waking Dream]] Feat 8
 
 **Prerequisites** Sleepwalker Dedication
 
@@ -72,7 +72,7 @@ You learn dream-related magic to aid your studies. Choose [[Spells/Dream Message
 
 While in your trance, you can blur the line between dreams and reality for others. You gain the [[Spells/Waking Dream|Waking Dream]] focus spell, which you can use only while you're in a Daydream Trance. You gain a pool of Focus Points with 1 Focus Point and you can Refocus by taking a nap for 10 minutes. You become trained in occult spell attack rolls and spell DCs, and your spellcasting attribute for these spells is Wisdom.
 
-## [[Feats/Oneiric Influence|Oneiric Influence]] Feat 12
+## [[Oneiric Influence|Oneiric Influence]] Feat 12
 
 **Prerequisites** Infiltrate Dream
 
@@ -80,7 +80,7 @@ While in your trance, you can blur the line between dreams and reality for other
 
 While Infiltrating a Dream, you can also implant a suggestion in the target's mind. The target must attempt a Will check save against your class DC or spell DC, whichever is higher, to resist your modification, which has the effects of a [[Spells/Subconscious Suggestion|Subconscious Suggestion]] spell, but even on a critical success, the target doesn't realize you were trying to control them and may not recognize your presence in the dream. The suggestion remains in the target's subconscious for 1 week or until triggered. Their memories of carrying out the suggestion are hazy and dreamlike and they may not remember doing it unless later reminded.
 
-## [[Feats/Ward Slumber|Ward Slumber]] Feat 12
+## [[Ward Slumber|Ward Slumber]] Feat 12
 
 **Prerequisites** Sleepwalker Dedication
 
@@ -88,7 +88,7 @@ While Infiltrating a Dream, you can also implant a suggestion in the target's mi
 
 Just before going to sleep, you can perform a 10-minute ward to protect the slumber of up to eight creatures within 30 feet of you. All creatures affected by the ritual gain a +4 status bonus on saving throws against [[Spells/Nightmare|Nightmare]], a night hag's dream haunting, or other effects influencing dreams (such as those provided by this archetype) until your next daily preparations. They heal double the usual amount of Hit Points from resting.
 
-## [[Feats/Dream Logic|Dream Logic]] Feat 14
+## [[Dream Logic|Dream Logic]] Feat 14
 
 **Prerequisites** Sleepwalker Dedication
 
@@ -98,7 +98,7 @@ You can transmit a sense of dreamy nonchalance. If you do something especially s
 
 Any hostile action by you or your allies against an affected creature automatically ends the effect for that creature. The GM might allow the creature a new check if someone else brings your actions to its attention, such as if someone you're attacking calls out for help. When your trance ends, affected creatures retain their memories of events but likely still view them as unremarkable; unless they are prompted to relate the events, they might not report them.
 
-## [[Feats/Shared Dream|Shared Dream]] Feat 16
+## [[Shared Dream|Shared Dream]] Feat 16
 
 **Prerequisites** Sleepwalker Dedication
 
@@ -106,7 +106,7 @@ Any hostile action by you or your allies against an affected creature automatica
 
 You've learned to create a shared dreamscape to communicate with others. You can cast [[Spells/Dream Council|Dream Council]] as an innate occult spell.
 
-## [[Feats/Ever Dreaming|Ever Dreaming]] Feat 18
+## [[Ever Dreaming|Ever Dreaming]] Feat 18
 
 **Prerequisites** Sleepwalker Dedication
 

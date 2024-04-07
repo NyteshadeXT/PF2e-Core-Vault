@@ -19,7 +19,7 @@ license: ORC
 
 
 
-You gain the [[Feats/Domain Initiate|Domain Initiate]] cleric feat.
+You gain the [[Domain Initiate|Domain Initiate]] cleric feat.
 
 *Source: Pathfinder Player Core*
 *ORC*

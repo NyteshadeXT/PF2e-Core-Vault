@@ -20,7 +20,7 @@ Conventional magic can only hold your attention for so long. Instead, you've dev
 
 Choose two ability boosts. One must be to **Intelligence** or **Wisdom**, and one is a free ability boost.
 
-You're trained in either the Arcana skill or Occult skill, as well as the Library Lore skill. You gain the [[Feats/Recognize Spell|Recognize Spell]] skill feat.
+You're trained in either the Arcana skill or Occult skill, as well as the Library Lore skill. You gain the [[Recognize Spell|Recognize Spell]] skill feat.
 
 *Source: Pathfinder Lost Omens: Pathfinder Society Guide*
 *OGL*

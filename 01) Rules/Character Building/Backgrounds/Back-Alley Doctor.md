@@ -20,7 +20,7 @@ You're the medic many turn to when a more official clinic or healer might not be
 
 Choose two ability boosts. One must be to **Constitution** or **Wisdom**, and one is a free ability boost.
 
-You're trained in the Medicine skill and the Underworld Lore skill. You gain the [[Feats/Risky Surgery|Risky Surgery]] skill feat.
+You're trained in the Medicine skill and the Underworld Lore skill. You gain the [[Risky Surgery|Risky Surgery]] skill feat.
 
 *Source: Pathfinder Guns & Gears*
 *OGL*

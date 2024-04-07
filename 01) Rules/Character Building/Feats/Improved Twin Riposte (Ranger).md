@@ -20,7 +20,7 @@ license: ORC
 
 **Prerequisites** Twin Riposte
 * * *
-At the start of each of your turns, you gain an additional reaction that you can use only to perform a [[Feats/Twin Riposte|Twin Riposte]]. You can use this extra reaction even if you are not benefiting from [[Feats/Twin Parry|Twin Parry]].
+At the start of each of your turns, you gain an additional reaction that you can use only to perform a [[Twin Riposte|Twin Riposte]]. You can use this extra reaction even if you are not benefiting from [[Twin Parry|Twin Parry]].
 
 *Source: Pathfinder Player Core*
 *ORC*

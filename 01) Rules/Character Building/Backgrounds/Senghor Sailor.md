@@ -24,7 +24,7 @@ As an experienced sailor from Senghor, you know that the only thing saving you f
 
 Choose two ability boosts. One must be to **Intelligence** or **Wisdom**, and one is a free ability boost.
 
-You're trained in the Crafting skill and the Sailing Lore skill. You gain the [[Feats/Quick Repair|Quick Repair]] skill feat.
+You're trained in the Crafting skill and the Sailing Lore skill. You gain the [[Quick Repair|Quick Repair]] skill feat.
 
 *Source: Pathfinder Lost Omens: World Guide*
 *OGL*

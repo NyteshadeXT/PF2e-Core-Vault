@@ -20,7 +20,7 @@ license: OGL
 
 **Prerequisites** trained in Survival
 * * *
-You've mastered travel within a specific type of terrain. You gain the [[Feats/Favored Terrain|Favored Terrain]] feat.
+You've mastered travel within a specific type of terrain. You gain the [[Favored Terrain|Favored Terrain]] feat.
 
 When in your favored terrain, you gain a +10-foot circumstance bonus to your travel Speed. When other creatures [[Actions/Follow the Expert|Follow the Expert]] with you as a guide in your favored terrain, they gain both the ability to ignore non-magical difficult terrain for the purpose of their travel Speed and the bonus to travel Speed.
 

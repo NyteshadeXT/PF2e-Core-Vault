@@ -20,7 +20,7 @@ One of your parents was a member of one of the great families of Brevoy, perhaps
 
 Choose two ability boosts. One must be to **Charisma** or **Constitution**, and one is a free ability boost.
 
-You're trained in the Politics Lore skill. You take a -1 penalty on all Charisma-based skill checks attempted when dealing with members of the nobility, but gain the [[Feats/Haughty Obstinacy|Haughty Obstinacy]] human ancestry feat, even if you aren't a human. If you manage to establish yourself as a true noble or secure a leadership role in a kingdom, you no longer take the penalty to Charisma-based checks.
+You're trained in the Politics Lore skill. You take a -1 penalty on all Charisma-based skill checks attempted when dealing with members of the nobility, but gain the [[Haughty Obstinacy|Haughty Obstinacy]] human ancestry feat, even if you aren't a human. If you manage to establish yourself as a true noble or secure a leadership role in a kingdom, you no longer take the penalty to Charisma-based checks.
 
 *Source: Pathfinder: Kingmaker Player's Guide*
 *OGL*

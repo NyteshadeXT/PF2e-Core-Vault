@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by [[Feats/Disarming Stance|Disarming Stance]].
+Granted by [[Disarming Stance|Disarming Stance]].
 
 You gain a +1 circumstance bonus to Athletics checks to Disarm and a +2 circumstance bonus to your Reflex DC when defending against checks to Disarm you.
 

@@ -11,7 +11,7 @@ license: OGL
 ---
 # Prototype Companion
 ## Feat 1
-### [[inventor]]
+### [[01) Rules/Character Building/Feats/Inventor]]
 
 **Category** class; 
 

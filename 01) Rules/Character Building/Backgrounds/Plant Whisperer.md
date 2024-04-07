@@ -20,7 +20,7 @@ You've always had a green thumb, allowing you to care for plants that others fou
 
 Choose two ability boosts. One must be to **Wisdom** or **Charisma**, and one is a free ability boost.
 
-You're trained in Nature and Plant Lore. You gain the [[Feats/Natural Medicine|Natural Medicine]] skill feat.
+You're trained in Nature and Plant Lore. You gain the [[Natural Medicine|Natural Medicine]] skill feat.
 
 *Source: Pathfinder Secrets of Magic*
 *OGL*

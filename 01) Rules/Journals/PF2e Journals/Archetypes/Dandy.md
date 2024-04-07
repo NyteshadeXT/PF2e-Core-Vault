@@ -10,7 +10,7 @@ tags:
 # Dandy
 You are a genteel master of style, culture, and decorum, aware of even the subtlest rules of etiquette. Whether you were born into status, acquired it later in life, or merely pretend to possess it, you look and act your part to manicured perfection.
 
-## [[Feats/Dandy Dedication|Dandy Dedication]] Feat 2
+## [[Dandy Dedication|Dandy Dedication]] Feat 2
 
 **Prerequisites** trained in Diplomacy
 
@@ -22,7 +22,7 @@ You become trained in Deception and Society; if you were already trained, you be
 
 **Special** You can't select another dedication feat until you have gained two other feats from the dandy archetype.
 
-## [[Feats/Distracting Flattery|Distracting Flattery]] Feat 4
+## [[Distracting Flattery|Distracting Flattery]] Feat 4
 
 **Prerequisites** Dandy Dedication, expert in Deception
 
@@ -40,7 +40,7 @@ You know how to maintain a good impression and manage your image, even while kee
 
 **Critical Failure** Your attempt makes matters worse, decreasing the target's attitude toward you by one step, in addition to any changes from the behavior that triggered this reaction.
 
-## [[Feats/Gossip Lore|Gossip Lore]] Feat 4
+## [[Gossip Lore|Gossip Lore]] Feat 4
 
 **Prerequisites** Dandy Dedication
 
@@ -50,7 +50,7 @@ Your time gossiping in fashionable salons keeps you informed on every topic. You
 
 If you have legendary proficiency in Society, you gain expert proficiency in Gossip Lore, but you can't increase your proficiency rank in Gossip Lore by any other means.
 
-## [[Feats/Fabricated Connections|Fabricated Connections]] Feat 7
+## [[Fabricated Connections|Fabricated Connections]] Feat 7
 
 **Prerequisites** Dandy Dedication, master in Deception
 
@@ -58,7 +58,7 @@ If you have legendary proficiency in Society, you gain expert proficiency in Gos
 
 You can lie about having taken an action so convincingly that you acquire all the tangible benefits of having successfully completed it. You can roll Deception in place of a different skill when attempting to Earn Income, Make an Impression, Request, or Subsist. You can use Fabricated Connections to Make an Impression or Request once per day, and you can also use it once per week to Earn Income or Subsist.
 
-## [[Feats/Party Crasher|Party Crasher]] Feat 7
+## [[Party Crasher|Party Crasher]] Feat 7
 
 **Prerequisites** Dandy Dedication, master in Society
 

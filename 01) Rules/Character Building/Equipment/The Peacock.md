@@ -26,7 +26,7 @@ license: OGL
 
 * * *
 
-_The Peacock_ represents a sudden shift in attitude or societal change, often represented by a colorful but ugly creature that serves as a reminder as to what happens if something beautiful refuses to change with the times. As long as you have _The Peacock_ invested, you can react to sudden changes more swiftly, and gain [[Feats/Incredible Initiative|Incredible Initiative]] as a bonus feat. If you already possess this feat, you gain a +2 item bonus on all initiative checks. This item bonus increases to +3 if you are at least 17th level.
+_The Peacock_ represents a sudden shift in attitude or societal change, often represented by a colorful but ugly creature that serves as a reminder as to what happens if something beautiful refuses to change with the times. As long as you have _The Peacock_ invested, you can react to sudden changes more swiftly, and gain [[Incredible Initiative|Incredible Initiative]] as a bonus feat. If you already possess this feat, you gain a +2 item bonus on all initiative checks. This item bonus increases to +3 if you are at least 17th level.
 
 **Activate** `pf2:2` envision, Interact
 

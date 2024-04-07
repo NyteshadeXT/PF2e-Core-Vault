@@ -20,7 +20,7 @@ When everyone else slumbers, you're on guard. You might have been a watch member
 
 Choose two ability boosts. One must be to **Strength** or **Charisma**, and one is a free ability boost.
 
-You're trained in the Intimidation skill and either Legal Lore or the Lore skill for your home settlement. You gain the [[Feats/Quick Coercion|Quick Coercion]] skill feat.
+You're trained in the Intimidation skill and either Legal Lore or the Lore skill for your home settlement. You gain the [[Quick Coercion|Quick Coercion]] skill feat.
 
 *Source: Pathfinder Book of the Dead*
 *OGL*

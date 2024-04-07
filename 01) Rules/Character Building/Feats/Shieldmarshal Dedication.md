@@ -19,7 +19,7 @@ license: OGL
 
 
 
-Your elite shieldmarshal training makes you equally at home in the squalor of Smokeside and the splendor of Skyside. You're intimately familiar with the city's labyrinthine streets and statutes. You become trained in Society; if you were already trained, you become an expert in Society instead. In urban environments, you can attempt Society checks to [[Actions/Sense Direction|Sense Direction]]. You also gain the [[Feats/Courtly Graces|Courtly Graces]] and [[Feats/Streetwise|Streetwise]] skill feats.
+Your elite shieldmarshal training makes you equally at home in the squalor of Smokeside and the splendor of Skyside. You're intimately familiar with the city's labyrinthine streets and statutes. You become trained in Society; if you were already trained, you become an expert in Society instead. In urban environments, you can attempt Society checks to [[Actions/Sense Direction|Sense Direction]]. You also gain the [[Courtly Graces|Courtly Graces]] and [[Streetwise|Streetwise]] skill feats.
 
 *Source: Pathfinder Lost Omens: Impossible Lands*
 *OGL*

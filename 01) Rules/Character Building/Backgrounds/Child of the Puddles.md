@@ -24,7 +24,7 @@ You grew up in the soggy, squalid quarter of Absalom known as the Puddles. You'r
 
 Choose two ability boosts. One must be to **Dexterity** or **Intelligence**, and one is a free ability boost.
 
-You're trained in the Acrobatics skill, and the Absalom Lore skill. You gain the [[Feats/Steady Balance|Steady Balance]] skill feat.
+You're trained in the Acrobatics skill, and the Absalom Lore skill. You gain the [[Steady Balance|Steady Balance]] skill feat.
 
 *Source: Pathfinder Lost Omens: World Guide*
 *OGL*

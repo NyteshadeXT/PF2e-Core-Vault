@@ -21,7 +21,7 @@ You have a knack for learning and sequestered yourself from the outside world to
 
 Choose two attribute boosts. One must be to **Intelligence** or **Wisdom**, and one is a free attribute boost.
 
-You're trained in your choice of the Arcana, Nature, Occultism, or Religion skill, and gain the [[Feats/Assurance|Assurance]] skill feat in your chosen skill. You're also trained in the Academia Lore skill.
+You're trained in your choice of the Arcana, Nature, Occultism, or Religion skill, and gain the [[Assurance|Assurance]] skill feat in your chosen skill. You're also trained in the Academia Lore skill.
 
 *Source: Pathfinder Player Core*
 *ORC*

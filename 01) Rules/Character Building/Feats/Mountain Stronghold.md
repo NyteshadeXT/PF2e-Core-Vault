@@ -19,7 +19,7 @@ license: OGL
 
 **Prerequisites** Mountain Stance
 * * *
-**Requirements** You are in [[Feats/Mountain Stance|Mountain Stance]]
+**Requirements** You are in [[Mountain Stance|Mountain Stance]]
 
 * * *
 
@@ -29,7 +29,7 @@ You focus on your connection to the earth and call upon the mountain to block at
 
 * * *
 
-**Special** If you have this feat, the Dexterity modifier cap to your AC while you're in [[Feats/Mountain Stance|Mountain Stance]] increases from +0 to +1.
+**Special** If you have this feat, the Dexterity modifier cap to your AC while you're in [[Mountain Stance|Mountain Stance]] increases from +0 to +1.
 
 *Source: Pathfinder Core Rulebook*
 *OGL*

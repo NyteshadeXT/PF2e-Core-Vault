@@ -8,4 +8,4 @@ tags:
 ---
 You were kidnapped at some point in your childhood and had to escape, perhaps by pirates, slavers, a cult, or someone else.
 
-Add the [[Feats/Quick Squeeze|Quick Squeeze]] skill feat to your background options.
+Add the [[Quick Squeeze|Quick Squeeze]] skill feat to your background options.

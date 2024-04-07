@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by [[Feats/Aura of Faith|Aura of Faith]]
+Granted by [[Aura of Faith|Aura of Faith]]
 
 Your first strike against an unholy creature each round deals an additional 1 spirit damage.
 

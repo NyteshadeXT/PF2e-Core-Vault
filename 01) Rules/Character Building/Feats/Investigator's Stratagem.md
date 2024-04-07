@@ -21,7 +21,7 @@ license: OGL
 * * *
 You play out battles in your head, allowing you to Strike when the time is right. You gain the [[Actions/Devise a Stratagem|Devise a Strategem]] action; however, when you substitute its result for your attack roll, you can't use your Intelligence modifier in place of your Strength or Dexterity modifier.
 
-You also can't use your Intelligence modifier on other rolls from abilities that expand Devise a Stratagem, such as the [[Feats/Athletic Strategist|Athletic Strategist]] feat.
+You also can't use your Intelligence modifier on other rolls from abilities that expand Devise a Stratagem, such as the [[Athletic Strategist|Athletic Strategist]] feat.
 
 *Source: Pathfinder Advanced Player's Guide*
 *OGL*

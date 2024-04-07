@@ -8,4 +8,4 @@ tags:
 ---
 You and this character shared some religious training in the past, even if you didn't stick with it, and you admired their piety.
 
-Add the [[Feats/Student of the Canon|Student of the Canon]] skill feat to your background options
+Add the [[Student of the Canon|Student of the Canon]] skill feat to your background options

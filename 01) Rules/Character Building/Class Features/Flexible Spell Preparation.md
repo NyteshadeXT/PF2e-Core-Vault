@@ -18,7 +18,7 @@ license: OGL
 
 **Prerequisites** You must have a class, such as clerics, druids, witches, and wizards, that prepares spells in spell slots using the same number of prepared spells per day.
 * * *
-This class feature alters your spellcasting class feature (such as Arcane Spellcasting for the wizard or Divine Spellcasting for the cleric). If you choose this class archetype, you must select [[Feats/Flexible Spellcaster Dedication|Flexible Spellcaster Dedication]] as your 2nd-level class feat.
+This class feature alters your spellcasting class feature (such as Arcane Spellcasting for the wizard or Divine Spellcasting for the cleric). If you choose this class archetype, you must select [[Flexible Spellcaster Dedication|Flexible Spellcaster Dedication]] as your 2nd-level class feat.
 
 **Prerequisites** You must have a class, such as clerics, druids, witches, and wizards, that prepares spells in spell slots using the same number of prepared spells per day.
 
@@ -40,13 +40,13 @@ Once you gain 2nd-rank spells, you can heighten any spell in your spell collecti
 
 ### ADJUDICATING CLASS FEATS AND FEATURES
 
-Some of your class feats or features might rely on the fact that you prepare spells in spell slots. While some class feats might no longer work or be necessary with the flexible spellcaster archetype, in many cases you can make a simple replacement and continue using the class feat. The following class feats simply require replacing "a spell you have prepared" or "a prepared spell" for "a spell in your collection" or "a spell slot." For example, in [[Feats/Counterspell (Prepared)|Counterspell]], you'd replace "a spell you have prepared" in the trigger for "a spell in your collection" and "expend a prepared spell" for "expend a spell slot." Similarly, in [[Class Features/Arcane Bond|Arcane Bond]], you'd replace "cast one spell you prepared today and already cast" with "cast one spell in your collection you've already cast today."
+Some of your class feats or features might rely on the fact that you prepare spells in spell slots. While some class feats might no longer work or be necessary with the flexible spellcaster archetype, in many cases you can make a simple replacement and continue using the class feat. The following class feats simply require replacing "a spell you have prepared" or "a prepared spell" for "a spell in your collection" or "a spell slot." For example, in [[Counterspell (Prepared)|Counterspell]], you'd replace "a spell you have prepared" in the trigger for "a spell in your collection" and "expend a prepared spell" for "expend a spell slot." Similarly, in [[Class Features/Arcane Bond|Arcane Bond]], you'd replace "cast one spell you prepared today and already cast" with "cast one spell in your collection you've already cast today."
 
-The Counterspell and [[Feats/Ley Line Conduit|Leyline Conduit]] feats in the Core Rulebook need these substitutions, as does [[Feats/Form Retention|Form Retention]] from the Advanced Player's Guide. [[Feats/Spell Mastery|Spell Mastery]] provides additional restricted spells, like divine font or specialist spells; you can take it, but it doesn't add to your collection and works like normal prepared spells.
+The Counterspell and [[Ley Line Conduit|Leyline Conduit]] feats in the Core Rulebook need these substitutions, as does [[Form Retention|Form Retention]] from the Advanced Player's Guide. [[Spell Mastery|Spell Mastery]] provides additional restricted spells, like divine font or specialist spells; you can take it, but it doesn't add to your collection and works like normal prepared spells.
 
 ### DISALLOWED FEATS
 
-The following feats from the Core Rulebook aren't available for a flexible spellcaster: [[Feats/Call of the Wild|Call of the Wild]], [[Feats/Clever Counterspell|Clever Counterspell]], [[Feats/Infinite Possibilities|Infinite Possibilities]], [[Feats/Reprepare Spell|Reprepare Spell]], and [[Feats/Spell Combination|Spell Combination]]. The disallowed feats from the Advanced Player's Guide are as follows: [[Feats/Elemental Summons|Elemental Summons]], [[Feats/Miraculous Possibility|Miraculous Possibility]], [[Feats/Rites Of Convocation|Rites Of Convocation]], and [[Feats/Rites Of Transfiguration|Rites Of Transfiguration]].
+The following feats from the Core Rulebook aren't available for a flexible spellcaster: [[Call of the Wild|Call of the Wild]], [[Clever Counterspell|Clever Counterspell]], [[Infinite Possibilities|Infinite Possibilities]], [[Reprepare Spell|Reprepare Spell]], and [[Spell Combination|Spell Combination]]. The disallowed feats from the Advanced Player's Guide are as follows: [[Elemental Summons|Elemental Summons]], [[Miraculous Possibility|Miraculous Possibility]], [[Rites Of Convocation|Rites Of Convocation]], and [[Rites Of Transfiguration|Rites Of Transfiguration]].
 
 * * *
 

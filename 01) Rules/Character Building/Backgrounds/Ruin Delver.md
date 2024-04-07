@@ -20,7 +20,7 @@ You've looked through some of the smaller ruins in the Otari hinterlands but hav
 
 Choose two ability boosts. One must be to **Dexterity** or **Intelligence**, and one is a free ability boost.
 
-You're trained in Acrobatics and the Roseguard Lore skill. You gain the [[Feats/Cat Fall|Cat Fall]] skill feat.
+You're trained in Acrobatics and the Roseguard Lore skill. You gain the [[Cat Fall|Cat Fall]] skill feat.
 
 *Source: Pathfinder: Abomination Vaults Player's Guide*
 *OGL*

@@ -19,7 +19,7 @@ license: OGL
 
 **Prerequisites** expert in Deception; Stumbling Stance
 * * *
-**Requirements** You are in [[Feats/Stumbling Stance|Stumbling Stance]].
+**Requirements** You are in [[Stumbling Stance|Stumbling Stance]].
 
 * * *
 

@@ -24,7 +24,7 @@ Oprak doesn't share the secrets of the Onyx Vault with many, but you are one of 
 
 Choose two ability boosts. One must be to **Dexterity** or **Charisma**, and one is a free ability boost.
 
-You're trained in the Society skill and the Mercantile Lore skill. You gain the [[Feats/Multilingual|Multilingual]] skill feat.
+You're trained in the Society skill and the Mercantile Lore skill. You gain the [[Multilingual|Multilingual]] skill feat.
 
 *Source: Pathfinder Lost Omens: World Guide*
 *OGL*

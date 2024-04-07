@@ -21,7 +21,7 @@ With a strong back and an understanding of seasonal cycles, you tilled the land 
 
 Choose two attribute boosts. One must be to **Constitution** or **Wisdom**, and one is a free attribute boost.
 
-You're trained in the Athletics skill and the Farming Lore skill. You gain the [[Feats/Assurance|Assurance]] skill feat with Athletics.
+You're trained in the Athletics skill and the Farming Lore skill. You gain the [[Assurance|Assurance]] skill feat with Athletics.
 
 *Source: Pathfinder Player Core*
 *ORC*

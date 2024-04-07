@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by: [[Feats/Ricochet Stance (Fighter)|Ricochet Stance (Fighter)]] or [[Feats/Ricochet Stance (Rogue)|Ricochet Stance (Rogue)]]
+Granted by: [[Ricochet Stance (Fighter)|Ricochet Stance (Fighter)]] or [[Ricochet Stance (Rogue)|Ricochet Stance (Rogue)]]
 
 You adopt a stance designed to rebound your thrown weapons back toward you. While you are in this stance, any thrown weapons you use as part of a ranged Strike to deal bludgeoning or slashing damage immediately return to your hand, enabling you to use them for additional Strikes.
 

@@ -20,7 +20,7 @@ Several members of your family have studied at the Magaambya, although not all o
 
 Choose two ability boosts. One must be to **Intelligence** or **Charisma**, and one is a free ability boost.
 
-You're trained in your choice of the Diplomacy or Society skill. You gain a skill feat: [[Feats/Hobnobber|Hobnobber]] if you chose Diplomacy or [[Feats/Eye For Numbers|Eye For Numbers]] if you chose Society. You're also trained in Magaambya Lore.
+You're trained in your choice of the Diplomacy or Society skill. You gain a skill feat: [[Hobnobber|Hobnobber]] if you chose Diplomacy or [[Eye For Numbers|Eye For Numbers]] if you chose Society. You're also trained in Magaambya Lore.
 
 Your recommended primary branch is the Uzunjati.
 

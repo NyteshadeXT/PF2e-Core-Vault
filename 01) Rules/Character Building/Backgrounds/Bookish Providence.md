@@ -22,7 +22,7 @@ This background is associated with the suit of Books.
 
 Choose two ability boosts. One must be to **Intelligence**, and one is a free ability boost.
 
-You gain the [[Feats/Multilingual|Multilingual]] skill feat, are trained in the Academia Lore skill, and gain the [[Actions/Recall Under Pressure|Recall Under Pressure]] free action.
+You gain the [[Multilingual|Multilingual]] skill feat, are trained in the Academia Lore skill, and gain the [[Actions/Recall Under Pressure|Recall Under Pressure]] free action.
 
 *Source: Pathfinder: Stolen Fate Player's Guide*
 *OGL*

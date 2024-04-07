@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by [[Feats/Tangled Forest Stance|Tangled Forest Stance]]
+Granted by [[Tangled Forest Stance|Tangled Forest Stance]]
 
 You extend your arms like gnarled branches to interfere with your foes' movements. You can make lashing branch unarmed attacks. These deal 1d8 slashing damage; are in the brawling group; and have the agile, finesse, nonlethal, and unarmed traits.
 

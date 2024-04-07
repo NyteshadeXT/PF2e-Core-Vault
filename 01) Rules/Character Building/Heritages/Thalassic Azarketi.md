@@ -16,7 +16,7 @@ license: OGL
 
 
 
-You trace your lineage from azarketis who lived their lives among the great oceans and seas of the world. You know how to use the currents and the primal magic of water to guide your attacks. You gain the [[Feats/Underwater Marauder|Underwater Marauder]] skill feat, and your piercing ranged attacks don't have their range increments halved when fighting underwater targets.
+You trace your lineage from azarketis who lived their lives among the great oceans and seas of the world. You know how to use the currents and the primal magic of water to guide your attacks. You gain the [[Underwater Marauder|Underwater Marauder]] skill feat, and your piercing ranged attacks don't have their range increments halved when fighting underwater targets.
 
 *Source: Pathfinder Lost Omens: Absalom, City of Lost Omens*
 *OGL*

@@ -20,7 +20,7 @@ Life is only as meaningful as its risks, and the risks you're willing to take ar
 
 Choose two ability boosts. One must be to **Strength** or **Dexterity**, and one is a free ability boost.
 
-You're trained in the Athletics skill and the Hunting Lore skill. You gain the [[Feats/Titan Wrestler|Titan Wrestler]] skill feat.
+You're trained in the Athletics skill and the Hunting Lore skill. You gain the [[Titan Wrestler|Titan Wrestler]] skill feat.
 
 *Source: Pathfinder: Quest for the Frozen Flame Player's Guide*
 *OGL*

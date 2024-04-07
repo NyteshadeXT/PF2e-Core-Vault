@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by [[Feats/Bespell Weapon|Bespell Weapon]] if you cast a divination, enchantment or illusion spell.
+Granted by [[Bespell Weapon|Bespell Weapon]] if you cast a divination, enchantment or illusion spell.
 
 Until the end of your turn, the weapon deals an additional 1d6 mental damage.
 

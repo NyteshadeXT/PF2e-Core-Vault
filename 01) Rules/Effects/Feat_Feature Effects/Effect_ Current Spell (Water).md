@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by [[Feats/Current Spell|Current Spell]] if you cast a spell with the water trait.
+Granted by [[Current Spell|Current Spell]] if you cast a spell with the water trait.
 
 You gain a +1 circumstance bonus to AC or a +2 circumstance bonus against ranged attacks. You also gain a +1 circumstance bonus to all saves against effects with the water trait.
 

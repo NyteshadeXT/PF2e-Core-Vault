@@ -24,7 +24,7 @@ Your good record has earned you a transfer-temporary or not, the choice is yours
 
 You're trained in the Religion skill and your choice of a specific religion Lore skill (such as Iomedae Lore or Norgorber Lore).
 
-You gain a +1 circumstance bonus to Deception, Diplomacy, and Intimidation checks to [[Actions/Interact|Interact]] with Graycloaks, priests, and clerics. You gain the [[Feats/Quick Identification|Quick Identification]] feat.
+You gain a +1 circumstance bonus to Deception, Diplomacy, and Intimidation checks to [[Actions/Interact|Interact]] with Graycloaks, priests, and clerics. You gain the [[Quick Identification|Quick Identification]] feat.
 
 *Source: Pathfinder: Agents of Edgewatch Player's Guide*
 *OGL*

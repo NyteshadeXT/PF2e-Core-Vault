@@ -21,7 +21,7 @@ You grew up in the kitchens of a tavern or other dining establishment and excell
 
 Choose two attribute boosts. One must be to **Constitution** or **Intelligence**, and one is a free attribute boost.
 
-You're trained in the Survival skill and the Cooking Lore skill. You gain the [[Feats/Seasoned|Seasoned]] skill feat.
+You're trained in the Survival skill and the Cooking Lore skill. You gain the [[Seasoned|Seasoned]] skill feat.
 
 *Source: Pathfinder Player Core*
 *ORC*

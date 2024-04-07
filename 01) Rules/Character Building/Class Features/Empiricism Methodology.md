@@ -20,7 +20,7 @@ license: OGL
 
 Everything comes down to data. Calculating statistics, running numbers, and using inductive reasoning allows you to determine the most likely outcome of any scenario, and anything out of place draws your keen attention.
 
-You are trained in one Intelligence-based skill of your choice. You gain the [[Feats/That's Odd|That's Odd]] investigator feat, and you gain the [[Actions/Expeditious Inspection|Expeditious Inspection]] free action.
+You are trained in one Intelligence-based skill of your choice. You gain the [[That's Odd|That's Odd]] investigator feat, and you gain the [[Actions/Expeditious Inspection|Expeditious Inspection]] free action.
 
 *Source: Pathfinder Advanced Player's Guide*
 *OGL*

@@ -20,7 +20,7 @@ You left your home a few months back for a life on the road, working for one car
 
 Choose two ability boosts. One must be to **Strength** or **Wisdom**, and one is a free ability boost.
 
-You're trained in the Nature skill and the Mercantile Lore skill. You gain the [[Feats/Train Animal|Train Animal]] skill feat.
+You're trained in the Nature skill and the Mercantile Lore skill. You gain the [[Train Animal|Train Animal]] skill feat.
 
 *Source: Pathfinder Adventure: The Fall of Plaguestone*
 *OGL*

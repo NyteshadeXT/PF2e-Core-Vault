@@ -20,7 +20,7 @@ license: ORC
 
 **Prerequisites** legendary in Nature; Master Monster Hunter
 * * *
-Your knowledge of monsters is so incredible that it reveals glaring flaws in your prey. Your bonus from [[Feats/Monster Hunter|Monster Hunter]] (and the bonus from [[Feats/Monster Warden|Monster Warden]] if you have it) increases from +1 to +2 for you and any allies who benefit.
+Your knowledge of monsters is so incredible that it reveals glaring flaws in your prey. Your bonus from [[01) Rules/Character Building/Feats/Monster Hunter|Monster Hunter]] (and the bonus from [[Monster Warden|Monster Warden]] if you have it) increases from +1 to +2 for you and any allies who benefit.
 
 [[Feat_Feature Effects/Effect_ Legendary Monster Hunter|Effect: Legendary Monster Hunter]]
 

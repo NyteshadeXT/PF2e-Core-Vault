@@ -20,7 +20,7 @@ Gangsters and cheats seem as drawn to the Ruby Phoenix Tournament as piranhas to
 
 Choose two ability boosts. One must be to **Charisma** or **Dexterity**, and one is a free ability boost.
 
-You're trained in Deception and the Underworld Lore skill. You gain the [[Feats/Lengthy Diversion|Lengthy Diversion]] skill feat.
+You're trained in Deception and the Underworld Lore skill. You gain the [[Lengthy Diversion|Lengthy Diversion]] skill feat.
 
 *Source: Pathfinder: Fists of the Ruby Phoenix Player's Guide*
 *OGL*

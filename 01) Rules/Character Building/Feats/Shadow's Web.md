@@ -19,7 +19,7 @@ license: OGL
 
 **Prerequisites** ki spells
 * * *
-**Requirements** You are in [[Feats/Clinging Shadows Initiate|Clinging Shadows Initiate]].
+**Requirements** You are in [[Clinging Shadows Initiate|Clinging Shadows Initiate]].
 
 * * *
 

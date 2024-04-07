@@ -22,7 +22,7 @@ You are still highly regarded by the Export Guild for your past journeys on the 
 
 Choose two ability boosts. One must be to **Constitution** or **Intelligence**, and one is a free ability boost.
 
-You're trained in your choice of the Crafting or Society skill. You gain a skill feat: [[Feats/Seasoned|Seasoned]] if you chose Crafting or [[Feats/Streetwise|Streetwise]] if you chose Society. You're also trained in Mercantile Lore.
+You're trained in your choice of the Crafting or Society skill. You gain a skill feat: [[Seasoned|Seasoned]] if you chose Crafting or [[Streetwise|Streetwise]] if you chose Society. You're also trained in Mercantile Lore.
 
 *Source: Pathfinder: Blood Lords Player's Guide*
 *OGL*

@@ -20,7 +20,7 @@ In the past decade, the Pathfinder Society has clashed with demonic armies, medd
 
 Choose two ability boosts. One must be to **Strength** or **Wisdom**, and one is a free ability boost.
 
-You're trained in the Survival skill and the Pathfinder Society Lore skill. You gain the [[Feats/Forager|Forager]] skill feat.
+You're trained in the Survival skill and the Pathfinder Society Lore skill. You gain the [[Forager|Forager]] skill feat.
 
 * * *
 

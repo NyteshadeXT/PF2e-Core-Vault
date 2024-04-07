@@ -24,7 +24,7 @@ You fell prey to the whims of the Galtan mob and were scheduled for execution by
 
 Choose two ability boosts. One must be to **Charisma** or **Wisdom**, and one is a free ability boost.
 
-You're trained in the Deception skill and the Revolution Lore skill. You gain the [[Feats/Charming Liar|Charming Liar]] skill feat.
+You're trained in the Deception skill and the Revolution Lore skill. You gain the [[Charming Liar|Charming Liar]] skill feat.
 
 *Source: Pathfinder Lost Omens: World Guide*
 *OGL*

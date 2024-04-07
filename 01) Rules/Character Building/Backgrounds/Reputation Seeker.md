@@ -22,7 +22,7 @@ You've decided that joining an adventuring group would be the best way to secure
 
 Choose two ability boosts. One must be to **Dexterity** or **Intelligence**, and one is a free ability boost.
 
-You're trained in the Survival skill and the Darklands, Desert, or Jungle Lore skill. You gain the [[Feats/Terrain Expertise|Terrain Expertise]] skill feat (underground if you have Darklands Lore, desert if you have Desert Lore, or forest if you have Jungle Lore).
+You're trained in the Survival skill and the Darklands, Desert, or Jungle Lore skill. You gain the [[Terrain Expertise|Terrain Expertise]] skill feat (underground if you have Darklands Lore, desert if you have Desert Lore, or forest if you have Jungle Lore).
 
 *Source: Pathfinder: Age of Ashes Player's Guide*
 *OGL*

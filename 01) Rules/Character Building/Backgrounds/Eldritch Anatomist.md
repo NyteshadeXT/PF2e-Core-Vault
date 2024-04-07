@@ -20,7 +20,7 @@ You're a trained physician who can ably tend wounds of many kinds. But more than
 
 Choose two ability boosts. One must be to **Intelligence** or **Wisdom**, and one is a free ability boost.
 
-You're trained in the Medicine skill and the Fleshwarp Lore skill. You gain the [[Feats/Assurance|Assurance]] skill feat with Medicine.
+You're trained in the Medicine skill and the Fleshwarp Lore skill. You gain the [[Assurance|Assurance]] skill feat with Medicine.
 
 *Source: Pathfinder: Abomination Vaults Player's Guide*
 *OGL*

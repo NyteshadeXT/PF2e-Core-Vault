@@ -10,7 +10,7 @@ tags:
 # Firebrand Braggart
 Many Firebrands travel the Inner Sea region drawing attention to themselves, making great shows of their exploits, and proclaiming their great deeds.
 
-## [[Feats/Firebrand Braggart Dedication|Firebrand Braggart Dedication]] Feat 4
+## [[Firebrand Braggart Dedication|Firebrand Braggart Dedication]] Feat 4
 
 **Prerequisites** Charisma +2, second mark member of the Firebrands
 
@@ -24,7 +24,7 @@ Typically a challenging task is one with at least a standard DC for your level, 
 
 **Special** You can't select another dedication feat until you have gained two other feats from the Firebrand Braggart archetype.
 
-## [[Feats/Boaster's Challenge|Boaster's Challenge]] Feat 6
+## [[Boaster's Challenge|Boaster's Challenge]] Feat 6
 
 **Prerequisites** expert in Deception, Diplomacy, or Intimidation; Firebrand Braggart Dedication
 
@@ -32,7 +32,7 @@ Typically a challenging task is one with at least a standard DC for your level, 
 
 You call out a foe, causing them to become flustered and easier to defeat. Select one creature you can see and declare a challenge. For your challenge, attempt a Deception, Diplomacy, or Intimidation check against that creature's Will DC. Your challenge must include a linguistic, auditory, or visual component and gains the corresponding trait. If you succeed, you gain a +2 status bonus to damage rolls with your weapon or unarmed Strikes against that foe until the end of your next turn; if you have master proficiency in the skill you used, you gain a +4 status bonus instead, and if you're legendary, you gain a +6 status bonus. On a critical success, the status bonus lasts for 3 rounds instead. Whether you succeed or fail, creatures who witnessed your challenge gain a +4 circumstance bonus to their Will DCs against your attempts to challenge for 1 minute.
 
-## [[Feats/Daring Act|Daring Act]] Feat 6
+## [[Daring Act|Daring Act]] Feat 6
 
 **Prerequisites** trained in Acrobatics or Athletics, Firebrand Braggart Dedication
 
@@ -40,7 +40,7 @@ You call out a foe, causing them to become flustered and easier to defeat. Selec
 
 You attempt a death-defying maneuver to distract your enemies. Select one foe within reach and attempt either an Acrobatics or Athletics check against your target's Reflex DC. If you succeed, you can Stride up to half your Speed (or up to your full Speed if you critically succeed) without triggering reactions from the target due to your movement, and the target is off-guard against the next melee attack you attempt against it before the end of your turn.
 
-## [[Feats/Bravo's Determination|Bravo's Determination]] Feat 8
+## [[Bravo's Determination|Bravo's Determination]] Feat 8
 
 **Prerequisites** expert in Deception, Firebrand Braggart Dedication
 
@@ -54,7 +54,7 @@ Your confidence borders on self-delusion, but it keeps you going against overwhe
 
 **Success** You avoid being knocked out and remain at 1 Hit Point, but you increase your wounded value by 1.
 
-## [[Feats/Great Boaster|Great Boaster]] Feat 10
+## [[Great Boaster|Great Boaster]] Feat 10
 
 **Prerequisites** Charisma 16, Firebrand Braggart Dedication
 
@@ -62,7 +62,7 @@ Your confidence borders on self-delusion, but it keeps you going against overwhe
 
 Your bragging is particularly effective. If you succeed at a boast, you can attempt a great boast about that same skill by using your Firebrand Braggart Dedication action about the same action during the duration of your original boast's circumstance bonus; this is an exception to the rule that you can't make another boast about the same action until your next daily preparations. A great boast uses the Firebrand Braggart Dedication action, except that if you succeed, your circumstance bonus increases to +2 and remains for 1 hour. If you fail the great boast, you take a -2 circumstance penalty to attempt the same action for 4 hours. Once you declare a great boast about a particular action, you can't declare a great boast about the same action until the next time you make daily preparations, regardless of whether you succeed or fail at the check. The minimum challenging task for a great boast is one with at least a hard DC for your level.
 
-## [[Feats/Daring Flourish|Daring Flourish]] Feat 10
+## [[Daring Flourish|Daring Flourish]] Feat 10
 
 **Prerequisites** Daring Act
 
@@ -70,7 +70,7 @@ Your bragging is particularly effective. If you succeed at a boast, you can atte
 
 You make quick use of an opening from your daring stunts. At the end of a successful Daring Act, you can make a melee Strike against the target or attempt to Disarm the target. The target is off-guard against the Strike you make during Daring Act as well as the next melee attack you attempt against it before the end of your turn.
 
-## [[Feats/Demanding Challenge|Demanding Challenge]] Feat 10
+## [[Demanding Challenge|Demanding Challenge]] Feat 10
 
 **Prerequisites** Boaster's Challenge
 
@@ -78,7 +78,7 @@ You make quick use of an opening from your daring stunts. At the end of a succes
 
 If your skill check to challenge a foe is a success, the target of your challenge takes a -1 circumstance penalty to attack rolls (or -2 if you critically succeed) until the end of your next turn.
 
-## [[Feats/Daredevil's Gambit|Daredevil's Gambit]] Feat 12
+## [[Daredevil's Gambit|Daredevil's Gambit]] Feat 12
 
 **Prerequisites** Daring Act
 

@@ -11,7 +11,7 @@ license: OGL
 ---
 # Incredible Construct Companion
 ## Feat 8
-### [[inventor]]
+### [[01) Rules/Character Building/Feats/Inventor]]
 
 **Category** class; 
 

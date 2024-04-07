@@ -25,7 +25,7 @@ license: OGL
 
 * * *
 
-**Effect** You can select the [[Feats/Leshy Familiar|Leshy Familiar]] feat as a 2nd level class feat, even if you are not a Druid. You can ignore the prerequisite of belonging to the [[Class Features/Leaf Order|Leaf Order]].
+**Effect** You can select the [[Leshy Familiar|Leshy Familiar]] feat as a 2nd level class feat, even if you are not a Druid. You can ignore the prerequisite of belonging to the [[Class Features/Leaf Order|Leaf Order]].
 
 *Source: *
 *OGL*

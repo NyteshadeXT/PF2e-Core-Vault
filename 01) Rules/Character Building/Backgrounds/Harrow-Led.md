@@ -33,7 +33,7 @@ The first suit is your aligned score, and the second suit is your misaligned sco
 
 Choose two ability boosts. One must be to your **aligned or misaligned** score, and one is a free ability boost.
 
-You're trained in your choice of the Occultism, Performance, or Society skill and the Harrow Lore skill. You gain the [[Feats/Dubious Knowledge|Dubious Knowledge]] skill feat.
+You're trained in your choice of the Occultism, Performance, or Society skill and the Harrow Lore skill. You gain the [[Dubious Knowledge|Dubious Knowledge]] skill feat.
 
 *Source: Pathfinder #160: Assault on Hunting Lodge Seven*
 *OGL*

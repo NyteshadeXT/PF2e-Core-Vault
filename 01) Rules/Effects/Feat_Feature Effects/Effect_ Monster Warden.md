@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by [[Feats/Monster Warden|Monster Warden]]
+Granted by [[Monster Warden|Monster Warden]]
 
 You gain a +1 circumstance bonus to your next attack roll against that prey.
 

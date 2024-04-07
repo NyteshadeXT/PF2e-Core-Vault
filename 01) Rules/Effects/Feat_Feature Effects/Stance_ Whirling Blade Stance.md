@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by [[Feats/Whirling Blade Stance|Whirling Blade Stance]]
+Granted by [[Whirling Blade Stance|Whirling Blade Stance]]
 
 You enter a mindful stance that creates a deep connection between you and your monk weapons, allowing you to manipulate them with your ki even at a distance.
 

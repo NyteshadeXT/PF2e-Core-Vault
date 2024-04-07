@@ -19,7 +19,7 @@ license: OGL
 
 **Prerequisites** Wolf Stance
 * * *
-**Requirements** You are in [[Feats/Wolf Stance|Wolf Stance]]
+**Requirements** You are in [[Wolf Stance|Wolf Stance]]
 
 * * *
 

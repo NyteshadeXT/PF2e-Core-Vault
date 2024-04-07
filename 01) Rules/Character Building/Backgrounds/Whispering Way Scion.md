@@ -24,7 +24,7 @@ Your family has long been associated with the enigmatic death cult known as the 
 
 Choose two ability boosts. One must be to **Intelligence** or **Wisdom**, and one is a free ability boost.
 
-You're trained in the Religion skill and the Undead Lore skill. You gain the [[Feats/Student of the Canon|Student of the Canon]] skill feat.
+You're trained in the Religion skill and the Undead Lore skill. You gain the [[Student of the Canon|Student of the Canon]] skill feat.
 
 *Source: Pathfinder Lost Omens: World Guide*
 *OGL*

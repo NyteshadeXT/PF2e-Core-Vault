@@ -24,7 +24,7 @@ You have spent time learning the practices and traditions of the ancient Rivethu
 
 Choose two ability boosts. One must be to **Constitution** or **Wisdom**, and one is a free ability boost.
 
-You're trained in the Occultism skill and the Spirit Lore skill. You gain the [[Feats/Recognize Spell|Recognize Spell]] skill feat.
+You're trained in the Occultism skill and the Spirit Lore skill. You gain the [[Recognize Spell|Recognize Spell]] skill feat.
 
 *Source: Pathfinder Lost Omens: World Guide*
 *OGL*

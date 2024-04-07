@@ -23,9 +23,9 @@ Members of the Order of the Nail see civilized society as an ideal and seek to u
 
 * * *
 
-**Lesser Benefit** [[Feats/Trailblazing Stride|Trailblazing Stride]]
+**Lesser Benefit** [[Trailblazing Stride|Trailblazing Stride]]
 
-**Greater Benefit** [[Feats/Reveal Beasts|Reveal Beasts]]
+**Greater Benefit** [[Reveal Beasts|Reveal Beasts]]
 
 *Source: Pathfinder Lost Omens: Character Guide*
 *OGL*

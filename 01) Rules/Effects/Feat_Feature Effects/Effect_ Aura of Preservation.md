@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by [[Feats/Aura Of Preservation|Aura Of Preservation]]
+Granted by [[Aura Of Preservation|Aura Of Preservation]]
 
 Your allies within 15 feet gain a +1 status bonus to Fortitude and Will saves against effects from aberrations.
 

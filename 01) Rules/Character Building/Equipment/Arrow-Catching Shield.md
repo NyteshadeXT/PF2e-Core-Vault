@@ -27,7 +27,7 @@ This wooden shield (Hardness 10, HP 40, BT 20) is carved with images of overlapp
 
 * * *
 
-**Effect** The triggering Strike targets you instead of its normal target. If it hits, you gain the effects of the [[Feats/Shield Block|Shield Block]] reaction.
+**Effect** The triggering Strike targets you instead of its normal target. If it hits, you gain the effects of the [[01) Rules/Character Building/Feats/Shield Block|Shield Block]] reaction.
 
 *Source: Pathfinder Core Rulebook*
 *OGL*

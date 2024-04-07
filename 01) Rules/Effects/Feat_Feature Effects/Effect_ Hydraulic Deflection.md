@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by [[Feats/Hydraulic Deflection|Hydraulic Deflection]]
+Granted by [[Hydraulic Deflection|Hydraulic Deflection]]
 
 *Source: Pathfinder Lost Omens: Ancestry Guide*
 *OGL*

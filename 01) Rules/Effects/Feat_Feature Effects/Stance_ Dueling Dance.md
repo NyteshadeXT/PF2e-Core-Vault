@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by [[Feats/Dueling Dance (Swashbuckler)|Dueling Dance (Swashbuckler)]] or [[Feats/Dueling Dance (Fighter)|Dueling Dance (Fighter)]]
+Granted by [[Dueling Dance (Swashbuckler)|Dueling Dance (Swashbuckler)]] or [[Dueling Dance (Fighter)|Dueling Dance (Fighter)]]
 
 *Source: Pathfinder Core Rulebook*
 *OGL*

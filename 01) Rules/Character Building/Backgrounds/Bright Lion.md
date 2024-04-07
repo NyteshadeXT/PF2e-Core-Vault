@@ -24,7 +24,7 @@ You are a member of the Bright Lions and seek to overthrow the tyrannical reign 
 
 Choose two ability boosts. One must be to **Strength** or **Charisma**, and one is a free ability boost.
 
-You're trained in the Deception skill and the Mzali Lore skill. You gain the [[Feats/Lie to Me|Lie To Me]] skill feat.
+You're trained in the Deception skill and the Mzali Lore skill. You gain the [[Lie to Me|Lie To Me]] skill feat.
 
 *Source: Pathfinder Lost Omens: World Guide*
 *OGL*

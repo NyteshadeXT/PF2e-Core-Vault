@@ -20,7 +20,7 @@ license: ORC
 
 **Prerequisites** Cut From the Air
 * * *
-Your expertise enables you to knock away spells. You can use [[Feats/Cut from the Air|Cut from the Air]] against ranged spell attacks.
+Your expertise enables you to knock away spells. You can use [[Cut from the Air|Cut from the Air]] against ranged spell attacks.
 
 *Source: Pathfinder Player Core*
 *ORC*

@@ -21,7 +21,7 @@ You solved crimes as a police inspector or took jobs for wealthy clients as a pr
 
 Choose two attribute boosts. One must be to **Intelligence** or **Wisdom**, and one is a free attribute boost.
 
-You're trained in the Society skill and the Underworld Lore skill. You gain the [[Feats/Streetwise|Streetwise]] skill feat.
+You're trained in the Society skill and the Underworld Lore skill. You gain the [[Streetwise|Streetwise]] skill feat.
 
 *Source: Pathfinder Player Core*
 *ORC*

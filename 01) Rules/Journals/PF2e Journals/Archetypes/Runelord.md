@@ -16,9 +16,9 @@ You've learned arcane magic following the path of the runelords. You unlock secr
 
 You also learn to use polearms, the signature weapons of the runelords, and can acquire the secrets of the mighty, ancient magic items called aeon stones, embedding them into your skin.
 
-**Additional Feats** 2nd [[Feats/Tattoo Artist|Tattoo Artist]]
+**Additional Feats** 2nd [[Tattoo Artist|Tattoo Artist]]
 
-## [[Feats/Runelord Dedication|Runelord Dedication]] Feat 2
+## [[Runelord Dedication|Runelord Dedication]] Feat 2
 
 **Prerequisites** [[Class Features/Runelord Specialization|Runelord Specialization]]
 
@@ -30,9 +30,9 @@ Your rune magic increases, and you practice with your school's associated weapon
 
 **Special** You can't select another dedication feat until you have gained two other feats from the runelord archetype.
 
-## [[Feats/Embed Aeon Stone|Embed Aeon Stone]] Feat 2
+## [[Embed Aeon Stone|Embed Aeon Stone]] Feat 2
 
-**Prerequisites** [[Feats/Runelord Dedication|Runelord Dedication]], trained in Crafting
+**Prerequisites** [[Runelord Dedication|Runelord Dedication]], trained in Crafting
 
 * * *
 
@@ -40,9 +40,9 @@ You discover the secrets to embedding _aeon stones_ into your flesh. You spend 1
 
 You can also use this activity to safely remove an embedded _aeon stone_ in 1 day. Someone without this feat can attempt to surgically remove it safely by spending 1 day and succeeding at a DC 30 Medicine check, or hastily by simply ripping it from a corpse.
 
-## [[Feats/Aeon Resonance|Aeon Resonance]] Feat 4
+## [[Aeon Resonance|Aeon Resonance]] Feat 4
 
-**Prerequisites** [[Feats/Embed Aeon Stone|Embed Aeon Stone]]
+**Prerequisites** [[Embed Aeon Stone|Embed Aeon Stone]]
 
 * * *
 
@@ -52,25 +52,25 @@ You gain the resonant power of one embedded _aeon stone_ as if it were placed in
 
 **Special** At 8th level, you can take this feat again. If you do, you gain the resonance powers of up to four invested _aeon stones_ instead of only one.
 
-## [[Feats/Polearm Tricks|Polearm Tricks]] Feat 6
+## [[Polearm Tricks|Polearm Tricks]] Feat 6
 
-**Prerequisites** [[Feats/Runelord Dedication|Runelord Dedication]]
+**Prerequisites** [[Runelord Dedication|Runelord Dedication]]
 
 * * *
 
 Your connection to rune magic has revealed tricks to make polearms deadlier in your hands. You gain the critical specialization effects of polearms.
 
-## [[Feats/Sin Reservoir|Sin Reservoir]] Feat 8
+## [[Sin Reservoir|Sin Reservoir]] Feat 8
 
-**Prerequisites** [[Feats/Runelord Dedication|Runelord Dedication]]
+**Prerequisites** [[Runelord Dedication|Runelord Dedication]]
 
 * * *
 
 During daily preparations, you can indulge in your associated sin. When you do, you gain one additional spell slot of any spell rank up to two levels below the highest-rank wizard spell you can cast. You can prepare only a spell of your specialized school in this slot. As with any other act, indulging in your sin might change your alignment if your behavior harms someone else.
 
-## [[Feats/Fused Polearm|Fused Polearm]] Feat 10
+## [[Fused Polearm|Fused Polearm]] Feat 10
 
-**Prerequisites** [[Feats/Runelord Dedication|Runelord Dedication]]
+**Prerequisites** [[Runelord Dedication|Runelord Dedication]]
 
 * * *
 
@@ -82,17 +82,17 @@ During your daily preparations, you can magically fuse your arcane bonded weapon
 
 While the two are fused, the weapon's haft takes on aesthetic aspects of the staff.
 
-## [[Feats/School Counterspell|School Counterspell]] Feat 12
+## [[School Counterspell|School Counterspell]] Feat 12
 
-**Prerequisites** Counterspell, [[Feats/Runelord Dedication|Runelord Dedication]]
+**Prerequisites** Counterspell, [[Runelord Dedication|Runelord Dedication]]
 
 * * *
 
 Your intricate knowledge of your school lets you easily negate spells from that school. Instead of being able to counter a foe's spell with Counterspell only if you have the same spell prepared, if the foe casts a spell from the school matching your specialization, you can Counterspell it with any other spell of the same school.
 
-## [[Feats/School Spell Redirection|School Spell Redirection]] Feat 18
+## [[School Spell Redirection|School Spell Redirection]] Feat 18
 
-**Prerequisites** Counterspell, [[Feats/Runelord Dedication|Runelord Dedication]]
+**Prerequisites** Counterspell, [[Runelord Dedication|Runelord Dedication]]
 
 * * *
 

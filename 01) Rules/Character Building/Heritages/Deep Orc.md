@@ -17,7 +17,7 @@ license: ORC
 
 
 
-Your calloused hands and red eyes speak to a life spent in the deep darkness of mountain caverns, where you learned to battle on rocky cliffs and survive with minimal resources. You gain the [[Feats/Terrain Expertise|Terrain Expertise]] skill feat for underground terrain and the [[Feats/Combat Climber|Combat Climber]] skill feat.
+Your calloused hands and red eyes speak to a life spent in the deep darkness of mountain caverns, where you learned to battle on rocky cliffs and survive with minimal resources. You gain the [[Terrain Expertise|Terrain Expertise]] skill feat for underground terrain and the [[Combat Climber|Combat Climber]] skill feat.
 
 *Source: Pathfinder Player Core*
 *ORC*

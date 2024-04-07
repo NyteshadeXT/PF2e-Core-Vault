@@ -21,7 +21,7 @@ You served in the guard, out of either patriotism or the need for coin. Either w
 
 Choose two attribute boosts. One must be to **Strength** or **Charisma**, and one is a free attribute boost.
 
-You're trained in the Intimidation skill and the Legal Lore or Warfare Lore skill. You gain the [[Feats/Quick Coercion|Quick Coercion]] skill feat.
+You're trained in the Intimidation skill and the Legal Lore or Warfare Lore skill. You gain the [[Quick Coercion|Quick Coercion]] skill feat.
 
 *Source: Pathfinder Player Core*
 *ORC*

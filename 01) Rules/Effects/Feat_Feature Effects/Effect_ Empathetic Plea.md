@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by [[Feats/Empathetic Plea|Empathetic Plea]]
+Granted by [[Empathetic Plea|Empathetic Plea]]
 
 The creature takes a -2 circumstance penalty to damage on the triggering Strike and all its Strikes against you until the beginning of its next turn. The penalty is -4 if you're an expert in Diplomacy, -6 if you're a master, and -8 if you're legendary.
 

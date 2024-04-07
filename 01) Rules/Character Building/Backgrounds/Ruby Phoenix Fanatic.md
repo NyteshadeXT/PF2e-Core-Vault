@@ -20,7 +20,7 @@ Have you heard of the peerless sorcerer Hao Jin, also known as the Ruby Phoenix?
 
 Choose two ability boosts. One must be to **Constitution** or **Intelligence**, and one is a free ability boost.
 
-You're trained in the Axis Lore, Gladiatorial Lore, and Goka Lore skills. You gain the [[Feats/Dubious Knowledge|Dubious Knowledge]] skill feat.
+You're trained in the Axis Lore, Gladiatorial Lore, and Goka Lore skills. You gain the [[Dubious Knowledge|Dubious Knowledge]] skill feat.
 
 *Source: Pathfinder: Fists of the Ruby Phoenix Player's Guide*
 *OGL*

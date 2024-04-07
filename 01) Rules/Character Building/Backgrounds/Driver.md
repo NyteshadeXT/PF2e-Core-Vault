@@ -20,7 +20,7 @@ You practically live behind the controls of a vehicle, and can handle just about
 
 Choose two ability boosts. One must be to **Strength** or **Dexterity**, and one is a free ability boost.
 
-You're trained in the Acrobatics skill and the Piloting Lore skill. You gain the [[Feats/Assurance|Assurance]] skill feat with Piloting Lore.
+You're trained in the Acrobatics skill and the Piloting Lore skill. You gain the [[Assurance|Assurance]] skill feat with Piloting Lore.
 
 *Source: Pathfinder Guns & Gears*
 *OGL*

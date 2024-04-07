@@ -20,7 +20,7 @@ From rivers that charm all who come near to forests that speak through dream mes
 
 Choose two ability boosts. One must be **Constitution** or **Wisdom** and one is a free ability boost.
 
-You're trained in your choice of Nature or Occultism and the Magical Terrain Lore skill. You gain the [[Feats/Terrain Expertise|Terrain Expertise]] skill feat.
+You're trained in your choice of Nature or Occultism and the Magical Terrain Lore skill. You gain the [[Terrain Expertise|Terrain Expertise]] skill feat.
 
 *Source: Pathfinder Secrets of Magic*
 *OGL*

@@ -21,7 +21,7 @@ Bringing in lawbreakers lined your pockets. Maybe you had an altruistic motive a
 
 Choose two attribute boosts. One must be to **Strength** or **Wisdom**, and one is a free attribute boost.
 
-You're trained in the Survival skill and the Legal Lore skill. You gain the [[Feats/Experienced Tracker|Experienced Tracker]] skill feat.
+You're trained in the Survival skill and the Legal Lore skill. You gain the [[Experienced Tracker|Experienced Tracker]] skill feat.
 
 *Source: Pathfinder Player Core*
 *ORC*

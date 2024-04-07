@@ -31,19 +31,19 @@ Any effects from backlash can't be reduced, prevented, or otherwise bypassed. Co
 
 ## Wraith Deviant Feats
 
-[[Feats/Eerie Flicker|Eerie Flicker]]
+[[Eerie Flicker|Eerie Flicker]]
 
-[[Feats/Ghostly Grasp (Deviant)|Ghostly Grasp (Deviant)]]
+[[Ghostly Grasp (Deviant)|Ghostly Grasp (Deviant)]]
 
-[[Feats/Enervating Wail|Enervating Wail]]
+[[Enervating Wail|Enervating Wail]]
 
-[[Feats/Distant Wandering|Distant Wandering]]
+[[Distant Wandering|Distant Wandering]]
 
 ### Universal Deviant Feats
 
-[[Feats/Awakened Power|Awakened Power]]
+[[Awakened Power|Awakened Power]]
 
-[[Feats/Greater Awakened Power|Greater Awakened Power]]
+[[Greater Awakened Power|Greater Awakened Power]]
 
 *Source: Pathfinder Dark Archive*
 *OGL*

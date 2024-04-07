@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by [[Feats/Arcane Propulsion|Arcane Propulsion]].
+Granted by [[Arcane Propulsion|Arcane Propulsion]].
 
 *Source: Pathfinder Guns & Gears*
 *OGL*

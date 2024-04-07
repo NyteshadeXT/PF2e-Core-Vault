@@ -14,7 +14,7 @@ tags:
 
 Your devotion to a cause unifies your soul with an armament tethered to the very essence of your spirit.
 
-## [[Feats/Soulforger Dedication|Soulforger Dedication]] Feat 2
+## [[Soulforger Dedication|Soulforger Dedication]] Feat 2
 
 **Prerequisites** Wisdom +2 or ability to cast divine spells
 
@@ -58,11 +58,11 @@ Your soulforged armament has an essence power you choose when you first bind it.
 
 **Reflecting Spirit** Armor or shield only. You gain a +2 status bonus to AC against physical ranged attacks. If an enemy's physical ranged attack misses you, you can use your reaction to immediately attempt a ranged Strike against the attacker using the projectile that missed. _Corruption Flaw_ You have weakness 5 to physical ranged attacks.
 
-**Resolute Defiance** Shield only. The shield gains a +2 status bonus to its Hardness and gains temporary Hit Points equal to your level + 2 that last until the essence effect ends. If you don't have the [[Feats/Shield Block|Shield Block]] reaction, you gain it while your shield is manifested. _Corruption Flaw_ When you take damage while Raising a Shield or use Shield Block, attempt a DC 5 flat check. If you fail, the shield is Dismissed if it's your soulforged armament or Dropped if it's a different shield.
+**Resolute Defiance** Shield only. The shield gains a +2 status bonus to its Hardness and gains temporary Hit Points equal to your level + 2 that last until the essence effect ends. If you don't have the [[01) Rules/Character Building/Feats/Shield Block|Shield Block]] reaction, you gain it while your shield is manifested. _Corruption Flaw_ When you take damage while Raising a Shield or use Shield Block, attempt a DC 5 flat check. If you fail, the shield is Dismissed if it's your soulforged armament or Dropped if it's a different shield.
 
-## [[Feats/Soul Flare|Soul Flare]] Feat 4
+## [[Soul Flare|Soul Flare]] Feat 4
 
-**Prerequisites** [[Feats/Soulforger Dedication|Soulforger Dedication]]
+**Prerequisites** [[Soulforger Dedication|Soulforger Dedication]]
 
 * * *
 
@@ -74,9 +74,9 @@ Your soulforged armament has an essence power you choose when you first bind it.
 
 You strive to change the outcome with sheer zeal. You gain a +1 status bonus to your attack roll if making an attack or to your AC if you were hit. This can change the outcome of the roll. If this bonus turns your missed attack into a hit or the hit against you into a miss, attempt a DC 5 flat check. If you fail, your soulforged armament is Dismissed-your weapon if you attacked or your armor or shield if you were defending.
 
-## [[Feats/Rapid Manifestation|Rapid Manifestation]] Feat 6
+## [[Rapid Manifestation|Rapid Manifestation]] Feat 6
 
-**Prerequisites** [[Feats/Soulforger Dedication|Soulforger Dedication]]
+**Prerequisites** [[Soulforger Dedication|Soulforger Dedication]]
 
 * * *
 
@@ -86,9 +86,9 @@ You strive to change the outcome with sheer zeal. You gain a +1 status bonus to 
 
 Your unwavering soul brings up your defenses as soon as you're in danger. You Manifest your Soulforged Armament.
 
-## [[Feats/Soul Arsenal|Soul Arsenal]] Feat 6
+## [[Soul Arsenal|Soul Arsenal]] Feat 6
 
-**Prerequisites** [[Feats/Soulforger Dedication|Soulforger Dedication]]
+**Prerequisites** [[Soulforger Dedication|Soulforger Dedication]]
 
 * * *
 

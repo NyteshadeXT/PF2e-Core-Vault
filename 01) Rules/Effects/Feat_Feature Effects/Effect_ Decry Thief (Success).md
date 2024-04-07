@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by [[Feats/Decry Thief|Decry Thief]]
+Granted by [[Decry Thief|Decry Thief]]
 
 For 1 round, the target takes a -5 foot status penalty to Speed and a -2 status penalty to Stealth.
 

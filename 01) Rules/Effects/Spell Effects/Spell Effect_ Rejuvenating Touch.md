@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by [[Spells/Lay on Hands|Lay on Hands]] if you have [[Feats/Rejuvenating Touch|Rejuvenating Touch]].
+Granted by [[Spells/Lay on Hands|Lay on Hands]] if you have [[Rejuvenating Touch|Rejuvenating Touch]].
 
 An ally that recovers Hit Points from your [[Spells/Lay on Hands|Lay on Hands]] gains 10 temporary Hit Points at the start of their turn during each of the next 10 rounds. This effect ends if the ally is knocked [[Conditions/Unconscious|Unconscious]].
 

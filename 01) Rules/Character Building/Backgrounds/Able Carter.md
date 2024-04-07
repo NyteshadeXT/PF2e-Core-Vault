@@ -24,7 +24,7 @@ The Carters Consortium values your past work, especially because so few people a
 
 Choose two ability boosts. One must be to **Strength** or **Charisma**, and one is a free ability boost.
 
-You're trained in your choice of the Deception or Diplomacy skill. You gain a skill feat: [[Feats/Charming Liar|Charming Liar]] if you chose Deception or [[Feats/Hobnobber|Hobnobber]] if you chose Diplomacy. You're also trained in a Lore skill with one of Geb's cities: Graydirge, Mechitar, or Yled.
+You're trained in your choice of the Deception or Diplomacy skill. You gain a skill feat: [[Charming Liar|Charming Liar]] if you chose Deception or [[Hobnobber|Hobnobber]] if you chose Diplomacy. You're also trained in a Lore skill with one of Geb's cities: Graydirge, Mechitar, or Yled.
 
 *Source: Pathfinder: Blood Lords Player's Guide*
 *OGL*

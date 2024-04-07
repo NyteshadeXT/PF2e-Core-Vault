@@ -20,7 +20,7 @@ From as far back as you can remember, it seems you were always meant to enter a 
 
 This background is associated with the suit of Keys.
 
-Choose two ability boosts. One must be to **Dexterity**, and one is a free ability boost. You gain the [[Feats/Assurance|Assurance]] skill feat and are trained in one of the following Lore skills associated with a profession, as befits your history: Art Lore, Engineering Lore, Farming Lore, Herbalism Lore, Labor Lore, Mercantile Lore, Scribing Lore, Theater Lore, or Warfare Lore. You also gain the [[Actions/Lucky Break|Lucky Break]] free action.
+Choose two ability boosts. One must be to **Dexterity**, and one is a free ability boost. You gain the [[Assurance|Assurance]] skill feat and are trained in one of the following Lore skills associated with a profession, as befits your history: Art Lore, Engineering Lore, Farming Lore, Herbalism Lore, Labor Lore, Mercantile Lore, Scribing Lore, Theater Lore, or Warfare Lore. You also gain the [[Actions/Lucky Break|Lucky Break]] free action.
 
 *Source: Pathfinder: Stolen Fate Player's Guide*
 *OGL*

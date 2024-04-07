@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by [[Feats/Bespell Weapon|Bespell Weapon]] if you cast a conjuration or transmution spell.
+Granted by [[Bespell Weapon|Bespell Weapon]] if you cast a conjuration or transmution spell.
 
 Until the end of your turn, the weapon deals an additional 1d6 damage.
 

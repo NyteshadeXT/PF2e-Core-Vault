@@ -19,7 +19,7 @@ license: OGL
 
 **Prerequisites** Scout Dedication
 * * *
-You gain the [[Feats/Terrain Stalker|Terrain Stalker]] skill feat twice, choosing a different terrain each time.
+You gain the [[Terrain Stalker|Terrain Stalker]] skill feat twice, choosing a different terrain each time.
 
 If you [[Actions/Avoid Notice|Avoid Notice]] while exploring and any allies use [[Actions/Follow the Expert|Follow the Expert]] to follow you as you do so, you can choose one of those allies to gain the benefit of any one Terrain Stalker feat you have.
 

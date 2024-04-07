@@ -20,7 +20,7 @@ You've long been a regular of Gold Falls Inn, a tavern located near Droskar's Cr
 
 Choose two ability boosts. One must be to **Constitution** or **Charisma**, and one is a free ability boost.
 
-You're trained in the Performance skill, as well as your choice of the Cooking Lore skill or Volcano Lore skill. You gain the [[Feats/Impressive Performance|Impressive Performance]] skill feat.
+You're trained in the Performance skill, as well as your choice of the Cooking Lore skill or Volcano Lore skill. You gain the [[Impressive Performance|Impressive Performance]] skill feat.
 
 Additionally, when you receive a mission briefing at Gold Falls Inn or a settlement in Darkmoon Vale, you can draw on your knowledge of the region and its many stories. You gain a +2 circumstance bonus to your checks to Gather Information or Recall Knowledge during the Getting Started segment of such adventures. Be sure to remind your GM that you have a relevant background.
 

@@ -24,7 +24,7 @@ You're fascinated by the lost Azlanti Empire and have dedicated yourself to seek
 
 Choose two ability boosts. One must be to **Intelligence** or **Charisma**, and one is a free ability boost.
 
-You're trained in the Arcana skill and the Azlant Lore skills. You gain the [[Feats/Quick Identification|Quick Identification]] skill feat.
+You're trained in the Arcana skill and the Azlant Lore skills. You gain the [[Quick Identification|Quick Identification]] skill feat.
 
 *Source: Pathfinder Lost Omens: World Guide*
 *OGL*

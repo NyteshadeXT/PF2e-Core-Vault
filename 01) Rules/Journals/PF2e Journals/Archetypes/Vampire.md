@@ -16,7 +16,7 @@ After being exsanguinated by a vampire, you've risen again, pulling yourself fro
 
 **Sunlight**: If exposed to direct sunlight, you immediately become [[Conditions/Slowed 1|Slowed 1]] . The slowed value increases by 1 each time you end your turn in sunlight. If you lose all your actions in this way, you are destroyed. Due to your supernatural aversion to light, you don't cast shadows or show a reflection in mirrors.
 
-## [[Feats/Vampire Dedication|Vampire Dedication]] Feat 2
+## [[Vampire Dedication|Vampire Dedication]] Feat 2
 
 **Prerequisites** You were killed by a vampire drinking your blood
 
@@ -28,7 +28,7 @@ You're a newly risen vampire. You gain the undead and vampire traits and the bas
 
 **Special** You can't select another dedication feat until you have gained two other feats from the vampire archetype.
 
-## [[Feats/Clinging Climber|Clinging Climber]] Feat 4
+## [[Clinging Climber|Clinging Climber]] Feat 4
 
 **Prerequisites** Vampire Dedication; trained in Athletics
 
@@ -36,7 +36,7 @@ You're a newly risen vampire. You gain the undead and vampire traits and the bas
 
 You climb like a spider. You gain a climb Speed of 15 feet.
 
-## [[Feats/Manipulative Charm|Manipulative Charm]] Feat 4
+## [[Manipulative Charm|Manipulative Charm]] Feat 4
 
 **Prerequisites** Vampire Dedication; trained in Deception or Diplomacy
 
@@ -46,7 +46,7 @@ Against humanoids, you gain a +1 circumstance bonus to Deception checks to [[Act
 
 Once per day, you can cast [[Spells/Charm|Charm]] as a divine innate spell using your class DC or spell DC, whichever is higher. Casting it requires staring into the target's eyes, giving the spell the visual trait. At 5th level and every 2 levels thereafter, the spell is heightened by an additional rank, to a maximum of a 9th-rank charm when you are 19th level.
 
-## [[Feats/Nocturnal Kindred|Nocturnal Kindred]] Feat 4
+## [[Nocturnal Kindred|Nocturnal Kindred]] Feat 4
 
 **Prerequisites** Vampire Dedication; trained in Nature
 
@@ -56,7 +56,7 @@ You have an innate connection with other creatures of the night and understand s
 
 Once per day, you can cast [[Spells/Animal Allies|Animal Allies]] as a divine innate spell, using your class DC or spell DC, whichever is higher. The creatures it summons are bats, rats, and wolves. At 5th level and every 2 levels thereafter, the spell is heightened by an additional level, to a maximum of a 9th-rank animal allies when you are 19th level.
 
-## [[Feats/Daywalker (Vampire)|Daywalker (Vampire)]] Feat 6
+## [[Daywalker (Vampire)|Daywalker (Vampire)]] Feat 6
 
 **Prerequisites** Vampire Dedication
 
@@ -64,7 +64,7 @@ Once per day, you can cast [[Spells/Animal Allies|Animal Allies]] as a divine in
 
 Through a profane pledge or a bloodline quirk, you can tolerate the sun's light. You gain the advanced undead benefits and can't be destroyed by sunlight. This doesn't prevent you from becoming [[Conditions/Slowed 1|Slowed]] by exposure to the sun.
 
-## [[Feats/Predatory Claws|Predatory Claws]] Feat 6
+## [[Predatory Claws|Predatory Claws]] Feat 6
 
 **Prerequisites** Vampire Dedication
 
@@ -74,7 +74,7 @@ Your nails grow into sharp claws, perfect for seizing and tearing your prey. You
 
 If you hit the same enemy with two consecutive claw Strikes in the same round, you can attempt to [[Actions/Grapple|Grapple]] that same target as a free action, provided you take that action immediately after the second Strike.
 
-## [[Feats/Vicious Fangs|Vicious Fangs]] Feat 8
+## [[Vicious Fangs|Vicious Fangs]] Feat 8
 
 **Prerequisites** Vampire Dedication
 
@@ -82,7 +82,7 @@ If you hit the same enemy with two consecutive claw Strikes in the same round, y
 
 You aim for your victim's prominent arteries. Your fangs Strike deals an additional 1d6 bleed on a critical hit. At 14th level, the persistent bleed damage increases to 2d6 bleed, and at 20th level, the persistent bleed damage increases to 3d6 bleed.
 
-## [[Feats/Bat Form|Bat Form]] Feat 10
+## [[Bat Form|Bat Form]] Feat 10
 
 **Prerequisites** Vampire Dedication
 
@@ -92,7 +92,7 @@ You aim for your victim's prominent arteries. Your fangs Strike deals an additio
 
 You can transform into a bat. You gain the effects of a 4th-rank [[Spells/Pest Form|Pest Form]] spell. At 14th level, you can choose to spend two actions instead of one to gain the effects of a 4th- or 5th-rank [[Spells/Aerial Form|Aerial Form]] spell instead (bat form only).
 
-## [[Feats/Turn to Mist|Turn to Mist]] Feat 10
+## [[Turn to Mist|Turn to Mist]] Feat 10
 
 **Prerequisites** Vampire Dedication
 
@@ -102,7 +102,7 @@ You can transform into a bat. You gain the effects of a 4th-rank [[Spells/Pest F
 
 You turn into vapor, gaining the effects of [[Spells/Vapor Form|Vapor Form]].
 
-## [[Feats/Coffin Bound|Coffin Bound]] Feat 12
+## [[Coffin Bound|Coffin Bound]] Feat 12
 
 **Prerequisites** Vampire Dedication
 
@@ -114,7 +114,7 @@ If you would be destroyed, you instead remain near death. This doesn't change yo
 
 Your coffin can't heal you if you're staked through the chest. You can be staked only if unconscious, and it takes three actions. You lose all benefits of this feat if your coffin is destroyed or the soil is lost. You must procure a new coffin and fill it with soil of your homeland to restore the feat's function.
 
-## [[Feats/Mist Escape|Mist Escape]] Feat 14
+## [[Mist Escape|Mist Escape]] Feat 14
 
 **Prerequisites** Coffin Bound; Turn to Mist
 
@@ -124,7 +124,7 @@ Your coffin can't heal you if you're staked through the chest. You can be staked
 
 As you fall, your body reacts to defend itself. You Turn to Mist. This doesn't expend a use of Turn to Mist, and you can use Mist Escape even if you've already Turned to Mist in the same day. You take move actions to move directly toward your coffin even though you are at 0 HP, though you aren't conscious and don't have control over how you do so. While at 0 HP in this form, you are unaffected by further damage. You automatically return to your corporeal form, [[Conditions/Unconscious|Unconscious]], if you reach your coffin or after 1 hour when you are destroyed, whichever one comes first.
 
-## [[Feats/Dominating Gaze|Dominating Gaze]] Feat 16
+## [[Dominating Gaze|Dominating Gaze]] Feat 16
 
 **Prerequisites** Manipulative Charm
 

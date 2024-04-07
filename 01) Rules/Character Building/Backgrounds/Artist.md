@@ -21,7 +21,7 @@ Your art is your greatest passion, whatever form it takes. Adventuring might hel
 
 Choose two attribute boosts. One must be to **Dexterity** or **Charisma**, and one is a free attribute boost.
 
-You're trained in the Crafting skill and the Art Lore skill. You gain the [[Feats/Specialty Crafting|Specialty Crafting]] skill feat.
+You're trained in the Crafting skill and the Art Lore skill. You gain the [[Specialty Crafting|Specialty Crafting]] skill feat.
 
 *Source: Pathfinder Player Core*
 *ORC*

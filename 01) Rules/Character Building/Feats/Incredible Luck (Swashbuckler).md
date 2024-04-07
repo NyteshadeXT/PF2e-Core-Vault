@@ -20,7 +20,7 @@ license: OGL
 
 **Prerequisites** Charmed Life
 * * *
-You always seem to bounce back from the worst. When you use [[Feats/Charmed Life|Charmed Life]], roll the save twice (including the +2 circumstance bonus from Charmed Life) and use the better result.
+You always seem to bounce back from the worst. When you use [[Charmed Life|Charmed Life]], roll the save twice (including the +2 circumstance bonus from Charmed Life) and use the better result.
 
 *Source: Pathfinder Advanced Player's Guide*
 *OGL*

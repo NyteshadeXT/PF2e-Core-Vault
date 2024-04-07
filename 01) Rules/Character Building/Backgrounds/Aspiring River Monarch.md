@@ -24,7 +24,7 @@ New realms rise constantly in the River Kingdoms, and you intend to lead one of 
 
 Choose two ability boosts. One must be to **Wisdom** or **Charisma**, and one is a free ability boost.
 
-You're trained in the Society skill and the Politics Lore skill. You gain the [[Feats/Courtly Graces|Courtly Graces]] skill feat.
+You're trained in the Society skill and the Politics Lore skill. You gain the [[Courtly Graces|Courtly Graces]] skill feat.
 
 *Source: Pathfinder Lost Omens: World Guide*
 *OGL*

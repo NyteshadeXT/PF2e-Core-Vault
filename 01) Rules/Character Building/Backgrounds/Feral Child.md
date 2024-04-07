@@ -20,7 +20,7 @@ You spent your youth in the wilderness, living close to or perhaps raised by ani
 
 Choose one ability boost. It must be **Strength**, **Dexterity**, or **Constitution**.
 
-You are trained in Nature and Survival. You gain low-light vision (or darkvision if you already had low-light vision), imprecise scent with a range of 30 feet, and the [[Feats/Forager|Forager]] skill feat.
+You are trained in Nature and Survival. You gain low-light vision (or darkvision if you already had low-light vision), imprecise scent with a range of 30 feet, and the [[Forager|Forager]] skill feat.
 
 *Source: Pathfinder Advanced Player's Guide*
 *OGL*

@@ -19,7 +19,7 @@ license: OGL
 
 **Prerequisites** expert in Athletics
 * * *
-You create gusts of wind when you jump, allowing you to carry yourself across greater distances. You gain the [[Feats/Quick Jump|Quick Jump]] and [[Feats/Powerful Leap|Powerful Leap]] skill feats as bonus feats.
+You create gusts of wind when you jump, allowing you to carry yourself across greater distances. You gain the [[Quick Jump|Quick Jump]] and [[Powerful Leap|Powerful Leap]] skill feats as bonus feats.
 
 *Source: Pathfinder Lost Omens: Ancestry Guide*
 *OGL*

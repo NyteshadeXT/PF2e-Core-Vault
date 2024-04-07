@@ -21,7 +21,7 @@ In the chaotic rush of battle, you learned to adapt to rapidly changing conditio
 
 Choose two attribute boosts. One must be to **Constitution** or **Wisdom**, and one is a free attribute boost.
 
-You're trained in the Medicine skill and the Warfare Lore skill. You gain the [[Feats/Battle Medicine|Battle Medicine]] skill feat.
+You're trained in the Medicine skill and the Warfare Lore skill. You gain the [[Battle Medicine|Battle Medicine]] skill feat.
 
 *Source: Pathfinder Player Core*
 *ORC*

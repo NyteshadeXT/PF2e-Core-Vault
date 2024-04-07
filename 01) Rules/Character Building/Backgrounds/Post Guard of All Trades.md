@@ -22,7 +22,7 @@ For all the excitement of guarding Absalom's Postern Gate, the Post Guard wasn't
 
 Choose two ability boosts. One must be to **Dexterity** or **Intelligence**, and one is a free ability boost.
 
-You're trained in the Performance skill, a Lore skill of your choice, and you gain a **bonus language**. You gain a +1 circumstance bonus to Deception, Diplomacy, and Intimidation checks to [[Actions/Interact|Interact]] with Post Guards. You gain the [[Feats/Dubious Knowledge|Dubious Knowledge]] skill feat.
+You're trained in the Performance skill, a Lore skill of your choice, and you gain a **bonus language**. You gain a +1 circumstance bonus to Deception, Diplomacy, and Intimidation checks to [[Actions/Interact|Interact]] with Post Guards. You gain the [[Dubious Knowledge|Dubious Knowledge]] skill feat.
 
 *Source: Pathfinder: Agents of Edgewatch Player's Guide*
 *OGL*

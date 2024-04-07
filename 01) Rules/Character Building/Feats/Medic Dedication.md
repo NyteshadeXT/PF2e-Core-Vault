@@ -22,7 +22,7 @@ license: OGL
 * * *
 You become an expert in Medicine.
 
-When you succeed with [[Feats/Battle Medicine|Battle Medicine]] or [[Actions/Treat Wounds|Treat Wounds]], the target regains 5 additional HP at DC 20, 10 HP at DC 30, or 15 HP at DC 40.
+When you succeed with [[Battle Medicine|Battle Medicine]] or [[Actions/Treat Wounds|Treat Wounds]], the target regains 5 additional HP at DC 20, 10 HP at DC 30, or 15 HP at DC 40.
 
 Once per day, you can use Battle Medicine on a creature that's temporarily immune. If you're a master in Medicine, you can do so once per hour.
 

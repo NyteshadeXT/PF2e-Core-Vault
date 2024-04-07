@@ -22,7 +22,7 @@ Your laudable performance has earned you a transfer to the newly formed Edgewatc
 
 Choose two ability boosts. One must be to **Wisdom** or **Charisma**, and one is a free ability boost.
 
-You're trained in the Society, plus either Gladiatorial Lore or Genealogy Lore. You gain a +1 circumstance bonus to Deception, Diplomacy, and Intimidation checks to [[Actions/Interact|Interact]] with members of the Sleepless Suns and residents of the Foreign Quarter. You gain the [[Feats/Multilingual|Multilingual]] skill feat.
+You're trained in the Society, plus either Gladiatorial Lore or Genealogy Lore. You gain a +1 circumstance bonus to Deception, Diplomacy, and Intimidation checks to [[Actions/Interact|Interact]] with members of the Sleepless Suns and residents of the Foreign Quarter. You gain the [[Multilingual|Multilingual]] skill feat.
 
 *Source: Pathfinder: Agents of Edgewatch Player's Guide*
 *OGL*

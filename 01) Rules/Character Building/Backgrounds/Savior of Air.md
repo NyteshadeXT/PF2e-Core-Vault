@@ -20,7 +20,7 @@ Upon securing the _Untouchable Opal_, an artifact of extraordinary power, the Pa
 
 Choose two ability boosts. One must be to **Dexterity** or **Charisma**, and one is a free ability boost.
 
-You're trained in the Acrobatics skill, plus either Elemental Lords Lore or a Lore skill related either to one of the Elemental Planes (such as Plane of Air Lore). You gain the [[Feats/Cat Fall|Cat Fall]] skill feat. Add **Auran** to the list of additional languages you can learn for having a high Intelligence modifier.
+You're trained in the Acrobatics skill, plus either Elemental Lords Lore or a Lore skill related either to one of the Elemental Planes (such as Plane of Air Lore). You gain the [[Cat Fall|Cat Fall]] skill feat. Add **Auran** to the list of additional languages you can learn for having a high Intelligence modifier.
 
 * * *
 

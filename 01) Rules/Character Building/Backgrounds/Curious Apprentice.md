@@ -22,7 +22,7 @@ You hope that becoming an adventurer will solve this, for adventurers can not on
 
 Choose two attribute boosts. One must be to **Intelligence** or **Strength**, and one is a free attribute boost.
 
-You're trained in the Occultism skill and the Poetry Lore skill. You gain the [[Feats/Hefty Hauler|Hefty Hauler]] skill feat (carrying around all those books builds muscles, after all!).
+You're trained in the Occultism skill and the Poetry Lore skill. You gain the [[Hefty Hauler|Hefty Hauler]] skill feat (carrying around all those books builds muscles, after all!).
 
 Increase the party's reputation with Sandpoint Mercantile League by 1 and reduce the party's reputation with Scarnetti Consortium by 1.
 

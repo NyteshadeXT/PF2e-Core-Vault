@@ -20,7 +20,7 @@ The vast tundra and looming mountains of the Realm of the Mammoth Lords may seem
 
 Choose two ability boosts. One must be to **Constitution** or **Wisdom**, and one is a free ability boost.
 
-You're trained in the Survival skill and the Herbalism Lore skill. You gain the [[Feats/Forager|Forager]] skill feat.
+You're trained in the Survival skill and the Herbalism Lore skill. You gain the [[Forager|Forager]] skill feat.
 
 *Source: Pathfinder: Quest for the Frozen Flame Player's Guide*
 *OGL*

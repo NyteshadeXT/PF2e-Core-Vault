@@ -21,7 +21,7 @@ license: OGL
 * * *
 Your time gossiping in fashionable salons keeps you informed on every topic.
 
-You are trained in Gossip Lore, a special Lore skill that can be used only to [[Actions/Recall Knowledge|Recall Knowledge]], but on any topic. If you fail a check to Recall Knowledge with Gossip Lore, you get the effects of the [[Feats/Dubious Knowledge|Dubious Knowledge]] skill feat.
+You are trained in Gossip Lore, a special Lore skill that can be used only to [[Actions/Recall Knowledge|Recall Knowledge]], but on any topic. If you fail a check to Recall Knowledge with Gossip Lore, you get the effects of the [[Dubious Knowledge|Dubious Knowledge]] skill feat.
 
 If you have legendary proficiency in Society, you gain expert proficiency in Gossip Lore, but you can't increase your proficiency rank in Gossip Lore by any other means.
 

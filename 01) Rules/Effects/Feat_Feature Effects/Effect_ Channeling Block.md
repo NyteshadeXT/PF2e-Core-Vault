@@ -17,7 +17,7 @@ license: ORC
 
 
 
-Granted by [[Feats/Channeling Block|Channeling Block]]
+Granted by [[Channeling Block|Channeling Block]]
 
 Roll 1d8 for each rank of the [[Spells/Heal|Heal]] or [[Spells/Harm|Harm]] spell, and increase the shield's Hardness by the total for this block.
 

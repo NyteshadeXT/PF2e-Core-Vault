@@ -22,7 +22,7 @@ You've refined your investigative techniques to an exceptional degree. Your circ
 
 [[Feat_Feature Effects/Effect_ Clue In (Expertise)|Effect: Clue In (Expertise)]]
 
-If you have [[Feats/Detective's Readiness|Detective's Readiness]], [[Feat_Feature Effects/Effect_ Clue In (Detective's Readiness, Expertise)|Effect: Clue In (Detective's Readiness, Expertise)]]
+If you have [[Detective's Readiness|Detective's Readiness]], [[Feat_Feature Effects/Effect_ Clue In (Detective's Readiness, Expertise)|Effect: Clue In (Detective's Readiness, Expertise)]]
 
 *Source: Pathfinder Advanced Player's Guide*
 *OGL*

@@ -17,7 +17,7 @@ license: ORC
 
 
 
-Granted by [[Feats/Divine Wings|Divine Wings]]
+Granted by [[Divine Wings|Divine Wings]]
 
 You gain a fly Speed equal to your Speed.
 

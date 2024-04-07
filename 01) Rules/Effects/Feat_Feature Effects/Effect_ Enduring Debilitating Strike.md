@@ -16,7 +16,7 @@ license: OGL
 
 
 
-The target has been affected by a rogue's [[Actions/Debilitating Strike|Debilitating Strike]] if the rogue also has [[Feats/Enduring Debilitation|Enduring Debilitation]].
+The target has been affected by a rogue's [[Actions/Debilitating Strike|Debilitating Strike]] if the rogue also has [[Enduring Debilitation|Enduring Debilitation]].
 
 _Note: this effect only tracks the duration of the debilitation. You need to manually apply the specific penalties the rogue chose to apply._
 

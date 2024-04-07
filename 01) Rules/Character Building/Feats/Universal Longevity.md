@@ -24,7 +24,7 @@ license: ORC
 
 * * *
 
-You've perfected your ability to keep up with all the skills you've learned over your long life, so you're almost never truly untrained at a skill. You reflect on your life experiences, changing the skill you selected with [[Feats/Ancestral Longevity|Ancestral Longevity]] (and the skill you selected with [[Feats/Expert Longevity|Expert Longevity]] if you have that feat).
+You've perfected your ability to keep up with all the skills you've learned over your long life, so you're almost never truly untrained at a skill. You reflect on your life experiences, changing the skill you selected with [[Ancestral Longevity|Ancestral Longevity]] (and the skill you selected with [[Expert Longevity|Expert Longevity]] if you have that feat).
 
 *Source: Pathfinder Player Core*
 *ORC*

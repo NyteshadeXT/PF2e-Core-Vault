@@ -20,7 +20,7 @@ A small token of protection from a site holy to your faith, or you touched your 
 
 * * *
 
-**Special** If you select the [[Feats/Pilgrim's Token|Pilgrim's Token]] feat at 1st level, you receive your pilgrim's token for free. Alternately, if you have a religious symbol, it is already attuned, as described above.
+**Special** If you select the [[01) Rules/Character Building/Feats/Pilgrim's Token|Pilgrim's Token]] feat at 1st level, you receive your pilgrim's token for free. Alternately, if you have a religious symbol, it is already attuned, as described above.
 
 If you select this feat at a later level, or if you lose your pilgrim's token, you must purchase or Craft a replacement and attune it at a holy site. Such a token usually costs at least 2 sp, and the attunement takes 10 minutes of prayer and requires a successful DC 20 Religion check check. Your GM might adjust the price and DC depending on the token's material and quality and the religious significance of the site; the more significant the location, the easier the attunement.
 

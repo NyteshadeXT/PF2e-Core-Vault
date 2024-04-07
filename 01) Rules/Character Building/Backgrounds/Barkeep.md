@@ -21,7 +21,7 @@ You have five specialties: hefting barrels, drinking, polishing steins, drinking
 
 Choose two attribute boosts. One must be to **Constitution** or **Charisma**, and one is a free attribute boost.
 
-You're trained in the Diplomacy skill and the Alcohol Lore skill. You gain the [[Feats/Hobnobber|Hobnobber]] skill feat.
+You're trained in the Diplomacy skill and the Alcohol Lore skill. You gain the [[Hobnobber|Hobnobber]] skill feat.
 
 *Source: Pathfinder Player Core*
 *ORC*

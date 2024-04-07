@@ -20,7 +20,7 @@ You spent your early days in the aftermath of one of the great ravenings. You su
 
 Choose two ability boosts. One must be to **Strength** or **Wisdom**, and one is a free ability boost.
 
-You're trained in the Survival skill and the Zevgavizeb Lore skill. You gain the [[Feats/Ravening's Desperation|Ravening's Desperation]] skill feat.
+You're trained in the Survival skill and the Zevgavizeb Lore skill. You gain the [[Ravening's Desperation|Ravening's Desperation]] skill feat.
 
 *Source: Pathfinder #153: Life's Long Shadows*
 *OGL*

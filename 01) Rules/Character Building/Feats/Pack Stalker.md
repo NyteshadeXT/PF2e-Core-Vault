@@ -19,7 +19,7 @@ license: OGL
 
 **Prerequisites** expert in Stealth; Pack Hunter
 * * *
-Ambushes are an honored gnoll tradition. You gain the [[Feats/Terrain Stalker|Terrain Stalker]] feat and can extend its effects to a single ally so long as they remain within 10 ft. of you. If you have master proficiency in Stealth, you can extend the effect to two allies. If you have legendary proficiency in Stealth, you can extend it to four allies.
+Ambushes are an honored gnoll tradition. You gain the [[Terrain Stalker|Terrain Stalker]] feat and can extend its effects to a single ally so long as they remain within 10 ft. of you. If you have master proficiency in Stealth, you can extend the effect to two allies. If you have legendary proficiency in Stealth, you can extend it to four allies.
 
 *Source: Pathfinder Lost Omens: The Mwangi Expanse*
 *OGL*

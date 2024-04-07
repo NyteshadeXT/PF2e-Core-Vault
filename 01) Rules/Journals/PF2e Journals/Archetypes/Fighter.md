@@ -10,7 +10,7 @@ tags:
 # Fighter
 You have spent time learning the art of warfare, increasing your skill with martial arms and at wearing armor. With further training, you can become a true combat specialist.
 
-## [[Feats/Fighter Dedication|Fighter Dedication]] Feat 2
+## [[Fighter Dedication|Fighter Dedication]] Feat 2
 
 **Prerequisites** Strength +2; Dexterity +2
 
@@ -22,7 +22,7 @@ You become trained in martial weapons. You become trained in your choice of Acro
 
 **Special** You cannot select another dedication feat until you have gained two other feats from the fighter archetype.
 
-## [[Feats/Basic Maneuver|Basic Maneuver]] Feat 4
+## [[Basic Maneuver|Basic Maneuver]] Feat 4
 
 **Prerequisites** Fighter Dedication
 
@@ -30,7 +30,7 @@ You become trained in martial weapons. You become trained in your choice of Acro
 
 You gain a 1st- or 2nd-level fighter feat.
 
-## [[Feats/Fighter Resiliency|Fighter Resiliency]] Feat 4
+## [[Fighter Resiliency|Fighter Resiliency]] Feat 4
 
 **Prerequisites** Fighter Dedication; class granting no more Hit Points per level than 8 + your Constitution modifier
 
@@ -38,7 +38,7 @@ You gain a 1st- or 2nd-level fighter feat.
 
 You gain 3 additional Hit Points for each fighter archetype class feat you have. As you continue selecting fighter archetype class feats, you continue to gain additional Hit Points in this way.
 
-## [[Feats/Reactive Striker|Reactive Striker]] Feat 4
+## [[Reactive Striker|Reactive Striker]] Feat 4
 
 **Prerequisites** Fighter Dedication
 
@@ -46,7 +46,7 @@ You gain 3 additional Hit Points for each fighter archetype class feat you have.
 
 You gain the [[Actions/Reactive Strike|Reactive Strike]] reaction.
 
-## [[Feats/Advanced Maneuver|Advanced Maneuver]] Feat 6
+## [[Advanced Maneuver|Advanced Maneuver]] Feat 6
 
 **Prerequisites** Basic Maneuver
 
@@ -58,7 +58,7 @@ You gain a fighter feat. For the purpose of meeting its prerequisites, your figh
 
 **Special** You can select this feat more than once. Each time you select it, you gain another fighter feat.
 
-## [[Feats/Diverse Weapon Expert|Diverse Weapon Expert]] Feat 12
+## [[Diverse Weapon Expert|Diverse Weapon Expert]] Feat 12
 
 **Prerequisites** Fighter Dedication; expert in any kind of weapon or unarmed attack
 

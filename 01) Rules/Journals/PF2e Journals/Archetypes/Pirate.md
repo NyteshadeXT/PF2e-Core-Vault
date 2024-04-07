@@ -12,7 +12,7 @@ You live a life of freedom, taking by force and intimidation all that you desire
 
 Pirates have much in common with swashbucklers, and many pirates have the swashbuckler class or archetype. Much like a swashbuckler's daring deeds, classic pirate maneuvers are often showy feats intended to impress, intimidate, and gain panache. For example, if you have the panache class feature and your Acrobatics check for a Boarding Assault exceeds the very hard DC for your level, you would gain panache.
 
-## [[Feats/Pirate Dedication|Pirate Dedication]] Feat 2
+## [[Pirate Dedication|Pirate Dedication]] Feat 2
 
 **Prerequisites** trained in Intimidation
 
@@ -22,7 +22,7 @@ As a pirate, you sail the seas in search of enemy ships to plunder. You become t
 
 **Special** You can't select another dedication feat until you have gained two other feats from the Pirate archetype.
 
-## [[Feats/Pirate Weapon Training|Pirate Weapon Training]] Feat 4
+## [[Pirate Weapon Training|Pirate Weapon Training]] Feat 4
 
 **Prerequisites** Pirate Dedication
 
@@ -30,7 +30,7 @@ As a pirate, you sail the seas in search of enemy ships to plunder. You become t
 
 You're particularly skilled at wielding traditional pirate weapons. You become trained with the following weapons: hatchet, rapier, scimitar, and whip. Whenever you gain a class feature that grants you expert or greater proficiency with a given weapon or weapons, you also gain that proficiency rank for these weapons.
 
-## [[Feats/Rope Runner|Rope Runner]] Feat 4
+## [[Rope Runner|Rope Runner]] Feat 4
 
 **Prerequisites** trained in Acrobatics and Athletics, Pirate Dedication
 
@@ -38,7 +38,7 @@ You're particularly skilled at wielding traditional pirate weapons. You become t
 
 You run and climb across ropes and rigging almost as easily as on the ground. You gain a climb Speed of 15 feet, but only on ship's rigging or similar ropes. Whenever you succeed at an Athletics check to Climb a rope or an Acrobatics check to Balance on a rope, you get a critical success instead. You aren't off-guard while Climbing or Balancing on a rope.
 
-## [[Feats/Walk The Plank|Walk The Plank]] Feat 8
+## [[Walk The Plank|Walk The Plank]] Feat 8
 
 **Prerequisites** Pirate Dedication
 

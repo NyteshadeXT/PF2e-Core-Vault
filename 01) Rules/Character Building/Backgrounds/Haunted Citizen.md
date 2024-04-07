@@ -20,7 +20,7 @@ You grew up in a region where undead lurk everywhere. This could be a domain as 
 
 Choose two ability boosts. One must be to **Wisdom** or **Charisma**, and one is a free ability boost.
 
-You're trained in the Diplomacy skill and the Lore skill for your home settlement. You gain the [[Feats/No Cause For Alarm|No Cause for Alarm]] skill feat.
+You're trained in the Diplomacy skill and the Lore skill for your home settlement. You gain the [[No Cause For Alarm|No Cause for Alarm]] skill feat.
 
 *Source: Pathfinder Book of the Dead*
 *OGL*

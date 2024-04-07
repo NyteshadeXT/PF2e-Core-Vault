@@ -10,7 +10,7 @@ tags:
 # Barbarian
 There's a rage deep inside you that sometimes breaks loose, granting you some of the might of a barbarian in addition to your other abilities.
 
-## [[Feats/Barbarian Dedication|Barbarian Dedication]] Feat 2
+## [[Barbarian Dedication|Barbarian Dedication]] Feat 2
 
 **Prerequisites** Strength +2; Constitution +2
 
@@ -22,7 +22,7 @@ You become trained in Athletics; if you were already trained in Athletics, you i
 
 **Special** You cannot select another dedication feat until you have gained two other feats from the barbarian archetype.
 
-## [[Feats/Barbarian Resiliency|Barbarian Resiliency]] Feat 4
+## [[Barbarian Resiliency|Barbarian Resiliency]] Feat 4
 
 **Prerequisites** Barbarian Dedication; class granting no more Hit Points per level than 10 + your Constitution modifier
 
@@ -30,7 +30,7 @@ You become trained in Athletics; if you were already trained in Athletics, you i
 
 You gain 3 additional Hit Points for each barbarian archetype class feat you have. As you continue selecting barbarian archetype class feats, you continue to gain additional Hit Points in this way.
 
-## [[Feats/Basic Fury|Basic Fury]] Feat 4
+## [[Basic Fury|Basic Fury]] Feat 4
 
 **Prerequisites** Barbarian Dedication
 
@@ -38,7 +38,7 @@ You gain 3 additional Hit Points for each barbarian archetype class feat you hav
 
 You gain a 1st- or 2nd-level barbarian feat.
 
-## [[Feats/Advanced Fury|Advanced Fury]] Feat 6
+## [[Advanced Fury|Advanced Fury]] Feat 6
 
 **Prerequisites** Basic Fury
 
@@ -50,7 +50,7 @@ You gain one barbarian feat. For the purpose of meeting its prerequisites, your 
 
 **Special** You can select this feat more than once. Each time you select it, you gain another barbarian feat.
 
-## [[Feats/Instinct Ability|Instinct Ability]] Feat 6
+## [[Instinct Ability|Instinct Ability]] Feat 6
 
 **Prerequisites** Barbarian Dedication
 
@@ -58,7 +58,7 @@ You gain one barbarian feat. For the purpose of meeting its prerequisites, your 
 
 You gain the instinct ability for the instinct you chose for Barbarian Dedication.
 
-## [[Feats/Juggernaut's Fortitude|Juggernaut's Fortitude]] Feat 12
+## [[Juggernaut's Fortitude|Juggernaut's Fortitude]] Feat 12
 
 **Prerequisites** Barbarian Dedication; expert in Fortitude saves
 

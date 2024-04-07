@@ -22,7 +22,7 @@ Despite the decline in your performance, Lieutenant Lavarsus of Edgewatch sees p
 
 Choose two ability boosts. One must be to **Strength** or **Constitution**, and one is a free ability boost.
 
-You're trained in the Athletics skill and your choice of Sailing Lore or Hunting Lore. You gain a +1 circumstance bonus to Deception, Diplomacy, and Intimidation checks to [[Actions/Interact|Interact]] with Harbor Guards, ship captains, and freelance adventurers. You gain the [[Feats/Quick Jump|Quick Jump]] skill feat.
+You're trained in the Athletics skill and your choice of Sailing Lore or Hunting Lore. You gain a +1 circumstance bonus to Deception, Diplomacy, and Intimidation checks to [[Actions/Interact|Interact]] with Harbor Guards, ship captains, and freelance adventurers. You gain the [[Quick Jump|Quick Jump]] skill feat.
 
 *Source: Pathfinder: Agents of Edgewatch Player's Guide*
 *OGL*

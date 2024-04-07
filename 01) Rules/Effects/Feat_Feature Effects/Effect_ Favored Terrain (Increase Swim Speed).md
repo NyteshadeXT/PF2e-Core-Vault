@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by [[Feats/Favored Terrain|Favored Terrain (Aquatic)]] if you have the [[Class Features/Unimpeded Journey|Wild Stride]] class feature, and are in aquatic terrain and already have a swimSpeed.
+Granted by [[Favored Terrain|Favored Terrain (Aquatic)]] if you have the [[Class Features/Unimpeded Journey|Wild Stride]] class feature, and are in aquatic terrain and already have a swimSpeed.
 
 You gain a +10-foot status bonus to your swim Speed.
 

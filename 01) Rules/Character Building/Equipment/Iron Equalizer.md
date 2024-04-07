@@ -22,7 +22,7 @@ license: OGL
 
 **Usage** affixed to a weapon
 
-**Activate** `pf2:1` [[Feats/Certain Strike|Certain Strike]]
+**Activate** `pf2:1` [[Certain Strike|Certain Strike]]
 
 **Requirements** You are a master with the affixed weapon
 

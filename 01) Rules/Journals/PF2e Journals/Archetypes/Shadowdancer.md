@@ -14,7 +14,7 @@ A true shadowdancer is a creature who flits on the edge of light and darkness. M
 
 Regardless of the reason why someone embraces the shadows, the shadows embrace that person in turn, gradually transforming them into something inky, nebulous, and mysterious.
 
-**Additional Feats** 10th [[Feats/Uncanny Dodge|Uncanny Dodge]]; 14th [[Feats/Spring from the Shadows|Spring from the Shadows]]; 16th [[Feats/Sense The Unseen|Sense The Unseen]]; 18th [[Feats/Cognitive Loophole|Cognitive Loophole]]
+**Additional Feats** 10th [[Uncanny Dodge|Uncanny Dodge]]; 14th [[Spring from the Shadows|Spring from the Shadows]]; 16th [[Sense The Unseen|Sense The Unseen]]; 18th [[Cognitive Loophole|Cognitive Loophole]]
 
 **CALL OF SHADOWS**
 
@@ -28,7 +28,7 @@ Though it is hard to convince many folks otherwise, given the fearsome reputatio
 
 5th [[Spells/Dance of Darkness|Dance of Darkness]]; [[Spells/Shadow Jump|Shadow Jump]]; 6th [[Spells/Shadow Illusion|Shadow Illusion]]
 
-## [[Feats/Shadowdancer Dedication|Shadowdancer Dedication]] Feat 8
+## [[Shadowdancer Dedication|Shadowdancer Dedication]] Feat 8
 
 **Prerequisites** master in Stealth, expert in Performance
 
@@ -38,7 +38,7 @@ You dedicate yourself to the shadows. Your coloring becomes gray and gloomy, you
 
 **Special** You can't select another dedication feat until you have gained two other feats from the Shadowdancer archetype.
 
-## [[Feats/Shadow Sneak Attack|Shadow Sneak Attack]] Feat 10
+## [[Shadow Sneak Attack|Shadow Sneak Attack]] Feat 10
 
 **Prerequisites** Shadowdancer Dedication
 
@@ -46,7 +46,7 @@ You dedicate yourself to the shadows. Your coloring becomes gray and gloomy, you
 
 You gain the sneak attack class feature, except you deal 1d6 precision damage regardless of your level. Sneak attack from multiple sources isn't cumulative. If you have sneak attack from more than one source, use only the highest number of dice when you sneak attack rather than adding the amounts together.
 
-## [[Feats/Shadow Magic|Shadow Magic]] Feat 10
+## [[Shadow Magic|Shadow Magic]] Feat 10
 
 **Prerequisites** Shadowdancer Dedication
 
@@ -56,7 +56,7 @@ You gain the ability to fuse and play with shadows by using focus spells specifi
 
 Shadowdancer focus spells are occult spells. You become trained in occult spell attack rolls and spell DCs, and your spellcasting attribute for these spells is Charisma.
 
-## [[Feats/Additional Shadow Magic|Additional Shadow Magic]] Feat 12
+## [[Additional Shadow Magic|Additional Shadow Magic]] Feat 12
 
 **Prerequisites** Shadow Magic
 
@@ -64,7 +64,7 @@ Shadowdancer focus spells are occult spells. You become trained in occult spell 
 
 Choose an additional shadowdancer focus spell you haven't already selected from Shadow Magic. Increase the number of Focus Points in your pool by 1.
 
-## [[Feats/Shadow Illusion|Shadow Illusion]] Feat 12
+## [[01) Rules/Character Building/Feats/Shadow Illusion|Shadow Illusion]] Feat 12
 
 **Prerequisites** Shadow Magic
 
@@ -72,7 +72,7 @@ Choose an additional shadowdancer focus spell you haven't already selected from 
 
 With an artful eye, you shape shadows into illusory forms. You gain the shadow illusion focus spell. Increase the number of Focus Points in your pool by 1. You become an expert in occult spell attack rolls and DCs.
 
-## [[Feats/Shadow Power|Shadow Power]] Feat 14
+## [[Shadow Power|Shadow Power]] Feat 14
 
 **Prerequisites** Shadow Magic
 
@@ -80,7 +80,7 @@ With an artful eye, you shape shadows into illusory forms. You gain the shadow i
 
 You can focus the shadows into a powerful blast. You can cast shadow blast as an innate occult spell once per day. Its level is always 1 level lower than the rank of your shadowdancer focus spells. You become an expert in occult spell attack rolls and DCs.
 
-## [[Feats/Shadow Master|Shadow Master]] Feat 18
+## [[Shadow Master|Shadow Master]] Feat 18
 
 **Prerequisites** Shadow Magic
 

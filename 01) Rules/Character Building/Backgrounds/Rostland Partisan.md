@@ -24,7 +24,7 @@ You grew up among the southern houses of Brevoy in old Rostland. You're accustom
 
 Choose two ability boosts. One must be to **Constitution** or **Charisma**, and one is a free ability boost.
 
-You're trained in the Diplomacy skill and the Politics Lore skill. You gain the [[Feats/Group Impression|Group Impression]] skill feat.
+You're trained in the Diplomacy skill and the Politics Lore skill. You gain the [[Group Impression|Group Impression]] skill feat.
 
 *Source: Pathfinder Lost Omens: World Guide*
 *OGL*

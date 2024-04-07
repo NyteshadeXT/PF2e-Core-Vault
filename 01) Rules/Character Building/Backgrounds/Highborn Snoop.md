@@ -20,7 +20,7 @@ The machinations and scheming of King's Crown have trained you to be on the look
 
 Choose two ability boosts. One must be **Dexterity** or **Intelligence**, and the other is a free boost.
 
-You're trained in the Society skill, and the Guild Lore skill. You gain the [[Feats/Courtly Graces|Courtly Graces]] skill feat.
+You're trained in the Society skill, and the Guild Lore skill. You gain the [[Courtly Graces|Courtly Graces]] skill feat.
 
 *Source: Pathfinder Lost Omens: Highhelm*
 *OGL*

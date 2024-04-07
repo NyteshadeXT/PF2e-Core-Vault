@@ -8,4 +8,4 @@ tags:
 ---
 You were captured by marauding giants and fought your way free.
 
-Add the [[Feats/Titan Wrestler|Titan Wrestler]] skill feat to your background options
+Add the [[Titan Wrestler|Titan Wrestler]] skill feat to your background options

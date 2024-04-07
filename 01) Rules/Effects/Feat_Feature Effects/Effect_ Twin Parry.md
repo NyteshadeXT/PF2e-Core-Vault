@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by [[Feats/Twin Parry|Twin Parry]] if neither weapon has the parry trait.
+Granted by [[Twin Parry|Twin Parry]] if neither weapon has the parry trait.
 
 You gain a +1 circumstance bonus to AC until the start of your next turn.
 

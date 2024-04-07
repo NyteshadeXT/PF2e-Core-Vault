@@ -24,7 +24,7 @@ Having once sampled Numerian fluids, you've tasted knowledge beyond comprehensio
 
 Choose two ability boosts. One must be to **Intelligence** or **Constitution**, and one is a free ability boost.
 
-You're trained in the Crafting skill and the Alchemical Lore skill. You gain the [[Feats/Alchemical Crafting|Alchemical Crafting]] skill feat.
+You're trained in the Crafting skill and the Alchemical Lore skill. You gain the [[Alchemical Crafting|Alchemical Crafting]] skill feat.
 
 *Source: Pathfinder Lost Omens: World Guide*
 *OGL*

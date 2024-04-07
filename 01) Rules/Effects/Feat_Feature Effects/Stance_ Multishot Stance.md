@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by [[Feats/Multishot Stance|Multishot Stance]].
+Granted by [[Multishot Stance|Multishot Stance]].
 
 While you are in this stance, your penalty for Double Shot is reduced to -1, or -2 if you add the extra action to make three Strikes. If you move from your position, this stance ends.
 

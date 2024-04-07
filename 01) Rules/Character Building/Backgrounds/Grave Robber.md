@@ -20,7 +20,7 @@ Resurrectionist. Body snatcher. No matter what you're called, you know where the
 
 Choose two ability boosts. One must be to **Strength** or **Dexterity**, and one is a free ability boost.
 
-You're trained in the Stealth skill and the Underworld Lore skill. You gain the [[Feats/Experienced Smuggler|Experienced Smuggler]] skill feat.
+You're trained in the Stealth skill and the Underworld Lore skill. You gain the [[Experienced Smuggler|Experienced Smuggler]] skill feat.
 
 *Source: Pathfinder Book of the Dead*
 *OGL*

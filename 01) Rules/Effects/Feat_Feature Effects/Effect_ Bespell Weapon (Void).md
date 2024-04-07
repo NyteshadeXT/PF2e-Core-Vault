@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by [[Feats/Bespell Weapon|Bespell Weapon]] if you cast a necromancy spell.
+Granted by [[Bespell Weapon|Bespell Weapon]] if you cast a necromancy spell.
 
 Until the end of your turn, the weapon deals an additional 1d6 void damage.
 

@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by [[Feats/Lost in the Crowd|Lost in the Crowd]]
+Granted by [[Lost in the Crowd|Lost in the Crowd]]
 
 You've learned how to move as one with crowds and hide among them, vanishing into a busy street in the blink of an eye. You move at full Speed in crowds and can use cover from crowds to Hide and Sneak, gaining a +2 circumstance bonus on your Stealth checks when in a crowd of at least 10 creatures.
 

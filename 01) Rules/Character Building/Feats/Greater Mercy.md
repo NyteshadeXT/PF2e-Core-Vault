@@ -21,7 +21,7 @@ license: OGL
 * * *
 Your faith enhances your ability to remove conditions.
 
-When you use [[Feats/Mercy|Mercy]], you can instead attempt to counteract the [[Conditions/Blinded|Blinded]], [[Conditions/Deafened|Deafened]], [[Conditions/Sickened 1|Sickened]], or [[Conditions/Slowed 1|Slowed]] conditions.
+When you use [[Mercy|Mercy]], you can instead attempt to counteract the [[Conditions/Blinded|Blinded]], [[Conditions/Deafened|Deafened]], [[Conditions/Sickened 1|Sickened]], or [[Conditions/Slowed 1|Slowed]] conditions.
 
 *Source: Pathfinder Core Rulebook*
 *OGL*

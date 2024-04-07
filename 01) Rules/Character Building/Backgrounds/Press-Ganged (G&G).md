@@ -20,7 +20,7 @@ Was it five shots or six? It doesn't really matter in the end, because after tho
 
 Choose two ability boosts. One must be to **Strength** or **Constitution**, and one is a free ability boost.
 
-You're trained in the Athletics skill and the Labor Lore skill. You gain the [[Feats/Armor Assist|Armor Assist]] skill feat.
+You're trained in the Athletics skill and the Labor Lore skill. You gain the [[Armor Assist|Armor Assist]] skill feat.
 
 *Source: Pathfinder Guns & Gears*
 *OGL*

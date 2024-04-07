@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by [[Feats/Emblazon Armament|Emblazon Armament]]
+Granted by [[Emblazon Armament|Emblazon Armament]]
 
 The wielder gains a +1 status bonus to damage rolls with the chosen weapon
 

@@ -21,7 +21,7 @@ To the common folk, the life of a noble seems one of idyllic luxury, but growing
 
 Choose two attribute boosts. One must be to **Intelligence** or **Charisma**, and one is a free attribute boost.
 
-You're trained in the Society skill and the Genealogy Lore or Heraldry Lore skill. You gain the [[Feats/Courtly Graces|Courtly Graces]] skill feat.
+You're trained in the Society skill and the Genealogy Lore or Heraldry Lore skill. You gain the [[Courtly Graces|Courtly Graces]] skill feat.
 
 *Source: Pathfinder Player Core*
 *ORC*

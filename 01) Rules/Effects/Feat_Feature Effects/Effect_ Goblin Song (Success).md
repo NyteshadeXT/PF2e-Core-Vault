@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by [[Feats/Goblin Song|Goblin Song]]
+Granted by [[Goblin Song|Goblin Song]]
 
 The creature takes a -1 status penalty to Perception checks and Will saves.
 

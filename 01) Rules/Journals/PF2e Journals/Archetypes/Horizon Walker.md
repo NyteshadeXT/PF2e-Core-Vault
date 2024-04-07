@@ -10,9 +10,9 @@ tags:
 # Horizon Walker
 Many long for the open road, but you prefer the trackless wild. You can find safe passage through the most inhospitable terrain in the world-icecaps, deserts, and similar environs are where you're comfortable. Your talents open untrod paths for you and help guide others through the wilderness.
 
-**Additional Feats** 10th [[Feats/Blind-Fight|Blind-Fight]], [[Feats/Terrain Master|Terrain Master]]; 12th [[Feats/Warden's Step|Warden's Step]]
+**Additional Feats** 10th [[Blind-Fight|Blind-Fight]], [[Terrain Master|Terrain Master]]; 12th [[Warden's Step|Warden's Step]]
 
-## [[Feats/Horizon Walker Dedication|Horizon Walker Dedication]] Feat 2
+## [[Horizon Walker Dedication|Horizon Walker Dedication]] Feat 2
 
 **Prerequisites** trained in Survival
 
@@ -22,7 +22,7 @@ You've mastered travel within a specific type of terrain. You gain the Favored T
 
 **Special** You can't select another dedication feat until you have gained two other feats from the Horizon Walker archetype.
 
-## [[Feats/Acclimatization|Acclimatization]] Feat 4
+## [[Acclimatization|Acclimatization]] Feat 4
 
 **Prerequisites** Horizon Walker Dedication
 
@@ -32,7 +32,7 @@ Your time spent in the hostile parts of the world has inured you to extreme clim
 
 When other creatures Follow the Expert with you as a guide in your favored terrain, they too treat temperature effects as one step less severe.
 
-## [[Feats/Sure Foot|Sure Foot]] Feat 4
+## [[Sure Foot|Sure Foot]] Feat 4
 
 **Prerequisites** Horizon Walker Dedication, expert in Acrobatics and Athletics
 
@@ -40,7 +40,7 @@ When other creatures Follow the Expert with you as a guide in your favored terra
 
 You know the secrets of moving in your favored terrain. You gain a +2 circumstance bonus to skill checks to move within your favored terrain, such as Acrobatics checks to Balance on ice, Athletics checks to Swim in rough water, Acrobatics checks to Fly in windy conditions, and so forth.
 
-## [[Feats/Perpetual Scout|Perpetual Scout]] Feat 6
+## [[Perpetual Scout|Perpetual Scout]] Feat 6
 
 **Prerequisites** Horizon Walker Dedication
 
@@ -48,7 +48,7 @@ You know the secrets of moving in your favored terrain. You gain a +2 circumstan
 
 You spot anything out of place in the areas you know best. While in your favored terrain, you always gain the benefits of the Scout exploration activity, even if you are performing another exploration activity. If you're legendary in Survival, you gain these benefits in any terrain.
 
-## [[Feats/Magical Adaptation|Magical Adaptation]] Feat 10
+## [[Magical Adaptation|Magical Adaptation]] Feat 10
 
 **Prerequisites** Horizon Walker Dedication
 
@@ -56,7 +56,7 @@ You spot anything out of place in the areas you know best. While in your favored
 
 When an obstacle bars your path, you pull a trick from your sleeve to overcome it. You can cast darkvision, spider climb, and 4th-rank water breathing as innate primal spells, each once per day.
 
-## [[Feats/Wild Strider|Wild Strider]] Feat 12
+## [[Wild Strider|Wild Strider]] Feat 12
 
 **Prerequisites** Horizon Walker Dedication
 

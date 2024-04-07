@@ -10,7 +10,7 @@ tags:
 # Scroll Trickster
 Magic has long been written down, and in myriad forms. From the classic rolled parchment to strings tied with a hundred intricate knots, from baked clay tablets covered with incisions to bound collections of bamboo slips, magic is everywhere. You just need to know how to read it.
 
-## [[Feats/Scroll Trickster Dedication|Scroll Trickster Dedication]] Feat 2
+## [[Scroll Trickster Dedication|Scroll Trickster Dedication]] Feat 2
 
 **Prerequisites** trained in Arcana, Nature, Occultism, or Religion
 
@@ -20,7 +20,7 @@ You've studied scrolls in depth. This might have been a comprehensive education 
 
 **Special** You can't select another dedication feat until you have gained two other feats from the Scroll Trickster archetype.
 
-## [[Feats/Basic Scroll Cache|Basic Scroll Cache]] Feat 6
+## [[Basic Scroll Cache|Basic Scroll Cache]] Feat 6
 
 **Prerequisites** Scroll Trickster Dedication
 
@@ -30,7 +30,7 @@ You have a vast and overflowing collection of scroll scraps, riddled with errors
 
 At 8th level, add a second temporary scroll containing a 2nd-rank spell.
 
-## [[Feats/Skim Scroll|Skim Scroll]] Feat 8
+## [[Skim Scroll|Skim Scroll]] Feat 8
 
 **Prerequisites** Scroll Trickster Dedication
 
@@ -38,7 +38,7 @@ At 8th level, add a second temporary scroll containing a 2nd-rank spell.
 
 You can activate the magic of a scroll with a cursory read as you draw it from your belt. You Interact to draw forth a scroll, then use Trick Magic Item on the scroll.
 
-## [[Feats/Expert Scroll Cache|Expert Scroll Cache]] Feat 12
+## [[Expert Scroll Cache|Expert Scroll Cache]] Feat 12
 
 **Prerequisites** Basic Scroll Cache
 
@@ -46,7 +46,7 @@ You can activate the magic of a scroll with a cursory read as you draw it from y
 
 Your scroll collection is more powerful. In addition to your daily scrolls from Basic Scroll Cache, add a scroll with a 3rd-rank spell. At 14th level, add a scroll with a 4th-rank spell. At 16th level, add a scroll with a 5th-rank spell.
 
-## [[Feats/Master Scroll Cache|Master Scroll Cache]] Feat 18
+## [[Master Scroll Cache|Master Scroll Cache]] Feat 18
 
 **Prerequisites** Expert Scroll Cache
 

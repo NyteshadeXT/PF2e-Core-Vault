@@ -8,4 +8,4 @@ tags:
 ---
 You never seemed to capture the attention of the crowds at the tavern as easily as this character did, so you worked hard to practice your showmanship.
 
-Add the [[Feats/Impressive Performance|Impressive Performance]] skill feat to your background options.
+Add the [[Impressive Performance|Impressive Performance]] skill feat to your background options.

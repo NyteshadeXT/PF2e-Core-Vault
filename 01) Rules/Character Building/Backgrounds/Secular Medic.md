@@ -24,7 +24,7 @@ You're from Rahadoum, where the Laws of Mortality taught you to reject the gods,
 
 Choose two ability boosts. One must be to **Wisdom** or **Dexterity**, and one is a free ability boost.
 
-You're trained in the Medicine skill and the Anatomy Lore skill. You gain the [[Feats/Battle Medicine|Battle Medicine]] skill feat.
+You're trained in the Medicine skill and the Anatomy Lore skill. You gain the [[Battle Medicine|Battle Medicine]] skill feat.
 
 *Source: Pathfinder Lost Omens: World Guide*
 *OGL*

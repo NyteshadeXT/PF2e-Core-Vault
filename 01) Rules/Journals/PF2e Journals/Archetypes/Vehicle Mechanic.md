@@ -24,7 +24,7 @@ Vehicle mechanics typically ply their trade to those who need to keep their vehi
 
 The vehicle mechanic plays best in a campaign where the PCs adventure together in one shared vehicle that the mechanic can enhance, such as in a pirate campaign on a single vessel. In this way, the vehicle mechanic archetype pairs excellently with a PC who has chosen the trick driver archetype. Vehicles are an element you should consider carefully before deciding to include, even in a guns and gears campaign. Vehicles are relatively complicated and can move very fast, which may make mapping encounters quite difficult. They can also move characters too far from the fight for other participants to respond. Think carefully before deciding whether to include the vehicle mechanic archetype, and make sure that vehicle use is right for your campaign's style and encounter area size.
 
-## [[Feats/Vehicle Mechanic Dedication|Vehicle Mechanic Dedication]] Feat 2
+## [[Vehicle Mechanic Dedication|Vehicle Mechanic Dedication]] Feat 2
 
 **Prerequisites** Intelligence +2, trained in Crafting
 
@@ -36,23 +36,23 @@ You are adept at designing and maintaining mechanical vehicles, and you lavish y
 
 ## Engine Bay Feat 4
 
-**Prerequisites** [[Feats/Vehicle Mechanic Dedication|Vehicle Mechanic Dedication]], expert in Crafting
+**Prerequisites** [[Vehicle Mechanic Dedication|Vehicle Mechanic Dedication]], expert in Crafting
 
 * * *
 
 You are practiced at working in vast garages of vehicles and can work on many machines at a time. When Repairing and spending the full 10 minutes, you can fix up to two objects. If you are a master in Crafting, you can fix up to four targets. If you're legendary in Crafting, you can fix up to eight targets. This feat has no effect when using Quick Repair or another ability to reduce the time spent Repairing.
 
-## [[Feats/Patch Job|Patch Job]] Feat 4
+## [[Patch Job|Patch Job]] Feat 4
 
-**Prerequisites** [[Feats/Vehicle Mechanic Dedication|Vehicle Mechanic Dedication]]
+**Prerequisites** [[Vehicle Mechanic Dedication|Vehicle Mechanic Dedication]]
 
 * * *
 
-You can patch up damage to an object with a quick fix. You gain the [[Feats/Improvised Repair|Improvised Repair]] general feat. When you use Improvised Repair, you can attempt a Crafting check with the same DC as Repair. If you succeed, you can use the object as a normal object of its type until it takes damage rather than as a shoddy object of its type.
+You can patch up damage to an object with a quick fix. You gain the [[Improvised Repair|Improvised Repair]] general feat. When you use Improvised Repair, you can attempt a Crafting check with the same DC as Repair. If you succeed, you can use the object as a normal object of its type until it takes damage rather than as a shoddy object of its type.
 
-## [[Feats/Superior Propulsion|Superior Propulsion]] Feat 6
+## [[Superior Propulsion|Superior Propulsion]] Feat 6
 
-**Prerequisites** [[Feats/Vehicle Mechanic Dedication|Vehicle Mechanic Dedication]]
+**Prerequisites** [[Vehicle Mechanic Dedication|Vehicle Mechanic Dedication]]
 
 * * *
 
@@ -72,25 +72,25 @@ By experimenting with the effects of momentum gained from your signature vehicle
 
 **Wind** The draft of the wind helps the vehicle turn. During this movement, your signature vehicle can turn normally, rather than needing to move in a straight line as normal for a 2- or 3-action Drive.
 
-## [[Feats/Efficient Controls|Efficient Controls]] Feat 7
+## [[Efficient Controls|Efficient Controls]] Feat 7
 
-**Prerequisites** [[Feats/Vehicle Mechanic Dedication|Vehicle Mechanic Dedication]], master in Crafting
+**Prerequisites** [[Vehicle Mechanic Dedication|Vehicle Mechanic Dedication]], master in Crafting
 
 * * *
 
 By reducing redundant systems and streamlining essential functions, you have made it easier for the vehicle to operate with fewer crew. Reduce the number of crew required to operate your signature vehicle by 25%. For example, you would reduce a sailing ship from needing 1 pilot and 8 crew to 1 pilot and 6 crew. This adjustment only affects the number of crew needed to operate the vehicle; it doesn't reduce the vehicle's need for a pilot.
 
-## [[Feats/Impervious Vehicle|Impervious Vehicle]] Feat 8
+## [[Impervious Vehicle|Impervious Vehicle]] Feat 8
 
-**Prerequisites** [[Feats/Vehicle Mechanic Dedication|Vehicle Mechanic Dedication]]
+**Prerequisites** [[Vehicle Mechanic Dedication|Vehicle Mechanic Dedication]]
 
 * * *
 
 From armor plating and flexible components, to reinforced materials and backup redundant functionality, you have built safeguards to protect your vehicle from the rigors of combat. Your signature vehicle gains a +1 circumstance bonus to AC and Fortitude saves, and increases its Hit Points by an amount equal to twice your level.
 
-## [[Feats/Miraculous Flight|Miraculous Flight]] Feat 18
+## [[Miraculous Flight|Miraculous Flight]] Feat 18
 
-**Prerequisites** [[Feats/Vehicle Mechanic Dedication|Vehicle Mechanic Dedication]]
+**Prerequisites** [[Vehicle Mechanic Dedication|Vehicle Mechanic Dedication]]
 
 * * *
 

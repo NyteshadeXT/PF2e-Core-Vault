@@ -19,7 +19,7 @@ license: OGL
 
 
 
-You're exceptional in your use of two weapons. You gain the [[Feats/Double Slice|Double Slice]] fighter feat. This serves as Double Slice for the purpose of meeting prerequisites.
+You're exceptional in your use of two weapons. You gain the [[Double Slice|Double Slice]] fighter feat. This serves as Double Slice for the purpose of meeting prerequisites.
 
 **Special** You can't select another dedication feat until you gain two other feats from the [[Compendium.pf2e.journals.JournalEntry.vx5FGEG34AxI2dow.JournalEntryPage.sAFWD8D0RKH4m25n|Dual-Weapon Warrior]] archetype.
 

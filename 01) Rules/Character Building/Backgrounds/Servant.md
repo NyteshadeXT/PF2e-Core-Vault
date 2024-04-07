@@ -20,7 +20,7 @@ You held a role of servitude, waiting on nobles and engendering their trust as o
 
 Choose two ability boosts. One must be to **Dexterity** or **Charisma**, and one is a free ability boost.
 
-You're trained in the Society skill and the Labor Lore skill. You gain the [[Feats/Read Lips|Read Lips]] skill feat.
+You're trained in the Society skill and the Labor Lore skill. You gain the [[Read Lips|Read Lips]] skill feat.
 
 *Source: Pathfinder Advanced Player's Guide*
 *OGL*

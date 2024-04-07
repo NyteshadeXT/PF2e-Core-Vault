@@ -21,7 +21,7 @@ license: OGL
 
 **Activate** `pf2:1` Interact
 
-Some mages carry vials of djezet for its magic-enhancing properties. When you drink a _djezet dose_, if your next action is to Cast a Spell, you can apply the effects of the [[Feats/Reach Spell|Reach Spell]] or [[Feats/Widen Spell|Widen Spell]] metamagic feats.
+Some mages carry vials of djezet for its magic-enhancing properties. When you drink a _djezet dose_, if your next action is to Cast a Spell, you can apply the effects of the [[Reach Spell|Reach Spell]] or [[Widen Spell|Widen Spell]] metamagic feats.
 
 * * *
 

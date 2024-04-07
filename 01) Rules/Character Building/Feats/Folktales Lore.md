@@ -19,7 +19,7 @@ license: OGL
 
 **Prerequisites** Folklorist Dedication
 * * *
-You can pull bits of wisdom from any tale. You become trained in Folktales Lore, a special Lore skill that can be used only to Recall Knowledge, but on any topic. If you fail a check to Recall Knowledge with Folktales Lore, you get the effects of the [[Feats/Dubious Knowledge|Dubious Knowledge]] skill feat.
+You can pull bits of wisdom from any tale. You become trained in Folktales Lore, a special Lore skill that can be used only to Recall Knowledge, but on any topic. If you fail a check to Recall Knowledge with Folktales Lore, you get the effects of the [[Dubious Knowledge|Dubious Knowledge]] skill feat.
 
 If you are legendary in the Performance skill, you gain expert proficiency in Folktales Lore, but you can't increase your proficiency rank in Folktales Lore by any other means.
 

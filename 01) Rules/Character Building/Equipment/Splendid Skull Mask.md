@@ -17,7 +17,7 @@ license: OGL
 **Bulk** 0; **Size** med
 **Usage** wornmask
 
-Prerequisite: [[Feats/Skull Creeper|Skull Creeper]].
+Prerequisite: [[Skull Creeper|Skull Creeper]].
 
 The mask grants you a +1 item bonus to Intimidation.
 

@@ -16,7 +16,7 @@ Good captivators use their gifts and skills to bring people together. They might
 
 Evil captivators manipulate others to achieve status, wealth, and power. They have no qualms about deceiving someone or using their magic to cause harm. Evil captivators are dangerous tricksters whose enchantments and illusions make them seem harmless, unimportant, or friendly. The slick politician, the devious con artist, the cunning courtier—these are all roles that an evil captivator can easily assume.
 
-## [[Feats/Captivator Dedication|Captivator Dedication]] Feat 4
+## [[Captivator Dedication|Captivator Dedication]] Feat 4
 
 **Prerequisites** Charisma +2, trained in Deception or Diplomacy
 
@@ -28,25 +28,25 @@ Choose two cantrips from the occult list; each cantrip must be from either the e
 
 **Special** You can't select another dedication feat until you have gained two other feats from the captivator archetype.
 
-## [[Feats/Basic Captivator Spellcasting|Basic Captivator Spellcasting]] Feat 4
+## [[Basic Captivator Spellcasting|Basic Captivator Spellcasting]] Feat 4
 
-**Prerequisites** [[Feats/Captivator Dedication|Captivator Dedication]]
+**Prerequisites** [[Captivator Dedication|Captivator Dedication]]
 
 * * *
 
 Your innate ability to fascinate others develops into full-fledged spellcasting. This spellcasting comes naturally and instinctively to you, rather than as a product of training. Choose a 1st-rank occult spell from either the enchantment or illusion school. You can Cast this Spell as an occult innate spell. At 6th level, you gain a 2nd-rank spell, and at 8th level, you gain a 3rd-rank spell. Each of these spells must be from either the enchantment or illusion school.
 
-## [[Feats/Captivating Intensity|Captivating Intensity]] Feat 6
+## [[Captivating Intensity|Captivating Intensity]] Feat 6
 
-**Prerequisites** [[Feats/Basic Captivator Spellcasting|Basic Captivator Spellcasting]]
+**Prerequisites** [[Basic Captivator Spellcasting|Basic Captivator Spellcasting]]
 
 * * *
 
 Your ability to captivate others has grown, and you can use your captivator abilities more often. You seem to never run out of the ability to fascinate or distract. You can cast each occult innate spell granted by captivator archetype feats one additional time per day. You can do this for spells of all levels granted, other than your two highest spell ranks from non-cantrip captivator spells. If you have Heightened Captivation, you can Cast the chosen Spell a second time each day, though one of the two times you cast it, it's heightened two levels lower than your highest level of non-cantrip captivator spells, as long as the spell can be cast at that spell rank.
 
-## [[Feats/Countercharm|Countercharm]] Feat 8
+## [[Countercharm|Countercharm]] Feat 8
 
-**Prerequisites** [[Feats/Basic Captivator Spellcasting|Basic Captivator Spellcasting]]
+**Prerequisites** [[Basic Captivator Spellcasting|Basic Captivator Spellcasting]]
 
 **Trigger** A creature Casts a Spell from the enchantment or illusion school.
 
@@ -56,9 +56,9 @@ Your ability to captivate others has grown, and you can use your captivator abil
 
 Your enchantments and illusions are so dominant that you can use them to counteract similar magic cast by others. When a foe casts an enchantment or illusion spell and you can see its manifestations, you can use your own innate magic to disrupt it. You lose an innate, non-cantrip spell of the same school as the triggering spell as if you had Cast the Spell. You then attempt to counteract the triggering spell with your spell.
 
-## [[Feats/Heightened Captivation|Heightened Captivation]] Feat 8
+## [[Heightened Captivation|Heightened Captivation]] Feat 8
 
-**Prerequisites** [[Feats/Captivator Dedication|Captivator Dedication]]
+**Prerequisites** [[Captivator Dedication|Captivator Dedication]]
 
 * * *
 
@@ -66,17 +66,17 @@ You can infuse your enchantments and illusions with more power. Choose one of yo
 
 **Special** You can select this feat more than once. Each time you select it, you choose a different spell.
 
-## [[Feats/Expert Captivator Spellcasting|Expert Captivator Spellcasting]] Feat 10
+## [[Expert Captivator Spellcasting|Expert Captivator Spellcasting]] Feat 10
 
-**Prerequisites** [[Feats/Basic Captivator Spellcasting|Basic Captivator Spellcasting]]
+**Prerequisites** [[Basic Captivator Spellcasting|Basic Captivator Spellcasting]]
 
 * * *
 
 You learn more powerful spells to enchant and deceive. You learn a 4th-rank occult spell. At 12th level, you learn a 5th-rank spell, and at 14th level, you learn a 6th-rank spell. Each of these spells must come from either the enchantment or illusion school. You Cast these Spells as occult innate spells. You become an expert with spell attack rolls and spell DCs for occult spells.
 
-## [[Feats/Reactive Charm|Reactive Charm]] Feat 10
+## [[Reactive Charm|Reactive Charm]] Feat 10
 
-**Prerequisites** [[Feats/Captivator Dedication|Captivator Dedication]]
+**Prerequisites** [[Captivator Dedication|Captivator Dedication]]
 
 **Frequency** once per day
 
@@ -86,9 +86,9 @@ You learn more powerful spells to enchant and deceive. You learn a 4th-rank occu
 
 You're so charming and distracting that when pressed, you can cast a simple enchantment in time to foil an attacker. You cast any of your 1st-rank enchantment spells that normally take two actions or fewer to cast. This takes effect before the triggering spell or attack, and if the attacker is affected by your spell, it can make different decisions based on the effects (for instance, if you charm the attacker and it becomes friendly to you, it can choose a different target than you for its attack or spell). The attacking creature must be in range of your chosen spell, and if your spell requires targets, the attacking creature must be a valid target. Your spell affects only the attacking creature, even if it would normally affect more targets or an area.
 
-## [[Feats/Effortless Captivation|Efortless Captivation]] Feat 14
+## [[Effortless Captivation|Efortless Captivation]] Feat 14
 
-**Prerequisites** [[Feats/Captivator Dedication|Captivator Dedication]]
+**Prerequisites** [[Captivator Dedication|Captivator Dedication]]
 
 **Trigger** Your turn begins.
 
@@ -96,17 +96,17 @@ You're so charming and distracting that when pressed, you can cast a simple ench
 
 You maintain your innate enchantments and illusions with hardly a thought. You immediately gain the effects of the Sustain a Spell action, which you can use only to extend the duration of an enchantment or illusion spell.
 
-## [[Feats/Master Captivator Spellcasting|Master Captivator Spellcasting]] Feat 16
+## [[Master Captivator Spellcasting|Master Captivator Spellcasting]] Feat 16
 
-**Prerequisites** [[Feats/Expert Captivator Spellcasting|Expert Captivator Spellcasting]]
+**Prerequisites** [[Expert Captivator Spellcasting|Expert Captivator Spellcasting]]
 
 * * *
 
 You master the most powerful spells that enchant and deceive. You learn a 7th-rank occult spell. At 18th level, you learn an 8th-rank spell, and at 20th level, you learn a 9th-rank spell. Each of these spells must come from either the enchantment or illusion school. You cast these spells as occult innate spells. You become a master with spell attack rolls and spell DCs for occult spells.
 
-## [[Feats/Look Again|Look Again]] Feat 18
+## [[Look Again|Look Again]] Feat 18
 
-**Prerequisites** [[Feats/Captivator Dedication|Captivator Dedication]]
+**Prerequisites** [[Captivator Dedication|Captivator Dedication]]
 
 **Frequency** once per day
 

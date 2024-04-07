@@ -28,7 +28,7 @@ license: OGL
 
 * * *
 
-This wide strip of treated lizard hide is wrapped around the grip or stock of the affixed weapon, augmenting the unease that your gunshot creates. When you activate it, you fire your gun into the air with the effects of [[Feats/Warning Shot|Warning Shot]]. If you already have the Warning Shot feat, the target doesn't become temporarily immune to your Demoralize, potentially allowing you to Demoralize them again.
+This wide strip of treated lizard hide is wrapped around the grip or stock of the affixed weapon, augmenting the unease that your gunshot creates. When you activate it, you fire your gun into the air with the effects of [[Warning Shot|Warning Shot]]. If you already have the Warning Shot feat, the target doesn't become temporarily immune to your Demoralize, potentially allowing you to Demoralize them again.
 
 *Source: Pathfinder Guns & Gears*
 *OGL*

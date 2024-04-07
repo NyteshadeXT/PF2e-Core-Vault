@@ -19,7 +19,7 @@ license: OGL
 
 **Prerequisites** Scroll Trickster Dedication
 * * *
-You can activate the magic of a scroll with a cursory read as you draw it from your belt. You [[Actions/Interact|Interact]] to draw forth a scroll, then use [[Feats/Trick Magic Item|Trick Magic Item]] on the scroll.
+You can activate the magic of a scroll with a cursory read as you draw it from your belt. You [[Actions/Interact|Interact]] to draw forth a scroll, then use [[Trick Magic Item|Trick Magic Item]] on the scroll.
 
 *Source: Pathfinder Advanced Player's Guide*
 *OGL*

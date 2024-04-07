@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by: [[Feats/Disruptive Stance|Disruptive Stance]]
+Granted by: [[Disruptive Stance|Disruptive Stance]]
 
 The slightest distraction can provoke your wrath, and you're prepared to foil enemies' actions.
 

@@ -19,7 +19,7 @@ license: OGL
 
 **Frequency** once per hour
 
-**Requirements** You were within the area of an inhaled poison within the last minute; [[Feats/Iron Lung|Iron Lung]]
+**Requirements** You were within the area of an inhaled poison within the last minute; [[Iron Lung|Iron Lung]]
 
 * * *
 

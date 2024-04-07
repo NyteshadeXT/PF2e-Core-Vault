@@ -20,7 +20,7 @@ You might have fought for fairer ore distribution for the Metalmaker's Union, hi
 
 Choose two ability boosts. One must be to **Intelligence** or **Charisma**, the other is a free boost.
 
-You're trained in the Diplomacy skill and the Legal Lore skill. You gain the [[Feats/Contract Negotiator|Contract Negotiator]] skill feat.
+You're trained in the Diplomacy skill and the Legal Lore skill. You gain the [[Contract Negotiator|Contract Negotiator]] skill feat.
 
 *Source: Pathfinder Lost Omens: Highhelm*
 *OGL*

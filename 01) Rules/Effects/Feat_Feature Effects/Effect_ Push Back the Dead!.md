@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by [[Feats/Push Back the Dead!|Push Back the Dead!]]
+Granted by [[Push Back the Dead!|Push Back the Dead!]]
 
 The ally gains a +2 circumstance bonus to saves against effects originating from undead. It also gains resistance to damage from Strikes made by undead creatures.
 

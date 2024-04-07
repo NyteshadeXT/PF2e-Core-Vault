@@ -17,7 +17,7 @@ license: OGL
 
 
 
-Granted by [[Feats/Assume Earth's Mantle|Assume Earth's Mantle]]
+Granted by [[Assume Earth's Mantle|Assume Earth's Mantle]]
 
 Enormous pieces of rock cluster around your body. You can Dismiss this impulse.
 

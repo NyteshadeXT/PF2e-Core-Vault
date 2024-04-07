@@ -21,7 +21,7 @@ license: ORC
 
 **Prerequisites** Dragon Shape; Untamed Form
 * * *
-You transcend the limitations of form. Once per day you can cast [[Spells/Nature Incarnate|Nature Incarnate]], even if you don't have it prepared, to transform into a kaiju. If you have [[Feats/Plant Shape|Plant Shape]], you can choose to transform into a green man instead. You also gain the [[Actions/True Shapeshift|True Shapeshift]] activity.
+You transcend the limitations of form. Once per day you can cast [[Spells/Nature Incarnate|Nature Incarnate]], even if you don't have it prepared, to transform into a kaiju. If you have [[Plant Shape|Plant Shape]], you can choose to transform into a green man instead. You also gain the [[Actions/True Shapeshift|True Shapeshift]] activity.
 
 *Source: Pathfinder Player Core*
 *ORC*

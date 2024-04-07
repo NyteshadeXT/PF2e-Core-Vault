@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by [[Feats/Heaven's Thunder|Heaven's Thunder]]
+Granted by [[Heaven's Thunder|Heaven's Thunder]]
 
 Until the end of your next turn, your unarmed attacks and any monk weapons you wield deal additional electricity and sonic damage; the amount of each damage type is equal to the number of damage dice for the weapon or unarmed attack. Any creature who successfully Grapples you or is successfully Grappled by you takes this damage immediately after the Grapple check is resolved (using the number of damage dice of your unarmed attack to determine the damage dealt).
 

@@ -21,7 +21,7 @@ license: OGL
 
 **Prerequisites** trained in Survival
 * * *
-You've received the basic training developed for all Greenwatch recruits. You become an expert in Survival and gain the [[Feats/Experienced Tracker|Experienced Tracker]] and [[Feats/Survey Wildlife|Survey Wildlife]] skill feats.
+You've received the basic training developed for all Greenwatch recruits. You become an expert in Survival and gain the [[Experienced Tracker|Experienced Tracker]] and [[Survey Wildlife|Survey Wildlife]] skill feats.
 
 *Source: Pathfinder Lost Omens: Impossible Lands*
 *OGL*

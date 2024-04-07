@@ -22,7 +22,7 @@ on you a bit, so you keep a wary eye on other people—particularly around the f
 
 Choose two ability boosts. One must be to **Constitution** or **Charisma**, and one is a free ability boost.
 
-You're trained in the Diplomacy skill and the Otari Lore skill. You gain the [[Feats/Hobnobber|Hobnobber]] skill feat.
+You're trained in the Diplomacy skill and the Otari Lore skill. You gain the [[Hobnobber|Hobnobber]] skill feat.
 
 *Source: Pathfinder: Abomination Vaults Player's Guide*
 *OGL*

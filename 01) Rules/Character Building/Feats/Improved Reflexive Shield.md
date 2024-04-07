@@ -20,7 +20,7 @@ license: ORC
 
 **Prerequisites** Reflexive Shield
 * * *
-Your shield can help save nearby allies. When you use [[Feats/Shield Block|Shield Block]] against damage resulting from a Reflex save, adjacent allies who would take damage due to Reflex saves against the same effect also benefit from the damage reduction.
+Your shield can help save nearby allies. When you use [[01) Rules/Character Building/Feats/Shield Block|Shield Block]] against damage resulting from a Reflex save, adjacent allies who would take damage due to Reflex saves against the same effect also benefit from the damage reduction.
 
 *Source: Pathfinder Player Core*
 *ORC*

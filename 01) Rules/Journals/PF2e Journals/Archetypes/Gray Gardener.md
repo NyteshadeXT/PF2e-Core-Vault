@@ -16,9 +16,9 @@ Your vigilante identity is that of a Gray Gardener, and you must be wearing a ma
 
 ### Vigilante Archetype
 
-The Gray Gardener is accessed using the [[Feats/Vigilante Dedication|Vigilante Dedication]] feat, along with membership in the Gray Gardeners.
+The Gray Gardener is accessed using the [[Vigilante Dedication|Vigilante Dedication]] feat, along with membership in the Gray Gardeners.
 
-## [[Feats/Executioner Weapon Training|Executioner Weapon Training]] Feat 4
+## [[Executioner Weapon Training|Executioner Weapon Training]] Feat 4
 
 **Prerequisites** Vigilante Dedication; member of the Gray Gardeners
 
@@ -28,7 +28,7 @@ Your Gray Gardener training has made you deeply skilled with the weapons that ex
 
 Whenever you gain a class feature that grants you expert or greater proficiency with a given weapon or weapons, you also gain that proficiency for these weapons.
 
-## [[Feats/Harsh Judgement|Harsh Judgement]] Feat 4
+## [[Harsh Judgement|Harsh Judgement]] Feat 4
 
 **Prerequisites** Vigilante Dedication; member of the Gray Gardeners
 
@@ -38,7 +38,7 @@ Choose one creature you can see, and loudly declare the creature's life forfeit 
 
 You typically can use Harsh Judgment only during an encounter, and if you try to use it to declare someone's life forfeit during exploration or downtime, you are likely to start an encounter.
 
-## [[Feats/Voice of Authority|Voice of Authority]] Feat 4
+## [[Voice of Authority|Voice of Authority]] Feat 4
 
 **Prerequisites** expert in Intimidation; Vigilante Dedication; member of the Gray Gardeners
 
@@ -48,7 +48,7 @@ You easily command the attention of others, and when the time comes to turn thre
 
 Your voice be heard easily by any creatures within 300 feet if you wish, regardless of the level of ambient noise, although your voice can't penetrate [[Spells/Silence|Silence]] or similar effect. If you roll Intimidation for initiative, on the first round of combat, creatures that haven't acted yet are [[Conditions/Off-Guard|Off-Guard]] to you.
 
-## [[Feats/Discerning Gaze|Discerning Gaze]] Feat 6
+## [[Discerning Gaze|Discerning Gaze]] Feat 6
 
 **Prerequisites** Vigilante Dedication; member of the Gray Gardeners
 
@@ -58,7 +58,7 @@ You have a sense for when people are lying. You gain a +1 circumstance bonus on 
 
 If you use Sense Motive on a creature you have currently condemned with Harsh Judgment, your GM rolls the Perception check twice and takes the higher result (this is a fortune effect).
 
-## [[Feats/Frightful Condemnation|Frightful Condemnation]] Feat 6
+## [[Frightful Condemnation|Frightful Condemnation]] Feat 6
 
 **Prerequisites** Harsh Judgement; Vigilante Dedication; member of the Gray Gardeners
 
@@ -70,7 +70,7 @@ If you use Sense Motive on a creature you have currently condemned with Harsh Ju
 
 Your willingness to follow through on your pitiless judgment is frightful to the person you have condemned, and they begin to dread what you will do to them next. Your condemned foe is [[Conditions/Frightened 1|Frightened 1]], or [[Conditions/Frightened 1|Frightened 2]] if the triggering Strike was a critical hit.
 
-## [[Feats/Accurate Swing|Accurate Swing]] Feat 8
+## [[Accurate Swing|Accurate Swing]] Feat 8
 
 **Prerequisites** Harsh Judgement; Vigilante Dedication; member of the Gray Gardeners
 
@@ -78,7 +78,7 @@ Your willingness to follow through on your pitiless judgment is frightful to the
 
 You strike cleanly with wide, sweeping attacks to inflict maximum damage, taking advantage of your judged foe's fear to land a felling blow. If you Strike a creature you condemned with Harsh Judgment that has the frightened condition with a sweep melee weapon or a sweep unarmed attack, you gain a circumstance bonus to the Strike's damage equal to the number of weapon damage dice your weapon deals.
 
-## [[Feats/Gardener's Resolve|Gardener's Resolve]] Feat 8
+## [[Gardener's Resolve|Gardener's Resolve]] Feat 8
 
 **Prerequisites** Vigilante Dedication; member of the Gray Gardeners
 
@@ -90,7 +90,7 @@ You strike cleanly with wide, sweeping attacks to inflict maximum damage, taking
 
 The Gray Gardeners are known for having nerves of steel and an unbreakable resolve. When you would be overwhelmed by terror, you can draw upon this resolve to keep your composure and remain undaunted. You take mental damage equal to twice your level, and the saving throw is a success.
 
-## [[Feats/Strident Command|Strident Command]] Feat 10
+## [[Strident Command|Strident Command]] Feat 10
 
 **Prerequisites** master in Intimidation; Vigilante Dedication; Voice of Authority; member of the Gray Gardeners
 
@@ -100,7 +100,7 @@ The common folk heed your demands, and though your true foes rarely bend to your
 
 If you're in your vigilante identity, you can command the target only to approach you, drop prone, or stand in place. If you're in your social identity, you can command the target only to run away or release what the target is holding.
 
-## [[Feats/Execution|Execution]] Feat 14
+## [[Execution|Execution]] Feat 14
 
 **Prerequisites** Harsh Judgment; Vigilante Dedication; member of the Gray Gardeners
 
@@ -110,7 +110,7 @@ If you're in your vigilante identity, you can command the target only to approac
 
 You swing wide, attempting to behead your condemned foe. Make a melee Strike against your condemned foe. If you hit, your condemned foe takes 8d6 extra precision damage with a basic Fortitude save against your class DC or spell DC, whichever is higher. If the condemned foe is reduced to 0 Hit Points by the execution and requires a head to live, they die. For creatures with multiple heads, this usually kills the creature only if you sever its last head. The creature then becomes temporarily immune to your Execution for 1 day.
 
-## [[Feats/Terrifying Countenance|Terrifying Countenance]] Feat 18
+## [[Terrifying Countenance|Terrifying Countenance]] Feat 18
 
 **Prerequisites** Vigilante Dedication; member of the Gray Gardeners
 

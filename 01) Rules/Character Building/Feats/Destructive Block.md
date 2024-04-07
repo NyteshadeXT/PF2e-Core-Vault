@@ -21,7 +21,7 @@ license: OGL
 * * *
 You can protect yourself more effectively, at the expense of your shield.
 
-When you [[Feats/Shield Block|Shield Block]], you can reduce the damage to yourself by double the shield's Hardness, but if you do, the shield takes double the normal amount of damage it would have taken (before applying its Hardness).
+When you [[01) Rules/Character Building/Feats/Shield Block|Shield Block]], you can reduce the damage to yourself by double the shield's Hardness, but if you do, the shield takes double the normal amount of damage it would have taken (before applying its Hardness).
 
 You can't use Destructive Block if your shield can't be broken or destroyed, such as if you're using an [[Equipment/Indestructible Shield|Indestructible Shield]].
 

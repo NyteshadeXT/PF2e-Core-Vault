@@ -8,4 +8,4 @@ tags:
 ---
 You were once secretly certain that this character stole a cherished valuable from you. You were determined to steal it back, until you learned that this character wasn't in fact to blame and you'd only misplaced the item.
 
-Add the [[Feats/Pickpocket|Pickpocket]] skill feat to your background options.
+Add the [[Pickpocket|Pickpocket]] skill feat to your background options.

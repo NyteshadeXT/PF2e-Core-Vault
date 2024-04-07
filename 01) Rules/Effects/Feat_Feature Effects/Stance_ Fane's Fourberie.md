@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by: [[Feats/Fane's Fourberie|Fane's Fourberie]]
+Granted by: [[Fane's Fourberie|Fane's Fourberie]]
 
 Stella Fane has perfected a technique for using playing cards as weapons that's one part sleight of hand and one part magic.
 

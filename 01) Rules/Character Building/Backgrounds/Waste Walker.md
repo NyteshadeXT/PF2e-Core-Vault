@@ -20,7 +20,7 @@ Whether you grew up in the Mana Wastes or another similarly desolate place, you 
 
 Choose two ability boosts. One boost must be to **Strength** or **Wisdom**, and one is a free ability boost.
 
-You're trained in the Survival skill, and Mana Wastes Lore (or another similar Lore skill associated with the wastes where you grew up). You gain the [[Feats/Forager|Forager]] skill feat.
+You're trained in the Survival skill, and Mana Wastes Lore (or another similar Lore skill associated with the wastes where you grew up). You gain the [[Forager|Forager]] skill feat.
 
 *Source: Pathfinder Guns & Gears*
 *OGL*

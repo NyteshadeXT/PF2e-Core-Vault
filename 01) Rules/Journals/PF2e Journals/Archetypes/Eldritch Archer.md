@@ -12,7 +12,7 @@ While many archers see their craft as an art form as much as a means of battle, 
 
 While having some spellcasting ability increases your potential flexibility and power as an eldritch archer, you might learn the secrets of these arts without being independently skilled in spellcasting, instead learning the magic of the bow for its own sake.
 
-**Additional Feats** 20th [[Feats/Impossible Volley (Eldritch Archer)|Impossible Volley (Eldritch Archer)]]
+**Additional Feats** 20th [[Impossible Volley (Eldritch Archer)|Impossible Volley (Eldritch Archer)]]
 
 **ELVEN ARROWS**
 
@@ -20,7 +20,7 @@ The ability to infuse eldritch energy into bow shots is often seen as a kind of 
 
 Some whisper that remote regions to the south have their own dedications that rely on elemental archery, while the strange and shadowy hunters of the Uskwood use a form that relies on tenebrous shadow magic. Disturbing rumors circulate claiming that devils have developed a diabolical form of magical archery that can trap the soul and bind it to Hell, albeit for a short time. Like any form of magic, the discipline of eldritch archery will continue to develop among its practitioners across the multiverse.
 
-## [[Feats/Eldritch Archer Dedication|Eldritch Archer Dedication]] Feat 6
+## [[Eldritch Archer Dedication|Eldritch Archer Dedication]] Feat 6
 
 **Prerequisites** expert in at least one type of bow
 
@@ -34,7 +34,7 @@ If you already cast spells from spell slots, you learn one additional cantrip fr
 
 **Special** You can't select another dedication feat until you have gained two other feats from the eldritch archer archetype.
 
-## [[Feats/Basic Eldritch Archer Spellcasting|Basic Eldritch Archer Spellcasting]] Feat 8
+## [[Basic Eldritch Archer Spellcasting|Basic Eldritch Archer Spellcasting]] Feat 8
 
 **Prerequisites** Eldritch Archer Dedication
 
@@ -42,7 +42,7 @@ If you already cast spells from spell slots, you learn one additional cantrip fr
 
 You gain the basic spellcasting benefits. Each time you gain a spell slot of a new level from this archetype, add a spell of the appropriate spell rank to your repertoire, either a common spell of your chosen tradition or another spell of that tradition you have learned or discovered.
 
-## [[Feats/Enchanting Arrow|Enchanting Arrow]] Feat 8
+## [[Enchanting Arrow|Enchanting Arrow]] Feat 8
 
 **Prerequisites** Eldritch Archer Dedication
 
@@ -50,7 +50,7 @@ You gain the basic spellcasting benefits. Each time you gain a spell slot of a n
 
 With a single whisper carried on the wind, you enchant your ammunition to make a foe more vulnerable to your attacks. Make a bow Strike. On a hit, the target takes an additional 2d6 mental damage. On a critical hit, the target also becomes stunned 1. The mental damage increases to 3d6 if your bow has a greater striking rune, or to 4d6 if your bow has a major striking rune.
 
-## [[Feats/Magic Arrow|Magic Arrow]] Feat 8
+## [[Magic Arrow|Magic Arrow]] Feat 8
 
 **Prerequisites** Eldritch Archer Dedication
 
@@ -64,7 +64,7 @@ When using Magic Arrow, you transform a non-magical arrow or bolt into a piece o
 
 **Special** You can select this feat multiple times. Each time you do, select three additional types of ammunition as described above.
 
-## [[Feats/Precious Arrow|Precious Arrow]] Feat 8
+## [[Precious Arrow|Precious Arrow]] Feat 8
 
 **Prerequisites** Eldritch Archer Dedication
 
@@ -72,7 +72,7 @@ When using Magic Arrow, you transform a non-magical arrow or bolt into a piece o
 
 You enchant a piece of ammunition with the magical essence of a precious material, allowing you to leverage certain creatures' weaknesses. Choose cold iron or silver; if you shoot the arrow before the end of your turn, it counts as that material. At 14th level, add adamantine to the list of materials you can choose from.
 
-## [[Feats/Expert Eldritch Archer Spellcasting|Expert Eldritch Archer Spellcasting]] Feat 12
+## [[Expert Eldritch Archer Spellcasting|Expert Eldritch Archer Spellcasting]] Feat 12
 
 **Prerequisites** Basic Eldritch Archer Spellcasting
 
@@ -80,7 +80,7 @@ You enchant a piece of ammunition with the magical essence of a precious materia
 
 You gain the expert spellcasting benefits.
 
-## [[Feats/Seeker Arrow|Seeker Arrow]] Feat 14
+## [[Seeker Arrow|Seeker Arrow]] Feat 14
 
 **Prerequisites** Eldritch Archer Dedication
 
@@ -88,7 +88,7 @@ You gain the expert spellcasting benefits.
 
 Your shots zip around corners and fly at impossible angles to reach your target. Make a bow Strike against a foe you can see; the ammunition travels to your target, even around corners. You ignore the target's concealed condition and all cover.
 
-## [[Feats/Phase Arrow|Phase Arrow]] Feat 16
+## [[Phase Arrow|Phase Arrow]] Feat 16
 
 **Prerequisites** Eldritch Archer Dedication
 
@@ -98,7 +98,7 @@ Your shots zip around corners and fly at impossible angles to reach your target.
 
 You can concentrate an immense amount of magic to create a piece of ammunition that phases through everything but your target. Make a bow Strike against a foe who is observed or hidden to you (but not undetected). The ammunition travels to your target in a straight line, passing through any non-magical barriers or walls in its way, though magical barriers stop the arrow. The shot ignores all cover, the concealed condition, the hidden condition, and circumstance bonuses to AC from shields. It has a +4 status bonus to hit creatures wearing any type of armor. The Strike's damage can't be reduced with a Shield Block reaction using a non-magical shield.
 
-## [[Feats/Arrow of Death|Arrow of Death]] Feat 18
+## [[Arrow of Death|Arrow of Death]] Feat 18
 
 **Prerequisites** Eldritch Archer Dedication
 
@@ -108,7 +108,7 @@ You can concentrate an immense amount of magic to create a piece of ammunition t
 
 You modify an arrow or bolt to bring death to your target in a single potent hit. Make a bow Strike. On a hit, you deal an additional 10d10 precision damage. On a critical hit, the target must also succeed at a Fortitude saving throw against your class DC or spell DC, whichever is higher, or be immediately slain; this save has the death and incapacitation traits.
 
-## [[Feats/Master Eldritch Archer Spellcasting|Master Eldritch Archer Spellcasting]] Feat 18
+## [[Master Eldritch Archer Spellcasting|Master Eldritch Archer Spellcasting]] Feat 18
 
 **Prerequisites** Expert Eldritch Archer Spellcasting
 

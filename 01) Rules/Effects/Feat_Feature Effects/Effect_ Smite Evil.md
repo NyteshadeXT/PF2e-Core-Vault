@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by [[Feats/Smite Evil|Smite Evil]].
+Granted by [[Smite Evil|Smite Evil]].
 
 Until the start of your next turn, your Strikes with the weapon your blade ally inhabits against that foe deal an extra 4 spirit damage if the target is unholy, increasing to 6 if you have master proficiency with this weapon.
 

@@ -22,7 +22,7 @@ You might have family ties to one of Sandpoint's original founding families, whi
 
 Choose two attribute boosts. One must be to **Constitution** or **Wisdom**, and one is a free attribute boost.
 
-You're trained in the Society skill and the Sandpoint Lore skill. You gain the [[Feats/Hobnobber|Hobnobber]] skill feat.
+You're trained in the Society skill and the Sandpoint Lore skill. You gain the [[Hobnobber|Hobnobber]] skill feat.
 
 Increase the party's reputation with Townsfolk by 1 and reduce the party's reputation with Scarnetti Consortium by 1.
 

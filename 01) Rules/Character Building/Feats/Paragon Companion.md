@@ -11,7 +11,7 @@ license: OGL
 ---
 # Paragon Companion
 ## Feat 14
-### [[inventor]]
+### [[01) Rules/Character Building/Feats/Inventor]]
 
 **Category** class; 
 

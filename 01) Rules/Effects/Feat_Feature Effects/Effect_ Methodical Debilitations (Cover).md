@@ -17,7 +17,7 @@ license: ORC
 
 
 
-Granted by [[Feats/Methodical Debilitations|Methodical Debilitations]]
+Granted by [[Methodical Debilitations|Methodical Debilitations]]
 
 The target doesn't gain a circumstance bonus to AC from Raising a Shield, lesser cover, or standard cover; it gains a +2 circumstance bonus to AC only from greater cover or Taking Cover.
 

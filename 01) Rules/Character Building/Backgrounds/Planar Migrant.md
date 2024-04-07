@@ -21,7 +21,7 @@ Your birthplace was on one of the elemental planes, but you traveled to the Univ
 
 Choose two attribute boosts. One must be **Dexterity** or **Constitution**, and one is a free attribute boost.
 
-You're trained in the Athletics skill and one of the following lore skills: Plane of Air Lore, Plane of Earth Lore, Plane of Fire Lore, Plane of Metal Lore, Plane of Water Lore, or Plane of Wood Lore. You gain the [[Feats/Hefty Hauler|Hefty Hauler]] and [[Feats/Prescient Planner|Prescient Planner]] skill feats.
+You're trained in the Athletics skill and one of the following lore skills: Plane of Air Lore, Plane of Earth Lore, Plane of Fire Lore, Plane of Metal Lore, Plane of Water Lore, or Plane of Wood Lore. You gain the [[Hefty Hauler|Hefty Hauler]] and [[Prescient Planner|Prescient Planner]] skill feats.
 
 *Source: Pathfinder Rage of Elements*
 *OGL*

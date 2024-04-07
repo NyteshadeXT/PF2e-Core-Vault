@@ -21,7 +21,7 @@ license: ORC
 
 
 
-You can make an item from raw materials. You need the [[Feats/Alchemical Crafting|Alchemical Crafting]] skill feat to create alchemical items and the [[Feats/Magical Crafting|Magical Crafting]] feat to create magic items.
+You can make an item from raw materials. You need the [[Alchemical Crafting|Alchemical Crafting]] skill feat to create alchemical items and the [[Magical Crafting|Magical Crafting]] feat to create magic items.
 
 To craft an item, you must meet the following requirements:
 

@@ -24,7 +24,7 @@ You believe the city-states of Thuvia should be united into one nation under the
 
 Choose two ability boosts. One must be to **Strength** or **Charisma**, and one is a free ability boost.
 
-You're trained in the Intimidation skill and the Politics Lore skill. You gain the [[Feats/Quick Coercion|Quick Coercion]] skill feat.
+You're trained in the Intimidation skill and the Politics Lore skill. You gain the [[Quick Coercion|Quick Coercion]] skill feat.
 
 *Source: Pathfinder Lost Omens: World Guide*
 *OGL*

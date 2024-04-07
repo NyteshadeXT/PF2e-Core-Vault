@@ -22,7 +22,7 @@ You are still well-regarded by the Celebrants. Your party gains 1 Reputation Poi
 
 Choose two ability boosts. One must be to **Charisma** or **Dexterity**, and one is a free ability boost.
 
-You're trained in your choice of the Acrobatics or Performance skill. You gain a skill feat: [[Feats/Steady Balance|Steady Balance]] if you chose Acrobatics or [[Feats/Impressive Performance|Impressive Performance]] if you chose Performance. You're also trained in Urgathoa Lore.
+You're trained in your choice of the Acrobatics or Performance skill. You gain a skill feat: [[Steady Balance|Steady Balance]] if you chose Acrobatics or [[Impressive Performance|Impressive Performance]] if you chose Performance. You're also trained in Urgathoa Lore.
 
 *Source: Pathfinder: Blood Lords Player's Guide*
 *OGL*

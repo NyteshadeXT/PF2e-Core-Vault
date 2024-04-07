@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by [[Feats/Cut from the Air|Cut From The Air]].
+Granted by [[Cut from the Air|Cut From The Air]].
 
 You gain a +4 circumstance bonus to AC against the triggering attack.
 

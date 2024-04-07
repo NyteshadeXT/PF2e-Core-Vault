@@ -21,7 +21,7 @@ license: OGL
 
 **Prerequisites** Rain of Embers Stance
 * * *
-**Requirements** You are in [[Feats/Rain of Embers Stance|Rain of Embers Stance]].
+**Requirements** You are in [[Rain of Embers Stance|Rain of Embers Stance]].
 
 * * *
 

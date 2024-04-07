@@ -24,7 +24,7 @@ You are a child of the Bonuwat people, and the sea's salt flows through your vei
 
 Choose two ability boosts. One must be to **Strength** or **Wisdom**, and one is a free ability boost.
 
-You're trained in the Athletics skill and the Ocean Lore skill. You gain the [[Feats/Underwater Marauder|Underwater Marauder]] skill feat.
+You're trained in the Athletics skill and the Ocean Lore skill. You gain the [[Underwater Marauder|Underwater Marauder]] skill feat.
 
 *Source: Pathfinder Lost Omens: World Guide*
 *OGL*

@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by [[Feats/Pistolero's Challenge|Pistolero's Challenge]]
+Granted by [[Pistolero's Challenge|Pistolero's Challenge]]
 
 Both you and the opponent gain a +2 status bonus to damage rolls with Strikes made against each other. If you're a master in the skill you used for the check, the status bonus to damage rolls increases to +3, and if you're legendary, it increases to +4.
 

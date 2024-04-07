@@ -19,7 +19,7 @@ license: OGL
 
 
 
-You become trained in Society or Thievery; if you are already trained in both of these skills, you instead become trained in a skill of your choice. You can use Perception instead of Survival to Track, and you gain the [[Feats/Experienced Tracker|Experienced Tracker]] skill feat.
+You become trained in Society or Thievery; if you are already trained in both of these skills, you instead become trained in a skill of your choice. You can use Perception instead of Survival to Track, and you gain the [[Experienced Tracker|Experienced Tracker]] skill feat.
 
 **Special** You can't select another dedication feat until you have gained two other feats from the [[Compendium.pf2e.journals.JournalEntry.vx5FGEG34AxI2dow.JournalEntryPage.5RH1CkZQHYpsOium|Edgewatch Detective]] archetype.
 

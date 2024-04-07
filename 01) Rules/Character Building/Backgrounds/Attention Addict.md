@@ -20,7 +20,7 @@ A roaring crowd chanting your name. Your face plastered all over the city. Fawni
 
 Choose two ability boosts. One must be to **Strength** or **Charisma**, and one is a free ability boost.
 
-You're trained in Performance and the Gladiatorial Lore skill. You gain the [[Feats/Impressive Performance|Impressive Performance]] skill feat
+You're trained in Performance and the Gladiatorial Lore skill. You gain the [[Impressive Performance|Impressive Performance]] skill feat
 
 *Source: Pathfinder: Fists of the Ruby Phoenix Player's Guide*
 *OGL*

@@ -22,7 +22,7 @@ An artillerist changes this dynamic, completely rewriting the rules of war. Rath
 
 Ruthless or evil artillerists, or the warlords they follow, might take things a step further, specifically targeting granaries to starve enemies out or launching rotting food, corpses, or diseased livestock into parts of the town near water sources. As food and water supplies dwindle, so too does the morale of the castle's inhabitants and defenders. Even a stubborn noble or warlord will find it hard to continue resisting a siege when their own troops mutiny and their citizens begin seeking a way out.
 
-## [[Feats/Artillerist Dedication|Artillerist Dedication]] Feat 2
+## [[Artillerist Dedication|Artillerist Dedication]] Feat 2
 
 **Prerequisites** trained in martial weapons
 
@@ -32,7 +32,7 @@ Artillery is a team sport, where every member of the crew has to rely on the oth
 
 **Special** You can't select another dedication feat until you've gained at least two other feats from the artillerist archetype.
 
-## [[Feats/Named Artillery|Named Artillery]] Feat 4
+## [[Named Artillery|Named Artillery]] Feat 4
 
 **Prerequisites** trained in Crafting
 
@@ -42,19 +42,19 @@ It is a tradition among artillerists to name the siege weapon most important to 
 
 During your daily preparations, you must spend at least one hour on maintenance to service your named artillery. If you fail to do so, or if you spend a full day designating a new piece of named artillery, the previous named artillery loses any benefits from this feat. Only one artillerist can designate a particular siege weapon as their named artillery, even if several artillerists are serving on the same siege weapon's crew (though it's typically more efficient for a group with several artillerists to divide them up, assigning one to each siege weapon).
 
-## [[Feats/Shorthanded|Shorthanded]] Feat 4
+## [[Shorthanded|Shorthanded]] Feat 4
 
 * * *
 
 Typically, a siege weapon is meant to be run by a crew with a very specific minimum number of members designed to ensure that your crew can account for every possible variable and necessity in loading, aiming, and firing the weapon. In a pinch, however, you can operate it with fewer people, provided you know what you're doing. You can operate a siege weapon with fewer than the minimum number of crew, at an increasing penalty. You and your crew take a -2 penalty to checks to Load, Aim, Launch, move, or Repair the weapon for each person below the minimum crew. The maximum number of missing minimum crew members you can handle with this feat is 5. For example, if a siege weapon had a minimum crew size of 8, you would still need a crew of 3, and you would take a -10 penalty when doing so.
 
-## [[Feats/Cannon Corner Shot|Cannon Corner Shot]] Feat 6
+## [[Cannon Corner Shot|Cannon Corner Shot]] Feat 6
 
 * * *
 
 By loading special ammunition in a particular way, you can make your siege weapons do all manner of tricks that other siege engineers can barely even imagine. If you personally contribute an additional Load action to the siege weapon's loading, above the minimum, you can change a burst into a line twice as long as the size of the burst, or vice versa (so a 10-foot burst turns into a 20-foot line, or a 20-foot line turns into a 10-foot burst).
 
-## [[Feats/Field Artillery|Field Artillery]] Feat 6
+## [[Field Artillery|Field Artillery]] Feat 6
 
 **Prerequisites** expert in Crafting
 
@@ -62,13 +62,13 @@ By loading special ammunition in a particular way, you can make your siege weapo
 
 While castles are generally obliging enough to stay in one place, out in the field positioning is of paramount importance—a gun in the wrong place is worse than useless. You can Interact with an adjacent mounted siege weapon to increase its Speed by 10 feet for one round.
 
-## [[Feats/Live Ammunition|Live Ammunition]] Feat 8
+## [[Live Ammunition|Live Ammunition]] Feat 8
 
 * * *
 
 There are generally few things as ill-advised as being shot out of a cannon or launched by a trebuchet, but people use the tactic every so often in a desperate situation. While it's more humane to use this strategy with mindless constructs or undead, occasionally an exceedingly foolhardy adventurer demands the opportunity to try it. Loading a creature requires two additional Load actions, which you must conduct personally. The creature must be willing, unconscious, or restrained throughout the process, and the siege weapon must be physically capable of firing the creature in question, based on their size and shape. Typically, that means ballistas don't qualify, for example—nor do auto-catapults which require specifically-sized balls—but normal catapults and onagers work just fine. When you Launch the weapon, if the weapon usually targets an area, you target a single 5-foot square instead. The siege weapon deals its normal damage to its target, or to the modified area, and to the creature fired.
 
-## [[Feats/Master Siege Engineer|Master Siege Engineer]] Feat 16
+## [[Master Siege Engineer|Master Siege Engineer]] Feat 16
 
 * * *
 

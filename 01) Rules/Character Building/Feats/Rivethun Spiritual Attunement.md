@@ -22,7 +22,7 @@ license: OGL
 
 * * *
 
-Your time spent among the Rivethun has heightened your awareness of animate spirits around you, giving you the ability to sense them briefly. Once per day, you can use an action, which has the concentrate trait, to gain spiritsense as an imprecise sense with a range of 60 feet for 1 minute. You can sense the presence of spirits as described in the [[Feats/Soulsight (Bard)|Soulsight]] feat.
+Your time spent among the Rivethun has heightened your awareness of animate spirits around you, giving you the ability to sense them briefly. Once per day, you can use an action, which has the concentrate trait, to gain spiritsense as an imprecise sense with a range of 60 feet for 1 minute. You can sense the presence of spirits as described in the [[Soulsight (Bard)|Soulsight]] feat.
 
 *Source: Pathfinder Lost Omens: Highhelm*
 *OGL*

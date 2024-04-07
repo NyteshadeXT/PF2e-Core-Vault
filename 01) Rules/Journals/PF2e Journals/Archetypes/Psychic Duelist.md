@@ -10,7 +10,7 @@ tags:
 # Psychic Duelist
 The mental landscape of the psychic duel rises to meet your steps and reshapes at your touch. You understand the binary mindscape links two minds, making its foundation only as strong as the wills of those involved. Two psychic castles in a siege—patch every loose brick in your walls and single out every flaw in your foe's defenses.
 
-## [[Feats/Psychic Duelist Dedication|Psychic Duelist Dedication]] Feat 4
+## [[Psychic Duelist Dedication|Psychic Duelist Dedication]] Feat 4
 
 **Prerequisites** trained in Occultism; you have been in a psychic duel
 
@@ -25,7 +25,7 @@ Through experience and in-depth visualizations of mental battles, you've grown a
 
 **Special** You can't select another dedication feat until you have gained two other feats from the psychic duelist archetype.
 
-## [[Feats/Duel Spell Advantage|Duel Spell Advantage]] Feat 4
+## [[Duel Spell Advantage|Duel Spell Advantage]] Feat 4
 
 **Prerequisites** Psychic Duelist Dedication
 
@@ -42,7 +42,7 @@ If you're 9th level or higher, add the following spells to the list of natural p
 *   [[Spells/Synaptic Pulse|Synaptic Pulse]]
 *   [[Spells/Synesthesia|Synesthesia]]
 
-## [[Feats/Supreme Psychic Center|Supreme Psychic Center]] Feat 8
+## [[Supreme Psychic Center|Supreme Psychic Center]] Feat 8
 
 **Prerequisites** Psychic Duelist Dedication
 
@@ -52,7 +52,7 @@ If you're 9th level or higher, add the following spells to the list of natural p
 
 With the merest thought, you realign your mental defenses to your duel's circumstances. You [[Actions/Recenter|Recenter]].
 
-## [[Feats/Instigate Psychic Duel|Instigate Psychic Duel]] Feat 12
+## [[Instigate Psychic Duel|Instigate Psychic Duel]] Feat 12
 
 **Prerequisites** Psychic Duelist Dedication
 

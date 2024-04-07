@@ -26,7 +26,7 @@ Snares prepared in this way don't cost you any resources to Craft.
 
 * * *
 
-**Special** The feat counts as [[Feats/Snare Specialist|Snare Specialist]] for the purpose of feat prerequisites. If you also have the Snare Specialist ranger feat, the [[Feats/Quick Snares|Quick Snares]] from both feats are cumulative. You can't select another dedication feat until you have gained two other feats from the [[Compendium.pf2e.journals.JournalEntry.vx5FGEG34AxI2dow.JournalEntryPage.G9Fzy5ZK4KtAmcFb|Snarecrafter]] archetype.
+**Special** The feat counts as [[Snare Specialist|Snare Specialist]] for the purpose of feat prerequisites. If you also have the Snare Specialist ranger feat, the [[Quick Snares|Quick Snares]] from both feats are cumulative. You can't select another dedication feat until you have gained two other feats from the [[Compendium.pf2e.journals.JournalEntry.vx5FGEG34AxI2dow.JournalEntryPage.G9Fzy5ZK4KtAmcFb|Snarecrafter]] archetype.
 
 *Source: Pathfinder Advanced Player's Guide*
 *OGL*

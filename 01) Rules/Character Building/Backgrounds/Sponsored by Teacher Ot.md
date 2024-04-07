@@ -20,7 +20,7 @@ You have known the Magaambyan teacher Takulu Ot and his wife Niana for many year
 
 Choose two ability boosts. One must be to **Wisdom** or **Charisma**, and one is a free ability boost.
 
-You're trained in your choice of the Survival or Performance skill. You gain a skill feat: [[Feats/Survey Wildlife|Survey Wildlife]] if you chose Survival or [[Feats/Impressive Performance|Impressive Performance]] if you chose Performance. You're also trained in Nantambu Lore.
+You're trained in your choice of the Survival or Performance skill. You gain a skill feat: [[Survey Wildlife|Survey Wildlife]] if you chose Survival or [[Impressive Performance|Impressive Performance]] if you chose Performance. You're also trained in Nantambu Lore.
 
 Your recommended primary branch is the Emerald Boughs.
 

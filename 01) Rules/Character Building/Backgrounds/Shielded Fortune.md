@@ -20,7 +20,7 @@ You've always been tougher than your peers. As a child, you may have been able t
 
 This background is associated with the suit of Shields.
 
-Choose two ability boosts. One must be to **Constitution**, and one is a free ability boost. You gain the [[Feats/Toughness|Toughness]] general feat and also gain the [[Actions/Fated Not to Die|Fated Not to Die]] free action.
+Choose two ability boosts. One must be to **Constitution**, and one is a free ability boost. You gain the [[Toughness|Toughness]] general feat and also gain the [[Actions/Fated Not to Die|Fated Not to Die]] free action.
 
 *Source: Pathfinder: Stolen Fate Player's Guide*
 *OGL*

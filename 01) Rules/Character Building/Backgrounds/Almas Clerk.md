@@ -20,7 +20,7 @@ You worked as a clerk at the Golden Cathedral of Almas in Andoran. The Pathfinde
 
 Choose two ability boosts. One must be to **Intelligence** or **Charisma**, and one is a free ability boost.
 
-You're trained in the Society skill and the Legal Lore skill. You gain the [[Feats/Glean Contents|Glean Contents]] skill feat.
+You're trained in the Society skill and the Legal Lore skill. You gain the [[Glean Contents|Glean Contents]] skill feat.
 
 Additionally, when you receive a mission briefing in the city of Almas, you know just how to find the information you need. You gain a +2 circumstance bonus to your checks to Gather Information or Recall Knowledge during the Getting Started segment of such adventures. Be sure to remind your GM that you have a relevant background.
 

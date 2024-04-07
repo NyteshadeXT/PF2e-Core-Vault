@@ -20,7 +20,7 @@ Whether you do it for personal enjoyment or at the behest of a mercenary company
 
 Choose two ability boosts. One must be to **Strength** or **Dexterity**, and one is a free ability boost.
 
-You're trained in the Thievery skill and the Engineering Lore skill. You gain the [[Feats/Concealing Legerdemain|Concealing Legerdemain]] skill feat.
+You're trained in the Thievery skill and the Engineering Lore skill. You gain the [[Concealing Legerdemain|Concealing Legerdemain]] skill feat.
 
 *Source: Pathfinder Guns & Gears*
 *OGL*

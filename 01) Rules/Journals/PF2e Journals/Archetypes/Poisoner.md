@@ -10,9 +10,9 @@ tags:
 # Poisoner
 People are so delightfully fragile when exposed to the glories of nature. The bite of a certain serpent makes the blood congeal to jelly. A particular stone, suitably powdered, causes hallucinations and delirium. The sap of a tree inflicts such pain that death seems preferable. You are a student of such dark wonders, making you a dangerous foe indeed.
 
-**Additional Feats** 4th [[Feats/Poison Resistance|Poison Resistance]], [[Feats/Subtle Delivery|Subtle Delivery]]; 6th [[Feats/Poison Weapon|Poison Weapon]], [[Feats/Tenacious Toxins|Tenacious Toxins]]; 8th [[Feats/Sticky Poison|Sticky Poison]]; 10th [[Feats/Improved Poison Weapon|Improved Poison Weapon]], [[Feats/Pinpoint Poisoner|Pinpoint Poisoner]]; 12th [[Feats/Deadly Poison Weapon|Deadly Poison Weapon]]; 18th [[Feats/Chemical Contagion|Chemical Contagion]]
+**Additional Feats** 4th [[Poison Resistance|Poison Resistance]], [[Subtle Delivery|Subtle Delivery]]; 6th [[Poison Weapon|Poison Weapon]], [[Tenacious Toxins|Tenacious Toxins]]; 8th [[Sticky Poison|Sticky Poison]]; 10th [[Improved Poison Weapon|Improved Poison Weapon]], [[Pinpoint Poisoner|Pinpoint Poisoner]]; 12th [[Deadly Poison Weapon|Deadly Poison Weapon]]; 18th [[Chemical Contagion|Chemical Contagion]]
 
-## [[Feats/Poisoner Dedication|Poisoner Dedication]] Feat 2
+## [[Poisoner Dedication|Poisoner Dedication]] Feat 2
 
 **Prerequisites** trained in Crafting
 
@@ -22,7 +22,7 @@ You make a point of always having a few toxins near at hand-you never know when 
 
 **Special** You can't select another dedication feat until you have gained two other feats from the Poisoner archetype.
 
-## [[Feats/Poisoner's Twist|Poisoner's Twist]] Feat 4
+## [[Poisoner's Twist|Poisoner's Twist]] Feat 4
 
 **Prerequisites** Poisoner Dedication, trained in Medicine
 
@@ -32,7 +32,7 @@ You make a point of always having a few toxins near at hand-you never know when 
 
 Poisons attack specific parts of the body-one venom might target the lungs, another the circulatory system, while another deteriorates the nerves. You know how to take advantage of such weaknesses. You deal 1d6 damage of the required Strike's damage type and 1d6 poison damage to the target. If you're at least 18th level, you deal 2d6 damage of each type.
 
-## [[Feats/Expert Poisoner|Expert Poisoner]] Feat 6
+## [[Expert Poisoner|Expert Poisoner]] Feat 6
 
 **Prerequisites** Poisoner Dedication, expert in Crafting
 
@@ -40,7 +40,7 @@ Poisons attack specific parts of the body-one venom might target the lungs, anot
 
 Your advanced alchemy level for poison increases to your level - 3.
 
-## [[Feats/Poison Coat|Poison Coat]] Feat 6
+## [[Poison Coat|Poison Coat]] Feat 6
 
 **Prerequisites** Poisoner Dedication
 
@@ -54,7 +54,7 @@ In nature, certain animals are covered in venomous spines, such that even touchi
 
 When you use this reaction, the triggering creature is exposed to the suffused poison.
 
-## [[Feats/Acquired Tolerance|Acquired Tolerance]] Feat 8
+## [[Acquired Tolerance|Acquired Tolerance]] Feat 8
 
 **Prerequisites** Poisoner Dedication
 

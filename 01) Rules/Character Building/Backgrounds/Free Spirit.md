@@ -20,7 +20,7 @@ You've always lived your life straying from the path laid before you. Like a lea
 
 Choose two ability boosts. One must be to **Wisdom** or **Charisma**, and one is a free ability boost.
 
-You are trained in the Survival skill and a Lore skill about a specific settlement or terrain you have traveled through. You gain the [[Feats/Forager|Forager]] skill feat.
+You are trained in the Survival skill and a Lore skill about a specific settlement or terrain you have traveled through. You gain the [[Forager|Forager]] skill feat.
 
 *Source: Pathfinder Lost Omens: Firebrands*
 *OGL*

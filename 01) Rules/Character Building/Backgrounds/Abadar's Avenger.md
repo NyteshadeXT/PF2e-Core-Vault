@@ -22,7 +22,7 @@ With or without the blessing of an actual priest of Abadar, you've taken it upon
 
 Choose two ability boosts. One must be to **Charisma** or **Wisdom**, and one is a free ability boost.
 
-You're trained in Religion and the Goka Lore skill. You gain the [[Feats/Assurance|Assurance]] skill feat with Religion.
+You're trained in Religion and the Goka Lore skill. You gain the [[Assurance|Assurance]] skill feat with Religion.
 
 *Source: Pathfinder: Fists of the Ruby Phoenix Player's Guide*
 *OGL*

@@ -20,7 +20,7 @@ Hours spent reading numerous compendiums dedicated to various occult topics hone
 
 Choose two ability boosts. One must be to **Intelligence** or **Wisdom**, and one is a free ability boost.
 
-You're trained in the Occultism skill and the Academia Lore skill. You gain the [[Feats/Schooled In Secrets|Schooled In Secrets]] skill feat.
+You're trained in the Occultism skill and the Academia Lore skill. You gain the [[Schooled In Secrets|Schooled In Secrets]] skill feat.
 
 *Source: Pathfinder Secrets of Magic*
 *OGL*

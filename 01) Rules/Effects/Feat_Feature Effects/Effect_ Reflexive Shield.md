@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by [[Feats/Reflexive Shield|Reflexive Shield]] when you raise a shield that gives a +2 circumstance bonus to AC.
+Granted by [[Reflexive Shield|Reflexive Shield]] when you raise a shield that gives a +2 circumstance bonus to AC.
 
 You gain your shield's cricumstance bonus to Reflex saves.
 

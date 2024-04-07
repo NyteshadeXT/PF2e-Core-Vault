@@ -18,7 +18,7 @@ license: OGL
 
 
 
-You're used to dealing with dangerous situations and sinister creatures. You become trained in Deception (or another skill of your choice, if you're already trained in Deception), and you gain the [[Feats/Lengthy Diversion|Lengthy Diversion]] skill feat as a bonus feat.
+You're used to dealing with dangerous situations and sinister creatures. You become trained in Deception (or another skill of your choice, if you're already trained in Deception), and you gain the [[Lengthy Diversion|Lengthy Diversion]] skill feat as a bonus feat.
 
 *Source: Pathfinder Lost Omens: Ancestry Guide*
 *OGL*

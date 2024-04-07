@@ -24,7 +24,7 @@ Not just anyone can train to become their party's overwatch. A keen and incisive
 
 Beyond senses and instinct, the role of overwatch requires the ability to innovate your enhanced visual gear to assist in removing blind spots and seeing what others miss. This is essential, since you must keep track of your team and nearby foes. While it isn't explicitly necessary for you to be the one with enough skill in Crafting to maintain and upgrade your enhanced visual gear, many successful overwatches choose to do so in order to better understand how every piece works together to create the whole.
 
-## [[Feats/Overwatch Dedication|Overwatch Dedication]] Feat 2
+## [[Overwatch Dedication|Overwatch Dedication]] Feat 2
 
 **Prerequisites** expert in Perception
 
@@ -38,17 +38,17 @@ You're surrounded by an overwatch field aura in a 30-foot emanation. Your overwa
 
 **Special** You can't select another dedication feat until after you have gained at least two other feats from the overwatch archetype.
 
-## [[Feats/Spyglass Modification|Spyglass Modification]] Feat 4
+## [[Spyglass Modification|Spyglass Modification]] Feat 4
 
-**Prerequisites** [[Feats/Overwatch Dedication|Overwatch Dedication]]
+**Prerequisites** [[Overwatch Dedication|Overwatch Dedication]]
 
 * * *
 
 Your enhanced visual gear includes a regulating scope and reflectors, combined in an ingenuous setup that allows you to see around corners within the area of your overwatch field. This permits your overwatch field to extend around a single corner or turn and allows you to see around that corner as well. This ability doesn't let you see through walls or other barriers. You can't use it to see around a second or further corner, and it doesn't allow you to make ranged attacks or perform other actions that require line of effect with your target.
 
-## [[Feats/Swift Intervention|Swift Intervention]] Feat 6
+## [[Swift Intervention|Swift Intervention]] Feat 6
 
-**Prerequisites** [[Feats/Overwatch Dedication|Overwatch Dedication]]
+**Prerequisites** [[Overwatch Dedication|Overwatch Dedication]]
 
 * * *
 
@@ -62,9 +62,9 @@ You're burdened with noticing potential threats at all times. Because of this, y
 
 Make a single ranged attack roll against the DC of the triggering check; your ally uses the result of your ranged attack roll in place of their original roll. You must have line of effect to your ally, and your attack roll includes any normal bonuses or penalties for a ranged attack with that weapon (such as the penalty for making a ranged attack beyond your first range increment).
 
-## [[Feats/Topple Giants|Topple Giants]] Feat 8
+## [[Topple Giants|Topple Giants]] Feat 8
 
-**Prerequisites** [[Feats/Overwatch Dedication|Overwatch Dedication]]
+**Prerequisites** [[Overwatch Dedication|Overwatch Dedication]]
 
 * * *
 
@@ -74,17 +74,17 @@ When an ally within your overwatch field attempts to [[Actions/Disarm|Disarm]], 
 
 [[Feat\_Feature Effects/Effect\_ Topple Giants|Effect: Topple Giants]]
 
-## [[Feats/Wide Overwatch|Wide Overwatch]] Feat 10
+## [[Wide Overwatch|Wide Overwatch]] Feat 10
 
-**Prerequisites** [[Feats/Overwatch Dedication|Overwatch Dedication]], master in Perception
+**Prerequisites** [[Overwatch Dedication|Overwatch Dedication]], master in Perception
 
 * * *
 
 Through a variety of perceptive techniques, careful routines, and upgrades to your enhanced visual gear, you have become able to observe and maintain your overwatch at a much greater distance. Increase the size of your overwatch field from 30 feet to 60 feet.
 
-## [[Feats/Forewarn|Forewarn]] Feat 12
+## [[Forewarn|Forewarn]] Feat 12
 
-**Prerequisites** [[Feats/Overwatch Dedication|Overwatch Dedication]], master in Perception
+**Prerequisites** [[Overwatch Dedication|Overwatch Dedication]], master in Perception
 
 * * *
 
@@ -96,17 +96,17 @@ Through a variety of perceptive techniques, careful routines, and upgrades to yo
 
 Your foresight and planning are more valuable than armor as you direct your ally away from danger, but there's a limit to how often you can guide your allies away from a foe's relentless assaults. The triggering attack roll targets your Perception DC instead of your ally's AC. Though this allows your ally to avoid taking penalties to their AC, it doesn't remove any conditions or other effects causing such penalties. For example, an enemy with sneak attack would still deal extra damage to your ally if they are off-guard, even though they wouldn't take the -2 circumstance penalty when defending against the attack.
 
-## [[Feats/Master Spotter|Master Spotter]] Feat 12
+## [[Master Spotter|Master Spotter]] Feat 12
 
-**Prerequisites** [[Feats/Overwatch Dedication|Overwatch Dedication]], expert in Perception
+**Prerequisites** [[Overwatch Dedication|Overwatch Dedication]], expert in Perception
 
 * * *
 
 Your incredible perception and trusty enhanced visual gear allow you to see things others miss. Your proficiency rank in Perception increases to master.
 
-## [[Feats/Control Tower|Control Tower]] Feat 14
+## [[Control Tower|Control Tower]] Feat 14
 
-**Prerequisites** [[Feats/Overwatch Dedication|Overwatch Dedication]], master in Perception
+**Prerequisites** [[Overwatch Dedication|Overwatch Dedication]], master in Perception
 
 * * *
 
@@ -114,9 +114,9 @@ Your keen senses and ability to process battlefield information have dramaticall
 
 [[Feat\_Feature Effects/Effect\_ Control Tower|Effect: Control Tower]]
 
-## [[Feats/Converge|Converge]] Feat 16
+## [[Converge|Converge]] Feat 16
 
-**Prerequisites** [[Feats/Overwatch Dedication|Overwatch Dedication]], master in Perception
+**Prerequisites** [[Overwatch Dedication|Overwatch Dedication]], master in Perception
 
 * * *
 

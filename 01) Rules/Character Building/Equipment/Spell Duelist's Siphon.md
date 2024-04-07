@@ -26,7 +26,7 @@ Metal clasps line the spine of this book, and diagrams displaying proper somatic
 
 **Trigger** You're targeted with an arcane spell attack and you have this grimoire raised
 
-**Requirements** You have the [[Feats/Raise a Tome|Raise a Tome]] feat
+**Requirements** You have the [[Raise a Tome|Raise a Tome]] feat
 
 * * *
 

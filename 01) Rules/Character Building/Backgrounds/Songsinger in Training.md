@@ -20,7 +20,7 @@ You are a pupil of Argakoa the Songsinger, Otter House leader and Mammoth Lord. 
 
 Choose two ability boosts. One must be to **Intelligence** or **Charisma**, and one is a free ability boost.
 
-You're trained in the Performance skill and the Genealogy Lore skill. You gain the [[Feats/Impressive Performance|Impressive Performance]] skill feat.
+You're trained in the Performance skill and the Genealogy Lore skill. You gain the [[Impressive Performance|Impressive Performance]] skill feat.
 
 *Source: Pathfinder: Quest for the Frozen Flame Player's Guide*
 *OGL*

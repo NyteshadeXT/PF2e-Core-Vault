@@ -8,4 +8,4 @@ tags:
 ---
 This character once inadvertently shoved you off a ledge or balcony. You're mostly certain it was a mistake, but the fall was terrifying, and you've resolved to never be caught unaware like that again.
 
-Add the [[Feats/Cat Fall|Cat Fall]] skill feat to your background options.
+Add the [[Cat Fall|Cat Fall]] skill feat to your background options.

@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by [[Feats/Enforce Oath|Enforce Oath]]
+Granted by [[Enforce Oath|Enforce Oath]]
 
 You gain a +1 status bonus to AC and saves against attacks and effects by the chosen creature. You also gain a +1 status bonus to attack rolls against the chosen creature.
 

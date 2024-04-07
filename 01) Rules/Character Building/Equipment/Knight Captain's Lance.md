@@ -28,7 +28,7 @@ license: OGL
 
 The appearance of this beautifully crafted _+2 disrupting greater striking lance_ changes to match the armor of its wielder. It has a cloth flag attached behind the lance point that displays whatever heraldry the wielder wishes.
 
-If a cavalier with the [[Feats/Cavalier's Banner|Cavalier's Banner]] feat takes the _knight captain's lance_, it instead automatically displays the banner of their pledge.
+If a cavalier with the [[Cavalier's Banner|Cavalier's Banner]] feat takes the _knight captain's lance_, it instead automatically displays the banner of their pledge.
 
 * * *
 

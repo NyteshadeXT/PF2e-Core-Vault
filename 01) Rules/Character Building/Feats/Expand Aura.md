@@ -20,7 +20,7 @@ license: OGL
 
 **Prerequisites** You have at least one aura from a champion feat or feature.
 * * *
-You focus your divine power to extend your influence. Select one aura you have from a champion feat or feature, such as [[Feats/Aura of Courage|Aura of Courage]] or [[Feats/Aura of Life|Aura of Life]]. The radius of the aura is doubled until the start of your next turn.
+You focus your divine power to extend your influence. Select one aura you have from a champion feat or feature, such as [[Aura of Courage|Aura of Courage]] or [[Aura of Life|Aura of Life]]. The radius of the aura is doubled until the start of your next turn.
 
 *Source: Pathfinder Advanced Player's Guide*
 *OGL*

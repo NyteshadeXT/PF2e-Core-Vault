@@ -12,7 +12,7 @@ license: OGL
 ---
 # Overdrive Ally `pf2:1`
 ## Feat 8
-### [[inventor]][[manipulate]]
+### [[01) Rules/Character Building/Feats/Inventor]][[manipulate]]
 
 **Category** class; 
 

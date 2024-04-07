@@ -11,7 +11,7 @@ license: OGL
 ---
 # Negate Damage
 ## Feat 18
-### [[inventor]]
+### [[01) Rules/Character Building/Feats/Inventor]]
 
 **Category** class; 
 

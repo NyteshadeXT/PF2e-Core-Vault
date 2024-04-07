@@ -11,7 +11,7 @@ license: OGL
 ---
 # Just the Thing!
 ## Feat 16
-### [[inventor]]
+### [[01) Rules/Character Building/Feats/Inventor]]
 
 **Category** class; 
 

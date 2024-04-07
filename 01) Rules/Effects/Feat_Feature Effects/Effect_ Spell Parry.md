@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by [[Feats/Spell Parry|Spell Parry]]
+Granted by [[Spell Parry|Spell Parry]]
 
 You raise your guard, gaining a +1 circumstance bonus to AC and to saving throws against spells that target you.
 

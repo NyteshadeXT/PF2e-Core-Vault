@@ -22,7 +22,7 @@ After no shortage of debating the pros and cons, you decided to transfer to the 
 
 Choose two ability boosts. One must be to **Intelligence** or **Wisdom**, and one is a free ability boost.
 
-You're trained in your choice of the Arcana or Occultism skill, as well as Legal Lore. You gain a +1 circumstance bonus to Deception, Diplomacy, and Intimidation checks to interact with Learned Guards and with academics such as librarians and scholars. You gain the [[Feats/Recognize Spell|Recognize Spell]] skill feat.
+You're trained in your choice of the Arcana or Occultism skill, as well as Legal Lore. You gain a +1 circumstance bonus to Deception, Diplomacy, and Intimidation checks to interact with Learned Guards and with academics such as librarians and scholars. You gain the [[Recognize Spell|Recognize Spell]] skill feat.
 
 *Source: Pathfinder: Agents of Edgewatch Player's Guide*
 *OGL*

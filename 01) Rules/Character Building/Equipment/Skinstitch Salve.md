@@ -32,7 +32,7 @@ This sticky salve stubbornly holds wounds closed and encourages swift natural he
 
 **Activate** `pf2:0` Interact
 
-**Trigger** You [[Actions/Treat Wounds|Treat Wounds]] or use [[Feats/Battle Medicine|Battle Medicine]]
+**Trigger** You [[Actions/Treat Wounds|Treat Wounds]] or use [[Battle Medicine|Battle Medicine]]
 
 * * *
 

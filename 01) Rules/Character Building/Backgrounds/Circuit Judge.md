@@ -20,7 +20,7 @@ You're a circuit judge, a courtroom on horseback who serves a group of communiti
 
 Choose two ability boosts. One must be to **Intelligence** or **Wisdom**, and one is a free ability boost.
 
-You're trained in Deception and Legal Lore. You gain the [[Feats/Lie to Me|Lie To Me]] skill feat.
+You're trained in Deception and Legal Lore. You gain the [[Lie to Me|Lie To Me]] skill feat.
 
 *Source: Pathfinder Guns & Gears*
 *OGL*

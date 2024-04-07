@@ -10,7 +10,7 @@ tags:
 # Herbalist
 The plants around you can provide more remedies than the finest hospital or temple, and you are skilled in their use.
 
-## [[Feats/Herbalist Dedication|Herbalist Dedication]] Feat 2
+## [[Herbalist Dedication|Herbalist Dedication]] Feat 2
 
 **Prerequisites** trained in Nature, Natural Medicine
 
@@ -22,7 +22,7 @@ You become an expert in Nature and can use Nature instead of Crafting to Craft h
 
 **Special** You can't select another dedication feat until you have gained two other feats from the Herbalist archetype.
 
-## [[Feats/Fresh Ingredients|Fresh Ingredients]] Feat 4
+## [[Fresh Ingredients|Fresh Ingredients]] Feat 4
 
 **Prerequisites** Herbalist Dedication, expert in Nature
 
@@ -30,7 +30,7 @@ You become an expert in Nature and can use Nature instead of Crafting to Craft h
 
 When using Natural Medicine to Treat Wounds, you can spend a batch of herbs to gain the +2 circumstance bonus from having fresh ingredients, even if not in wilderness. If you spend a batch of herbs in wilderness, you gain a +4 circumstance bonus instead.
 
-## [[Feats/Poultice Preparation|Poultice Preparation]] Feat 4
+## [[Poultice Preparation|Poultice Preparation]] Feat 4
 
 **Prerequisites** Herbalist Dedication
 
@@ -38,7 +38,7 @@ When using Natural Medicine to Treat Wounds, you can spend a batch of herbs to g
 
 When you create an herbal elixir, you can prepare it as a poultice instead. A poultice gains the oil trait (but remains alchemical, not magical) and loses the elixir and ingested traits. You can apply a poultice by Interacting with one hand. When you apply a poultice, in addition to the item's normal effects, the recipient can attempt an immediate flat check to recover from a single source of persistent acid, bleed, or fire damage, with the DC reduction from appropriate assistance.
 
-## [[Feats/Endemic Herbs|Endemic Herbs]] Feat 6
+## [[Endemic Herbs|Endemic Herbs]] Feat 6
 
 **Prerequisites** Herbalist Dedication, trained in Survival
 
@@ -55,7 +55,7 @@ During your daily preparations, you find medicinal plants endemic to your locati
 *   Swamp Remove one source of persistent bleed damage.
 *   Underground Gain a +1 circumstance bonus to Perception.
 
-## [[Feats/Expert Herbalism|Expert Herbalism]] Feat 6
+## [[Expert Herbalism|Expert Herbalism]] Feat 6
 
 **Prerequisites** Herbalist Dedication, expert in Nature
 

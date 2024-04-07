@@ -20,7 +20,7 @@ You'd always been the most athletic child of your play group, leading the other 
 
 Choose two ability boosts. One must be to **Strength** or **Constitution**, and one is a free ability boost.
 
-You're trained in the Athletics skill and the Gorum Lore skill. You gain the [[Feats/Hefty Hauler|Hefty Hauler]] skill feat.
+You're trained in the Athletics skill and the Gorum Lore skill. You gain the [[Hefty Hauler|Hefty Hauler]] skill feat.
 
 *Source: Pathfinder Adventure: Rusthenge*
 *OGL*

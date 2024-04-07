@@ -23,7 +23,7 @@ Whether you were born under a tempest or survived a bolt of lightning from a cle
 
 **Order Skill** Acrobatics
 
-**Druid Feat** [[Feats/Storm Born|Storm Born]]
+**Druid Feat** [[Storm Born|Storm Born]]
 
 **Order Spell** [[Spells/Tempest Surge|Tempest Surge]]
 

@@ -20,7 +20,7 @@ You don't understand folks who claim that magical talent is some sort of burden 
 
 Choose two ability boosts. One must be to **Intelligence** or **Dexterity**, and one is a free ability boost.
 
-You're trained in Arcana and Underworld Lore. You gain the [[Feats/Trick Magic Item|Trick Magic Item]] skill feat.
+You're trained in Arcana and Underworld Lore. You gain the [[Trick Magic Item|Trick Magic Item]] skill feat.
 
 *Source: Pathfinder Secrets of Magic*
 *OGL*

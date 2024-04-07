@@ -24,7 +24,7 @@ Your family, whether goblin, hobgoblin, or human, died in the Goblinblood Wars. 
 
 Choose two ability boosts. One must be to **Dexterity** or **Constitution**, and one is a free ability boost.
 
-You're trained in the Survival skill and the Goblin Lore skill. You gain the [[Feats/Assurance|Assurance]] skill feat with Survival.
+You're trained in the Survival skill and the Goblin Lore skill. You gain the [[Assurance|Assurance]] skill feat with Survival.
 
 *Source: Pathfinder Lost Omens: World Guide*
 *OGL*

@@ -30,7 +30,7 @@ These standards are always constructed from uncut wood and a leather banner pain
 
 **Trigger** An ally within 20 feet of you critically hits with a Strike
 
-**Requirements** You have the [[Feats/Battle Cry|Battle Cry]] skill feat
+**Requirements** You have the [[01) Rules/Character Building/Feats/Battle Cry|Battle Cry]] skill feat
 
 **Effect** You attempt to [[Actions/Demoralize|Demoralize]] the foe the Strike hit.
 

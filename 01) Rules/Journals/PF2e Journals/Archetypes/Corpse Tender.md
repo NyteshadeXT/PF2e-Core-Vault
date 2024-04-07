@@ -10,7 +10,7 @@ tags:
 # Corpse Tender
 You tend to mindless undead, such as the zombie farmhands and farm animals throughout Geb.
 
-## [[Feats/Corpse Tender Dedication|Corpse Tender Dedication]] Feat 2
+## [[Corpse Tender Dedication|Corpse Tender Dedication]] Feat 2
 
 **Prerequisites** evil alignment, trained in Religion
 
@@ -22,15 +22,15 @@ You become trained in Diplomacy; if already trained, you instead become trained 
 
 **Special** You can't select another dedication feat until you have gained two other feats from the corpse tender archetype.
 
-## [[Feats/Command Corpse|Command Corpse]] Feat 4
+## [[Command Corpse|Command Corpse]] Feat 4
 
 **Prerequisites** Corpse Tender Dedication, ability to cast [[Spells/Harm|Harm]]
 
 * * *
 
-You gain the [[Feats/Command Undead|Command Undead]] feat, but you can use it only to transform the effects of [[Spells/Harm|Harm]] spells you cast on mindless undead. These spells can control creatures with a level equal to or lower than your level -1 (instead of your level - 3).
+You gain the [[Command Undead|Command Undead]] feat, but you can use it only to transform the effects of [[Spells/Harm|Harm]] spells you cast on mindless undead. These spells can control creatures with a level equal to or lower than your level -1 (instead of your level - 3).
 
-## [[Feats/Corpse Tender's Font|Corpse Tender's Font]] Feat 4
+## [[Corpse Tender's Font|Corpse Tender's Font]] Feat 4
 
 **Prerequisites** Corpse Tender Dedication
 
@@ -38,15 +38,15 @@ You gain the [[Feats/Command Undead|Command Undead]] feat, but you can use it on
 
 You easily tend to the wounds of the dead. You can cast [[Spells/Harm|Harm]] as a divine innate spell once per day. This spell is heightened to half your level, rounded up. You can target only mindless undead with this spell.
 
-## [[Feats/Improved Command Corpse|Improved Command Corpse]] Feat 8
+## [[Improved Command Corpse|Improved Command Corpse]] Feat 8
 
 **Prerequisites** Command Corpse
 
 * * *
 
-When you use [[Feats/Command Undead|Command Undead]] on a mindless undead, if the undead succeeds at its save but doesn't critically succeed, it becomes your minion for 1 round. If the undead fails its save, it becomes your minion for 1 hour. If it critically fails, it becomes your minion for 24 hours.
+When you use [[Command Undead|Command Undead]] on a mindless undead, if the undead succeeds at its save but doesn't critically succeed, it becomes your minion for 1 round. If the undead fails its save, it becomes your minion for 1 hour. If it critically fails, it becomes your minion for 24 hours.
 
-## [[Feats/Imbue Mindlessness|Imbue Mindlessness]] Feat 12
+## [[Imbue Mindlessness|Imbue Mindlessness]] Feat 12
 
 **Prerequisites** Command Corpse
 

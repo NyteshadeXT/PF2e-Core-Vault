@@ -20,7 +20,7 @@ license: OGL
 
 **Prerequisites** Dexterity +2
 * * *
-You become trained in Performance; if you were already trained in Performance, you instead become trained in a skill of your choice. You also gain the [[Feats/Juggle|Juggle]] skill feat, even if you don't meet its prerequisites.
+You become trained in Performance; if you were already trained in Performance, you instead become trained in a skill of your choice. You also gain the [[Juggle|Juggle]] skill feat, even if you don't meet its prerequisites.
 
 **Special** You cannot select another dedication feat until you have gained one other feat from the [[Compendium.pf2e.journals.JournalEntry.vx5FGEG34AxI2dow.JournalEntryPage.bQeLZt29NnHEn6fh|Juggler]] archetype.
 

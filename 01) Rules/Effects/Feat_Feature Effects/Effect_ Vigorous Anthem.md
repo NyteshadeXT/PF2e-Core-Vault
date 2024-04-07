@@ -17,7 +17,7 @@ license: ORC
 
 
 
-Granted by [[Feats/Vigorous Anthem|Vigorous Anthem]]
+Granted by [[Vigorous Anthem|Vigorous Anthem]]
 
 You gain temporary HP equal to 3 + the source's Charisma modifier.
 

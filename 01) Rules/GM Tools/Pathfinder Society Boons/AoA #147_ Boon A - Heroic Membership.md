@@ -21,7 +21,7 @@ Heroic Membership: Your adventures have earned you a unique place in a powerful 
 
 **□ Lacunafex Membership** You have been adopted into the Lacunafex spy network and have access to the following feats and spells:
 
-*   Feats: [[Feats/Different Worlds|Different Worlds]], [[Feats/Reveal Machinations|Reveal Machinations]], [[Feats/Silver's Refrain|Silver's Refrain]], [[Feats/Tweak Appearances|Tweak Appearances]].
+*   Feats: [[Different Worlds|Different Worlds]], [[Reveal Machinations|Reveal Machinations]], [[01) Rules/Character Building/Feats/Silver's Refrain|Silver's Refrain]], [[Tweak Appearances|Tweak Appearances]].
 *   Spells: [[Spells/Exchange Image|Exchange Image]], [[Spells/Join Pasts|Join Pasts]], [[Spells/Silver's Refrain|Silver's Refrain]], [[Spells/Spiritual Anamnesis|Spiritual Anamnesis]].
 
 **□ Bellflower Membership** You are a member of the Bellflower Network and gain access to the [[Compendium.pf2e.journals.JournalEntry.vx5FGEG34AxI2dow.JournalEntryPage.cdnkS3A8OpOnRjKu|Bellflower Tiller]] archetype, its associated feats, and the [[Equipment/Bellflower Toolbelt|Bellflower Toolbelt]].

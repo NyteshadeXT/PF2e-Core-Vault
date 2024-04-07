@@ -20,7 +20,7 @@ You hold an official title of sheriff or deputy in a small community. Those that
 
 Choose two ability boosts. One must be to **Dexterity** or **Charisma**, and one is a free ability boost.
 
-You're trained in the Intimidation skill and the Hunting Lore skill. You gain the [[Feats/Group Coercion|Group Coercion]] skill feat.
+You're trained in the Intimidation skill and the Hunting Lore skill. You gain the [[Group Coercion|Group Coercion]] skill feat.
 
 *Source: Pathfinder Guns & Gears*
 *OGL*

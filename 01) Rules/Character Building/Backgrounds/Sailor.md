@@ -21,7 +21,7 @@ You heard the call of the sea from a young age. Perhaps you signed onto a mercha
 
 Choose two attribute boosts. One must be to **Strength** or **Dexterity**, and one is a free attribute boost.
 
-You're trained in the Athletics skill and the Sailing Lore skill. You gain the [[Feats/Underwater Marauder|Underwater Marauder]] skill feat.
+You're trained in the Athletics skill and the Sailing Lore skill. You gain the [[Underwater Marauder|Underwater Marauder]] skill feat.
 
 *Source: Pathfinder Player Core*
 *ORC*

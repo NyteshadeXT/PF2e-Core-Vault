@@ -24,7 +24,7 @@ You know that the only way your homeland of Vidrian can remain free from outside
 
 Choose two ability boosts. One must be to **Dexterity** or **Charisma**, and one is a free ability boost.
 
-You're trained in the Diplomacy skill and the Politics Lore skill. You gain the [[Feats/Hobnobber|Hobnobber]] skill feat.
+You're trained in the Diplomacy skill and the Politics Lore skill. You gain the [[Hobnobber|Hobnobber]] skill feat.
 
 *Source: Pathfinder Lost Omens: World Guide*
 *OGL*

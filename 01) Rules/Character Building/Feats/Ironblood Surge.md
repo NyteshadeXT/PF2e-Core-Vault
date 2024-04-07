@@ -19,7 +19,7 @@ license: OGL
 
 **Prerequisites** Ironblood Stance
 * * *
-**Requirements** You are in [[Feats/Ironblood Stance|Ironblood Stance]]
+**Requirements** You are in [[Ironblood Stance|Ironblood Stance]]
 
 * * *
 

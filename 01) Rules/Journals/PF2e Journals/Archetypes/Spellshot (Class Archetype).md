@@ -16,7 +16,7 @@ Spellshots aren't ordinary gunslingers. They come from a tradition of ancient se
 
 Most spellshots continue to come from Arcadia, as the stories describing the relevant skills and training to become one have been passed down over the generations. Many gunslingers who grow up in this region hear of these tales early in their lives, and they develop the techniques to channel magical energy through their firearms in imitation of the Regents' arcane methods. While Arcadia is home to the vast majority of the world's spellshots, the techniques have slowly spread to other regions. However, spellshots remain particularly rare in the Inner Sea region due to the unique history of guns there and their connection to the Grand Duchy of Alkenstar, which exists in a magic-dead region of the Mana Wastes.
 
-## [[Feats/Spellshot Dedication|Spellshot Dedication]] Feat 2
+## [[Spellshot Dedication|Spellshot Dedication]] Feat 2
 
 **Prerequisites** [[Class Features/Way of the Spellshot|Way of the Spellshot]]
 
@@ -26,9 +26,9 @@ You've steeped yourself in magic and gunplay to the extent that you can conjure 
 
 **Special** You can't select another dedication feat other than Beast Gunner Dedication until you've gained two other feats from the spellshot or beast gunner archetypes.
 
-## [[Feats/Fulminating Shot|Fulminating Shot]] Feat 6
+## [[Fulminating Shot|Fulminating Shot]] Feat 6
 
-**Prerequisites** [[Feats/Spellshot Dedication|Spellshot Dedication]]
+**Prerequisites** [[Spellshot Dedication|Spellshot Dedication]]
 
 * * *
 
@@ -38,17 +38,17 @@ You've steeped yourself in magic and gunplay to the extent that you can conjure 
 
 You channel potent magic into your next shot, empowering it with a blast of crackling energy. Choose acid, cold, electricity, or fire. If you hit with your next attack roll using a firearm or crossbow before the end of your turn, you deal 1d6 additional damage of this type. At 12th level, this increases to 2d6 additional damage, and at 18th level, it increases to 3d6 additional damage.
 
-## [[Feats/Call Gun|Call Gun]] Feat 8
+## [[01) Rules/Character Building/Feats/Call Gun|Call Gun]] Feat 8
 
-**Prerequisites** [[Feats/Spellshot Dedication|Spellshot Dedication]]
+**Prerequisites** [[Spellshot Dedication|Spellshot Dedication]]
 
 * * *
 
 You build a powerful magical connection with a chosen gun or crossbow, gaining the ability to conjure it directly to your hand from any distant location. During your daily preparations, choose a single crossbow or firearm. Until your next daily preparations, you can use the [[Actions/Call Gun|Call Gun]] action to call the gun to your hand.
 
-## [[Feats/Phase Bullet|Phase Bullet]] Feat 14
+## [[Phase Bullet|Phase Bullet]] Feat 14
 
-**Prerequisites** [[Feats/Spellshot Dedication|Spellshot Dedication]]
+**Prerequisites** [[Spellshot Dedication|Spellshot Dedication]]
 
 * * *
 
@@ -58,9 +58,9 @@ You build a powerful magical connection with a chosen gun or crossbow, gaining t
 
 You can aim your bullets not just in three normal dimensions, but in additional dimensions as well, allowing you to fire a magical shot that phases through everything but your target. Make a crossbow or firearm Strike against a foe who's observed or [[Conditions/Hidden|Hidden]] to you (but not undetected). The ammunition travels to your target in a straight line, passing through any non-magical barriers or walls in its way, though magical barriers and force effects stop the bullet. The shot ignores all cover, the [[Conditions/Concealed|Concealed]] condition, the hidden condition, and circumstance bonuses to AC from shields. It has a +4 status bonus to hit creatures wearing any type of armor. The Strike's damage can't be reduced with a Shield Block reaction using a non-magical shield.
 
-## [[Feats/Black Powder Embodiment|Black Powder Embodiment]] 18
+## [[Black Powder Embodiment|Black Powder Embodiment]] 18
 
-**Prerequisites** [[Feats/Spellshot Dedication|Spellshot Dedication]], master in Arcana
+**Prerequisites** [[Spellshot Dedication|Spellshot Dedication]], master in Arcana
 
 * * *
 

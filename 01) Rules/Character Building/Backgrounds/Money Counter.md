@@ -22,7 +22,7 @@ The Tax Collectors Union is unaware of your petty theft, and you remain in good 
 
 Choose two ability boosts. One must be to **Dexterity** or **Intelligence**, and one is a free ability boost.
 
-You're trained in your choice of the Society or Thievery skill. You gain a skill feat: [[Feats/Eye For Numbers|Eye For Numbers]] if you chose Society or [[Feats/Subtle Theft|Subtle Theft]] if you chose Thievery. You're also trained in Accounting Lore.
+You're trained in your choice of the Society or Thievery skill. You gain a skill feat: [[Eye For Numbers|Eye For Numbers]] if you chose Society or [[Subtle Theft|Subtle Theft]] if you chose Thievery. You're also trained in Accounting Lore.
 
 *Source: Pathfinder: Blood Lords Player's Guide*
 *OGL*

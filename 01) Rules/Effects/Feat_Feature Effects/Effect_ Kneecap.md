@@ -17,7 +17,7 @@ license: ORC
 
 
 
-Granted by [[Feats/Kneecap|Kneecap]]
+Granted by [[Kneecap|Kneecap]]
 
 The target takes a status penalty to its Speed.
 

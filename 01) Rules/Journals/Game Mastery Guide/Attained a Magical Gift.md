@@ -8,4 +8,4 @@ tags:
 ---
 When you were a child, you found, stole, or were given a magic item that gave you an extraordinary ability.
 
-Add the [[Feats/Arcane Sense|Arcane Sense]] skill feat to your background options.
+Add the [[Arcane Sense|Arcane Sense]] skill feat to your background options.

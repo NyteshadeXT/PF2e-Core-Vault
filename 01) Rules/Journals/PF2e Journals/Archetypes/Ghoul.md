@@ -18,9 +18,9 @@ Since most societies don't allow cannibalism, ghouls who wish to continue their 
 
 Ghouls who won't restrain themselves with rules of the living may join or establish ghoul societies. These caste systems base their hierarchy on how much flesh one has consumed and can provide for other ghouls. Hunger and ambition drive ghouls to rise through the ranks, which allows them to feed their hunger even more.
 
-**Additional Feats**: 6th [[Feats/Guarded Movement|Guarded Movement]], [[Feats/Reactive Pursuit|Reactive Pursuit]]; 10th [[Feats/Wall Run|Wall Run]]
+**Additional Feats**: 6th [[Guarded Movement|Guarded Movement]], [[Reactive Pursuit|Reactive Pursuit]]; 10th [[Wall Run|Wall Run]]
 
-## [[Feats/Ghoul Dedication|Ghoul Dedication]] Feat 2
+## [[Ghoul Dedication|Ghoul Dedication]] Feat 2
 
 **Prerequisites** You were killed by ghoul fever.
 
@@ -32,7 +32,7 @@ You gain the ghoul and undead traits and the [[Ancestry Features/Basic Undead Be
 
 You gain the [[Actions/Consume Flesh|Consume Flesh]]. Satisfying your craving is difficult. Consuming Flesh temporarily satiates you. Many ghoul feats have extra abilities or functions that can be used when you are satiated, though using those abilities also causes you to lose your satiated status. You can always Consume Flesh, but eating more than a normal amount has no further effect; a ghoul's hunger is satiated, or it is not.
 
-## [[Feats/Replenishing Consumption|Replenishing Consumption]] Feat 4
+## [[Replenishing Consumption|Replenishing Consumption]] Feat 4
 
 **Prerequisites** Ghoul Dedication
 
@@ -40,7 +40,7 @@ You gain the [[Actions/Consume Flesh|Consume Flesh]]. Satisfying your craving is
 
 When you devour corpses and satiate your hunger, you also recover from some of your wounds, your necrotized blue flesh knitting back together almost immediately as soon as you begin shoveling the chunks of dead flesh down your throat. Once every 10 minutes, when you Consume Flesh, you regain 1d6 Hit Points for every 2 levels you have, rounded up.
 
-## [[Feats/Swift Leap|Swift Leap]] Feat 4
+## [[Swift Leap|Swift Leap]] Feat 4
 
 **Prerequisites** GhoulDedication
 
@@ -50,7 +50,7 @@ Your undead physiology allows you to leap quickly toward or away from your oppon
 
 If you are satiated, you can choose to end your satiation to instead [[Actions/High Jump|High Jump]] or [[Actions/Long Jump|Long Jump]] without triggering reactions, as you take a quick, enormous jump before any foe can react to your movement.
 
-## [[Feats/Feverish Enzymes|Feverish Enzymes]] Feat 6
+## [[Feverish Enzymes|Feverish Enzymes]] Feat 6
 
 **Prerequisites** Ghoul Dedication
 
@@ -60,7 +60,7 @@ Your claws and fangs exude an infectious enzyme, related to the necrotic effects
 
 If you are satiated, when you hit you can choose to end your satiation and boost your enzymes, increasing the duration to 1 minute.
 
-## [[Feats/Grave Strength|Grave Strength]] Feat 6
+## [[Grave Strength|Grave Strength]] Feat 6
 
 **Prerequisites** Ghoul Dedication
 
@@ -68,7 +68,7 @@ If you are satiated, when you hit you can choose to end your satiation and boost
 
 The flesh you've consumed over the course of your existence as a ghoul has made you stronger, gifting you with strange insights from the minds of the sapient creatures you've devoured and bringing you closer to a state of undead perfection. You gain the [[Ancestry Features/Advanced Undead Benefits|Advanced Undead Benefits]]. In addition, you gain a +5-foot status bonus to your Speed while you're satiated.
 
-## [[Feats/Paralyzing Slash|Paralyzing Slash]] Feat 8
+## [[Paralyzing Slash|Paralyzing Slash]] Feat 8
 
 **Prerequisites** Feverish Enzymes
 
@@ -76,7 +76,7 @@ The flesh you've consumed over the course of your existence as a ghoul has made 
 
 Your enzymes can paralyze your foes rather than merely making it harder for them to heal their wounds. Strike with your claw or jaws. If you hit a living non-elf creature, it becomes paralyzed unless it succeeds at a Fortitude save against your class DC or spell DC, whichever is higher. Regardless of the result of the save, the creature is temporarily immune to Paralyzing Slash for 24 hours. A creature that becomes paralyzed can attempt a new save to end the paralysis at the end of each of its turns, and the DC cumulatively decreases by 1 on each such save.
 
-## [[Feats/Sickening Bite|Sickening Bite]] Feat 8
+## [[Sickening Bite|Sickening Bite]] Feat 8
 
 **Prerequisites** Ghoul Dedication
 
@@ -86,7 +86,7 @@ Your saliva causes severe nausea and mild fever in the living, weakening them so
 
 If you are satiated, you can end your satiation to make the target sickened 1 on a regular hit instead.
 
-## [[Feats/Glutton For Flesh|Glutton For Flesh]] Feat 10
+## [[Glutton For Flesh|Glutton For Flesh]] Feat 10
 
 **Prerequisites** Ghoul Dedication
 
@@ -94,7 +94,7 @@ If you are satiated, you can end your satiation to make the target sickened 1 on
 
 You have developed a capacity to store more flesh within your gaunt body to leave yourself satiated longer. If you Consume Flesh while satiated, you become fully satiated. You stay fully satiated for 3 hours, after which you become satiated for 1 hour. If you're fully satiated when an ability would end your satiation, you cease being fully satiated but remain satiated. If you have Grave Strength, you gain a +10-foot status bonus to your Speed when fully satiated instead of a +5-foot status bonus for being satiated.
 
-## [[Feats/Corpse Stench|Corpse Stench]] Feat 12
+## [[Corpse Stench|Corpse Stench]] Feat 12
 
 **Prerequisites** Ghoul Dedication
 

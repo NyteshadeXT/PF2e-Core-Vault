@@ -17,7 +17,7 @@ license: OGL
 
 
 
-**Major Boon** You can crack the surface of Golarion, accelerating the release of the Rough Beast. You gain the [[Feats/Quaking Stomp|Quaking Stomp]] barbarian feat.
+**Major Boon** You can crack the surface of Golarion, accelerating the release of the Rough Beast. You gain the [[Quaking Stomp|Quaking Stomp]] barbarian feat.
 
 *Source: Pathfinder Lost Omens: Gods & Magic*
 *OGL*

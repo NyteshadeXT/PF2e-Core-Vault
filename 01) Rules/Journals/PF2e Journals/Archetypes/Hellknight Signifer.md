@@ -14,7 +14,7 @@ Signifers are the powerful and enigmatic Hellknight spellcasters who support and
 
 The following archetypes represent fully inducted members of a Hellknight order. You can select the dedication feats for these archetypes even if you haven't yet gained three feats from the [[.ARYrFIOsT3JxpjDY]] archetype. A character can't have both the [[.yWtwNUkGyj79Q04W]] and Hellknight signifer archetypes.
 
-## [[Feats/Hellknight Signifer Dedication|Hellknight Signifer Dedication]] Feat 6
+## [[Hellknight Signifer Dedication|Hellknight Signifer Dedication]] Feat 6
 
 **Prerequisites** spellcasting class feature, Hellknight Armiger Dedication, lawful alignment, member of a Hellknight order, passed the Hellknight Test
 
@@ -24,7 +24,7 @@ You have bolstered your force of will with the power of the Measure and the Chai
 
 **Special** You cannot select another dedication feat until you have gained two other feats from the [[.RxDsPgPCCxEdjcVQ]] or [[.ARYrFIOsT3JxpjDY]] archetypes.
 
-## [[Feats/Masked Casting|Masked Casting]] Feat 8
+## [[Masked Casting|Masked Casting]] Feat 8
 
 **Requirements** You are wearing your signifer's mask.
 
@@ -34,7 +34,7 @@ You have bolstered your force of will with the power of the Measure and the Chai
 
 You harness the magical energy flowing through your eyeless mask to effortlessly protect you from visual effects. You Avert your Gaze.
 
-## [[Feats/Gaze of Veracity|Gaze of Veracity]] Feat 10
+## [[Gaze of Veracity|Gaze of Veracity]] Feat 10
 
 **Prerequisites** Hellknight Signifer Dedication, ability to cast focus spells
 
@@ -42,7 +42,7 @@ You harness the magical energy flowing through your eyeless mask to effortlessly
 
 You can channel your mask's power to pierce through lies and see the truth in any situation. Increase the number of Focus Points in your focus pool by 1. While wearing your mask, you can cast the glimpse the truth cleric domain spell as a divine focus spell.
 
-## [[Feats/Signifer's Sight|Signifer's Sight]] Feat 10
+## [[Signifer's Sight|Signifer's Sight]] Feat 10
 
 **Prerequisites** Hellknight Signifer Dedication
 
@@ -50,7 +50,7 @@ You can channel your mask's power to pierce through lies and see the truth in an
 
 The magic flowing through your signifer's mask allows you to see in the dark, and the mask dampens the distraction caused by sudden flashes of bright light. While wearing your signifer's mask, you gain darkvision. Additionally, if you are dazzled while wearing your signifer's mask and the target is concealed only because you are dazzled, you reduce the flat check DC to target that creature from 5 to 3.
 
-## [[Feats/Signifer Armor Expertise|Signifer Armor Expertise]] Feat 12
+## [[Signifer Armor Expertise|Signifer Armor Expertise]] Feat 12
 
 **Prerequisites** Hellknight Signifer Dedication
 

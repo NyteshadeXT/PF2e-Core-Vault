@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by [[Feats/Prevailing Position|Prevailing Position]]
+Granted by [[Prevailing Position|Prevailing Position]]
 
 You leave the stance you were in, gaining a +4 circumstance bonus to the triggering saving throw or to your AC against the triggering attack.
 

@@ -21,7 +21,7 @@ In a dusty shop, market stall, or merchant caravan, you bartered wares for coin 
 
 Choose two attribute boosts. One must be to **Intelligence** or **Charisma**, and one is a free attribute boost.
 
-You're trained in the Diplomacy skill and the Mercantile Lore skill. You gain the [[Feats/Bargain Hunter|Bargain Hunter]] skill feat.
+You're trained in the Diplomacy skill and the Mercantile Lore skill. You gain the [[Bargain Hunter|Bargain Hunter]] skill feat.
 
 *Source: Pathfinder Player Core*
 *ORC*

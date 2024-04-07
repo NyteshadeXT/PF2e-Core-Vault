@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by: [[Feats/Mobile Shot Stance|Mobile Shot Stance]]
+Granted by: [[Mobile Shot Stance|Mobile Shot Stance]]
 
 Your shots become nimble and deadly. While you're in this stance, your ranged Strikes don't trigger Attacks of Opportunity or other reactions that are triggered by a ranged attack.
 

@@ -10,7 +10,7 @@ tags:
 # Magic Warrior
 You mix magic and martial prowess, following in the tradition of the Ten Magic Warriors of Old-Mage Jatembe.
 
-## [[Feats/Magic Warrior Dedication|Magic Warrior Dedication]] Feat 2
+## [[Magic Warrior Dedication|Magic Warrior Dedication]] Feat 2
 
 **Prerequisites** ability to cast focus spells
 
@@ -26,7 +26,7 @@ Once you take this feat, if another creature ever learns your true face or name,
 
 **Special** You cannot select another dedication feat until you have gained two other feats from the magic warrior archetype.
 
-## [[Feats/Magic Warrior Aspect|Magic Warrior Aspect]] Feat 4
+## [[01) Rules/Character Building/Feats/Magic Warrior Aspect|Magic Warrior Aspect]] Feat 4
 
 **Prerequisites** Magic Warrior Dedication
 
@@ -34,7 +34,7 @@ Once you take this feat, if another creature ever learns your true face or name,
 
 You can alter your form to gain an aspect of the animal your mask represents. You gain the magic warrior aspect focus spell.
 
-## [[Feats/Magic Warrior Transformation|Magic Warrior Transformation]] Feat 4
+## [[01) Rules/Character Building/Feats/Magic Warrior Transformation|Magic Warrior Transformation]] Feat 4
 
 **Prerequisites** Magic Warrior Dedication
 
@@ -42,7 +42,7 @@ You can alter your form to gain an aspect of the animal your mask represents. Yo
 
 You can transform fully into the animal your mask represents. You gain the [[Spells/Magic Warrior Transformation|Magic Warrior Transformation]] focus spell.
 
-## [[Feats/Nameless Anonymity|Nameless Anonymity]] Feat 6
+## [[Nameless Anonymity|Nameless Anonymity]] Feat 6
 
 **Prerequisites** Magic Warrior Dedication
 

@@ -21,7 +21,7 @@ license: OGL
 
 **Prerequisites** Knockback
 * * *
-Your attacks are so powerful, they can flatten your opponents. When you use [[Feats/Knockback|Knockback]], you can attempt an Athletics check check against your target's Fortitude DC.
+Your attacks are so powerful, they can flatten your opponents. When you use [[Knockback|Knockback]], you can attempt an Athletics check check against your target's Fortitude DC.
 
 * * *
 

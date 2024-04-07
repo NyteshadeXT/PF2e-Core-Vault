@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Imposed by [[Feats/Divine Castigation|Divine Castigation]]
+Imposed by [[Divine Castigation|Divine Castigation]]
 
 [[Spells/Heal|Heal]] spells you cast damage fiends as though they were undead.
 

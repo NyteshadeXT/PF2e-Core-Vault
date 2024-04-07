@@ -17,7 +17,7 @@ license: ORC
 
 
 
-Granted by [[Feats/Spell Protection Array|Spell Protection Array]]
+Granted by [[Spell Protection Array|Spell Protection Array]]
 
 You gain a +1 status bonus to saving throws against magic.
 

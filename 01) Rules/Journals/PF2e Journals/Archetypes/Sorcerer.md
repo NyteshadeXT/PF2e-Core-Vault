@@ -10,7 +10,7 @@ tags:
 # Sorcerer
 You coax the magic power in your blood to manifest, accessing magic others don't expect you to have.
 
-## [[Feats/Sorcerer Dedication|Sorcerer Dedication]] Feat 2
+## [[Sorcerer Dedication|Sorcerer Dedication]] Feat 2
 
 **Prerequisites** Charisma +2
 
@@ -22,7 +22,7 @@ Choose a [[Class Features/Bloodline|Bloodline]]. You become trained in the blood
 
 **Special** You cannot select another dedication feat until you have gained two other feats from the sorcerer archetype.
 
-## [[Feats/Basic Blood Potency|Basic Blood Potency]] Feat 4
+## [[Basic Blood Potency|Basic Blood Potency]] Feat 4
 
 **Prerequisites** Sorcerer Dedication
 
@@ -30,7 +30,7 @@ Choose a [[Class Features/Bloodline|Bloodline]]. You become trained in the blood
 
 You gain a 1st- or 2nd-level sorcerer feat.
 
-## [[Feats/Basic Bloodline Spell|Basic Bloodline Spell]] Feat 4
+## [[Basic Bloodline Spell|Basic Bloodline Spell]] Feat 4
 
 **Prerequisites** Sorcerer Dedication
 
@@ -38,7 +38,7 @@ You gain a 1st- or 2nd-level sorcerer feat.
 
 You gain your bloodline's initial bloodline spell. If you don't already have one, you also gain a focus pool of 1 Focus Point, which you can Refocus without any special effort.
 
-## [[Feats/Basic Sorcerer Spellcasting|Basic Sorcerer Spellcasting]] Feat 4
+## [[Basic Sorcerer Spellcasting|Basic Sorcerer Spellcasting]] Feat 4
 
 **Prerequisites** Sorcerer Dedication
 
@@ -46,7 +46,7 @@ You gain your bloodline's initial bloodline spell. If you don't already have one
 
 You gain the basic spellcasting benefits. Each time you gain a spell slot of a new level from the sorcerer archetype, add a spell of the appropriate spell rank to your repertoire: a common spell of your bloodline's tradition, one of your bloodline's granted spells, or another spell you have learned or discovered.
 
-## [[Feats/Advanced Blood Potency|Advanced Blood Potency]] Feat 6
+## [[Advanced Blood Potency|Advanced Blood Potency]] Feat 6
 
 **Prerequisites** Basic Blood Potency
 
@@ -58,7 +58,7 @@ You gain one sorcerer feat. For the purpose of prerequisites, your sorcerer leve
 
 **Special** You can select this feat more than once. Each time you do, you gain another sorcerer feat.
 
-## [[Feats/Bloodline Breadth|Bloodline Breadth]] Feat 8
+## [[Bloodline Breadth|Bloodline Breadth]] Feat 8
 
 **Prerequisites** Basic Sorcerer Spellcasting
 
@@ -66,7 +66,7 @@ You gain one sorcerer feat. For the purpose of prerequisites, your sorcerer leve
 
 Your repertoire expands, and you can cast more spells of your bloodline's tradition each day. Increase the number of spells in your repertoire and number of spell slots you gain from sorcerer archetype feats by 1 for each spell rank other than your two highest spell slots.
 
-## [[Feats/Expert Sorcerer Spellcasting|Expert Sorcerer Spellcasting]] Feat 12
+## [[Expert Sorcerer Spellcasting|Expert Sorcerer Spellcasting]] Feat 12
 
 **Prerequisites** Basic Sorcerer Spellcasting; master in Arcana, Nature, Occultism, or Religion, depending on bloodline
 
@@ -74,7 +74,7 @@ Your repertoire expands, and you can cast more spells of your bloodline's tradit
 
 You gain the expert spellcasting benefits.
 
-## [[Feats/Master Sorcerer Spellcasting|Master Sorcerer Spellcasting]] Feat 18
+## [[Master Sorcerer Spellcasting|Master Sorcerer Spellcasting]] Feat 18
 
 **Prerequisites** Expert Sorcerer Spellcasting; legendary in Arcana, Nature, Occultism, or Religion, depending on bloodline
 

@@ -23,7 +23,7 @@ You can use your shield to fend off explosions and the like. When you [[Actions/
 
 * * *
 
-**Special** If you have the [[Feats/Shield Block|Shield Block]] reaction, damage you take as a result of a Reflex save can trigger that reaction, even if the damage isn't physical damage.
+**Special** If you have the [[01) Rules/Character Building/Feats/Shield Block|Shield Block]] reaction, damage you take as a result of a Reflex save can trigger that reaction, even if the damage isn't physical damage.
 
 *Source: Pathfinder Player Core*
 *ORC*

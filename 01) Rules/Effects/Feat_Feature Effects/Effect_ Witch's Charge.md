@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted when you designate someone as your [[Feats/Witch's Charge|Witch's Charge]].
+Granted when you designate someone as your [[Witch's Charge|Witch's Charge]].
 
 *Source: Pathfinder Advanced Player's Guide*
 *OGL*

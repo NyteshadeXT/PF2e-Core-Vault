@@ -24,7 +24,7 @@ You are a member of a Shoanti quah and have gone through its coming of age cerem
 
 Choose two ability boosts. One must be to **Strength** or **Wisdom**, and one is a free ability boost.
 
-You're trained in the Athletics skill and the Quah Lore skill. You gain the [[Feats/Combat Climber|Combat Climber]] skill feat.
+You're trained in the Athletics skill and the Quah Lore skill. You gain the [[Combat Climber|Combat Climber]] skill feat.
 
 *Source: Pathfinder Lost Omens: World Guide*
 *OGL*

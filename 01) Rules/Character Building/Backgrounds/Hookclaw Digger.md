@@ -22,7 +22,7 @@ You are a digger from the Hookclaw kobold tribe, born beneath the streets of Abs
 
 Choose two ability boosts. One must be to **Strength** or **Charisma**, and one is a free ability boost.
 
-You're trained in the Crafting skill, the Mining Lore skill, and the Engineering Lore skill. You gain the [[Feats/Improvise Tool|Improvise Tool]] skill feat.
+You're trained in the Crafting skill, the Mining Lore skill, and the Engineering Lore skill. You gain the [[Improvise Tool|Improvise Tool]] skill feat.
 
 *Source: Pathfinder Adventure: Little Trouble in Big Absalom*
 *OGL*

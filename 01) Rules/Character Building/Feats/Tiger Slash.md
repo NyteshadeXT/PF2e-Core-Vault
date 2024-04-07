@@ -19,7 +19,7 @@ license: OGL
 
 **Prerequisites** Tiger Stance
 * * *
-**Requirements** You are in [[Feats/Tiger Stance|Tiger Stance]]
+**Requirements** You are in [[Tiger Stance|Tiger Stance]]
 
 * * *
 

@@ -19,7 +19,7 @@ license: OGL
 
 **Prerequisites** Viking Dedication
 * * *
-**Trigger** Your [[Feats/Shield Block|Shield Block]] causes your shield to break or be destroyed.
+**Trigger** Your [[01) Rules/Character Building/Feats/Shield Block|Shield Block]] causes your shield to break or be destroyed.
 
 * * *
 

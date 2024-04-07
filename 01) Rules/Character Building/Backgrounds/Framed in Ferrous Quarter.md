@@ -24,7 +24,7 @@ At least one thing's for sure, though: before you turned heel and ran into the s
 
 Choose two ability boosts. One must be to **Dexterity** or **Constitution**, and one is a free ability boost.
 
-You're trained in the Crafting skill and the Engineering Lore skill. You gain the [[Feats/Specialty Crafting|Specialty Crafting]] skill feat.
+You're trained in the Crafting skill and the Engineering Lore skill. You gain the [[Specialty Crafting|Specialty Crafting]] skill feat.
 
 *Source: Pathfinder: Outlaws of Alkenstar Player's Guide*
 *OGL*

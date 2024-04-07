@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted if you critically succeed with [[Feats/Predictable!|Predictable!]]
+Granted if you critically succeed with [[Predictable!|Predictable!]]
 
 *Source: Pathfinder Advanced Player's Guide*
 *OGL*

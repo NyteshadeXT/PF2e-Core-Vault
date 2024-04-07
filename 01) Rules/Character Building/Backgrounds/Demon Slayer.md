@@ -20,7 +20,7 @@ For over a century, Mendev led a multinational coalition against ever-growing ab
 
 Choose two ability boosts. One must be to **Strength** or **Constitution**, and one is a free ability boost.
 
-You're trained in the Religion skill and the Demon Lore skill. You gain the [[Feats/Recognize Spell|Recognize Spell]] skill feat. Add **Abyssal** to the list of additional languages you can learn for having a high Intelligence modifier.
+You're trained in the Religion skill and the Demon Lore skill. You gain the [[Recognize Spell|Recognize Spell]] skill feat. Add **Abyssal** to the list of additional languages you can learn for having a high Intelligence modifier.
 
 * * *
 

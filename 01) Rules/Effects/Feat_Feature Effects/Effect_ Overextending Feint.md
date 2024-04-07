@@ -17,7 +17,7 @@ license: ORC
 
 
 
-Granted by [[Feats/Overextending Feint|Overextending Feint]]
+Granted by [[Overextending Feint|Overextending Feint]]
 
 You take a –2 circumstance penalty to attack rolls against the opponent.
 

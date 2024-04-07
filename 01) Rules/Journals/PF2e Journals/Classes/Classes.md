@@ -19,7 +19,7 @@ tags:
 - [[Druid]]
 - [[Fighter]]
 - [[Gunslinger]]
-- [[Inventor]]
+- [[01) Rules/Journals/PF2e Journals/Classes/Inventor]]
 - [[Investigator]]
 - [[Kineticist]]
 - [[Magus]]

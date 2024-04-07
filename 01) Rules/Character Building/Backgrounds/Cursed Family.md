@@ -24,7 +24,7 @@ Rumors abound that your family is cursed. While that would explain several unfor
 
 Choose two ability boosts. One must be to **Intelligence** or **Charisma**, and one is a free ability boost.
 
-You're trained in the Occultism skill and the Curse Lore skill. You gain the [[Feats/Oddity Identification|Oddity Identification]] skill feat.
+You're trained in the Occultism skill and the Curse Lore skill. You gain the [[Oddity Identification|Oddity Identification]] skill feat.
 
 *Source: Pathfinder Lost Omens: World Guide*
 *OGL*

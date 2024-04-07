@@ -17,7 +17,7 @@ license: OGL
 
 
 
-Granted by [[Feats/Crowned in Tempest's Fury|Crowned in Tempest's Fury]]
+Granted by [[Crowned in Tempest's Fury|Crowned in Tempest's Fury]]
 
 You become one with a devastating thunderstorm from the Plane of Air, placing a crown of lightning upon your brow. Sparks flash in your eyes, and lightning strikes constantly in the air around you as howling winds lift you from the ground.
 

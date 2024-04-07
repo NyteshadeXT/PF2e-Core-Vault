@@ -22,7 +22,7 @@ license: OGL
 
 **Prerequisites** expert in Intimidation; Gorilla Stance
 * * *
-**Requirements** You are in [[Feats/Gorilla Stance|Gorilla Stance]].
+**Requirements** You are in [[Gorilla Stance|Gorilla Stance]].
 
 * * *
 

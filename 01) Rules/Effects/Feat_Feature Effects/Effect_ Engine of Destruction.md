@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by [[Feats/Engine of Destruction|Engine of Destruction]]
+Granted by [[Engine of Destruction|Engine of Destruction]]
 
 Your construct innovation gains a +2 circumstance bonus to its attack rolls.
 

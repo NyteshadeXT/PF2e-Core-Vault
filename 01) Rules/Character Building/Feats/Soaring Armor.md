@@ -12,7 +12,7 @@ license: OGL
 ---
 # Soaring Armor
 ## Feat 14
-### [[inventor]][[modification]]
+### [[01) Rules/Character Building/Feats/Inventor]][[modification]]
 
 **Category** class; 
 

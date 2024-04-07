@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by [[Feats/Sniping Duo Dedication|Sniping Duo Dedication]].
+Granted by [[Sniping Duo Dedication|Sniping Duo Dedication]].
 
 Whenever you or your spotter successfully Strikes a target, the other member of your duo gains a +1 circumstance bonus per weapon damage die on the damage roll of their next Strike made against that target before the end of their next turn.
 

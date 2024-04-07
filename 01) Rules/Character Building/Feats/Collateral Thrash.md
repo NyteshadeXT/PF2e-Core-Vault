@@ -20,7 +20,7 @@ license: OGL
 
 **Prerequisites** Thrash
 * * *
-When you [[Feats/Thrash|Thrash]] a [[Conditions/Grabbed|Grabbed]] foe, you smack that foe into another nearby. Another foe adjacent to the grabbed foe also takes your Thrash damage, with a Reflex check save against your class DC.
+When you [[Thrash|Thrash]] a [[Conditions/Grabbed|Grabbed]] foe, you smack that foe into another nearby. Another foe adjacent to the grabbed foe also takes your Thrash damage, with a Reflex check save against your class DC.
 
 *Source: Pathfinder Core Rulebook*
 *OGL*

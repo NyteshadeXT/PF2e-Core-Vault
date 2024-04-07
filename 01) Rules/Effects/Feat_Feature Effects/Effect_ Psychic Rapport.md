@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by [[Feats/Psychic Rapport|Psychic Rapport]]
+Granted by [[Psychic Rapport|Psychic Rapport]]
 
 You gain a +1 circumstance bonus to Deception, Diplomacy, and Intimidation checks, and to Perception checks to [[Actions/Sense Motive|Sense Motive]]
 

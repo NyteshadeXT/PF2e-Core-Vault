@@ -21,7 +21,7 @@ As an unscrupulous independent or as a member of an underworld organization, you
 
 Choose two attribute boosts. One must be to **Dexterity** or **Intelligence**, and one is a free attribute boost.
 
-You're trained in the Stealth skill and the Underworld Lore skill. You gain the [[Feats/Experienced Smuggler|Experienced Smuggler]] skill feat.
+You're trained in the Stealth skill and the Underworld Lore skill. You gain the [[Experienced Smuggler|Experienced Smuggler]] skill feat.
 
 *Source: Pathfinder Player Core*
 *ORC*

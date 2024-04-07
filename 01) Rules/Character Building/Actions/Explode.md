@@ -14,7 +14,7 @@ license: OGL
 ---
 # Explode `pf2:2`
 
-### [[Fire]][[inventor]][[manipulate]][[unstable]]
+### [[Fire]][[01) Rules/Character Building/Feats/Inventor]][[manipulate]][[unstable]]
 
 **Category** interaction; 
 

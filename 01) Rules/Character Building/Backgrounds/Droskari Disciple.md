@@ -20,7 +20,7 @@ You grew up in the church of the Dark Smith, where you learned the value of hard
 
 Choose two ability boosts. One must be to **Constitution** or **Intelligence**, and one is a free ability boost.
 
-You gain the [[Feats/Skill Training|Skill Training]] skill feat, and you're trained in the Droskar Lore skill.
+You gain the [[01) Rules/Character Building/Feats/Skill Training|Skill Training]] skill feat, and you're trained in the Droskar Lore skill.
 
 *Source: Pathfinder #148: Fires of the Haunted City*
 *OGL*

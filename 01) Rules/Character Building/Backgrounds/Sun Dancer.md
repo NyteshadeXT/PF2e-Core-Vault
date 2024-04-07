@@ -20,7 +20,7 @@ You've been taught the Burning Mother's blessings could be invited through dance
 
 Choose two ability boosts. One must be to Charisma or Dexterity, and one is a free ability boost.
 
-You're trained in Performance. You gain the [[Feats/Fascinating Performance|Fascinating Performance]] skill feat. If you use this feat outdoors in direct sunlight, you gain a +1 circumstance bonus to the skill check.
+You're trained in Performance. You gain the [[Fascinating Performance|Fascinating Performance]] skill feat. If you use this feat outdoors in direct sunlight, you gain a +1 circumstance bonus to the skill check.
 
 *Source: Pathfinder Lost Omens: Travel Guide*
 *OGL*

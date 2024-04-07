@@ -48,7 +48,7 @@ This _+1 striking ghost touch katana_ is made from a whisker stolen from the kin
 
 **Frequency** once per day
 
-**Effect** A portion of the slain creature's life force travels through the blade and into your soul, bolstering your own life. You gain the benefits of the [[Feats/Diehard|Diehard]] feat for 1 minute. This causes you to die from the dying condition at dying 5 rather than dying 4.
+**Effect** A portion of the slain creature's life force travels through the blade and into your soul, bolstering your own life. You gain the benefits of the [[Diehard|Diehard]] feat for 1 minute. This causes you to die from the dying condition at dying 5 rather than dying 4.
 
 [[Equipment Effects/Effect_ Vashu's Ninth Life (Diehard)|Effect: Vashu's Ninth Life (Diehard)]]
 

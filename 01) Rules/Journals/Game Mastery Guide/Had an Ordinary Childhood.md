@@ -8,4 +8,4 @@ tags:
 ---
 Your childhood was fairly ordinary, with no major catastrophe-a stark contrast to most adventurers.
 
-Add the [[Feats/Assurance|Assurance]] skill feat for a skill of your choice to your background options
+Add the [[Assurance|Assurance]] skill feat for a skill of your choice to your background options

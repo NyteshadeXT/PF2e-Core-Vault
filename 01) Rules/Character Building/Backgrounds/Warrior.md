@@ -21,7 +21,7 @@ In your younger days, you waded into battle as a mercenary, a warrior defending 
 
 Choose two attribute boosts. One must be to **Strength** or **Constitution**, and one is a free attribute boost.
 
-You're trained in the Intimidation skill and the Warfare Lore skill. You gain the [[Feats/Intimidating Glare|Intimidating Glare]] skill feat.
+You're trained in the Intimidation skill and the Warfare Lore skill. You gain the [[Intimidating Glare|Intimidating Glare]] skill feat.
 
 *Source: Pathfinder Player Core*
 *ORC*

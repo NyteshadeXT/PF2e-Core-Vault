@@ -16,7 +16,7 @@ license: OGL
 
 
 
-When in this stance, you wield the shield with both hands. When wielding a shield this way, increase the weapon damage die of the shield's boss or spikes by one step, and increase the shield's Hardness by 2 when using the [[Feats/Shield Block|Shield Block]] reaction.
+When in this stance, you wield the shield with both hands. When wielding a shield this way, increase the weapon damage die of the shield's boss or spikes by one step, and increase the shield's Hardness by 2 when using the [[01) Rules/Character Building/Feats/Shield Block|Shield Block]] reaction.
 
 *Source: Pathfinder Lost Omens: Character Guide*
 *OGL*

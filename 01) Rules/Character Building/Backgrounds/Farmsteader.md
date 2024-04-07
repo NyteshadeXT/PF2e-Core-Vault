@@ -20,7 +20,7 @@ You built your house using wood from the trees surrounding it. Raised it up from
 
 Choose two ability boosts. One must be to **Constitution** or **Wisdom**, and one is a free ability boost.
 
-You're trained in the Survival skill and the Farming Lore skill. You gain the [[Feats/Forager|Forager]] skill feat.
+You're trained in the Survival skill and the Farming Lore skill. You gain the [[Forager|Forager]] skill feat.
 
 *Source: Pathfinder Guns & Gears*
 *OGL*

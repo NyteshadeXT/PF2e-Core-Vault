@@ -10,9 +10,9 @@ tags:
 # Game Hunter
 Game hunters find, follow, and slay game animals, then honor their fallen rivals by securing and preserving a trophy of the kill. Many game hunters show a reverential respect for their prey bordering on the sacred. The finest game hunters engage only in a fair chase, strive for painless kills, and use every part of the animal's carcass.
 
-**Additional Feats** 6th [[Feats/Hunter's Aim|Hunter's Aim]]; 8th [[Feats/Running Reload|Running Reload]]; 14th [[Feats/Double Prey|Double Prey]]
+**Additional Feats** 6th [[Hunter's Aim|Hunter's Aim]]; 8th [[Running Reload|Running Reload]]; 14th [[Double Prey|Double Prey]]
 
-## [[Feats/Game Hunter Dedication|Game Hunter Dedication]] Feat 2
+## [[Game Hunter Dedication|Game Hunter Dedication]] Feat 2
 
 **Prerequisites** trained in Survival
 
@@ -28,7 +28,7 @@ If you already have Hunt Prey, you become an expert in Survival. You apply the S
 
 **Special** You can't select another dedication feat until you have gained two other feats from the game hunter archetype.
 
-## [[Feats/Big Game Trapper|Big Game Trapper]] Feat 4
+## [[Big Game Trapper|Big Game Trapper]] Feat 4
 
 **Prerequisites** Snare Crafting, Game Hunter Dedication
 
@@ -36,7 +36,7 @@ If you already have Hunt Prey, you become an expert in Survival. You apply the S
 
 You can set snares specifically for big prey, leaving smaller creatures unscathed. Each time you set a snare, you can choose Small, Medium, Large, or Huge. That snare can be triggered only by creatures of that size or larger.
 
-## [[Feats/Keep Pace (Game Hunter)|Keep Pace]] Feat 6
+## [[Keep Pace (Game Hunter)|Keep Pace]] Feat 6
 
 **Prerequisites** Game Hunter Dedication
 
@@ -44,7 +44,7 @@ You can set snares specifically for big prey, leaving smaller creatures unscathe
 
 When your hunted prey tries to bolt, you follow. You Stride up to your Speed, following your hunted prey and keeping it in reach throughout its movement until it stops moving or you've moved your full Speed. You can use Keep Pace to Burrow, Climb, Fly, or Swim instead of Stride if you have the appropriate movement type.
 
-## [[Feats/Quick Positioning|Quick Positioning]] Feat 8
+## [[Quick Positioning|Quick Positioning]] Feat 8
 
 **Prerequisites** Game Hunter Dedication
 

@@ -20,7 +20,7 @@ Selling magic items isn't like being an ordinary merchant. The wares you buy and
 
 Choose two ability boosts. One must be to **Intelligence** or **Wisdom**, and one is a free ability boost.
 
-You're trained in Crafting and Mercantile Lore. You gain the [[Feats/Crafter's Appraisal|Crafter's Appraisal]] skill feat.
+You're trained in Crafting and Mercantile Lore. You gain the [[Crafter's Appraisal|Crafter's Appraisal]] skill feat.
 
 *Source: Pathfinder Secrets of Magic*
 *OGL*

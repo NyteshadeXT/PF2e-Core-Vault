@@ -20,7 +20,7 @@ Misery loves company, so your curse can even be a beacon for more misfortune. Yo
 
 Those at the center of a storm of curses often have peculiar manifestations that mark them as one of the unfortunate. Over time, even the places that they inhabit will begin to show signs of their presence: plants with bizarre growths, dust clouds that form strange symbols in the light, and floors that creak and groan even when no one is walking across them.
 
-## [[Feats/Curse Maelstrom Dedication|Curse Maelstrom Dedication]] Feat 2
+## [[Curse Maelstrom Dedication|Curse Maelstrom Dedication]] Feat 2
 
 **Prerequisites** You are cursed or have been previously cursed
 
@@ -32,7 +32,7 @@ In addition, the curse is jealous of its place within your soul and gladly lashe
 
 While in a curse maelstrom state, you can't benefit from fortune effects, and they also don't cancel misfortune effects on you; they simply have no effect. While in this state, all creatures other than you within a 10-foot emanation take a -1 status penalty to all saving throws and skill checks due to the storm of bad luck swirling out of your body. You gain the Expel Maelstrom action, which you can use to focus the brunt of your curses onto an unlucky target.
 
-## [[Feats/Familiar Oddities|Familiar Oddities]] Feat 2
+## [[Familiar Oddities|Familiar Oddities]] Feat 2
 
 **Prerequisites** Curse Maelstrom Dedication; trained in Occultism or Curse Lore
 
@@ -40,7 +40,7 @@ While in a curse maelstrom state, you can't benefit from fortune effects, and th
 
 Perhaps due to the curse within you, curses occasionally perceive you as an extension of themselves and readily reveal themselves to you. You gain a +2 circumstance bonus to checks to Identify Magic on a cursed item or a spell that has the curse trait.
 
-## [[Feats/Unnerving Expansion|Unnerving Expansion]] Feat 4
+## [[Unnerving Expansion|Unnerving Expansion]] Feat 4
 
 **Prerequisites** Curse Maelstrom Dedication
 
@@ -48,7 +48,7 @@ Perhaps due to the curse within you, curses occasionally perceive you as an exte
 
 You gather your curse around you and impel it to pour outward, expanding your maelstrom. The radius of the emanation of your curse maelstrom state increases by 5 feet until the end of your curse maelstrom state. The outpouring of the curse is unnerving. You attempt to [[Actions/Demoralize|Demoralize]] a creature within the emanation of your curse maelstrom; you don't take penalties for not sharing a language with that creature.
 
-## [[Feats/Share Burden|Share Burden]] Feat 6
+## [[01) Rules/Character Building/Feats/Share Burden|Share Burden]] Feat 6
 
 **Prerequisites** Curse Maelstrom Dedication
 
@@ -58,7 +58,7 @@ You gather your curse around you and impel it to pour outward, expanding your ma
 
 You draw the misfortune or curse into yourself, potentially enabling you to enter your curse maelstrom state. Instead of affecting your ally, the triggering curse or misfortune effect affects you.
 
-## [[Feats/Accursed Magic|Accursed Magic]] Feat 8
+## [[Accursed Magic|Accursed Magic]] Feat 8
 
 **Prerequisites** Curse Maelstrom Dedication
 
@@ -66,7 +66,7 @@ You draw the misfortune or curse into yourself, potentially enabling you to ente
 
 When the curse within you spills out, you can lay curses on others and claim them for yourself with ease. You can cast [[Spells/Claim Curse|Claim Curse]]. At 10th level, you can also cast [[Spells/Seal Fate|Seal Fate]], and at 12th level, you can also cast [[Spells/Inevitable Disaster|Inevitable Disaster]]. You can cast these spells once per day as occult innate spells, but only while within your curse maelstrom state. If you couldn't already cast occult spells, these spells use Wisdom as your spellcasting attribute, and you become trained in spell attack rolls and spell DCs for occult spells.
 
-## [[Feats/Counter Curse|Counter Curse]] Feat 8
+## [[Counter Curse|Counter Curse]] Feat 8
 
 **Prerequisites** Curse Maelstrom Dedication
 
@@ -78,7 +78,7 @@ When the curse within you spills out, you can lay curses on others and claim the
 
 You gather the energy of your maelstrom and fling its unleashed power into the enemy's curse, attempting to neutralize it. Attempt a counteract check against the triggering effect, using half your level rounded up as your counteract rank and the higher of your class DC and spell DC as the counteract modifier. On a success, you neutralize the curse or misfortune effect. If the effect was constant, such as a misfortune aura, it returns automatically at the beginning of the creature or object's next turn. Whether you succeed or fail, your curse maelstrom state ends.
 
-## [[Feats/Torrential Backlash|Torrential Backlash]] Feat 10
+## [[Torrential Backlash|Torrential Backlash]] Feat 10
 
 **Prerequisites** Curse Maelstrom Dedication
 
@@ -88,7 +88,7 @@ You gather the energy of your maelstrom and fling its unleashed power into the e
 
 Calling upon forbidden practices, you release the curse from within yourself, allowing it free rein to destroy everything around you. All creatures within your curse maelstrom emanation except you take 1d6 void damage for each level you have, with a Fortitude check save. Your curse maelstrom state then ends.
 
-## [[Feats/Reverse Curse|Reverse Curse]] Feat 12
+## [[Reverse Curse|Reverse Curse]] Feat 12
 
 **Prerequisites** Counter Curse
 

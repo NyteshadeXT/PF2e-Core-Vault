@@ -10,7 +10,7 @@ tags:
 # Runescarred
 The rune magic of Thassilon and its descendant nations has left its mark on your very flesh. As a runescarred, you have an unusually close connection to this ancient magic, which has become a newly emerging field of study for small pockets of interested scholars in both Varisia and New Thassilon.
 
-## [[Feats/Runescarred Dedication|Runescarred Dedication]] Feat 2
+## [[Runescarred Dedication|Runescarred Dedication]] Feat 2
 
 **Prerequisites** trained in Arcana
 
@@ -24,7 +24,7 @@ Choose one cantrip from the arcane list. One of the runes on your body correspon
 
 **Special** You cannot select another dedication feat until you have gained two other feats from the runescarred archetype.
 
-## [[Feats/Spell Runes|Spell Runes]] Feat 4
+## [[Spell Runes|Spell Runes]] Feat 4
 
 **Prerequisites** Runescarred Dedication
 
@@ -32,7 +32,7 @@ Choose one cantrip from the arcane list. One of the runes on your body correspon
 
 The magical runes on your body grant you several magical abilities. Choose a 1st-rank arcane spell. You gain a spell rune on your body corresponding to the chosen spell, which you can cast once per day as an innate spell. At 6th level, you gain a spell rune corresponding to a 2nd-rank arcane spell, and at 8th level, you gain a spell rune corresponding to a 3rd-rank arcane spell.
 
-## [[Feats/Living Rune|Living Rune]] Feat 6
+## [[Living Rune|Living Rune]] Feat 6
 
 **Prerequisites** Runescarred Dedication
 
@@ -50,7 +50,7 @@ _**Note** This feat has been removed from the system due to incompatibility with
 
 Your runes provide a warding effect that protects you against a specific school of magic. Choose a school of magic other than divination. You gain a rune on your body corresponding to that school, and you gain a +2 circumstance bonus to all saving throws against effects of that school.
 
-## [[Feats/Greater Spell Runes|Greater Spell Runes]] Feat 10
+## [[Greater Spell Runes|Greater Spell Runes]] Feat 10
 
 **Prerequisites** Spell Runes
 

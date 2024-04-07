@@ -24,7 +24,7 @@ You were trained to be an ambassador of the elven land of Kyonin, and you have n
 
 Choose two ability boosts. One must be to **Charisma** or **Intelligence**, and one is a free ability boost.
 
-You're trained in the Society skill and the Politics Lore skill. You gain the [[Feats/Multilingual|Multilingual]] skill feat.
+You're trained in the Society skill and the Politics Lore skill. You gain the [[Multilingual|Multilingual]] skill feat.
 
 *Source: Pathfinder Lost Omens: World Guide*
 *OGL*

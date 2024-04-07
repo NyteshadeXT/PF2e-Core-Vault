@@ -21,7 +21,7 @@ You earned a living wrenching precious minerals from the lightless depths of the
 
 Choose two attribute boosts. One must be to **Strength** or **Wisdom**, and one is a free attribute boost.
 
-You're trained in the Survival skill and the Mining Lore skill. You gain the [[Feats/Terrain Expertise|Terrain Expertise]] skill feat with underground terrain.
+You're trained in the Survival skill and the Mining Lore skill. You gain the [[Terrain Expertise|Terrain Expertise]] skill feat with underground terrain.
 
 *Source: Pathfinder Player Core*
 *ORC*

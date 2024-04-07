@@ -29,7 +29,7 @@ This subtle pattern of complex dots, sunbursts, and lines is difficult to make o
 
 * * *
 
-**Effect** If the next action you use is to Cast a Spell of 2nd level or lower that affects or targets only you, you can hide that you're casting it. This has the same effect as the [[Feats/Conceal Spell|Conceal Spell]] feat.
+**Effect** If the next action you use is to Cast a Spell of 2nd level or lower that affects or targets only you, you can hide that you're casting it. This has the same effect as the [[Conceal Spell|Conceal Spell]] feat.
 
 *Source: Pathfinder Lost Omens: The Grand Bazaar*
 *OGL*

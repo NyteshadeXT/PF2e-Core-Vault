@@ -20,7 +20,7 @@ You or someone close to you worked with the Knights of Ozem before Lastwall fell
 
 Choose two ability boosts. One must be to **Strength** or **Intelligence**, and one is a free ability boost.
 
-You're trained in the Society skill and the Warfare Lore skill. You gain the [[Feats/Courtly Graces|Courtly Graces]] skill feat.
+You're trained in the Society skill and the Warfare Lore skill. You gain the [[Courtly Graces|Courtly Graces]] skill feat.
 
 *Source: Pathfinder Lost Omens: Knights of Lastwall*
 *OGL*

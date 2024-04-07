@@ -20,7 +20,7 @@ Named for the legendary sorcerer Hao Jin, the Ruby Phoenix Tournament occurs onc
 
 Choose two ability boosts. One must be to **Strength** or **Dexterity**, and one is a free ability boost.
 
-You're trained in the Athletics skill and the Gladiatorial Lore skill. You gain the [[Feats/Combat Climber|Combat Climber]] skill feat. In addition, you gain access to one of the following uncommon monk weapons:
+You're trained in the Athletics skill and the Gladiatorial Lore skill. You gain the [[Combat Climber|Combat Climber]] skill feat. In addition, you gain access to one of the following uncommon monk weapons:
 
 *   [[Equipment/Kama|Kama]],
 *   [[Equipment/Nunchaku|Nunchaku]],

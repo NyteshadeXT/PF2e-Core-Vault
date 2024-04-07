@@ -20,7 +20,7 @@ You've worked as a roustabout to erect tents and set up rigging for acrobatic pe
 
 Choose two ability boosts. One must be to **Strength** or **Dexterity**, and one is a free ability boost.
 
-You're trained in the Athletics skill and the Circus Lore skill. You gain the [[Feats/Combat Climber|Combat Climber]] skill feat.
+You're trained in the Athletics skill and the Circus Lore skill. You gain the [[Combat Climber|Combat Climber]] skill feat.
 
 *Source: Pathfinder: Extinction Curse Player's Guide*
 *OGL*

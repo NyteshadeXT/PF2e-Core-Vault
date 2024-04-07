@@ -10,7 +10,7 @@ tags:
 # Witch
 You have heard the whispers of a distant patron, who sent an emissary to teach you powerful magic.
 
-## [[Feats/Witch Dedication|Witch Dedication]] Feat 2
+## [[Witch Dedication|Witch Dedication]] Feat 2
 
 **Prerequisites** Intelligence +2
 
@@ -22,7 +22,7 @@ You gain the Cast a Spell activity. You can prepare one cantrip each day from yo
 
 **Special** You can't select another dedication feat until you have gained two other feats from the [[Compendium.pf2e.journals.JournalEntry.vx5FGEG34AxI2dow.JournalEntryPage.eNTStXeuABNPSLjw|Witch]] archetype.
 
-## [[Feats/Basic Witch Spellcasting|Basic Witch Spellcasting]] Feat 4
+## [[Basic Witch Spellcasting|Basic Witch Spellcasting]] Feat 4
 
 **Prerequisites** Witch Dedication
 
@@ -30,7 +30,7 @@ You gain the Cast a Spell activity. You can prepare one cantrip each day from yo
 
 You gain the [[Compendium.pf2e.journals.JournalEntry.vx5FGEG34AxI2dow.JournalEntryPage.DOc3Pf8wmVxanTIv|Basic Spellcasting Feat]] benefits. Each time you gain a spell slot of a new rank from the witch archetype, add two common spells of that rank to your familiar.
 
-## [[Feats/Basic Witchcraft|Basic Witchcraft]] Feat 4
+## [[Basic Witchcraft|Basic Witchcraft]] Feat 4
 
 **Prerequisites** Witch Dedication
 
@@ -38,7 +38,7 @@ You gain the [[Compendium.pf2e.journals.JournalEntry.vx5FGEG34AxI2dow.JournalEnt
 
 You gain a 1st- or 2nd-level witch feat of your choice. You can select three familiar abilities for your familiar each day, instead of two.
 
-## [[Feats/Advanced Witchcraft|Advanced Witchcraft]] Feat 6
+## [[Advanced Witchcraft|Advanced Witchcraft]] Feat 6
 
 **Prerequisites** Basic Witchcraft
 
@@ -48,7 +48,7 @@ You gain one witch feat. For the purpose of meeting its prerequisites, your witc
 
 **Special** You can select this feat more than once. Each time you select it, you gain another witch feat.
 
-## [[Feats/Patron's Breadth|Patron's Breadth]] Feat 8
+## [[Patron's Breadth|Patron's Breadth]] Feat 8
 
 **Prerequisites** Basic Witch Spellcasting
 
@@ -56,7 +56,7 @@ You gain one witch feat. For the purpose of meeting its prerequisites, your witc
 
 You can cast more spells each day. Increase the spell slots you gain from witch archetype feats by 1 for each spell rank other than your two highest spell ranks.
 
-## [[Feats/Expert Witch Spellcasting|Expert Witch Spellcasting]] Feat 12
+## [[Expert Witch Spellcasting|Expert Witch Spellcasting]] Feat 12
 
 **Prerequisites** Basic Witch Spellcasting, master in the skill associated with your patron's tradition
 
@@ -64,7 +64,7 @@ You can cast more spells each day. Increase the spell slots you gain from witch 
 
 You gain the [[Compendium.pf2e.journals.JournalEntry.vx5FGEG34AxI2dow.JournalEntryPage.DOc3Pf8wmVxanTIv|Expert Spellcasting Feat]] benefits.
 
-## [[Feats/Master Witch Spellcasting|Master Witch Spellcasting]] Feat 18
+## [[Master Witch Spellcasting|Master Witch Spellcasting]] Feat 18
 
 **Prerequisites** Expert Witch Spellcasting, legendary in the skill associated with your patron's tradition
 

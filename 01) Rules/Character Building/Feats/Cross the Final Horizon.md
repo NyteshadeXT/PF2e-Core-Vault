@@ -26,7 +26,7 @@ license: OGL
 
 * * *
 
-You Stride up to your Speed, and your ki enshrouds your limbs in terrifying stormy energy, increasing the reach of your [[Feats/Sky and Heaven Stance|Sky and Heaven Stance]] unarmed attacks by 5 feet. At the end of your movement, make up to three Strikes against a target you can reach, each at a –2 penalty. Each attack counts toward your multiple attack penalty, but the multiple attack penalty doesn't increase until after you've made all your attacks. Instead of the usual slashing or piercing damage, the damage for these Strikes is either electricity or sonic, as you choose with each Strike. If you successfully hit with all three Strikes, the target is [[Conditions/Drained 1|Drained 3]].
+You Stride up to your Speed, and your ki enshrouds your limbs in terrifying stormy energy, increasing the reach of your [[Sky and Heaven Stance|Sky and Heaven Stance]] unarmed attacks by 5 feet. At the end of your movement, make up to three Strikes against a target you can reach, each at a –2 penalty. Each attack counts toward your multiple attack penalty, but the multiple attack penalty doesn't increase until after you've made all your attacks. Instead of the usual slashing or piercing damage, the damage for these Strikes is either electricity or sonic, as you choose with each Strike. If you successfully hit with all three Strikes, the target is [[Conditions/Drained 1|Drained 3]].
 
 *Source: Pathfinder Lost Omens: Impossible Lands*
 *OGL*

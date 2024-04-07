@@ -25,7 +25,7 @@ license: ORC
 
 * * *
 
-Your body coiled to strike, you can lash out at distant enemies. While you are in this stance, you can use [[Actions/Reactive Strike|Reactive Strike]] against a creature that is outside your reach but within the reach you would have with a [[Feats/Lunge|Lunge]]. If you do, you increase your range with the Strike by 5 feet.
+Your body coiled to strike, you can lash out at distant enemies. While you are in this stance, you can use [[Actions/Reactive Strike|Reactive Strike]] against a creature that is outside your reach but within the reach you would have with a [[Lunge|Lunge]]. If you do, you increase your range with the Strike by 5 feet.
 
 *Source: Pathfinder Player Core*
 *ORC*

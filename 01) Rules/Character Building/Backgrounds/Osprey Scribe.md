@@ -20,7 +20,7 @@ Either as a punishment or because of political ambition, you work for Elder Vand
 
 Choose two ability boosts. One must be to **Intelligence** or **Charisma**, and one is a free ability boost.
 
-You're trained in the Society skill and the Demon Lore skill. You gain the [[Feats/Streetwise|Streetwise]] skill feat.
+You're trained in the Society skill and the Demon Lore skill. You gain the [[Streetwise|Streetwise]] skill feat.
 
 *Source: Pathfinder Adventure: Rusthenge*
 *OGL*

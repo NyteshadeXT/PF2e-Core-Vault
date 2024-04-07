@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Applied when you apply a poison created with [[Feats/Deadly Poison Weapon|Deadly Poison Weapon]].
+Applied when you apply a poison created with [[Deadly Poison Weapon|Deadly Poison Weapon]].
 
 *Source: Pathfinder #149: Against the Scarlet Triad*
 *OGL*

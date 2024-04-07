@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by [[Feats/Accursed Clay Fist|Accursed Clay Fist]]
+Granted by [[Accursed Clay Fist|Accursed Clay Fist]]
 
 You take a -2 status penalty to saving throws against curse effects for 1 hour.
 

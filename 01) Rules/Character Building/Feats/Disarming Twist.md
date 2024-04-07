@@ -31,7 +31,7 @@ After your initial attack redirects your foe's defenses, your follow-up wrests t
 
 * * *
 
-**Special** If you're in [[Feats/Disarming Stance|Disarming Stance]], you gain a +1 circumstance bonus to the attack roll.
+**Special** If you're in [[Disarming Stance|Disarming Stance]], you gain a +1 circumstance bonus to the attack roll.
 
 *Source: Pathfinder Player Core*
 *ORC*

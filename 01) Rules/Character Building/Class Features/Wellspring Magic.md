@@ -18,7 +18,7 @@ license: OGL
 
 **Prerequisites** You must have a class that casts spells with a spell repertoire.
 * * *
-You regain magic power quickly, but it can be difficult for you to control. You must select [[Feats/Wellspring Mage Dedication|Wellspring Mage Dedication]] as your 2nd-level class feat.
+You regain magic power quickly, but it can be difficult for you to control. You must select [[Wellspring Mage Dedication|Wellspring Mage Dedication]] as your 2nd-level class feat.
 
 **Prerequisites** You must have a class that casts spells with a spell repertoire.
 
@@ -38,7 +38,7 @@ A wellspring of magic fills you with power that's not fully under your control. 
 
 You can gain a temporary spell slot no more than twice per day. If you would gain a temporary spell slot for a level that has no expended spell slots, there's no effect. If you use a temporary slot to cast a spell with a duration, the spell ends whenever you would have lost the slot if its duration hasn't yet elapsed. If you roll for _wellspring magic_ while you currently have a temporary spell slot, you automatically fail the flat check.
 
-**Additional Feats** 8th [[Feats/Energetic Resonance|Energetic Resonance]], [[Feats/Spell Relay|Spell Relay]], 10th [[Feats/Surging Might|Surging Might]], 16th [[Feats/Scintillating Spell|Scintillating Spell]], 18th [[Feats/Echoing Spell|Echoing Spell]]
+**Additional Feats** 8th [[Energetic Resonance|Energetic Resonance]], [[Spell Relay|Spell Relay]], 10th [[Surging Might|Surging Might]], 16th [[Scintillating Spell|Scintillating Spell]], 18th [[Echoing Spell|Echoing Spell]]
 
 * * *
 

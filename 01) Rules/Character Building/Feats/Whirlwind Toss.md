@@ -24,7 +24,7 @@ license: OGL
 
 * * *
 
-You whirl a foe to smash into all nearby creatures before throwing them far away in imitation of the techniques of your rival, Ran-To. You [[Feats/Thrash|Thrash]]. During this Thrash, your [[Feats/Collateral Thrash|Collateral Thrash]] feat applies to all foes adjacent to you. You can then throw the grabbed creature 10 feet, where they fall [[Conditions/Prone|Prone]].
+You whirl a foe to smash into all nearby creatures before throwing them far away in imitation of the techniques of your rival, Ran-To. You [[Thrash|Thrash]]. During this Thrash, your [[Collateral Thrash|Collateral Thrash]] feat applies to all foes adjacent to you. You can then throw the grabbed creature 10 feet, where they fall [[Conditions/Prone|Prone]].
 
 If the foe you choose for Collateral Thrash is also adjacent to you, they attempt only one save and take the damage only once.
 

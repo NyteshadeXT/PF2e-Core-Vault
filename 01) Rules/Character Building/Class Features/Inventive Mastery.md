@@ -11,7 +11,7 @@ license: OGL
 ---
 # Inventive Mastery
 ## Feat 17
-### [[inventor]]
+### [[01) Rules/Character Building/Feats/Inventor]]
 
 **Category** classfeature; 
 

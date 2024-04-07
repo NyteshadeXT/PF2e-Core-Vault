@@ -16,7 +16,7 @@ license: OGL
 
 
 
-You have a direct matrilineal line to the original group of vishkanyas upon the Vudrani ships that came to reclaim Jalmeray. Since then, your family has adjusted well to a new life in the Inner Sea. You become trained in Society (or another skill of your choice if you're already trained in Society), and you gain your choice of the [[Feats/Courtly Graces|Courtly Graces]] or [[Feats/Streetwise|Streetwise]] feat.
+You have a direct matrilineal line to the original group of vishkanyas upon the Vudrani ships that came to reclaim Jalmeray. Since then, your family has adjusted well to a new life in the Inner Sea. You become trained in Society (or another skill of your choice if you're already trained in Society), and you gain your choice of the [[Courtly Graces|Courtly Graces]] or [[Streetwise|Streetwise]] feat.
 
 *Source: Pathfinder Lost Omens: Impossible Lands*
 *OGL*

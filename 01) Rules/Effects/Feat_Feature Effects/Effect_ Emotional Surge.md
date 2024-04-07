@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by [[Feats/Emotional Surge|Emotional Surge]]
+Granted by [[Emotional Surge|Emotional Surge]]
 
 You gain a +2 status bonus to attack rolls and skill checks.
 

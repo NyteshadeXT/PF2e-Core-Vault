@@ -18,7 +18,7 @@ While cavaliers follow an old and tired tradition of mounted combat, you take a 
 
 While many of the options in this book are uncommon to allow you to insert the thematic elements into your game as you see fit, there are some options you should consider very carefully before including. This archetype is one of them. Vehicles are relatively complicated and can move very fast, which can make mapping encounters quite difficult. They can also move characters too far from the fight for other participants to respond. Think carefully before deciding whether to include the trick driver archetype, and make sure that vehicle use is right for your campaign's style and encounter area size.
 
-## [[Feats/Trick Driver Dedication|Trick Driver Dedication]] Feat 2
+## [[Trick Driver Dedication|Trick Driver Dedication]] Feat 2
 
 * * *
 
@@ -26,17 +26,17 @@ You are equally at home piloting any vehicle, adapting yourself instantly to var
 
 **Special** You cannot select another dedication feat until you have gained two other feats from the trick driver archetype.
 
-## [[Feats/Express Driver|Express Driver]] Feat 2
+## [[Express Driver|Express Driver]] Feat 2
 
-**Prerequisites** [[Feats/Trick Driver Dedication|Trick Driver Dedication]]
+**Prerequisites** [[Trick Driver Dedication|Trick Driver Dedication]]
 
 * * *
 
 You can optimize your vehicle's performance, coaxing extra speed and choosing paths to avoid slowdowns. When calculating your travel speed for the day while piloting a vehicle, you can attempt a Driving Lore check to increase your vehicle's travel speed. The DC is determined by the GM but is typically based on the vehicle's piloting DC or a difficulty based on the environment, whichever is harder. On a success, increase your vehicle's travel speed by half. This has no effect on your vehicle's movement in encounters.
 
-## [[Feats/Take the Wheel|Take the Wheel]] Feat 4
+## [[Take the Wheel|Take the Wheel]] Feat 4
 
-**Prerequisites** [[Feats/Trick Driver Dedication|Trick Driver Dedication]]
+**Prerequisites** [[Trick Driver Dedication|Trick Driver Dedication]]
 
 * * *
 
@@ -46,9 +46,9 @@ You can optimize your vehicle's performance, coaxing extra speed and choosing pa
 
 Diving into a moving vehicle and seizing the controls is nothing new for you. You [[Actions/Board|Board]] and [[Actions/Take Control|Take Control]] of the adjacent vehicle.
 
-## [[Feats/Power Slide|Power Slide]] Feat 4
+## [[Power Slide|Power Slide]] Feat 4
 
-**Prerequisites** [[Feats/Trick Driver Dedication|Trick Driver Dedication]]
+**Prerequisites** [[Trick Driver Dedication|Trick Driver Dedication]]
 
 * * *
 
@@ -58,17 +58,17 @@ Diving into a moving vehicle and seizing the controls is nothing new for you. Yo
 
 You throw the vehicle into a barely controlled skid, turning sharply to evade pursuit or bring your weapons to bear. You [[Actions/Drive|Drive]] with a -2 penalty to your piloting check, gaining the effects of the Drive action for the same number of actions you spent to Power Slide. At the end of the movement, if you succeed, you can turn the vehicle up to 90 degrees. If you critically succeed at your piloting check, you can instead turn the vehicle up to 180 degrees.
 
-## [[Feats/Push It|Push It]] Feat 7
+## [[Push It|Push It]] Feat 7
 
-**Prerequisites** [[Feats/Trick Driver Dedication|Trick Driver Dedication]], master in Driving Lore
+**Prerequisites** [[Trick Driver Dedication|Trick Driver Dedication]], master in Driving Lore
 
 * * *
 
 You can push your vehicle's performance beyond the limits envisioned by its makers. Whenever you succeed at a piloting check, the vehicle you are piloting gains a +5-foot circumstance bonus to all its Speeds until the end of your turn. If you critically succeed, this bonus increases to +10 feet.
 
-## [[Feats/Roadkill|Roadkill]] Feat 10
+## [[Roadkill|Roadkill]] Feat 10
 
-**Prerequisites** [[Feats/Trick Driver Dedication|Trick Driver Dedication]]
+**Prerequisites** [[Trick Driver Dedication|Trick Driver Dedication]]
 
 * * *
 
@@ -78,9 +78,9 @@ You can push your vehicle's performance beyond the limits envisioned by its make
 
 In your hands, any vehicle is a weapon. When you use [[Actions/Run Over|Run Over]], you can use your class DC in place of the vehicle's collision DC. Your vehicle can Run Over any number of creatures up to one Size smaller than the vehicle or ram any one target creature or object in your path up to the size of your vehicle.
 
-## [[Feats/Drive-By Attack|Drive-By Attack]] Feat 12
+## [[Drive-By Attack|Drive-By Attack]] Feat 12
 
-**Prerequisites** [[Feats/Trick Driver Dedication|Trick Driver Dedication]]
+**Prerequisites** [[Trick Driver Dedication|Trick Driver Dedication]]
 
 * * *
 

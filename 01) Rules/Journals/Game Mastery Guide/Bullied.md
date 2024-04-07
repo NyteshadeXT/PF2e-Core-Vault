@@ -8,4 +8,4 @@ tags:
 ---
 In your early life, you were often picked on. The callousness of bullies sharpened your resolve to stand up for yourself and others.
 
-Add the [[Feats/Intimidating Glare|Intimidating Glare]] skill feat to your background options
+Add the [[Intimidating Glare|Intimidating Glare]] skill feat to your background options

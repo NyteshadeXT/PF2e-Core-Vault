@@ -24,7 +24,7 @@ You are an Ulfen warrior, feared among Avistan for the merciless and devastating
 
 Choose two ability boosts. One must be to **Strength** or **Charisma**, and one is a free ability boost.
 
-You're trained in the Intimidation skill and the Sailing Lore skill. You gain the [[Feats/Intimidating Glare|Intimidating Glare]] skill feat.
+You're trained in the Intimidation skill and the Sailing Lore skill. You gain the [[Intimidating Glare|Intimidating Glare]] skill feat.
 
 *Source: Pathfinder Lost Omens: World Guide*
 *OGL*

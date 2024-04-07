@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by [[Feats/Tiger Stance|Tiger Stance]]
+Granted by [[Tiger Stance|Tiger Stance]]
 
 You enter the stance of a tiger and can make tiger claw attacks. These deal 1d8 slashing damage; are in the brawling group; and have the agile, finesse, nonlethal, and unarmed traits.
 

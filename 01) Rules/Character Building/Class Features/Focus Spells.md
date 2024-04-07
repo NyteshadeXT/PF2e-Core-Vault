@@ -43,7 +43,7 @@ If you are a spellcaster, your focus spells are the same tradition of spell as t
 
 Source **Core Rulebook pg. 302**
 
-If you get focus spells from a class or other source that doesn't grant spellcasting ability (for example, if you're a Monk with the [[Feats/Ki Strike|Ki Strike]] feat), the ability that gives you focus spells also provides your proficiency rank for spell attack rolls and spell DCs, as well as the magical tradition of your focus spells. You gain the ability to [[Actions/Cast a Spell|Cast a Spell]] and use any spellcasting actions necessary to cast your focus spells (see below). However, you don't qualify for feats and other rules that require you to be a spellcaster.
+If you get focus spells from a class or other source that doesn't grant spellcasting ability (for example, if you're a Monk with the [[01) Rules/Character Building/Feats/Ki Strike|Ki Strike]] feat), the ability that gives you focus spells also provides your proficiency rank for spell attack rolls and spell DCs, as well as the magical tradition of your focus spells. You gain the ability to [[Actions/Cast a Spell|Cast a Spell]] and use any spellcasting actions necessary to cast your focus spells (see below). However, you don't qualify for feats and other rules that require you to be a spellcaster.
 
 *Source: Pathfinder Core Rulebook*
 *OGL*

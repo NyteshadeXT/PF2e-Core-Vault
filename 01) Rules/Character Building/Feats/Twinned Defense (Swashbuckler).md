@@ -24,7 +24,7 @@ license: OGL
 
 * * *
 
-You're always ready to use your off-hand weapon to interfere with attacks against you. While you are in this stance, you constantly gain the benefits of the [[Feats/Twin Parry|Twin Parry]] action.
+You're always ready to use your off-hand weapon to interfere with attacks against you. While you are in this stance, you constantly gain the benefits of the [[Twin Parry|Twin Parry]] action.
 
 *Source: Pathfinder Advanced Player's Guide*
 *OGL*

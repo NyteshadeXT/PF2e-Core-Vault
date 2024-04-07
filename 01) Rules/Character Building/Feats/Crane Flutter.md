@@ -21,7 +21,7 @@ license: OGL
 * * *
 **Trigger** You are targeted with a melee attack by an attacker you can see.
 
-**Requirements** You are in [[Feats/Crane Stance|Crane Stance]].
+**Requirements** You are in [[Crane Stance|Crane Stance]].
 
 * * *
 

@@ -10,9 +10,9 @@ tags:
 # Bounty Hunter
 Whether for coin, glory, or justice, you know how to track, defeat, and capture dangerous individuals. You're accustomed to perusing wanted posters, searching up on leads, and pursuing villains to hell and back.
 
-**Additional Feats** 14th [[Feats/Double Prey|Double Prey]]
+**Additional Feats** 14th [[Double Prey|Double Prey]]
 
-## [[Feats/Bounty Hunter Dedication|Bounty Hunter Dedication]] Feat 2
+## [[Bounty Hunter Dedication|Bounty Hunter Dedication]] Feat 2
 
 **Prerequisites** trained in Survival
 
@@ -24,7 +24,7 @@ If you already have Hunt Prey, you become an expert in Survival and gain the cir
 
 **Special** You can't select another dedication feat until you have gained two other feats from the bounty hunter archetype.
 
-## [[Feats/Tools Of The Trade|Tools Of The Trade]] Feat 4
+## [[Tools Of The Trade|Tools Of The Trade]] Feat 4
 
 **Prerequisites** Bounty Hunter Dedication
 
@@ -32,7 +32,7 @@ You're well-versed in weapons that allow you to bring bounties in alive. You are
 
 In addition, you take no penalty when making a nonlethal attack with a weapon without the nonlethal trait.
 
-## [[Feats/Posse|Posse]] Feat 4
+## [[Posse|Posse]] Feat 4
 
 **Prerequisites** Bounty Hunter Dedication
 
@@ -44,7 +44,7 @@ By spending 1 minute giving guidance to help hunt down your prey, you instruct u
 
 This benefit lasts until you designate a new prey or your prey dies, whichever comes first. An individual creature assisting you loses this benefit if they're out of your presence for too long to benefit from your instructions. This is usually 1 hour, but is determined by the GM.
 
-## [[Feats/Keep Pace (Bounty Hunter)|Keep Pace]] Feat 6
+## [[Keep Pace (Bounty Hunter)|Keep Pace]] Feat 6
 
 **Prerequisites** Bounty Hunter Dedication
 
@@ -56,7 +56,7 @@ This benefit lasts until you designate a new prey or your prey dies, whichever c
 
 Your prey can't Escape. Stride up to your Speed, following the foe and keeping it in reach throughout its movement until it stops moving or you've moved your full Speed. You can use Keep Pace to Burrow, Climb, Fly, or Swim instead of Stride if you have the corresponding movement type.
 
-## [[Feats/Opportunistic Grapple|Opportunistic Grapple]] Feat 8
+## [[Opportunistic Grapple|Opportunistic Grapple]] Feat 8
 
 **Prerequisites** Bounty Hunter Dedication
 

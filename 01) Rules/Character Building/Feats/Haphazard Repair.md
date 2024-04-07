@@ -12,7 +12,7 @@ license: OGL
 ---
 # Haphazard Repair `pf2:1`
 ## Feat 1
-### [[inventor]][[unstable]]
+### [[01) Rules/Character Building/Feats/Inventor]][[unstable]]
 
 **Category** class; 
 

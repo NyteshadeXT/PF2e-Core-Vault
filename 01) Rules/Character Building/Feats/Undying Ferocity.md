@@ -20,7 +20,7 @@ license: ORC
 
 **Prerequisites** Orc Ferocity
 * * *
-You resist death's clutches with supernatural vigor, daring death to claim you while promising that any such attempt will surely fail. When you use [[Feats/Orc Ferocity|Orc Ferocity]], you gain temporary Hit Points equal to your level.
+You resist death's clutches with supernatural vigor, daring death to claim you while promising that any such attempt will surely fail. When you use [[Orc Ferocity|Orc Ferocity]], you gain temporary Hit Points equal to your level.
 
 [[Feat_Feature Effects/Effect_ Undying Ferocity|Effect: Undying Ferocity]]
 

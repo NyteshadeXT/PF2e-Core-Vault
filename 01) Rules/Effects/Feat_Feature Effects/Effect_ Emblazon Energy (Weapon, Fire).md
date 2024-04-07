@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by [[Feats/Emblazon Energy|Emblazon Energy]] when applied to a weapon.
+Granted by [[Emblazon Energy|Emblazon Energy]] when applied to a weapon.
 
 *   **Weapon** The weapon deals an extra 1d4 fire damage, or an extra 1d6 fire damage if you have a domain spell with the fire trait.
 

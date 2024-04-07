@@ -44,7 +44,7 @@ The moderate versions of the bombs you chose for perpetual infusions.
 
 ## [[Class Features/Greater Field Discovery (Bomber)|Greater Field Discovery]]Level 13
 
-You can increase the splash on your bombs to damage creatures within 10 feet, or 15 feet if you have [[Feats/Expanded Splash|Expanded Splash]].
+You can increase the splash on your bombs to damage creatures within 10 feet, or 15 feet if you have [[Expanded Splash|Expanded Splash]].
 
 ## [[Class Features/Perpetual Perfection (Bomber)|Perpetual Perfection]]Level 17
 

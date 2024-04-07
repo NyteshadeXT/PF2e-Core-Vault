@@ -19,7 +19,7 @@ license: OGL
 
 **Prerequisites** Soaring Flight
 * * *
-Your wings grow stronger. You gain the effects of [[Feats/Soaring Flight|Soaring Flight]] at all times.
+Your wings grow stronger. You gain the effects of [[01) Rules/Character Building/Feats/Soaring Flight|Soaring Flight]] at all times.
 
 *Source: Pathfinder Lost Omens: Ancestry Guide*
 *OGL*

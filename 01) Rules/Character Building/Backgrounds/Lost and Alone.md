@@ -20,7 +20,7 @@ You were training to become a knight in Lastwall when the Whispering Tyrant esca
 
 Choose two ability boosts. One must be to **Strength** or **Charisma**, and one is a free ability boost.
 
-You're trained in the Intimidation skill, and the Warfare Lore skill. You gain the [[Feats/Intimidating Glare|Intimidating Glare]] skill feat.
+You're trained in the Intimidation skill, and the Warfare Lore skill. You gain the [[Intimidating Glare|Intimidating Glare]] skill feat.
 
 *Source: Pathfinder Adventure: The Fall of Plaguestone*
 *OGL*

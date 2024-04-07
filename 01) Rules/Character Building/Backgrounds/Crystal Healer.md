@@ -21,7 +21,7 @@ Mineral formations can be beautiful things, sparkling and arrayed in geometric c
 
 Choose two attribute boosts. One must be to **Wisdom** or **Charisma** and one is a free attribute boost.
 
-You're trained in the Nature skill and the Plane of Earth Lore skill. You gain the [[Feats/Natural Medicine|Natural Medicine]] skill feat.
+You're trained in the Nature skill and the Plane of Earth Lore skill. You gain the [[Natural Medicine|Natural Medicine]] skill feat.
 
 *Source: Pathfinder Rage of Elements*
 *OGL*

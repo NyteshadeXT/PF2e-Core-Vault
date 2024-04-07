@@ -22,7 +22,7 @@ license: ORC
 
 **Trigger** A creature within your reach critically fails to Strike you.
 
-**Requirements** You are benefiting from [[Feats/Twin Parry|Twin Parry]].
+**Requirements** You are benefiting from [[Twin Parry|Twin Parry]].
 
 * * *
 

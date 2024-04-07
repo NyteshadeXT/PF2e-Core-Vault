@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by [[Feats/Undying Conviction|Undying Conviction]]
+Granted by [[Undying Conviction|Undying Conviction]]
 
 Undead creatures gain a +2 status bonus to saving throws to resist vitality damage and to Will saving throws to resist effects that would make them controlled.
 

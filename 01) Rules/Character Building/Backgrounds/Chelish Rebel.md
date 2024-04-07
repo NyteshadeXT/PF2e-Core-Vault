@@ -24,7 +24,7 @@ You joined the fight against House Thrune. You may have helped liberate the nati
 
 Choose two ability boosts. One must be to **Dexterity** or **Charisma**, and one is a free ability boost.
 
-You're trained in the Society skill and the Kintargo Lore skill. You gain the [[Feats/Streetwise|Streetwise]] skill feat.
+You're trained in the Society skill and the Kintargo Lore skill. You gain the [[Streetwise|Streetwise]] skill feat.
 
 *Source: Pathfinder Lost Omens: World Guide*
 *OGL*

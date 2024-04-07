@@ -19,7 +19,7 @@ license: OGL
 
 **Prerequisites** Wings of Air
 * * *
-Your wings are now a permanent part of your body. You gain the effects of [[Feats/Wings Of Air|Wings Of Air]] at all times rather than just once per day for 10 minutes.
+Your wings are now a permanent part of your body. You gain the effects of [[Wings Of Air|Wings Of Air]] at all times rather than just once per day for 10 minutes.
 
 *Source: Pathfinder Lost Omens: Ancestry Guide*
 *OGL*

@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by [[Feats/Gorilla Stance|Gorilla Stance]] if you have [[Feats/Gorilla Pound|Gorilla Pound]], which grants you a climb speed of 15 while you are in this stance.
+Granted by [[Gorilla Stance|Gorilla Stance]] if you have [[Gorilla Pound|Gorilla Pound]], which grants you a climb speed of 15 while you are in this stance.
 
 You lower yourself to the ground and take an imposing, knuckle-walking stance. While in this stance, the only Strikes you can make are gorilla slam unarmed attacks. These deal 1d8 bludgeoning damage; are in the brawling group; and have the backswing, forceful, grapple, nonlethal, and unarmed traits.
 

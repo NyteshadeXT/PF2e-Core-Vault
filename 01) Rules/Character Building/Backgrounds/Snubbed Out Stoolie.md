@@ -22,7 +22,7 @@ Now, not a trace remains of your work for the city. Not only is it as though you
 
 Choose two ability boosts. One must be to **Strength** or **Charisma**, and one is a free ability boost.
 
-You're trained in the Deception skill and the Underworld Lore skill. You gain the [[Feats/Lie to Me|Lie to Me]] skill feat.
+You're trained in the Deception skill and the Underworld Lore skill. You gain the [[Lie to Me|Lie to Me]] skill feat.
 
 *Source: Pathfinder: Outlaws of Alkenstar Player's Guide*
 *OGL*

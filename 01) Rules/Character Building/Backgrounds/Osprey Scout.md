@@ -20,7 +20,7 @@ Though Osprey Cove is a quiet village, you've scouted the wilderness inland, wat
 
 Choose two ability boosts. One must be to **Dexterity** or **Wisdom**, and one is a free ability boost.
 
-You're trained in the Survival skill and the Scouting Lore skill. You gain the [[Feats/Experienced Tracker|Experienced Tracker]] skill feat.
+You're trained in the Survival skill and the Scouting Lore skill. You gain the [[Experienced Tracker|Experienced Tracker]] skill feat.
 
 *Source: Pathfinder Adventure: Rusthenge*
 *OGL*

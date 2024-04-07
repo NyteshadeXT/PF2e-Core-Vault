@@ -19,7 +19,7 @@ license: OGL
 
 **Prerequisites** Unexpected Sharpshooter Dedication
 * * *
-Your ability to narrowly evade danger defies all logic. You can use [[Feats/Lucky Escape|Lucky Escape]] once per hour instead of once per day.
+Your ability to narrowly evade danger defies all logic. You can use [[Lucky Escape|Lucky Escape]] once per hour instead of once per day.
 
 *Source: Pathfinder Guns & Gears*
 *OGL*

@@ -20,7 +20,7 @@ You already have a close connection to Clan Tolorr, such as having been born int
 
 Choose two ability boosts. One must be to **Constitution** or **Wisdom**, and one is a free ability boost.
 
-You're trained in the Society skill and the Highhelm Lore skill. You gain the [[Feats/Multilingual|Multilingual]] skill feat.
+You're trained in the Society skill and the Highhelm Lore skill. You gain the [[Multilingual|Multilingual]] skill feat.
 
 **Connection:** You have no special connection or sponsor in Clan Tolorr.
 

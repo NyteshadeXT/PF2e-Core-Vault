@@ -17,7 +17,7 @@ license: ORC
 
 
 
-Granted by [[Feats/Resurrectionist|Resurrectionist]]
+Granted by [[Resurrectionist|Resurrectionist]]
 
 You gain fast healing 5.
 

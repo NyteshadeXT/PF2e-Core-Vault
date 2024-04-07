@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by [[Feats/Crimson Shroud|Crimson Shroud]].
+Granted by [[Crimson Shroud|Crimson Shroud]].
 
 *Source: Pathfinder Lost Omens: World Guide*
 *OGL*

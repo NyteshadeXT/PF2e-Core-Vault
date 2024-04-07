@@ -21,7 +21,7 @@ license: ORC
 ---
 # Greater Weapon Specialization
 ## Feat 15
-### [[champion]][[fighter]][[gunslinger]][[inventor]][[investigator]][[magus]][[monk]][[ranger]][[rogue]][[swashbuckler]]
+### [[champion]][[fighter]][[gunslinger]][[01) Rules/Character Building/Feats/Inventor]][[investigator]][[magus]][[monk]][[ranger]][[rogue]][[swashbuckler]]
 
 **Category** classfeature; 
 

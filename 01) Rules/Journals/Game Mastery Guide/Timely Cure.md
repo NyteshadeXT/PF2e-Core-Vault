@@ -8,4 +8,4 @@ tags:
 ---
 When a family member of yours was dying and there didn't seem to be much hope, this character brought a simple but effective alchemical cure. You are determined to pay this favor forward.
 
-Add the [[Feats/Alchemical Crafting|Alchemical Crafting]] skill feat to your background options.
+Add the [[Alchemical Crafting|Alchemical Crafting]] skill feat to your background options.

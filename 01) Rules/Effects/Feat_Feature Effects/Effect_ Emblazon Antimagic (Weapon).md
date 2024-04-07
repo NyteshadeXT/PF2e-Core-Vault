@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by [[Feats/Emblazon Antimagic|Emblazon Antimagic]].
+Granted by [[Emblazon Antimagic|Emblazon Antimagic]].
 
 When the weapon's wielder critically hits with the weapon, they can attempt to counteract a spell on their target, using half their level, rounded up, as the counteract rank. If they attempt to do so, the emblazoned symbol immediately disappears.
 

@@ -20,7 +20,7 @@ You've seen the sorts of things that technology brings- polluted environments, w
 
 Choose two ability boosts. One must be to **Constitution** or **Charisma**, and one is a free ability boost.
 
-You're trained in the Intimidation skill and the Guild Lore skill. You gain the [[Feats/Group Coercion|Group Coercion]] skill feat.
+You're trained in the Intimidation skill and the Guild Lore skill. You gain the [[Group Coercion|Group Coercion]] skill feat.
 
 *Source: Pathfinder Guns & Gears*
 *OGL*

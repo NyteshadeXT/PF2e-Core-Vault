@@ -21,7 +21,7 @@ Your past includes no small amount of rural banditry, robbing travelers on the r
 
 Choose two attribute boosts. One must be to **Dexterity** or **Charisma**, and one is a free attribute boost.
 
-You're trained in the Intimidation skill and a Lore skill related to the terrain you worked in (such as Desert Lore or Plains Lore). You gain the [[Feats/Group Coercion|Group Coercion]] skill feat.
+You're trained in the Intimidation skill and a Lore skill related to the terrain you worked in (such as Desert Lore or Plains Lore). You gain the [[Group Coercion|Group Coercion]] skill feat.
 
 *Source: Pathfinder Player Core*
 *ORC*

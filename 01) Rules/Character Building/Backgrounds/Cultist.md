@@ -21,7 +21,7 @@ You were (or still are) a member of a cult whose rites may involve sacred dances
 
 Choose two attribute boosts. One must be to **Intelligence** or **Charisma**, and one is a free attribute boost.
 
-You're trained in the Occultism skill and a Lore skill related to your deity or cult. You gain the [[Feats/Schooled In Secrets|Schooled In Secrets]] skill feat.
+You're trained in the Occultism skill and a Lore skill related to your deity or cult. You gain the [[Schooled In Secrets|Schooled In Secrets]] skill feat.
 
 *Source: Pathfinder Player Core*
 *ORC*

@@ -21,7 +21,7 @@ You were hired by the Concordance of Elements to seek out rumors of planar breac
 
 Choose two attribute boosts. One must be to **Constitution** or **Charisma**, and one is a free attribute boost.
 
-You're trained in the Diplomacy skill and one of the following lore skills: Plane of Air Lore, Plane of Earth Lore, Plane of Fire Lore, Plane of Metal Lore, Plane of Water Lore, or Plane of Wood Lore. You gain the [[Feats/Hobnobber|Hobnobber]] skill feat.
+You're trained in the Diplomacy skill and one of the following lore skills: Plane of Air Lore, Plane of Earth Lore, Plane of Fire Lore, Plane of Metal Lore, Plane of Water Lore, or Plane of Wood Lore. You gain the [[Hobnobber|Hobnobber]] skill feat.
 
 *Source: Pathfinder Rage of Elements*
 *OGL*

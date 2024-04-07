@@ -19,7 +19,7 @@ license: ORC
 
 
 
-You have an impressive innate ability to tame and command ferocious beasts. You become trained in the Nature skill and gain your choice of the [[Feats/Pet|Pet]] general feat or the [[Feats/Train Animal|Train Animal]] skill feat.
+You have an impressive innate ability to tame and command ferocious beasts. You become trained in the Nature skill and gain your choice of the [[Pet|Pet]] general feat or the [[Train Animal|Train Animal]] skill feat.
 
 *Source: Pathfinder Player Core*
 *ORC*

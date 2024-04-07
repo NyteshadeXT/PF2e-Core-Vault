@@ -12,17 +12,17 @@ Certain martial artists dedicate themselves to fighting in Jalmeray's Challenge 
 
 You can select the dedication feat for the Jalmeri Heavenseeker archetype even if you haven't yet gained three feats from the [[Compendium.pf2e.journals.JournalEntry.vx5FGEG34AxI2dow.JournalEntryPage.EwlYs1OzaMj9BB5I|Student of Perfection]] archetype.
 
-## [[Feats/Jalmeri Heavenseeker Dedication|Jalmeri Heavenseeker Dedication]] Feat 4
+## [[Jalmeri Heavenseeker Dedication|Jalmeri Heavenseeker Dedication]] Feat 4
 
 **Prerequisites** Student of Perfection Dedication, or you've trained with a champion of the Challenge of Sky and Heaven
 
 * * *
 
-You become trained in either Acrobatics or Occultism; if you were already trained in both these skills, you become an expert in one of them instead. You gain either the [[Feats/Ki Rush|Ki Rush]] or [[Feats/Ki Strike|Ki Strike]] monk feat, which grants you a ki spell and a focus pool of 1 Focus Point that you can recover using the Refocus activity as a monk does. If you already have both feats, you can instead choose a single 1st‐level monk feat.
+You become trained in either Acrobatics or Occultism; if you were already trained in both these skills, you become an expert in one of them instead. You gain either the [[01) Rules/Character Building/Feats/Ki Rush|Ki Rush]] or [[01) Rules/Character Building/Feats/Ki Strike|Ki Strike]] monk feat, which grants you a ki spell and a focus pool of 1 Focus Point that you can recover using the Refocus activity as a monk does. If you already have both feats, you can instead choose a single 1st‐level monk feat.
 
 **Special** You can't select another dedication feat until you gain two other feats from the Jalmeri Heavenseeker or Student of Perfection archetypes.
 
-## [[Feats/Heaven's Thunder|Heaven's Thunder]] Feat 6
+## [[Heaven's Thunder|Heaven's Thunder]] Feat 6
 
 **Prerequisites** Jalmeri Heavenseeker Dedication
 
@@ -32,7 +32,7 @@ Until the end of your next turn, your unarmed attacks and any monk weapons you w
 
 If you also know the _ki blast_ ki spell, you can choose to deal either electricity or sonic damage with the spell instead of force while this effect is active (_ki blast_ loses the force trait and gains the electricity or sonic trait instead).
 
-## [[Feats/Sky and Heaven Stance|Sky and Heaven Stance]] Feat 6
+## [[Sky and Heaven Stance|Sky and Heaven Stance]] Feat 6
 
 **Prerequisites** Jalmeri Heavenseeker Dedication
 
@@ -42,7 +42,7 @@ If you also know the _ki blast_ ki spell, you can choose to deal either electric
 
 Your jagged blows are like lightning. The only Strikes you can make are skyward slash unarmed attacks. These unarmed attacks deal 1d10 slashing damage; are in the brawling group; and have the nonlethal, unarmed, and versatile P traits. While in Sky and Heaven Stance, you gain resistance 2 to electricity and resistance 2 to sonic damage. These resistances increase to 5 at 12th level and to 8 at 18th level.
 
-## [[Feats/Skyseeker|Skyseeker]] Feat 8
+## [[Skyseeker|Skyseeker]] Feat 8
 
 **Prerequisites** Sky and Heaven Stance
 
@@ -52,7 +52,7 @@ Your jagged blows are like lightning. The only Strikes you can make are skyward 
 
 You Leap toward an opponent. At any point in the Leap, you can make a single Strike against a creature within your reach. At 12th level, if you hit with this Strike, instead of finishing your Leap, you can immediately attempt a second Leap from the space where you struck the target of your Strike. You can make a single Strike against a target within your reach during this second Leap as well. At 16th level, you can attempt a third Leap if your second Strike hits, and you can attack a target at any point during this third Leap. All Leaps made during this activity gain a +10‐foot status bonus to the total height or distance of your leap, and no two Strikes can target the same creature.
 
-## [[Feats/Steal the Sky|Steal the Sky]] Feat 10
+## [[01) Rules/Character Building/Feats/Steal the Sky|Steal the Sky]] Feat 10
 
 **Prerequisites** Jalmeri Heavenseeker Dedication
 
@@ -60,7 +60,7 @@ You Leap toward an opponent. At any point in the Leap, you can make a single Str
 
 You can take away the air that keeps a flying foe aloft. You gain the [[Spells/Steal the Sky|Steal the Sky]] ki spell. Increase the number of Focus Points in your focus pool by 1.
 
-## [[Feats/Speaking Sky|Speaking Sky]] Feat 12
+## [[01) Rules/Character Building/Feats/Speaking Sky|Speaking Sky]] Feat 12
 
 **Prerequisites** Jalmeri Heavenseeker Dedication
 
@@ -68,7 +68,7 @@ You can take away the air that keeps a flying foe aloft. You gain the [[Spells/S
 
 You gain the [[Spells/Speaking Sky|Speaking Sky]] ki spell. Increase the number of Focus Points in your focus pool by 1.
 
-## [[Feats/Cross the Final Horizon|Cross the Final Horizon]] Feat 20
+## [[Cross the Final Horizon|Cross the Final Horizon]] Feat 20
 
 **Prerequisites** Sky and Heaven Stance
 

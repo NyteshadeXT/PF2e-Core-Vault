@@ -18,7 +18,7 @@ This isn't to say that spell tricksters come solely from high academia. A sorcer
 
 The rules in this section are presented as part of an archetype, meant for a character dedicated to the art of innovating magic—but you don't have to limit yourself to this premise. At the GM's discretion, a spell trickster feat could be made available to a character as a class feat without the character taking the archetype. In most cases, this option should only be offered as a reward or story element that the character, GM, or group has dedicated a significant amount of time to developing—a character who wishes to partake in these options without GM permission or involvement should simply take the spell trickster archetype. These feats could be used to represent the payoff from extended magical research; finding forgotten or forbidden lore in a lost corner of Golarion; pleasing a god, patron, or other notable power; a magical plane or artifact exerting its influence; or any other number of situations that an adventurer might encounter while exploring. Keep in mind, however, that these feats were created and balanced to be part of an archetype. If allowing spell trickster feats as general class feats begins to negatively impact the game, the players should be willing to walk the decision back and rebuild characters as necessary.
 
-## [[Feats/Spell Trickster Dedication|Spell Trickster Dedication]] Feat 2
+## [[Spell Trickster Dedication|Spell Trickster Dedication]] Feat 2
 
 **Prerequisites** Able to cast spells; trained in Arcana, Nature, Occultism, or Religion
 
@@ -30,81 +30,81 @@ Choose up to two 4th-level spell trickster archetype feats for which you meet th
 
 **Special** You can't select another dedication feat until you have gained two other feats from the spell trickster archetype. The two feats you gain from taking the dedication don't count toward this total.
 
-## [[Feats/Agile Hand|Agile Hand]] Feat 4
+## [[Agile Hand|Agile Hand]] Feat 4
 
-**Prerequisites**[[Feats/Spell Trickster Dedication|Spell Trickster Dedication]], ability to cast [[Spells/Telekinetic Hand|Telekinetic Hand]]
+**Prerequisites**[[Spell Trickster Dedication|Spell Trickster Dedication]], ability to cast [[Spells/Telekinetic Hand|Telekinetic Hand]]
 
 * * *
 
 When you cast mage hand, you can modify its target to be a set of thieves' tools. When you Cast the Spell in this way, the tools move up to 20 feet towards a device or lock. After you Sustain the Spell on future turns, you can use the tools to attempt Thievery checks to Disable a Device or Pick a Lock within the spell's range, but you take a -2 penalty to your Thievery check. If you critically fail, the spell ends and you can't use this modification again for 24 hours.
 
-## [[Feats/Barrier Shield|Barrier Shield]] Feat 4
+## [[Barrier Shield|Barrier Shield]] Feat 4
 
-**Prerequisites**[[Feats/Spell Trickster Dedication|Spell Trickster Dedication]], ability to cast [[Spells/Shield|Shield]]
+**Prerequisites**[[Spell Trickster Dedication|Spell Trickster Dedication]], ability to cast [[Spells/Shield|Shield]]
 
 * * *
 
 When you cast shield, you can modify the spell to create a solid barrier you can use for cover, but not for blocking. You can't use the Shield Block reaction when the spell is modified in this way, but you (and only you) can spend an action to Take Cover to gain standard cover from it.
 
-## [[Feats/Forceful Push|Forceful Push]] Feat 4
+## [[Forceful Push|Forceful Push]] Feat 4
 
-**Prerequisites**[[Feats/Spell Trickster Dedication|Spell Trickster Dedication]], ability to cast [[Spells/Telekinetic Hand|Telekinetic Hand]]
+**Prerequisites**[[Spell Trickster Dedication|Spell Trickster Dedication]], ability to cast [[Spells/Telekinetic Hand|Telekinetic Hand]]
 
 * * *
 
 When you cast mage hand, you can modify its target to be 1 creature. If you do, replace its standard effects with the following: You push your foe telekinetically. Make a spell attack roll against the target's Fortitude DC. On a success, you push the target 5 feet away from you. On a critical success, you push the target 10 feet away from you.
 
-## [[Feats/Shining Arms|Shining Arms]] Feat 4
+## [[Shining Arms|Shining Arms]] Feat 4
 
-**Prerequisites**[[Feats/Spell Trickster Dedication|Spell Trickster Dedication]], ability to cast [[Spells/Light|Light]]
+**Prerequisites**[[Spell Trickster Dedication|Spell Trickster Dedication]], ability to cast [[Spells/Light|Light]]
 
 * * *
 
 When you cast light, you can modify its target to be 1 melee weapon, either unattended or possessed by you or a willing ally, and modify its duration to be 1 minute. If you do, add the following to its effects: When a creature wielding the weapon critically hits a foe, you can Dismiss the Spell as a reaction, causing the foe to be [[Conditions/Dazzled|Dazzled]] for 1 round. After you use this reaction, you can't use this modification again for 10 minutes.
 
-## [[Feats/Summon Ensemble|Summon Ensemble]] Feat 4
+## [[Summon Ensemble|Summon Ensemble]] Feat 4
 
-**Prerequisites**[[Feats/Spell Trickster Dedication|Spell Trickster Dedication]], ability to cast [[Spells/Summon Instrument|Summon Instrument]]
+**Prerequisites**[[Spell Trickster Dedication|Spell Trickster Dedication]], ability to cast [[Spells/Summon Instrument|Summon Instrument]]
 
 * * *
 
 When you cast summon instrument, you can modify its duration to be sustained, up to 1 minute. When you do, you summon a number of instruments equal to your spellcasting attribute modifier that hover around you and play of their own accord. Once per turn when you Sustain the Spell, choose an opponent within 30 feet who can hear your performance. The target must attempt a Will save against the spell's DC; on a failure, it becomes distracted by your performance and becomes [[Conditions/Off-Guard|Off-Guard]] for 1 round. The target is then temporarily immune for 24 hours.
 
-## [[Feats/Tracing Sigil|Tracing Sigil]] Feat 4
+## [[Tracing Sigil|Tracing Sigil]] Feat 4
 
-**Prerequisites**[[Feats/Spell Trickster Dedication|Spell Trickster Dedication]], ability to cast [[Spells/Sigil|Sigil]]
+**Prerequisites**[[Spell Trickster Dedication|Spell Trickster Dedication]], ability to cast [[Spells/Sigil|Sigil]]
 
 * * *
 
 When you cast sigil, you can modify the spell to add the following to its standard effects: The target leaves a magical trail that you and others can try to follow. You and other creatures can attempt to Track the target, substituting an Arcana, Nature, Occultism, or Religion check (whichever matches the magical tradition of your sigil spell) for the Survival check. Much like Tracking with Survival, this must take place somewhere the target has been and follow the trail; it doesn't allow anyone to find the target from a distance. You can only have a single target marked with a modified sigil in this way. If you use this ability again on a second target, the sigil spell on the first target ends, and your mark fades.
 
-## [[Feats/Wild Lights|Wild Lights]] Feat 4
+## [[Wild Lights|Wild Lights]] Feat 4
 
-**Prerequisites**[[Feats/Spell Trickster Dedication|Spell Trickster Dedication]], ability to cast [[Spells/Light|Light]]
+**Prerequisites**[[Spell Trickster Dedication|Spell Trickster Dedication]], ability to cast [[Spells/Light|Light]]
 
 * * *
 
 When you cast dancing lights, you can modify its duration to be 1 minute and modify its standard effects to create a single floating light in the shape of a Tiny creature, instead of up to four floating lights. The creature hovers over your head unless you spend a single action that has the concentrate trait to direct the light to move up to 30 feet, in which case it remains there until you direct it again. If you direct it back to your head, it hovers there and follows you again until you direct it elsewhere. If the light ever moves beyond 120 feet of you, it winks out immediately.
 
-## [[Feats/Animate Net|Animate Net]] Feat 6
+## [[Animate Net|Animate Net]] Feat 6
 
-**Prerequisites**[[Feats/Spell Trickster Dedication|Spell Trickster Dedication]], ability to cast [[Spells/Animate Rope|Animate Rope]]
+**Prerequisites**[[Spell Trickster Dedication|Spell Trickster Dedication]], ability to cast [[Spells/Animate Rope|Animate Rope]]
 
 * * *
 
 When you cast animate rope, you can modify its target to be 1 net. If you do, replace the spell's standard effects with the following: You cause a net to animate and throw itself at a Medium or smaller creature within 20 feet of the net. Attempt a spell attack roll against the target's Reflex DC. On a success, the target is [[Conditions/Off-Guard|Off-Guard]] and takes a -10-foot circumstance penalty to its Speeds until it Escapes; on a critical success, it's also [[Conditions/Immobilized|Immobilized]] until it Escapes. The Escape DC is equal to your spell DC as long as the spell lasts. Once the spell ends, the Escape DC returns to the normal DC for a net (usually 16), and a creature adjacent to the target can Interact to remove the net.
 
-## [[Feats/Confounding Image|Confounding Image]] Feat 6
+## [[Confounding Image|Confounding Image]] Feat 6
 
-**Prerequisites**[[Feats/Spell Trickster Dedication|Spell Trickster Dedication]], ability to cast [[Spells/Mirror Image|Mirror Image]]
+**Prerequisites**[[Spell Trickster Dedication|Spell Trickster Dedication]], ability to cast [[Spells/Mirror Image|Mirror Image]]
 
 * * *
 
 When you cast mirror image, you can modify its duration to be sustained up to 1 minute and modify its range to 30 feet. If you do, replace the spell's standard effects with the following: You create an illusory duplicate of yourself that appears in an unoccupied square within range. The image takes up space and has a reach of 5 feet, and your allies can flank with the image. It doesn't have any other attributes a creature would normally have other than an AC equal to your spell DC and saving throw modifiers equal to your spell DC - 10. If the image is hit by an attack or fails a save, or if you ever move more than 30 feet from it, the spell ends. Creatures can move through its space without hindrance. When you Sustain the Spell, you can move the image to an unoccupied square within range.
 
-## [[Feats/Disk Rider|Disk Rider]] Feat 6
+## [[Disk Rider|Disk Rider]] Feat 6
 
-**Prerequisites**[[Feats/Spell Trickster Dedication|Spell Trickster Dedication]], ability to cast [[Spells/Floating Disk|Floating Disk]]
+**Prerequisites**[[Spell Trickster Dedication|Spell Trickster Dedication]], ability to cast [[Spells/Floating Disk|Floating Disk]]
 
 * * *
 
@@ -114,9 +114,9 @@ When you cast floating disk, you can modify its duration to be sustained, up to 
 
 **Heightened (3rd)** The disk can hold up to 10 Bulk. The spell no longer ends if you ride atop the disk (though it does if any other creature rides atop it, including if the creature is riding on you). If you are riding the disk, it changes its capacity to hold you, plus additional Bulk equal to the maximum you could carry without being encumbered. If you ride atop the disk, you can direct it to move along the ground up to 30 feet or your Speed, whichever is slower, each time you Sustain the Spell. While you ride atop it, the disk can move over liquids as long as it ends its movement on solid ground. If it ends its movement on a surface that can't support it, the spell ends.
 
-## [[Feats/Drenching Mist|Drenching Mist]] Feat 6
+## [[Drenching Mist|Drenching Mist]] Feat 6
 
-**Prerequisites**[[Feats/Spell Trickster Dedication|Spell Trickster Dedication]], ability to cast [[Spells/Mist|Mist]]
+**Prerequisites**[[Spell Trickster Dedication|Spell Trickster Dedication]], ability to cast [[Spells/Mist|Mist]]
 
 * * *
 
@@ -126,25 +126,25 @@ When you cast obscuring mist, you can modify it to add the following heightened 
 
 **Heightened (3rd)** Your mist is particularly laden with moisture. Non-magical fires within the area are automatically extinguished. Choose one magical fire or fire spell in the area and attempt to counteract it.
 
-## [[Feats/Obscured Terrain|Obscured Terrain]] Feat 6
+## [[Obscured Terrain|Obscured Terrain]] Feat 6
 
-**Prerequisites**[[Feats/Spell Trickster Dedication|Spell Trickster Dedication]], ability to cast [[Spells/Mist|Mist]]
+**Prerequisites**[[Spell Trickster Dedication|Spell Trickster Dedication]], ability to cast [[Spells/Mist|Mist]]
 
 * * *
 
 When you cast obscuring mist, you can modify the spell to replace its standard effects with the following: You cause a cloud of thick fog to blanket the area, making it difficult to see the ground. The area within the fog is difficult terrain for creatures that can't see through fog or mist. You can Dismiss the cloud.
 
-## [[Feats/Uneasy Rest|Uneasy Rest]] Feat 6
+## [[Uneasy Rest|Uneasy Rest]] Feat 6
 
-**Prerequisites**[[Feats/Spell Trickster Dedication|Spell Trickster Dedication]], ability to cast [[Spells/Sleep|Sleep]]
+**Prerequisites**[[Spell Trickster Dedication|Spell Trickster Dedication]], ability to cast [[Spells/Sleep|Sleep]]
 
 * * *
 
 When you cast sleep, you can modify the spell to add the following to its standard effects: Subjects of your spell experience troubled dreams. When a target that failed or critically failed its saving throw wakes up, it is [[Conditions/Frightened 1|Frightened 1]].
 
-## [[Feats/Volatile Grease|Volatile Grease]] Feat 6
+## [[Volatile Grease|Volatile Grease]] Feat 6
 
-**Prerequisites**[[Feats/Spell Trickster Dedication|Spell Trickster Dedication]], ability to cast [[Spells/Grease|Grease]]
+**Prerequisites**[[Spell Trickster Dedication|Spell Trickster Dedication]], ability to cast [[Spells/Grease|Grease]]
 
 * * *
 
@@ -162,9 +162,9 @@ When you cast grease, you can modify its target to be 1 creature. If you do, rep
 
 **Heightened (+2)** The weakness increases by 1.
 
-## [[Feats/Beacon Mark|Beacon Mark]] Feat 8
+## [[Beacon Mark|Beacon Mark]] Feat 8
 
-**Prerequisites [[Feats/Tracing Sigil|Tracing Sigil]]**
+**Prerequisites [[Tracing Sigil|Tracing Sigil]]**
 
 * * *
 
@@ -174,17 +174,17 @@ When you cast sigil, you can modify the spell to add the following heightened en
 
 **Heightened (4th)** You attune yourself to the marked target. While the spell lasts, you can spend a single action, which has the concentrate, detection, and divination traits, to attempt to locate the target, learning the direction to the target as long as you are within 1 mile of it. If the target is a creature or a creature is in possession of the target object, the creature can attempt a Will saving throw against your spell DC. If it succeeds, your attempt to locate the target fails and you can't attempt this again for 1 day. You can only have a single target marked with a sigil modified in this way. If you Cast this Spell again on a second target, the sigil spell on the first target ends, and your mark fades.
 
-## [[Feats/Larcenous Hand|Larcenous Hand]] Feat 8
+## [[Larcenous Hand|Larcenous Hand]] Feat 8
 
-**Prerequisites** [[Feats/Agile Hand|Agile Hand]], [[Feats/Pickpocket|Pickpocket]] skill feat
+**Prerequisites** [[Agile Hand|Agile Hand]], [[Pickpocket|Pickpocket]] skill feat
 
 * * *
 
 When you cast mage hand, you can remove its duration, modify its range to 20 feet, and modify its target to be an attended object within the spell's Bulk limit that wouldn't be time-consuming to remove. Add the following to the spell's standard effects: If the creature attending the object is willing to have you take the item, mage hand carries the item to you. If the creature is unwilling, you must attempt to Steal the target object with a Thievery check. The usual restrictions on attempts to Steal an object apply, including the restrictions that you can't steal objects that would be extremely noticeable or time-consuming to remove (like worn shoes or armor or actively wielded objects) and you can't Steal from a creature in combat or otherwise on guard. On a successful Steal check, the mage hand carries the item to you, and on a critical failure, you can't use this modification again for 1 hour. If you're a master in Thievery, you can attempt to Steal from a creature in combat or otherwise on guard, though if you do so, the spell's casting time increases by 1 action.
 
-## [[Feats/Lingering Flames|Lingering Flames]] Feat 8
+## [[Lingering Flames|Lingering Flames]] Feat 8
 
-**Prerequisites** [[Feats/Spell Trickster Dedication|Spell Trickster Dedication]] ability to cast [[Spells/Fireball|Fireball]]
+**Prerequisites** [[Spell Trickster Dedication|Spell Trickster Dedication]] ability to cast [[Spells/Fireball|Fireball]]
 
 * * *
 
@@ -194,65 +194,65 @@ When you cast fireball, you can modify its effects, decreasing the base damage t
 
 **Heightened (+1)** The damage is increased by 1d6 and the persistent fire damage is increased by 2.
 
-## [[Feats/Scattered Fire|Scattered Fire]] Feat 8
+## [[Scattered Fire|Scattered Fire]] Feat 8
 
-**Prerequisites** [[Feats/Spell Trickster Dedication|Spell Trickster Dedication]] ability to cast [[Spells/Fireball|Fireball]]
+**Prerequisites** [[Spell Trickster Dedication|Spell Trickster Dedication]] ability to cast [[Spells/Fireball|Fireball]]
 
 * * *
 
 When you cast fireball, you can modify its area to be two non-overlapping 10-foot bursts.
 
-## [[Feats/Siphoning Touch|Siphoning Touch]] Feat 8
+## [[Siphoning Touch|Siphoning Touch]] Feat 8
 
-**Prerequisites** [[Feats/Spell Trickster Dedication|Spell Trickster Dedication]] ability to cast [[Spells/Vampiric Feast|Vampiric Feast]]
+**Prerequisites** [[Spell Trickster Dedication|Spell Trickster Dedication]] ability to cast [[Spells/Vampiric Feast|Vampiric Feast]]
 
 * * *
 
 When you cast vampiric touch, you can modify its standard effects as follows: Instead of gaining the temporary Hit Points yourself, you can grant the temporary Hit Points to an ally within 30 feet. After 1 minute, the ally loses any of these temporary Hit Points that remain.
 
-## [[Feats/Smoldering Explosion|Smoldering Explosion]] Feat 8
+## [[Smoldering Explosion|Smoldering Explosion]] Feat 8
 
-**Prerequisites** [[Feats/Spell Trickster Dedication|Spell Trickster Dedication]] ability to cast [[Spells/Fireball|Fireball]]
+**Prerequisites** [[Spell Trickster Dedication|Spell Trickster Dedication]] ability to cast [[Spells/Fireball|Fireball]]
 
 * * *
 
 When you cast fireball heightened to at least 4th level, you can modify the spell to add the following to its standard effects: Your fireball leaves behind a brief cloud of smoke in its area. While it's smoke instead of mist, this cloud otherwise has the effects of obscuring mist, except that it lasts only 1 round.
 
-## [[Feats/Steal Vitality|Steal Vitality]] Feat 8
+## [[Steal Vitality|Steal Vitality]] Feat 8
 
-**Prerequisites** [[Feats/Spell Trickster Dedication|Spell Trickster Dedication]] ability to cast [[Spells/Vampiric Feast|Vampiric Feast]]
+**Prerequisites** [[Spell Trickster Dedication|Spell Trickster Dedication]] ability to cast [[Spells/Vampiric Feast|Vampiric Feast]]
 
 * * *
 
 When you cast vampiric touch, you can modify its standard effects as follows: Instead of gaining temporary Hit Points, if your target fails or critically fails its saving throw, you can attempt a counteract check to remove the clumsy or enfeebled conditions on yourself, using the source of that condition to determine the counteract rank and DC. If the condition was caused by an ongoing effect and you don't remove that effect, the condition returns at the end of your next turn.
 
-## [[Feats/Surrounding Flames|Surrounding Flames]] Feat 10
+## [[Surrounding Flames|Surrounding Flames]] Feat 10
 
-**Prerequisites** [[Feats/Spell Trickster Dedication|Spell Trickster Dedication]] ability to cast [[Spells/Wall of Fire|Wall of Fire]]
+**Prerequisites** [[Spell Trickster Dedication|Spell Trickster Dedication]] ability to cast [[Spells/Wall of Fire|Wall of Fire]]
 
 * * *
 
 When you cast wall of fire, you can modify its standard effects as follows: Instead of a 5-foot-thick, 10-foot-radius ring of flame, you can form the wall into a 10-foot-radius hemisphere of fire.
 
-## [[Feats/Toppling Tentacles|Toppling Tentacles]] Feat 10
+## [[Toppling Tentacles|Toppling Tentacles]] Feat 10
 
-**Prerequisites** [[Feats/Spell Trickster Dedication|Spell Trickster Dedication]] ability to cast [[Spells/Black Tentacles|Black Tentacles]]
+**Prerequisites** [[Spell Trickster Dedication|Spell Trickster Dedication]] ability to cast [[Spells/Black Tentacles|Black Tentacles]]
 
 * * *
 
 When you cast black tentacles, replace the spell's standard effects with the following: Tentacles slither along the ground in the area, attempting to hinder anyone within. Sticky black tentacles attempt to Trip each creature in the area. Attempt spell attack rolls against the Reflex DCs of each affected creature. Any creature you succeed against is knocked [[Conditions/Prone|Prone]] and takes 3d6 bludgeoning damage. Whenever a creature ends its turn in the area, the tentacles attempt to Trip that creature if it isn't already prone, and they deal 1d6 bludgeoning damage to any creature already prone. Creatures treat the spell's area as difficult terrain.
 
-## [[Feats/Choking Smoke|Choking Smoke]] Feat 12
+## [[Choking Smoke|Choking Smoke]] Feat 12
 
-**Prerequisites** [[Feats/Smoldering Explosion|Smoldering Explosion]]
+**Prerequisites** [[Smoldering Explosion|Smoldering Explosion]]
 
 * * *
 
 When you cast fireball heightened to at least 6th level, you can modify the spell's standard effects as follows: Reduce the spell's damage by 6d6. Your fireball leaves behind a lingering cloud of toxic smoke in its area. While it's smoke instead of mist, this cloud otherwise has the effects of stinking cloud.
 
-## [[Feats/Directed Poison|Directed Poison]] Feat 12
+## [[Directed Poison|Directed Poison]] Feat 12
 
-**Prerequisites** [[Feats/Spell Trickster Dedication|Spell Trickster Dedication]], ability to cast [[Spells/Toxic Cloud|Toxic Cloud]]
+**Prerequisites** [[Spell Trickster Dedication|Spell Trickster Dedication]], ability to cast [[Spells/Toxic Cloud|Toxic Cloud]]
 
 * * *
 

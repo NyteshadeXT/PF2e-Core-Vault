@@ -12,7 +12,7 @@ license: OGL
 ---
 # Manifold Modifications
 ## Feat 8
-### [[inventor]][[modification]]
+### [[01) Rules/Character Building/Feats/Inventor]][[modification]]
 
 **Category** class; 
 

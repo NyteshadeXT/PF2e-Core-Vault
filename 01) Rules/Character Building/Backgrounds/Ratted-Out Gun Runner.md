@@ -22,7 +22,7 @@ One day, a corrupt financier named Ambrost Mugland-a true crook if there ever wa
 
 Choose two ability boosts. One must be to **Dexterity** or **Wisdom**, and one is a free ability boost.
 
-You're trained in the Stealth skill and the Firearm Lore skill. You gain the [[Feats/Experienced Smuggler|Experienced Smuggler]] skill feat.
+You're trained in the Stealth skill and the Firearm Lore skill. You gain the [[Experienced Smuggler|Experienced Smuggler]] skill feat.
 
 *Source: Pathfinder: Outlaws of Alkenstar Player's Guide*
 *OGL*

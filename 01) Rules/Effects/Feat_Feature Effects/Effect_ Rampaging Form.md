@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by [[Feats/Rampaging Form|Rampaging Form]]
+Granted by [[Rampaging Form|Rampaging Form]]
 
 You Change Shape into a form of living ice for 1 minute or until you shift back. Your battle form is Huge and has the following statistics:
 

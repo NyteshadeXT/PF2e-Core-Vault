@@ -38,7 +38,7 @@ Your training focused on Crafting one particular kind of item. Select one of the
 | Weaving | Textiles, baskets, and rugs |
 | Woodworking | Wooden goods and structures |
 
-\* You must have the [[Feats/Alchemical Crafting|Alchemical Crafting]] skill feat to Craft alchemical items.
+\* You must have the [[Alchemical Crafting|Alchemical Crafting]] skill feat to Craft alchemical items.
 
 *Source: Pathfinder Player Core*
 *ORC*

@@ -18,7 +18,7 @@ license: OGL
 
 
 
-The experience you've accumulated over multiple lifetimes envelops you like a weighted blanket, providing comfort and bestowing confidence under pressure. You gain the trained proficiency rank in one skill of your choice and the [[Feats/Assurance|Assurance]] skill feat in that skill as a bonus feat.
+The experience you've accumulated over multiple lifetimes envelops you like a weighted blanket, providing comfort and bestowing confidence under pressure. You gain the trained proficiency rank in one skill of your choice and the [[Assurance|Assurance]] skill feat in that skill as a bonus feat.
 
 *Source: Pathfinder #199: To Bloom Below the Web*
 *OGL*

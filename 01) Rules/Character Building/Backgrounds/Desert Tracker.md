@@ -24,7 +24,7 @@ You're at home blazing trails in the burning sands, and you made a living guidin
 
 Choose two ability boosts. One must be to **Constitution** or **Wisdom**, and one is a free ability boost.
 
-You're trained in the Survival skill and the Desert Lore skill. You gain the [[Feats/Experienced Tracker|Experienced Tracker]] skill feat.
+You're trained in the Survival skill and the Desert Lore skill. You gain the [[Experienced Tracker|Experienced Tracker]] skill feat.
 
 *Source: Pathfinder Lost Omens: World Guide*
 *OGL*

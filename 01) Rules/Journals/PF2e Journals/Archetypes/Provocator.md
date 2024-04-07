@@ -10,7 +10,7 @@ tags:
 # Provocator
 The provocator is a gladiator who mixes brilliant performance with mastery of weapons.
 
-## [[Feats/Provocator Dedication|Provocator Dedication]] Feat 10
+## [[Provocator Dedication|Provocator Dedication]] Feat 10
 
 **Prerequisites** Strength +2, Charisma +2
 
@@ -22,7 +22,7 @@ For you, fighting is as much about style as skill. You become trained in simple 
 
 **Special** You can't select another dedication feat until you have gained two other feats from the provocator archetype.
 
-## [[Feats/Cartwheel Dodge|Cartwheel Dodge]] Feat 12
+## [[Cartwheel Dodge|Cartwheel Dodge]] Feat 12
 
 **Prerequisites** Provocator Dedication
 
@@ -34,7 +34,7 @@ For you, fighting is as much about style as skill. You become trained in simple 
 
 You Step up to 10 feet.
 
-## [[Feats/Flourishing Finish|Flourishing Finish]] Feat 12
+## [[Flourishing Finish|Flourishing Finish]] Feat 12
 
 **Prerequisites** Provocator Dedication
 
@@ -50,7 +50,7 @@ Attempt a Performance check, comparing the result to the Will DC of each foe wit
 
 **Success** The target is frightened 1.
 
-## [[Feats/Murderer's Circle|Murderer's Circle]] Feat 14
+## [[Murderer's Circle|Murderer's Circle]] Feat 14
 
 **Provocator Dedication**
 
@@ -58,7 +58,7 @@ Attempt a Performance check, comparing the result to the Will DC of each foe wit
 
 You Strike a target within reach and then Step to any other open space adjacent to that target. Your target is then off-guard against your next Strike this turn.
 
-## [[Feats/Pin to the Spot|Pin to the Spot]] Feat 14
+## [[Pin to the Spot|Pin to the Spot]] Feat 14
 
 **Prerequisites** Provocator Dedication
 
@@ -66,7 +66,7 @@ You Strike a target within reach and then Step to any other open space adjacent 
 
 You Strike a target within reach. If you hit and deal damage, the target is also Restrained as if you had critically succeeded at an Athletics check to Grapple.
 
-## [[Feats/Performance Weapon Expert|Performance Weapon Expert]] Feat 16
+## [[Performance Weapon Expert|Performance Weapon Expert]] Feat 16
 
 **Prerequisites** Provocator Dedication, expert in any kind of weapon or unarmed attack
 

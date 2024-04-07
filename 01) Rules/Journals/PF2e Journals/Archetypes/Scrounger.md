@@ -10,7 +10,7 @@ tags:
 # Scrounger
 You have spent countless hours disassembling and rebuilding complex items to learn how they work, giving you the skill to create just about anything from the most unlikely materials. While your improvised items don't last long, they tend to be just what you need in a pinch, and your enemies find that while they might be able to disarm you, the real challenge is keeping you that way. Locked rooms, diabolical traps, and desperate situations are each their own sort of puzzle to you, and the mundane objects around you are the pieces you use to improvise your own solution.
 
-## [[Feats/Scrounger Dedication|Scrounger Dedication]] Feat 2
+## [[Scrounger Dedication|Scrounger Dedication]] Feat 2
 
 **Prerequisites** trained in Crafting
 
@@ -24,7 +24,7 @@ You can incorporate any materials or items that you have on hand, even if they'r
 
 **Special** You can't select another dedication feat until you have gained two other feats from the Scrounger archetype.
 
-## [[Feats/Reverse Engineering|Reverse Engineering]] Feat 4
+## [[Reverse Engineering|Reverse Engineering]] Feat 4
 
 **Prerequisites** expert in Crafting, Scrounger Dedication
 
@@ -32,7 +32,7 @@ You can incorporate any materials or items that you have on hand, even if they'r
 
 You are able to reverse engineer items into formulas more effectively than most. You gain a +2 circumstance bonus to Crafting checks to reverse engineer a formula from an item. Additionally, if you get a critical success on your Crafting check, you can opt to not only create the formula but also reassemble the original item at the same time, leaving you with the formula and the item instead ofthe formula and raw materials equal to half the item's value.
 
-## [[Feats/High-quality Scrounger|High-quality Scrounger]] Feat 8
+## [[High-quality Scrounger|High-quality Scrounger]] Feat 8
 
 **Prerequisites** Scrounger Dedication
 
@@ -40,7 +40,7 @@ You are able to reverse engineer items into formulas more effectively than most.
 
 When you Craft a temporary item using Scrounger Dedication, it can be an item of up to 3rd level (though the item ust still be a weapon, armor, or a nonconsumable piece of adventuring gear). You can instead Craft it for someone else's use, allowing them to avoid taking the penalty for using a shoddy item when using it, but causing you to take the penalty if you use it.
 
-## [[Feats/Expert Disassembler|Expert Disassembly]] Feat 7
+## [[Expert Disassembler|Expert Disassembly]] Feat 7
 
 **Prerequisites** master in Crafting, Scrounger Dedication
 

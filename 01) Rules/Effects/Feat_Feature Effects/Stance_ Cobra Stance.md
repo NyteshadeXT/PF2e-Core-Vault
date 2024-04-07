@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by [[Feats/Cobra Stance|Cobra Stance]]
+Granted by [[Cobra Stance|Cobra Stance]]
 
 You enter a tight stance, coiled up like a lashing cobra with your hands poised as venomous fangs. While in this stance, the only Strikes you can make are cobra fang unarmed attacks. These deal 1d4 poison damage; are in the brawling group; and have the agile, deadly d10, finesse, nonlethal, poison, and unarmed traits.
 

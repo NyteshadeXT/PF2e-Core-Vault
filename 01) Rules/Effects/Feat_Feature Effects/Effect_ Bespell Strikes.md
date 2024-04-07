@@ -17,7 +17,7 @@ license: ORC
 
 
 
-Granted by [[Feats/Bespell Strikes|Bespell Strikes]]
+Granted by [[Bespell Strikes|Bespell Strikes]]
 
 The weapon or unarmed attack deals an extra 1d6 force damage and gains the arcane trait if it didn't have it already. If the spell dealt a different type of damage, the Strike deals this type of damage instead.
 

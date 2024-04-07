@@ -23,9 +23,9 @@ Hellknights of the Order of the Scourge hunt those who pervert the law for their
 
 * * *
 
-**Lesser Benefit** [[Feats/Fear No Law, Fear No One|Fear No Law, Fear No One]]
+**Lesser Benefit** [[Fear No Law, Fear No One|Fear No Law, Fear No One]]
 
-**Greater Benefit** [[Feats/Seek Injustice|Seek Injustice]]
+**Greater Benefit** [[Seek Injustice|Seek Injustice]]
 
 *Source: Pathfinder Lost Omens: Character Guide*
 *OGL*

@@ -21,7 +21,7 @@ Whether you fought against fires in the wilderness or in crowded city streets, y
 
 Choose two attribute boosts. One must be to **Strength** or **Constitution**, and one is a free attribute boost.
 
-You're trained in the Athletics skill and the Plane of Fire Lore skill. You gain the [[Feats/Breath Control|Breath Control]] feat.
+You're trained in the Athletics skill and the Plane of Fire Lore skill. You gain the [[Breath Control|Breath Control]] feat.
 
 *Source: Pathfinder Rage of Elements*
 *OGL*

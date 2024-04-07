@@ -24,7 +24,7 @@ Your apprenticeship in one of Oenopion's unorthodox arcane and alchemical academ
 
 Choose two ability boosts. One must be to **Constitution** or **Intelligence**, and one is a free ability boost.
 
-You're trained in the Crafting skill and the Ooze Lore skill. You gain the [[Feats/Dubious Knowledge|Dubious Knowledge]] skill feat.
+You're trained in the Crafting skill and the Ooze Lore skill. You gain the [[Dubious Knowledge|Dubious Knowledge]] skill feat.
 
 *Source: Pathfinder Lost Omens: World Guide*
 *OGL*

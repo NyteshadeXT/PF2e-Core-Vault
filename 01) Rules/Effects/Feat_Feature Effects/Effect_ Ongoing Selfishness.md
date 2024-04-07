@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by [[Feats/Ongoing Selfishness|Ongoing Selfishness]]
+Granted by [[Ongoing Selfishness|Ongoing Selfishness]]
 
 You gain resistance to all further damage from the triggering enemy until the end of the turn on which you used the reaction. This resistance is equal to half your Selfish Shield resistance.
 

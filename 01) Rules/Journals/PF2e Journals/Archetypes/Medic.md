@@ -10,7 +10,7 @@ tags:
 # Medic
 You've studied countless techniques for providing medical aid, making you a peerless doctor and healer.
 
-## [[Feats/Medic Dedication|Medic Dedication]] Feat 2
+## [[Medic Dedication|Medic Dedication]] Feat 2
 
 **Prerequisites** trained in Medicine, Battle Medicine
 
@@ -20,7 +20,7 @@ You become an expert in Medicine. When you succeed with Battle Medicine or Treat
 
 **Special** You can't select another dedication feat until you have gained two other feats from the Medic archetype.
 
-## [[Feats/Doctor's Visitation|Doctor's Visitation]] Feat 4
+## [[Doctor's Visitation|Doctor's Visitation]] Feat 4
 
 **Prerequisites** Medic Dedication
 
@@ -28,7 +28,7 @@ You become an expert in Medicine. When you succeed with Battle Medicine or Treat
 
 You move to provide immediate care to those who need it. Stride, then use one of the following: Battle Medicine or Treat Poison. You can spend a second action to instead Stride and then Administer First Aid or Treat a Condition (if you have it; see below).
 
-## [[Feats/Treat Condition|Treat Condition]] Feat 4
+## [[Treat Condition|Treat Condition]] Feat 4
 
 **Prerequisites** Medic Dedication
 
@@ -46,7 +46,7 @@ You treat an adjacent creature in an attempt to reduce the clumsy, enfeebled, or
 
 **Critical Failure** Increase the condition value by 1.
 
-## [[Feats/Holistic Care|Holistic Care]] Feat 6
+## [[Holistic Care|Holistic Care]] Feat 6
 
 **Prerequisites** trained in Diplomacy, Treat Condition
 
@@ -54,7 +54,7 @@ You treat an adjacent creature in an attempt to reduce the clumsy, enfeebled, or
 
 You provide emotional and spiritual care. Add frightened, stupefied, and stunned to the list of conditions you can reduce with Treat Condition. If the stunned condition has a duration instead of a value, you can't use Treat Condition to reduce it.
 
-## [[Feats/Resuscitate|Resuscitate]] Feat 16
+## [[Resuscitate|Resuscitate]] Feat 16
 
 **Prerequisites** Medic Dedication, legendary in Medicine
 

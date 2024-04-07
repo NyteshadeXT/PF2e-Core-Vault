@@ -20,7 +20,7 @@ Your face is particularly unremarkable, even if your presence or actions may not
 
 Choose two ability boosts. One must be to **Wisdom** or **Charisma**, and one is a free ability boost.
 
-You are trained in the Deception skill and the Acting Lore skill. You gain the [[Feats/Lengthy Diversion|Lengthy Diversion]] skill feat.
+You are trained in the Deception skill and the Acting Lore skill. You gain the [[Lengthy Diversion|Lengthy Diversion]] skill feat.
 
 *Source: Pathfinder Lost Omens: Firebrands*
 *OGL*

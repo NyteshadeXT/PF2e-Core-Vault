@@ -12,7 +12,7 @@ Ghosts have a wide range of capabilities and features- no two ghosts are exactly
 
 The ghost hunter knows that ghosts and haunts share many features. By focusing on these similarities, they can track down, confront, and defeat all manner of unquiet souls, helping them to find peace and move on to the afterlife.
 
-## [[Feats/Ghost Hunter Dedication|Ghost Hunter Dedication]] Feat 2
+## [[Ghost Hunter Dedication|Ghost Hunter Dedication]] Feat 2
 
 **Prerequisites** Trained in Occultism or Religion
 
@@ -26,7 +26,7 @@ Choose two cantrips from the occult spell list. Each cantrip must have the divin
 
 **Special** You can't select another dedication feat until you have gained two other feats from the ghost hunter archetype.
 
-## [[Feats/Grave's Voice|Grave's Voice]] Feat 4
+## [[Grave's Voice|Grave's Voice]] Feat 4
 
 **Prerequisites** Ghost Hunter Dedication
 
@@ -34,7 +34,7 @@ Choose two cantrips from the occult spell list. Each cantrip must have the divin
 
 You can use your choice of Spirit Lore or Haunt Lore to Make an Impression or Request things of incorporeal creatures. At the GM's discretion, an incorporeal spirit might be willing to hear you out.
 
-## [[Feats/Investigate Haunting|Investigate Haunting]] Feat 4
+## [[Investigate Haunting|Investigate Haunting]] Feat 4
 
 **Prerequisites** Ghost Hunter Dedication
 
@@ -42,7 +42,7 @@ You can use your choice of Spirit Lore or Haunt Lore to Make an Impression or Re
 
 You are skilled at noticing the telltale signs of ghosts and hauntings. Even when you aren't Investigating in exploration mode, you get a check to Recall Knowledge about incorporeal undead and haunts active in the area. You also gain a +2 circumstance bonus to skill checks to disable haunts.
 
-## [[Feats/Spirit Spells|Spirit Spells]] Feat 4
+## [[Spirit Spells|Spirit Spells]] Feat 4
 
 **Prerequisites** Ghost Hunter Dedication
 
@@ -50,7 +50,7 @@ You are skilled at noticing the telltale signs of ghosts and hauntings. Even whe
 
 Your ability to confront incorporeal menaces develops into full-fledged spellcasting. Choose a 1st-rank occult spell. You can Cast this Spell as an innate occult spell. At 6th level, you gain a 2nd-rank occult spell, and at 8th level, you gain a 3rd-rank occult spell. Each of these spells must have the divination, enchantment, or necromancy trait. You can cast each of these spells once per day.
 
-## [[Feats/Ghost Strike|Ghost Strike]] Feat 6
+## [[Ghost Strike|Ghost Strike]] Feat 6
 
 **Prerequisites** Ghost Hunter Dedication
 
@@ -58,7 +58,7 @@ Your ability to confront incorporeal menaces develops into full-fledged spellcas
 
 Once per day, you can infuse a weapon you are carrying with magical energies that allow it to strike true against incorporeal undead. The weapon gains the effects of the ghost touch property rune for 10 minutes. At 10th level, you can apply this effect to two weapons instead of one.
 
-## [[Feats/Peer Beyond|Peer Beyond]] Feat 8
+## [[Peer Beyond|Peer Beyond]] Feat 8
 
 **Prerequisites** Ghost Hunter Dedication
 

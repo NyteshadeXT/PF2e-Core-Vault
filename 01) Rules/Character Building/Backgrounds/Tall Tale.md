@@ -20,7 +20,7 @@ You've ridden a tornado, lassoed a river, mooned a dragon under a full moon, and
 
 Choose two ability boosts. One must be to **Constitution** or **Charisma**, and one is a free ability boost.
 
-You're trained in Performance. You gain the [[Feats/Impressive Performance|Impressive Performance]] skill feat. You can gain the [[Feats/Connections|Connections]] skill feat later without being expert in Society or having Courtly Graces-this represents less traditional social connections and more the way that your legend has spread, and you've learned to leverage your legend, with people wanting to meet you and see you for themselves.
+You're trained in Performance. You gain the [[Impressive Performance|Impressive Performance]] skill feat. You can gain the [[Connections|Connections]] skill feat later without being expert in Society or having Courtly Graces-this represents less traditional social connections and more the way that your legend has spread, and you've learned to leverage your legend, with people wanting to meet you and see you for themselves.
 
 *Source: Pathfinder Guns & Gears*
 *OGL*

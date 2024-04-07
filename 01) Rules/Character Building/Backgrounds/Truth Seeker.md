@@ -22,7 +22,7 @@ You plan to join the Call for Heroes so that you can make yourself known to the 
 
 Choose two ability boosts. One must be to **Strength** or **Wisdom**, and one is a free ability boost.
 
-You're trained in the Deception skill and the Politics Lore skill. You gain the [[Feats/Lie to Me|Lie To Me]] skill feat.
+You're trained in the Deception skill and the Politics Lore skill. You gain the [[Lie to Me|Lie To Me]] skill feat.
 
 *Source: Pathfinder: Age of Ashes Player's Guide*
 *OGL*

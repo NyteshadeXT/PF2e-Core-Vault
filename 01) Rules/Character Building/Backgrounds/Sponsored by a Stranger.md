@@ -20,7 +20,7 @@ You remember the day the stranger approached you to make several peculiar inquir
 
 Choose two ability boosts. One must be to **Intelligence** or **Wisdom**, and one is a free ability boost.
 
-You're trained in your choice of the Occultism or Nature skill. You gain your choice of the [[Feats/Dubious Knowledge|Dubious Knowledge]] or [[Feats/Quick Identification|Quick Identification]] skill feat. You're also trained in Insect Lore. Your recommended primary branch is the Rain-Scribes.
+You're trained in your choice of the Occultism or Nature skill. You gain your choice of the [[Dubious Knowledge|Dubious Knowledge]] or [[Quick Identification|Quick Identification]] skill feat. You're also trained in Insect Lore. Your recommended primary branch is the Rain-Scribes.
 
 *Source: Pathfinder: Strength of Thousands Player's Guide*
 *OGL*

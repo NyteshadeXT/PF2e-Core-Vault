@@ -10,13 +10,13 @@ tags:
 # Ghost
 Your ties to the living world cling to you in death, your unfinished business reducing you to a spirit. Your soul carries on, but your body is gone. Your mind, too, may have changed: though death can impact thoughts and desires in all sorts of ways, most ghosts experience stronger, more volatile emotions and are frequently overcome by their past ties. A need to reconcile the past overwhelms other needs. Motivations can change over time but are always strong. Pragmatism, compassion, and foresight fall before a ghost's fundamental desires.
 
-## [[Feats/Ghost Dedication|Ghost Dedication]] Feat 2
+## [[Ghost Dedication|Ghost Dedication]] Feat 2
 
 **Prerequisites** You died and returned as a ghost.
 
 * * *
 
-You have risen as a shell of your former self, a spirit of mist and anguish. You gain the ghost, spirit, and undead traits, and the [[Ancestry Features/Basic Undead Benefits|Basic Undead Benefits]]. Your undead craving is to settle your unfinished business. You also gain the incorporeal trait, as described on page 218, except you can't pass through solid objects unless you select the [[Feats/Pass Through|Pass Through]] feat. Being a ghost has the following major effects.
+You have risen as a shell of your former self, a spirit of mist and anguish. You gain the ghost, spirit, and undead traits, and the [[Ancestry Features/Basic Undead Benefits|Basic Undead Benefits]]. Your undead craving is to settle your unfinished business. You also gain the incorporeal trait, as described on page 218, except you can't pass through solid objects unless you select the [[Pass Through|Pass Through]] feat. Being a ghost has the following major effects.
 
 **Floating** You can float but are still tethered to the ground. Replace your land Speed with an equal fly Speed. You can't rise more than a few inches above the ground when you Fly. This means you can move above many types of difficult or hazardous terrain without moving slowly or being damaged, even though you can't fly without limit. You can Leap, High Jump, Long Jump, and take similar actions, and use your fly Speed for any calculations that would normally require your land Speed.
 
@@ -28,7 +28,7 @@ You have risen as a shell of your former self, a spirit of mist and anguish. You
 
 **Ties that Bind** When you become a ghost, work with your GM to choose a bound site and unfinished business, both of which matter for your character's story, as well as some ghost archetype feats. Your bound site tethers you to the physical world and is typically either a location important to you in life or the place where you died. Unfinished business keeps you from passing to the afterlife. If someone resolves your unfinished business, you decide whether to accept the change and pass on, or to fight it. If you pass on, you get a few minutes to say your goodbyes, and then move into the River of Souls and the afterlife. Your character ceases to be. If you fight the change, you remain, though you and the GM might determine a new unfinished business. If you are physically destroyed, you cease your existence as a ghost but still might not be able to pass on to the afterlife if your unfinished business is incomplete. In this liminal state, you might come across strange energies and become another sort of creature, or anchor to a summoner and become an eidolon.
 
-## [[Feats/Frightful Moan|Frightful Moan]] Feat 4
+## [[Frightful Moan|Frightful Moan]] Feat 4
 
 **Prerequisites** Ghost Dedication
 
@@ -44,7 +44,7 @@ You lament your fate, forcing each living creature in a 30-foot emanation to att
 
 **Critical Failure** The creature is frightened 2.
 
-## [[Feats/Ghostly Resistance|Ghostly Resistance]] Feat 4
+## [[Ghostly Resistance|Ghostly Resistance]] Feat 4
 
 **Prerequisites** Ghost Dedication
 
@@ -52,7 +52,7 @@ You lament your fate, forcing each living creature in a 30-foot emanation to att
 
 Your ghostly form becomes innately weaker but also gains resistance to many forms of damage. Your maximum HP is reduced by your level. You gain resistance 1 to all damage except for force, vitality, and any damage done by a weapon with the ghost touch rune (or any other source that acts like a ghost touch rune). This resistance increases to 2 if the source is non-magical. At 10th level, the resistance increases to 2, or 4 if the source is non-magical. At 16th level, the resistance increases to 3, or 5 if the source is non-magical.
 
-## [[Feats/Ghostly Grasp|Ghostly Grasp]] Feat 6
+## [[Ghostly Grasp|Ghostly Grasp]] Feat 6
 
 **Prerequisites** Ghost Dedication
 
@@ -60,7 +60,7 @@ Your ghostly form becomes innately weaker but also gains resistance to many form
 
 Your control over your ghostly form grows. You gain the [[Ancestry Features/Advanced Undead Benefits|Advanced Undead Benefits]] and can interact with physical objects, with limits. You can attempt Strength-based skill checks against physical creatures and objects. You can Interact with physical objects, but the action has no effect unless you succeed at a DC 20 Athletics or DC 20 Thievery check.
 
-## [[Feats/Ghost Flight|Ghost Flight]] Feat 8
+## [[Ghost Flight|Ghost Flight]] Feat 8
 
 **Prerequisites** Ghost Dedication
 
@@ -70,7 +70,7 @@ Your control over your ghostly form grows. You gain the [[Ancestry Features/Adva
 
 You can suppress your tether to the ground, overcoming your resistance to fly free. For 10 minutes, your fly Speed doesn't restrict you to only a few inches off the ground, allowing you to travel to any height you choose.
 
-## [[Feats/Pass Through|Pass Through]] Feat 10
+## [[Pass Through|Pass Through]] Feat 10
 
 **Prerequisites** master in Acrobatics, Ghost Dedication
 
@@ -84,7 +84,7 @@ Filtering your form through the substance of an object, you can pass through wal
 
 **Failure** Your movement ends, and you trigger reactions as if you moved out of the square you started in.
 
-## [[Feats/Rejuvenation|Rejuvenation]] Feat 12
+## [[Rejuvenation|Rejuvenation]] Feat 12
 
 **Prerequisites** Ghost Dedication
 
@@ -92,7 +92,7 @@ Filtering your form through the substance of an object, you can pass through wal
 
 The call of your unfinished business recreates you after destruction. When you're destroyed, you reform after 2d4 days within your bound site, fully healed. If your unfinished business is resolved while you're waiting, you pass on immediately unless you and the GM determine you have new unfinished business.
 
-## [[Feats/Unlimited Ghost Flight|Unlimited Ghost Flight]] Feat 14
+## [[Unlimited Ghost Flight|Unlimited Ghost Flight]] Feat 14
 
 **Prerequisites** Ghost Flight
 

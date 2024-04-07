@@ -10,7 +10,7 @@ tags:
 # Golden League Xun
 You've become a xun, a powerful gang enforcer.
 
-## [[Feats/Golden League Xun Dedication|Golden League Xun Dedication]] Feat 8
+## [[Golden League Xun Dedication|Golden League Xun Dedication]] Feat 8
 
 **Prerequisites** master in Underworld Lore
 
@@ -20,7 +20,7 @@ You are a xun for the Golden League, aiding the organization. You gain expert pr
 
 **Special** You can't select another dedication feat until you have gained two other feats from this archetype.
 
-## [[Feats/Beneath Notice|Beneath Notice]] Feat 10
+## [[Beneath Notice|Beneath Notice]] Feat 10
 
 **Prerequisites** Golden League Xun Dedication, expert in Deception
 
@@ -28,7 +28,7 @@ You are a xun for the Golden League, aiding the organization. You gain expert pr
 
 You are skilled at hiding from your foes and targets among the common populace. You gain the Quick Disguise and Slippery Secrets skill feats. In addition, while in a crowd, you can Impersonate a nondescript member of the crowd as a three action activity (one action if you are legendary in Deception).
 
-## [[Feats/Menacing Prowess|Menacing Prowess]] Feat 10
+## [[Menacing Prowess|Menacing Prowess]] Feat 10
 
 **Prerequisites** Golden League Xun Dedication, expert in Intimidation
 
@@ -36,7 +36,7 @@ You are skilled at hiding from your foes and targets among the common populace. 
 
 Scaring off multiple people at once is your specialty. When you Demoralize, you can target up to 2 creatures within 30 feet of you at once. If you are a master of Intimidation, you can Demoralize up to 4 creatures at once; if you're legendary, you can Demoralize up to 8 creatures at once.
 
-## [[Feats/Rope Mastery|Rope Mastery]] Feat 10
+## [[Rope Mastery|Rope Mastery]] Feat 10
 
 **Prerequisites** Golden League Xun Dedication, expert in Athletics
 
@@ -46,7 +46,7 @@ Ropes are your tool of choice, and you deploy them in versatile ways. When Climb
 
 In addition, you can use a rope to hamper your foes. When holding a rope, you can attempt an Athletics check to Disarm, Grapple, or Trip a creature up to 10 feet away instead of only adjacent creatures. If you critically fail such a check while holding a rope, you can drop the rope to take the effects of a failure instead of a critical failure.
 
-## [[Feats/Silent Sting|Silent Sting]] Feat 10
+## [[Silent Sting|Silent Sting]] Feat 10
 
 **Prerequisites** Golden League Xun Dedication, expert in Stealth
 

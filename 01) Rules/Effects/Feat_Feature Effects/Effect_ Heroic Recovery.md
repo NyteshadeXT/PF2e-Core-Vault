@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by [[Feats/Heroic Recovery|Heroic Recovery]]
+Granted by [[Heroic Recovery|Heroic Recovery]]
 
 You gain a +5-foot status bonus to your Speed, and a +1 status bonus to attack and damage rolls.
 

@@ -24,7 +24,7 @@ license: ORC
 
 * * *
 
-Your movements with two weapons are so swift and disorienting that they befuddle your opponent. When using [[Feats/Twin Feint|Twin Feint]], if both your Strikes deal damage to a targeted creature, the target must succeed at a Will check saving throw against your class DC or become [[Conditions/Stupefied 1|Stupefied 1]] until the end of your next turn.
+Your movements with two weapons are so swift and disorienting that they befuddle your opponent. When using [[Twin Feint|Twin Feint]], if both your Strikes deal damage to a targeted creature, the target must succeed at a Will check saving throw against your class DC or become [[Conditions/Stupefied 1|Stupefied 1]] until the end of your next turn.
 
 *Source: Pathfinder Player Core*
 *ORC*

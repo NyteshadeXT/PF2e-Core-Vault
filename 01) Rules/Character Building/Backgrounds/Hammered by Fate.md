@@ -20,7 +20,7 @@ Your life has been difficult, in no small part due to the influence of all thing
 
 This background is associated with the suit of Hammers.
 
-Choose two ability boosts. One must be to **Strength**, and one is a free ability boost. You gain the [[Feats/Hefty Hauler|Hefty Hauler]] skill feat and are trained in one of the following Lore skills, as fits your history: Daemon Lore, Demon Lore, or Devil Lore. You also gain the [[Actions/Harrow the Fiend|Harrow the Fiend]] free action.
+Choose two ability boosts. One must be to **Strength**, and one is a free ability boost. You gain the [[Hefty Hauler|Hefty Hauler]] skill feat and are trained in one of the following Lore skills, as fits your history: Daemon Lore, Demon Lore, or Devil Lore. You also gain the [[Actions/Harrow the Fiend|Harrow the Fiend]] free action.
 
 *Source: Pathfinder: Stolen Fate Player's Guide*
 *OGL*

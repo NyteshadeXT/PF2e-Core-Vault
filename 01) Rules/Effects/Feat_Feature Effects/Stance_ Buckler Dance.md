@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by: [[Feats/Buckler Dance|Buckler Dance]]
+Granted by: [[Buckler Dance|Buckler Dance]]
 
 * * *
 

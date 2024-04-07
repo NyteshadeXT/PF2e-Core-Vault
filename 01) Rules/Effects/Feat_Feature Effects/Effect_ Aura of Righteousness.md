@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by [[Feats/Aura of Righteousness|Aura of Righteousness]]
+Granted by [[Aura of Righteousness|Aura of Righteousness]]
 
 You and all allies within 15 feet gain resistance 5 to unholy.
 

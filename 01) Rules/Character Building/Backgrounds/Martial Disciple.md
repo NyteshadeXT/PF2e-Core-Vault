@@ -21,7 +21,7 @@ You dedicated yourself to intense training and rigorous study to become a great 
 
 Choose two attribute boosts. One must be to **Strength** or **Dexterity**, and one is a free attribute boost.
 
-You're trained in your choice of the Acrobatics or Athletics skill. You gain a skill feat: [[Feats/Cat Fall|Cat Fall]] if you chose Acrobatics or [[Feats/Quick Jump|Quick Jump]] if you chose Athletics. You're also trained in the Warfare Lore skill.
+You're trained in your choice of the Acrobatics or Athletics skill. You gain a skill feat: [[Cat Fall|Cat Fall]] if you chose Acrobatics or [[Quick Jump|Quick Jump]] if you chose Athletics. You're also trained in the Warfare Lore skill.
 
 *Source: Pathfinder Player Core*
 *ORC*

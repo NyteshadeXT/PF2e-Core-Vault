@@ -28,7 +28,7 @@ If your inherent animal isn't among the animals listed in the form, you default 
 
 You can remain in animal shape indefinitely and can use Change Shape to return to your humanoid or hybrid shape at any time.
 
-If you have the [[Feats/Critter Shape|Critter Shape]] feat, you can choose to gain the effects of a 4th-rank [[Spells/Pest Form|Pest Form]], can remain in critter shape indefinitely, and can return to your critter shape at any time after leaving the shape, just as you can with Animal Shape.
+If you have the [[Critter Shape|Critter Shape]] feat, you can choose to gain the effects of a 4th-rank [[Spells/Pest Form|Pest Form]], can remain in critter shape indefinitely, and can return to your critter shape at any time after leaving the shape, just as you can with Animal Shape.
 
 *Source: Pathfinder Lost Omens: Ancestry Guide*
 *OGL*

@@ -8,4 +8,4 @@ tags:
 ---
 You witnessed and survived a major disaster in your childhood years-such as a great fire, flood, earthquake, volcano, or storm-by relying on what was at hand.
 
-Add the [[Feats/Quick Repair|Quick Repair]] skill feat to your background options.
+Add the [[Quick Repair|Quick Repair]] skill feat to your background options.

@@ -10,7 +10,7 @@ tags:
 # Thaumaturge
 Scraps of knowledge have taught you how to exploit the vulnerabilities of creatures and the powers of mystical objects.
 
-## [[Feats/Thaumaturge Dedication|Thaumaturge Dedication]] Feat 2
+## [[Thaumaturge Dedication|Thaumaturge Dedication]] Feat 2
 
 **Prerequisites** Charisma +2
 
@@ -22,7 +22,7 @@ You've uncovered basic thaumaturgy. You become trained in thaumaturge class DC. 
 
 **Special** You can't select another dedication feat until you have gained two other feats from the thaumaturge archetype.
 
-## [[Feats/Basic Thaumaturgy|Basic Thaumaturgy]] Feat 4
+## [[Basic Thaumaturgy|Basic Thaumaturgy]] Feat 4
 
 **Prerequisites** Thaumaturge Dedication
 
@@ -30,7 +30,7 @@ You've uncovered basic thaumaturgy. You become trained in thaumaturge class DC. 
 
 You gain a 1st- or 2nd-level thaumaturge feat of your choice.
 
-## [[Feats/Advanced Thaumaturgy|Advanced Thaumaturgy]] Feat 6
+## [[Advanced Thaumaturgy|Advanced Thaumaturgy]] Feat 6
 
 **Prerequisites** Basic Thaumaturgy
 
@@ -42,7 +42,7 @@ You gain one thaumaturge feat. For the purpose of meeting its prerequisites, you
 
 **Special** You can select this feat more than once. Each time you select it, you gain another thaumaturge feat.
 
-## [[Feats/Implement Initiate|Implement Initiate]] Feat 6
+## [[Implement Initiate|Implement Initiate]] Feat 6
 
 **Prerequisites** Thaumaturge Dedication
 
@@ -50,7 +50,7 @@ You gain one thaumaturge feat. For the purpose of meeting its prerequisites, you
 
 You gain your implement's initiate benefit. If the benefit affects the target of Exploit Vulnerability, for you it affects the target of Glimpse Vulnerability instead.
 
-## [[Feats/Magical Knowledge|Magical Knowledge]] Feat 8
+## [[Magical Knowledge|Magical Knowledge]] Feat 8
 
 **Prerequisites** Thaumaturge Dedication; trained in one of Arcana, Nature, Occultism, or Religion; expert in another
 
@@ -58,7 +58,7 @@ You gain your implement's initiate benefit. If the benefit affects the target of
 
 Increase your proficiency rank in one of Arcana, Nature, Occultism, or Religion from expert to master and in another from trained to expert. You gain a skill feat associated with the skill you chose.
 
-## [[Feats/Resolute|Resolute]] Feat 10
+## [[Resolute|Resolute]] Feat 10
 
 **Prerequisites** Thaumaturge Dedication; expert in Will
 

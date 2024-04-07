@@ -16,9 +16,9 @@ Unlike your other senses, your hunger has intensified. You ceaselessly crave the
 
 One day you might be nothing more than a walking corpse, but for now, you retain your personality and your free will. Feeding your hunger might allow you to remain that way.
 
-**Additional Feats** 4th [[Feats/Bashing Charge|Bashing Charge]], [[Feats/Combat Grab|Combat Grab]], [[Feats/Crushing Grab|Crushing Grab]]; 14th [[Feats/Corpse Stench|Corpse Stench]]
+**Additional Feats** 4th [[Bashing Charge|Bashing Charge]], [[Combat Grab|Combat Grab]], [[Crushing Grab|Crushing Grab]]; 14th [[Corpse Stench|Corpse Stench]]
 
-## [[Feats/Zombie Dedication|Zombie Dedication]] Feat 2
+## [[Zombie Dedication|Zombie Dedication]] Feat 2
 
 **Prerequisites** You died and were animated as a husk zombie
 
@@ -36,7 +36,7 @@ You crave the flesh of the living. You gain a jaws unarmed attack that deals 1d8
 
 **Special** You can't select another dedication feat until you have gained two other feats from the zombie archetype.
 
-## [[Feats/Ankle Biter|Ankle Biter]] Feat 4
+## [[Ankle Biter|Ankle Biter]] Feat 4
 
 **Prerequisites** Zombie Dedication
 
@@ -46,7 +46,7 @@ You fight just as well on the ground as you do standing up. While you are [[Cond
 
 You can choose to move up to half your Speed when you [[Actions/Crawl|Crawl]]. You can instead move up to your full Speed when you Crawl, but if you do, you must succeed at a DC 6 Flat check or your body deteriorates.
 
-## [[Feats/Feast|Feast]] Feat 4
+## [[Feast|Feast]] Feat 4
 
 **Prerequisites** Zombie Dedication
 
@@ -58,7 +58,7 @@ You feast upon an adjacent restrained or unconscious creature, or a deceased cre
 
 You can instead choose to gain temporary Hit Points equal to double your level, but if you do, you must succeed at a DC 6 Flat check or your body deteriorates.
 
-## [[Feats/Ravenous Charge|Ravenous Charge]] Feat 4
+## [[Ravenous Charge|Ravenous Charge]] Feat 4
 
 **Prerequisites** Zombie Dedication
 
@@ -66,7 +66,7 @@ You can instead choose to gain temporary Hit Points equal to double your level, 
 
 Hungry for the flesh of the living, you hurl yourself into the fray, teeth gnashing. You Stride. If you end your movement within melee reach of a living creature, you can make an Athletics check to [[Actions/Grapple|Grapple]] that creature. If you succeed, you then make a jaws Strike against that creature.
 
-## [[Feats/Brains!|Brains!]] Feat 6
+## [[Brains!|Brains!]] Feat 6
 
 **Prerequisites** Feast
 
@@ -76,7 +76,7 @@ Hungry for the flesh of the living, you hurl yourself into the fray, teeth gnash
 
 You consume the brains of your foe, causing synapses long rotten to fire and enabling you to shake off your mental torpor. You gain a +1 status bonus on skill checks to Recall Knowledge for 1 hour. If the humanoid had a higher modifier to the skill check you're using to Recall Knowledge than you do, the status bonus increases to +2.
 
-## [[Feats/Numb|Numb]] Feat 6
+## [[Numb|Numb]] Feat 6
 
 **Prerequisites** Zombie Dedication
 
@@ -84,7 +84,7 @@ You consume the brains of your foe, causing synapses long rotten to fire and ena
 
 As your body continues to rot and putrefy, your senses deaden and your undead powers grow. You gain the [[Ancestry Features/Advanced Undead Benefits|Advanced Undead Benefits]] as well as a +1 circumstance bonus on saving throws against emotion and pain effects. While your body is deteriorated, your numbness amplifies in two ways: the circumstance bonus from this feat increases to +2, and if you roll a success on a saving throw against an emotion or pain effect, you get a critical success instead.
 
-## [[Feats/Out of Hand|Out of Hand]] Feat 8
+## [[Out of Hand|Out of Hand]] Feat 8
 
 **Prerequisites** Zombie Dedication
 
@@ -94,7 +94,7 @@ Even when your limbs are severed, they remain a part of you. When an arm is seve
 
 You gain the [[Actions/Lay Down Arms|Lay Down Arms]] action.
 
-## [[Feats/Shamble|Shamble]] Feat 8
+## [[Shamble|Shamble]] Feat 8
 
 **Prerequisites** Zombie Dedication
 
@@ -104,7 +104,7 @@ You may be slower than you were in life, but your pace is unfaltering. Stride tw
 
 You can choose to ignore all circumstance and status penalties to your Speed when you Shamble. If you do, you must succeed at a DC 6 Flat check when you finish Shambling or your body deteriorates.
 
-## [[Feats/Unkillable|Unkillable]] Feat 8
+## [[Unkillable|Unkillable]] Feat 8
 
 **Prerequisites** Zombie Dedication
 
@@ -116,7 +116,7 @@ You can choose to ignore all circumstance and status penalties to your Speed whe
 
 You're relentless and nigh unkillable, shrugging off blows that should destroy you, though they might make your body start to fall apart. You are reduced to 1 HP instead of 0 HP. You must succeed at a DC 6 Flat check or your body deteriorates.
 
-## [[Feats/Festering Wounds|Festering Wounds]] Feat 12
+## [[Festering Wounds|Festering Wounds]] Feat 12
 
 **Prerequisites** Zombie Dedication
 
@@ -124,7 +124,7 @@ You're relentless and nigh unkillable, shrugging off blows that should destroy y
 
 Wounds you inflict with your unarmed attacks fester and rot, becoming infected and difficult to heal. The DC to Treat these Wounds using Medicine increases by 5, and magically or alchemically healing these wounds requires a counteract check against your class DC or spell DC, whichever is higher. Succeeding at any of these removes the disease. The effect also ends if the creature is healed to full Hit Points by any means.
 
-## [[Feats/Seize|Seize]] Feat 14
+## [[Seize|Seize]] Feat 14
 
 **Prerequisites** Zombie Dedication
 

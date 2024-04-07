@@ -24,7 +24,7 @@ Woodcraft comes naturally to you, and you have learned how to use the forest to 
 
 Choose two ability boosts. One must be to **Dexterity** or **Wisdom**, and one is a free ability boost.
 
-You're trained in the Stealth skill and the Forest Lore skill. You gain the [[Feats/Terrain Stalker|Terrain Stalker]] (underbrush) skill feat.
+You're trained in the Stealth skill and the Forest Lore skill. You gain the [[Terrain Stalker|Terrain Stalker]] (underbrush) skill feat.
 
 *Source: Pathfinder Lost Omens: World Guide*
 *OGL*

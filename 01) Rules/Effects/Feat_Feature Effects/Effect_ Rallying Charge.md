@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by [[Feats/Rallying Charge|Rallying Charge]]
+Granted by [[Rallying Charge|Rallying Charge]]
 
 You gain temporary hit points equal to the Charisma modifier of the creature that used Rallying Charge.
 

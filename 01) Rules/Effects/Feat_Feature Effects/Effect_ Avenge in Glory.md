@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by [[Feats/Avenge in Glory|Avenge in Glory]]
+Granted by [[Avenge in Glory|Avenge in Glory]]
 
 **Frequency** once per day
 

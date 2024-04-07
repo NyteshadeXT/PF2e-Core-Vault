@@ -16,7 +16,7 @@ Beings of any alignment can inhabit a living vessel. Evil-aligned beings, especi
 
 **Additional Feats** Your GM might determine that you can take a pact feat from the pactbinder archetype as an additional feat, as long as the pact is made to the entity within you. For instance, if you're hosting a fey, you could make a pact involving fey. These pact feats are at the same level as for a pactbinder.
 
-## [[Feats/Living Vessel Dedication|Living Vessel Dedication]] Feat 2
+## [[Living Vessel Dedication|Living Vessel Dedication]] Feat 2
 
 Whether willingly or not, you've become a vessel for a being of unimaginable power. You and your GM should work together to determine the being's nature and decide how much you know and how much remains a mystery to you for now. Some decisions might influence your options later. You might need to decide whether the entity is a demon, for instance, to know if you qualify for later feats.
 
@@ -28,7 +28,7 @@ You also gain the [[Actions/Entity's Resurgence|Entity's Resurgence]] reaction, 
 
 **Special** You can't select another dedication feat until you've gained two other feats from the living vessel archetype.
 
-## [[Feats/Entity's Strike|Entity's Strike]] Feat 4
+## [[Entity's Strike|Entity's Strike]] Feat 4
 
 **Prerequisites** Living Vessel Dedication
 
@@ -36,7 +36,7 @@ You also gain the [[Actions/Entity's Resurgence|Entity's Resurgence]] reaction, 
 
 The more you try to force your body to stay yours, the more it warps to channel the energy flowing through you. Whether you grow horns to match the wild hunt fey within you, develop a claw like that of the treachery demon sharing your soul, or feel a tentacle rip out of you from the outer being that imprinted itself on your psyche, the entity within you refuses to be contained. You gain an unarmed attack of your choice with its type determined by your entity. It deals 1d6 damage of a damage type appropriate for the unarmed attack (such as bludgeoning for the tentacle). This unarmed attack is in the brawling weapon group and has the agile, finesse, and magical traits.
 
-## [[Feats/Tap Vitality|Tap Vitality]] Feat 6
+## [[Tap Vitality|Tap Vitality]] Feat 6
 
 **Prerequisites** Living Vessel Dedication
 
@@ -50,7 +50,7 @@ You tap into the entity's life force to heal your wounds, though at the cost of 
 
 **Special** This action has the tradition trait appropriate to your entity, typically divine for a demon, occult for an aberration or outer entity, or primal for a fey.
 
-## [[Feats/Exude Abyssal Corruption|Exude Abyssal Corruption]] Feat 8
+## [[Exude Abyssal Corruption|Exude Abyssal Corruption]] Feat 8
 
 **Prerequisites** Living Vessel Dedication; your entity is a demon
 
@@ -60,7 +60,7 @@ Most of the changes from the demon within you have harmed you so far, but you've
 
 At 14th level, the poison damage increases to 2d6, and at 20th level, the poison damage increases to 3d6
 
-## [[Feats/Fey's Trickery|Fey's Trickery]] Feat 8
+## [[Fey's Trickery|Fey's Trickery]] Feat 8
 
 **Prerequisites** Living Vessel Dedication; your entity is a fey
 
@@ -70,7 +70,7 @@ At 14th level, the poison damage increases to 2d6, and at 20th level, the poison
 
 You connect with the fey trickster within yourself to create whimsical illusory duplicates that distract your foes. This has the effects of [[Spells/Mirror Image|Mirror Image]].
 
-## [[Feats/Warped Constriction|Warped Constriction]] Feat 8
+## [[Warped Constriction|Warped Constriction]] Feat 8
 
 **Prerequisites** Living Vessel Dedication; your entity is an aberration or outer entity
 
@@ -82,7 +82,7 @@ The entity inhabiting your body is an aberrant being with unfathomable motivatio
 
 Leveled Bludgeoning and Mental Damage
 
-## [[Feats/Vessel's Form|Vessel's Form]] Feat 16
+## [[Vessel's Form|Vessel's Form]] Feat 16
 
 **Prerequisites** Living Vessel Dedication
 

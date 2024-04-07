@@ -20,7 +20,7 @@ license: OGL
 **Bulk** L; **Size** med
 **Usage** wornmask
 
-This gold-inlaid wooden mask depicts the reptilian visage of a mokele-mbembe, a jungle predator seen by the Mwangi as embodiments of nature's strength and majesty. If you're a Magaambyan who already has a mask, you can use _Shadowed Scale, the Jungle Secret_ in lieu of your own mask for the purposes of mask-related abilities, such as [[Feats/Magic Warrior Dedication|Magic Warrior Dedication]]. When you wear the mask, you are always [[Conditions/Concealed|Concealed]] while in a jungle.
+This gold-inlaid wooden mask depicts the reptilian visage of a mokele-mbembe, a jungle predator seen by the Mwangi as embodiments of nature's strength and majesty. If you're a Magaambyan who already has a mask, you can use _Shadowed Scale, the Jungle Secret_ in lieu of your own mask for the purposes of mask-related abilities, such as [[Magic Warrior Dedication|Magic Warrior Dedication]]. When you wear the mask, you are always [[Conditions/Concealed|Concealed]] while in a jungle.
 
 * * *
 

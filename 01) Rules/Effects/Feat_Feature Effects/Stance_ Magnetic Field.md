@@ -17,7 +17,7 @@ license: OGL
 
 
 
-Granted by [[Feats/Magnetic Field|Magnetic Field]]
+Granted by [[Magnetic Field|Magnetic Field]]
 
 A magnetic field surrounds you. Choose a polarity when you take this action. You can switch the polarity as a free action at the start of each of your turns while you remain in this stance.
 

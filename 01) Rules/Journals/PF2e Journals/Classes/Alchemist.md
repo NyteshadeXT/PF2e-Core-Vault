@@ -125,7 +125,7 @@ At 1st level and every even-numbered level thereafter, you gain an alchemist cla
 
 You understand the complex interactions of natural and unnatural substances and can concoct alchemical items to meet your needs. You can do this using normal reagents and the Craft activity, or you can use special infused reagents that allow you to craft temporary items quickly and at no cost. Over time, you can create more and more alchemical items for free, and since each of them becomes more and more powerful, you advance in power dramatically, leaving behind those who don't understand your strange science.
 
-You gain the [[Feats/Alchemical Crafting|Alchemical Crafting]] feat, even if you don't meet that feat's prerequisites, and you gain the four common 1st-level alchemical formulas granted by that feat. You can use this feat to create alchemical items as long as you have the items' formulas in your formula book.
+You gain the [[Alchemical Crafting|Alchemical Crafting]] feat, even if you don't meet that feat's prerequisites, and you gain the four common 1st-level alchemical formulas granted by that feat. You can use this feat to create alchemical items as long as you have the items' formulas in your formula book.
 
 ### **Infused Reagents**
 
@@ -141,7 +141,7 @@ During your daily preparations, after producing new infused reagents, you can sp
 
 If you need a specific alchemical item on the fly, you can use your infused reagents to quickly create it with the Quick Alchemy action.
 
-### [[Feats/Quick Alchemy|Quick Alchemy]]`pf2:1`
+### [[01) Rules/Character Building/Feats/Quick Alchemy|Quick Alchemy]]`pf2:1`
 
 **Cost** 1 batch of infused reagents
 
@@ -155,7 +155,7 @@ You swiftly mix up a short-lived alchemical item to use at a moment's notice. Yo
 
 An alchemist keeps meticulous records of the formulas for every item they can create. You start with a standard formula book worth 10 sp or less for free. The formula book contains the formulas for two common 1st-level alchemical items of your choice, in addition to those you gained from Alchemical Crafting and your research field.
 
-Each time you gain a level, you can add the formulas for two common alchemical items to your formula book. These new formulas can be for any level of item you can create. You learn these formulas automatically, but it's also possible to find or buy additional formulas in settlements or from other alchemists, or to invent them with the [[Feats/Inventor|Inventor]] feat.
+Each time you gain a level, you can add the formulas for two common alchemical items to your formula book. These new formulas can be for any level of item you can create. You learn these formulas automatically, but it's also possible to find or buy additional formulas in settlements or from other alchemists, or to invent them with the [[01) Rules/Character Building/Feats/Inventor|Inventor]] feat.
 
 ## Ancestry and Background
 

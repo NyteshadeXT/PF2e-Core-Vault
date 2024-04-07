@@ -11,7 +11,7 @@ license: OGL
 ---
 # Inventive Expertise
 ## Feat 9
-### [[inventor]]
+### [[01) Rules/Character Building/Feats/Inventor]]
 
 **Category** classfeature; 
 

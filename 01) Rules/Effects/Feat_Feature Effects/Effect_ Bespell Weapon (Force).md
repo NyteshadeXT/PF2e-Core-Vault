@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by [[Feats/Bespell Weapon|Bespell Weapon]] if you cast an abjuration spell or an evocation spell that didn't deal damage.
+Granted by [[Bespell Weapon|Bespell Weapon]] if you cast an abjuration spell or an evocation spell that didn't deal damage.
 
 Until the end of your turn, the weapon deals an additional 1d6 force damage.
 

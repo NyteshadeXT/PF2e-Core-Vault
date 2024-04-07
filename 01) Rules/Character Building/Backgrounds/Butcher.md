@@ -20,7 +20,7 @@ You've spent uncounted hours walking up and down crowded and noisy circus stands
 
 Choose two ability boosts. One must be to **Constitution** or **Intelligence**, and one is a free ability boost.
 
-You're trained in the Society skill and the Mercantile Lore skill. You gain the [[Feats/Read Lips|Read Lips]] skill feat.
+You're trained in the Society skill and the Mercantile Lore skill. You gain the [[Read Lips|Read Lips]] skill feat.
 
 *Source: Pathfinder: Extinction Curse Player's Guide*
 *OGL*

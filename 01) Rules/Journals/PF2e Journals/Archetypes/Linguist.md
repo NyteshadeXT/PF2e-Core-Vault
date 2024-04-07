@@ -10,7 +10,7 @@ tags:
 # Linguist
 Whether you study to further your own ambitions or simply out of fascination with the intricacies of language, your way with words is unparalleled.
 
-## [[Feats/Linguist Dedication|Linguist Dedication]] Feat 2
+## [[Linguist Dedication|Linguist Dedication]] Feat 2
 
 **Prerequisites** You speak at least three languages.
 
@@ -20,7 +20,7 @@ You have studied languages and their development. You become trained in Society;
 
 **Special** You can't select another dedication feat until you have gained two other feats from the Linguist archetype.
 
-## [[Feats/Multilingual Cipher|Multilingual Cipher]] Feat 4
+## [[Multilingual Cipher|Multilingual Cipher]] Feat 4
 
 **Prerequisites** Linguist Dedication, expert in Society
 
@@ -28,7 +28,7 @@ You have studied languages and their development. You become trained in Society;
 
 You use multiple languages to create and break codes. You gain a +1 circumstance bonus to Decipher Writing. If another creature attempts to Decipher Writing you encoded, they take a -2 circumstance penalty unless they speak all the languages you used when you created the writing.
 
-## [[Feats/Phonetic Training|Phonetic Training]] Feat 4
+## [[Phonetic Training|Phonetic Training]] Feat 4
 
 **Prerequisites** Linguist Dedication, expert in Society
 
@@ -36,7 +36,7 @@ You use multiple languages to create and break codes. You gain a +1 circumstance
 
 You can pronounce and repeat words with near-perfect accuracy even if you don't understand their meaning, and you can write them down in a phonetic script that allows you or another creature with Phonetic Training to read it later. Even if the words are in a language with sound you can't pronounce, you can faithfully transcribe them. Memorizing long sequences of words remains just as difficult as it is normally.
 
-## [[Feats/Spot Translate|Spot Translate]] Feat 4
+## [[Spot Translate|Spot Translate]] Feat 4
 
 **Prerequisites** Linguist Dedication
 
@@ -46,7 +46,7 @@ You can pronounce and repeat words with near-perfect accuracy even if you don't 
 
 You interpret a creature's words, repeating their message in a different language that you know. If the triggering effect's targets speak either the original language or the one you translated into, they are affected.
 
-## [[Feats/Analyze Idiolect|Analyze Idiolect]] Feat 6
+## [[Analyze Idiolect|Analyze Idiolect]] Feat 6
 
 **Prerequisites** Linguist Dedication, expert in Deception and Society
 
@@ -54,7 +54,7 @@ You interpret a creature's words, repeating their message in a different languag
 
 You break down a specific individual's idiolect, memorizing their speech mannerisms and habits. If you interact with someone for at least 10 minutes, when you later attempt to Impersonate that individual, you gain a +4 circumstance bonus to your Deception checks and DCs. Due to the intense character study required, you can't remember more than one idiolect at a time.
 
-## [[Feats/Read Shibboleths|Read Shibboleths]] Feat 7
+## [[Read Shibboleths|Read Shibboleths]] Feat 7
 
 **Prerequisites** Linguist Dedication, master in Society
 
@@ -64,7 +64,7 @@ All communication is filled with slight tells and signals. If you interact with 
 
 Once you've gleaned one or more true minor facts about a person, you can then incorporate these mannerisms into your speech to present yourself in a way that they find familiar. This grants you a +1 circumstance bonus to your Diplomacy and Deception checks with them.
 
-## [[Feats/Crude Communication|Crude Communication]] Feat 8
+## [[Crude Communication|Crude Communication]] Feat 8
 
 **Prerequisites** Linguist Dedication
 

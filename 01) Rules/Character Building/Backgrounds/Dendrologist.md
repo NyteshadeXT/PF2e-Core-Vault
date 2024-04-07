@@ -21,7 +21,7 @@ Trees grow in every biome, and your awe at their ability to conquer terrain has 
 
 Choose two attribute boosts. One must be to **Intelligence** or **Wisdom**, and one is a free attribute boost.
 
-You're trained in the Survival skill and the Plane of Wood Lore skill. You gain the [[Feats/Terrain Expertise|Terrain Expertise]] skill feat for forests.
+You're trained in the Survival skill and the Plane of Wood Lore skill. You gain the [[Terrain Expertise|Terrain Expertise]] skill feat for forests.
 
 *Source: Pathfinder Rage of Elements*
 *OGL*

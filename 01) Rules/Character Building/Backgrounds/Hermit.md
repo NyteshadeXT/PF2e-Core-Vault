@@ -21,7 +21,7 @@ In an isolated place--like a cave, remote oasis, or secluded mansion--you lived 
 
 Choose two attribute boosts. One must be to **Constitution** or **Intelligence**, and one is a free attribute boost.
 
-You're trained in the Nature or Occultism skill, plus a Lore skill related to the terrain you lived in as a hermit (such as Cave Lore or Desert Lore). You gain the [[Feats/Dubious Knowledge|Dubious Knowledge]] skill feat.
+You're trained in the Nature or Occultism skill, plus a Lore skill related to the terrain you lived in as a hermit (such as Cave Lore or Desert Lore). You gain the [[Dubious Knowledge|Dubious Knowledge]] skill feat.
 
 *Source: Pathfinder Player Core*
 *ORC*

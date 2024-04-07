@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by [[Feats/Cat Nap|Cat Nap]].
+Granted by [[Cat Nap|Cat Nap]].
 
 You gain temporary Hit Points equal to your level that last for 10 minutes.
 

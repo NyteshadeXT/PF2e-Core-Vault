@@ -21,7 +21,7 @@ You are incredibly knowledgeable, skilled, and perhaps even trained to teach chi
 
 Choose two attribute boosts. One must be to **Intelligence** or **Wisdom**, and one is a free attribute boost.
 
-You're trained in your choice of either the Performance or Society skill, as well as the Academia Lore skill. You gain the [[Feats/Experienced Professional|Experienced Professional]] skill feat.
+You're trained in your choice of either the Performance or Society skill, as well as the Academia Lore skill. You gain the [[Experienced Professional|Experienced Professional]] skill feat.
 
 *Source: Pathfinder Player Core*
 *ORC*

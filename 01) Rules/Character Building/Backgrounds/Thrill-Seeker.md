@@ -20,7 +20,7 @@ You once survived a life-or-death situation and found it surprisingly exhilarati
 
 Choose two ability boosts. One must be to **Strength** or **Constitution**, and one is a free ability boost.
 
-You are trained in the Athletics skill and the Engineering Lore skill. You gain the [[Feats/Combat Climber|Combat Climber]] skill feat.
+You are trained in the Athletics skill and the Engineering Lore skill. You gain the [[Combat Climber|Combat Climber]] skill feat.
 
 *Source: Pathfinder Lost Omens: Firebrands*
 *OGL*

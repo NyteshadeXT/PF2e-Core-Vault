@@ -24,7 +24,7 @@ Joining this adventuring group may have been a calculated move, a spur-of-the-mo
 
 Choose two attribute boosts. One must be to **Constitution** or **Intelligence**, and one is a free attribute boost.
 
-You're trained in the Diplomacy skill and the Library Lore skill. You gain the [[Feats/Additional Lore|Additional Lore]] skill feat—the lore you choose represents the interest and focus of study that drew you to the region.
+You're trained in the Diplomacy skill and the Library Lore skill. You gain the [[Additional Lore|Additional Lore]] skill feat—the lore you choose represents the interest and focus of study that drew you to the region.
 
 Increase the party's reputation with Scarnetti Consortium by 1 and reduce the party's reputation with Townsfolk by 1.
 

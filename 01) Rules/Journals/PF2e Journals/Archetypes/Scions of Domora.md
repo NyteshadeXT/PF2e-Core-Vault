@@ -14,7 +14,7 @@ Hume's summoned savior was an ancient spirit guide from the Plane of Water named
 
 In the ensuing years, countless pilgrims, Sarkorian or otherwise, came to Domora to learn of god calling. Many hoped to summon a god to bring back to their own people, while others petitioned the deities as a means of spiritual growth. Today, the Domoran god calling tradition is all but extinguished—wiped out during the Worldwound incursion. Nonetheless, worthy individuals who brave Domora's ruins might unbury a small fragment of this tradition. Although they aren't true god callers—they lack the ability to bond with greater spirit guides or unlock the highest levels of their power—such "scions" still forge unique relationships with lesser spirit guides. Scions of Domora provide physical and spiritual anchors for their spirit guide companions, while the spirit guide returns the favor by sharing a portion of its supernatural powers.
 
-## [[Feats/Scion of Domora Dedication|Scion of Domora Dedication]] Feat 4
+## [[Scion of Domora Dedication|Scion of Domora Dedication]] Feat 4
 
 **Prerequisites** Familiar Master Dedication, you have befriended a spirit guide and it bonded with you using its Bond with Mortal ability.
 
@@ -22,9 +22,9 @@ In the ensuing years, countless pilgrims, Sarkorian or otherwise, came to Domora
 
 You gain a spirit guide ally. Your familiar takes on the form of a spirit guide specific familiar.
 
-**Special** You can take Scion of Domora Dedication even if you have the [[Feats/Familiar Master Dedication|Familiar Master Dedication]] and have not taken two other [[Compendium.pf2e.journals.JournalEntry.vx5FGEG34AxI2dow.JournalEntryPage.yaR8E2drX6pFUFCK|Familiar Master]] feats. You can't select another dedication feat until you have gained at least two other feats from the scion of Domora or familiar master archetypes.
+**Special** You can take Scion of Domora Dedication even if you have the [[Familiar Master Dedication|Familiar Master Dedication]] and have not taken two other [[Compendium.pf2e.journals.JournalEntry.vx5FGEG34AxI2dow.JournalEntryPage.yaR8E2drX6pFUFCK|Familiar Master]] feats. You can't select another dedication feat until you have gained at least two other feats from the scion of Domora or familiar master archetypes.
 
-## [[Feats/Spiritual Strike|Spiritual Strike]] Feat 6
+## [[Spiritual Strike|Spiritual Strike]] Feat 6
 
 **Prerequisites** Scion of Domora Dedication
 
@@ -34,7 +34,7 @@ You gain a spirit guide ally. Your familiar takes on the form of a spirit guide 
 
 Your spirit guide enhances your attacks with occult power. Make a Strike with a weapon that has at least one fundamental rune. This counts as two attacks when calculating your multiple attack penalty. The Strike has the effects of the ghost touch property rune and deals an additional 2d6 force damage. If your weapon has a major striking rune, this Strike instead deals 3d6 force damage.
 
-## [[Feats/Guided Skill|Guided Skill]] Feat 6
+## [[Guided Skill|Guided Skill]] Feat 6
 
 **Prerequisites** Scion of Domora Dedication
 
@@ -44,7 +44,7 @@ Your spirit guide enhances your attacks with occult power. Make a Strike with a 
 
 You ask your spirit guide for aid. For the next 10 minutes, you gain a +2 status bonus to checks made using Acrobatics, Occultism, Stealth, or Survival.
 
-## [[Feats/Guardian's Embrace|Guardian's Embrace]] Feat 8
+## [[Guardian's Embrace|Guardian's Embrace]] Feat 8
 
 **Prerequisites** Scion of Domora Dedication
 
@@ -54,7 +54,7 @@ You ask your spirit guide for aid. For the next 10 minutes, you gain a +2 status
 
 Your spirit guide discorporates to surround you in an invisible protective shroud. You gain a +2 status bonus to AC against physical attacks until the beginning of your next turn. If you are hit by a physical attack during this time, you can use a reaction to gain resistance 10 to physical damage dealt by that attack; doing so ends the AC bonus, and you can't use Guardian's Embrace again for 10 minutes. Your spirit guide cannot be targeted by effects, cannot be affected by area effects, and cannot take any actions while this ability is active. Your spirit guide appears in a space adjacent to you when the effect ends.
 
-## [[Feats/Invigorating Breath|Invigorating Breath]] Feat 10
+## [[Invigorating Breath|Invigorating Breath]] Feat 10
 
 **Prerequisites** Scion of Domora Dedication
 
@@ -66,7 +66,7 @@ Your spirit guide discorporates to surround you in an invisible protective shrou
 
 Your spirit guide exhales its sweet-smelling breath on you, granting you the strength to push through your pain. You gain 20 temporary Hit Points for 10 minutes. At 15th level, you instead gain 30 temporary Hit Points for 10 minutes.
 
-## [[Feats/Spiritual Flurry|Spiritual Flurry]] Feat 10
+## [[Spiritual Flurry|Spiritual Flurry]] Feat 10
 
 **Prerequisites** Scion of Domora Dedication, Spiritual Strike
 
@@ -74,7 +74,7 @@ Your spirit guide exhales its sweet-smelling breath on you, granting you the str
 
 When you use Spiritual Strike, hit targets become [[Conditions/Off-Guard|Off-Guard]] until the end of your current turn. In addition, the additional force damage dealt by the Strike increases by 2d6.
 
-## [[Feats/Spiritual Aid|Spiritual Aid]] Feat 12
+## [[01) Rules/Character Building/Feats/Spiritual Aid|Spiritual Aid]] Feat 12
 
 **Prerequisites** Scion of Domora Dedication
 
@@ -82,7 +82,7 @@ When you use Spiritual Strike, hit targets become [[Conditions/Off-Guard|Off-Gua
 
 When you call your spirit guide for aid, its presence bolsters your will and agility. You gain the [[Actions/Spiritual Aid|Spiritual Aid]] reaction.
 
-## [[Feats/Spirit Guide Form|Spirit Guide Form]] Feat 14
+## [[Spirit Guide Form|Spirit Guide Form]] Feat 14
 
 **Prerequisites** Scion of Domora Dedication
 

@@ -22,7 +22,7 @@ Clan Tolorr preserves the deeds and misdeeds of dwarven legend. With their help,
 
 Choose two ability boosts. One must be to **Constitution** or **Charisma**, and one is a free ability boost.
 
-Choose whether you've navigated your past through kindness or notoriety thus far. For the former, you're trained in the Diplomacy skill and the Genealogy Lore skill, and you gain the [[Feats/Group Impression|Group Impression]] skill feat. For the latter, you're trained in the Intimidation skill and the Underworld Lore skill, and you gain the [[Feats/Intimidating Glare|Intimidating Glare]] skill feat.
+Choose whether you've navigated your past through kindness or notoriety thus far. For the former, you're trained in the Diplomacy skill and the Genealogy Lore skill, and you gain the [[Group Impression|Group Impression]] skill feat. For the latter, you're trained in the Intimidation skill and the Underworld Lore skill, and you gain the [[Intimidating Glare|Intimidating Glare]] skill feat.
 
 **Connection:** Valahask, an iruxi mystic
 

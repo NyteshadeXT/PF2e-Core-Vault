@@ -24,7 +24,7 @@ You have been exiled from Hermea, perhaps of your own accord or perhaps because 
 
 Choose two ability boosts. One must be to **Intelligence** or **Charisma**, and one is a free ability boost.
 
-You're trained in the Society skill and the Dragon Lore skill. You gain the [[Feats/Skill Training|Skill Training]] skill feat.
+You're trained in the Society skill and the Dragon Lore skill. You gain the [[01) Rules/Character Building/Feats/Skill Training|Skill Training]] skill feat.
 
 *Source: Pathfinder Lost Omens: World Guide*
 *OGL*

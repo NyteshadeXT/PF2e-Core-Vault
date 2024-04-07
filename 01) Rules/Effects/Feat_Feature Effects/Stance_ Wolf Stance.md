@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by [[Feats/Wolf Stance|Wolf Stance]]
+Granted by [[Wolf Stance|Wolf Stance]]
 
 You enter the stance of a wolf, low to the ground with your hands held like fanged teeth. You can make wolf jaw unarmed attacks. These deal 1d8 piercing damage; are in the brawling group; and have the agile, backstabber, finesse, nonlethal, and unarmed traits.
 

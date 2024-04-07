@@ -25,7 +25,7 @@ The rolling waves of the high seas, the constant sway of the deck underfoot, and
 
 Choose two ability boosts. One must be to Dexterity or Strength and one is a free ability boost.
 
-You're trained in the Acrobatics skill, and the Sailing Lore skill. You gain the [[Feats/Cat Fall|Cat Fall]] skill feat.
+You're trained in the Acrobatics skill, and the Sailing Lore skill. You gain the [[Cat Fall|Cat Fall]] skill feat.
 
 *Source: *
 *OGL*

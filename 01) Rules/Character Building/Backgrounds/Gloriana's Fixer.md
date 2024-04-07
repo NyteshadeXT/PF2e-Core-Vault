@@ -20,7 +20,7 @@ You used to run certain "errands" for Gloriana Morilla, a close confidante of Gr
 
 Choose two ability boosts. One must be to **Dexterity** or **Charisma**, and one is a free ability boost.
 
-You're trained in the Thievery skill and the Underworld Lore skill. You gain the [[Feats/Subtle Theft|Subtle Theft]] skill feat.
+You're trained in the Thievery skill and the Underworld Lore skill. You gain the [[Subtle Theft|Subtle Theft]] skill feat.
 
 Additionally, when Gloriana Morilla is present during your mission briefings, she discreetly checks in with you and provides some pointers. You gain a +2 circumstance bonus to your checks to Gather Information or Recall Knowledge during the Getting Started segment of such adventures. Be sure to remind your GM that you have a relevant background.
 

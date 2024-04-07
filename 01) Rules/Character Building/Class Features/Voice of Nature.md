@@ -19,7 +19,7 @@ license: ORC
 
 
 
-You gain your choice of the [[Feats/Animal Empathy|Animal Empathy]] or [[Feats/Plant Empathy|Plant Empathy]] druid feat.
+You gain your choice of the [[Animal Empathy|Animal Empathy]] or [[Plant Empathy|Plant Empathy]] druid feat.
 
 *Source: Pathfinder Player Core*
 *ORC*

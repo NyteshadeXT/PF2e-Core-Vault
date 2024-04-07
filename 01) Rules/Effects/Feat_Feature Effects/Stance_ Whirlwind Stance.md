@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by: [[Feats/Whirlwind Stance|Whirlwind Stance]]
+Granted by: [[Whirlwind Stance|Whirlwind Stance]]
 
 * * *
 

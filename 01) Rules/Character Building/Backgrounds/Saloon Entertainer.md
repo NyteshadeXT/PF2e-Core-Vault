@@ -20,7 +20,7 @@ All you want to do is entertain the people, but sure enough, bad news seems to f
 
 Choose two ability boosts. One must be to **Charisma** or **Dexterity**, and one is a free ability boost.
 
-You're trained in the Performance skill and a lore skill of your choice. You gain the [[Feats/Virtuosic Performer|Virtuosic Performer]] skill feat.
+You're trained in the Performance skill and a lore skill of your choice. You gain the [[Virtuosic Performer|Virtuosic Performer]] skill feat.
 
 *Source: Pathfinder Guns & Gears*
 *OGL*

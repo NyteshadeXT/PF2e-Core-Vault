@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by [[Feats/Inspiring Marshal Stance|Inspiring Marshal Stance]].
+Granted by [[Inspiring Marshal Stance|Inspiring Marshal Stance]].
 
 Your marshal's aura grants you and allies a +1 status bonus to attack rolls and saves against mental effects.
 

@@ -22,7 +22,7 @@ Your latest dream, for the first time, had enough details to identify its settin
 
 Choose two ability boosts. One must be to **Constitution** or **Wisdom**, and one is a free ability boost.
 
-You're trained in the Religion skill and the Dahak Lore skill. You gain the [[Feats/Student of the Canon|Student of the Canon]] skill feat.
+You're trained in the Religion skill and the Dahak Lore skill. You gain the [[Student of the Canon|Student of the Canon]] skill feat.
 
 *Source: Pathfinder: Age of Ashes Player's Guide*
 *OGL*

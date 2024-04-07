@@ -11,7 +11,7 @@ license: OGL
 ---
 # Megaton Strike `pf2:2`
 ## Feat 4
-### [[inventor]]
+### [[01) Rules/Character Building/Feats/Inventor]]
 
 **Category** class; 
 

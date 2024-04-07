@@ -24,7 +24,7 @@ license: OGL
 
 * * *
 
-You have learned the martial arts techniques of your House of Perfection. You become trained in your choice of Acrobatics or Athletics and Warfare Lore; if you were already trained, you become an expert instead. You gain the [[Feats/Ki Strike|Ki Strike]] monk class feat, which grants you the ki strike ki spell and a focus pool of 1 Focus Point that you can recover using the Refocus activity as a monk does. Your ki spells from Student of Perfection are occult spells.
+You have learned the martial arts techniques of your House of Perfection. You become trained in your choice of Acrobatics or Athletics and Warfare Lore; if you were already trained, you become an expert instead. You gain the [[01) Rules/Character Building/Feats/Ki Strike|Ki Strike]] monk class feat, which grants you the ki strike ki spell and a focus pool of 1 Focus Point that you can recover using the Refocus activity as a monk does. Your ki spells from Student of Perfection are occult spells.
 
 * * *
 

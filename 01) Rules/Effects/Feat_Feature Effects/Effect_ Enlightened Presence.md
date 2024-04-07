@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by [[Feats/Enlightened Presence|Enlightened Presence]].
+Granted by [[Enlightened Presence|Enlightened Presence]].
 
 You and allies within 15 feet of you gain a +2 status bonus to Will saving throws against mental effects.
 

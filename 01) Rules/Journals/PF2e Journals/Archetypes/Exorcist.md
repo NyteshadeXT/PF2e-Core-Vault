@@ -14,7 +14,7 @@ While the motivations of exorcists run the gamut, most are compassionate individ
 
 Exorcists are most commonly found among the faithful of [[Deities/Ashava|Ashava]] the True Spark (the empyreal lord of dancers), but among the major deities of the Inner Sea region, [[Deities/Sarenrae|Sarenrae]], [[Deities/Pharasma|Pharasma]], and even [[Deities/Shelyn|Shelyn]] count a fair number of exorcists among their faithful. Exorcists can come from any walk of life, but many are redeemer champions, clerics, or monks. Apart from the role of the spirit dwelling, exorcism practices can vary. For example, a bard or rogue might attract spirits with trickery, charm, or empty promises. In contrast, a cleric of Pharasma could take a more severe route, demanding the spirits return to the natural order of things.
 
-**Additional Feats** 8th [[Feats/Spiritual Sense|Spiritual Sense]]; 10th [[Feats/Blind-Fight|Blind-Fight]]; 14th [[Feats/Sense Evil|Sense Evil]]; 16th [[Feats/Sense The Unseen|Sense The Unseen]]
+**Additional Feats** 8th [[Spiritual Sense|Spiritual Sense]]; 10th [[Blind-Fight|Blind-Fight]]; 14th [[Sense Evil|Sense Evil]]; 16th [[Sense The Unseen|Sense The Unseen]]
 
 SPIRIT DWELLINGS AND REMNANTS
 
@@ -28,7 +28,7 @@ EXORCISTS ACROSS GOLARION
 
 The well-known exorcists of Pharasma use methods of repeated prayer, holy water, and sacred rituals. Ashavic exorcists often dance under the moonlight to entice lost souls and guide them onward. In Osirion, exorcists practice execration, or proactive preventive exorcism techniques. In Northern Garund and some parts of Qadira, playing the stringed tanbura, rattling manjur, and specific drum patterns help cut the threads that tie the spirit to this world. Matanji orcs in the Mwangi Expanse perform exorcisms by drawing tattoo-like diagrams in iron ink. In Tian Xia, exorcists often use fulus (Secrets of Magic 158) to assist in their practice.
 
-## [[Feats/Exorcist Dedication|Exorcist Dedication]] Feat 4
+## [[Exorcist Dedication|Exorcist Dedication]] Feat 4
 
 **Prerequisites** trained in Occultism or Religion
 
@@ -42,7 +42,7 @@ You can also learn abilities that let you purify a spirit in your spirit dwellin
 
 **Special** You can't select another dedication feat until you have gained two other feats from the exorcist archetype.
 
-## [[Feats/Cast Out|Cast Out]] Feat 6
+## [[Cast Out|Cast Out]] Feat 6
 
 **Prerequisites** Exorcist Dedication
 
@@ -50,7 +50,7 @@ You can also learn abilities that let you purify a spirit in your spirit dwellin
 
 You attempt to cast a malevolent entity out of the creature or object it's possessing. Roll a counteract check against the possession effect; you must be within 30 feet of the possessed creature or object to do so. Your counteract rank is half your level rounded up, and your counteract modifier is your Occultism modifier, Religion modifier, or spell DC - 10, whichever is highest. If you succeed, the entity is driven out and can't attempt to possess that creature or object for 1 week. If you fail, the possessing creature is immune to your Cast Out for a year and a day.
 
-## [[Feats/Spirit's Absolution|Spirit's Absolution]] Feat 6
+## [[Spirit's Absolution|Spirit's Absolution]] Feat 6
 
 **Prerequisites** Exorcist Dedication
 
@@ -62,7 +62,7 @@ You attempt to cast a malevolent entity out of the creature or object it's posse
 
 You purify a spirit by absolving it of its sins and regrets. This cathartic experience restores your Hit Points or those of an adjacent ally. If you expend a spirit wisp, the target recovers 1d4 Hit Points per level you have. If you expend a spirit remnant, the target recovers 1d6 Hit Points per level of the incorporeal undead or haunt from which you gained the remnant.
 
-## [[Feats/Spirit's Anguish|Spirit's Anguish]] Feat 8
+## [[Spirit's Anguish|Spirit's Anguish]] Feat 8
 
 **Prerequisites** Exorcist Dedication
 
@@ -74,7 +74,7 @@ You purify a spirit by absolving it of its sins and regrets. This cathartic expe
 
 You purify a spirit by coaxing it to release its anguish in a final cathartic howl. This deals sonic damage to all creatures in a 30-foot cone, with a basic Will save against your class DC or spell DC, whichever is higher. If you expend a spirit wisp, this deals 1d4 sonic damage per level you have. If you expend a spirit remnant, this deals 1d6 sonic damage per level of the incorporeal undead or haunt from which you gained the remnant.
 
-## [[Feats/Enticing Dwelling|Enticing Dwelling]] Feat 12
+## [[Enticing Dwelling|Enticing Dwelling]] Feat 12
 
 **Prerequisites** Exorcist Dedication
 

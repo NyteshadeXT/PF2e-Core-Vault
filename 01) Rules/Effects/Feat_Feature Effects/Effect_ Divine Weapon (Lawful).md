@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by [[Feats/Divine Weapon|Divine Weapon]].
+Granted by [[Divine Weapon|Divine Weapon]].
 
 Until the end of your turn, the weapon deals an additional 1d6 spirit damage.
 

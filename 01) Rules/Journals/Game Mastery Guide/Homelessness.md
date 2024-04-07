@@ -8,4 +8,4 @@ tags:
 ---
 At a time when you were both living on the streets, you taught this character valuable pointers to survive.
 
-Add the [[Feats/Streetwise|Streetwise]] skill feat to your background options
+Add the [[Streetwise|Streetwise]] skill feat to your background options

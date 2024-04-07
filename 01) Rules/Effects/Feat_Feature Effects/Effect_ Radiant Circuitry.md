@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by [[Feats/Radiant Circuitry|Radiant Circuitry]].
+Granted by [[Radiant Circuitry|Radiant Circuitry]].
 
 *Source: Pathfinder Lost Omens: Ancestry Guide*
 *OGL*

@@ -10,7 +10,7 @@ tags:
 # Magus
 You've mixed physical combat with spellcasting.
 
-## [[Feats/Magus Dedication|Magus Dedication]] Feat 2
+## [[Magus Dedication|Magus Dedication]] Feat 2
 
 **Prerequisites** Strength or Dexterity +2; Intelligence +2
 
@@ -22,7 +22,7 @@ You cast spells like a magus, gaining a spellbook with four common arcane cantri
 
 **Special** You can't select another dedication feat until you have gained two other feats from the magus archetype.
 
-## [[Feats/Basic Martial Magic|Basic Martial Magic]] Feat 4
+## [[Basic Martial Magic|Basic Martial Magic]] Feat 4
 
 **Prerequisites** Magus Dedication
 
@@ -30,7 +30,7 @@ You cast spells like a magus, gaining a spellbook with four common arcane cantri
 
 You gain a 1st- or 2nd-level magus feat of your choice.
 
-## [[Feats/Hybrid Study Spell|Hybrid Study Spell]] Feat 4
+## [[Hybrid Study Spell|Hybrid Study Spell]] Feat 4
 
 **Prerequisites** Magus Dedication
 
@@ -38,7 +38,7 @@ You gain a 1st- or 2nd-level magus feat of your choice.
 
 Gain the conflux spell from a hybrid study of your choice. If you don't already have one, you gain a focus pool of 1 Focus Point, which you can Refocus by studying your spellbook and performing a physical regimen. You don't gain any of the hybrid study's other benefits.
 
-## [[Feats/Spellstriker|Spellstriker]] Feat 4
+## [[Spellstriker|Spellstriker]] Feat 4
 
 **Prerequisites** Magus Dedication
 
@@ -46,7 +46,7 @@ Gain the conflux spell from a hybrid study of your choice. If you don't already 
 
 You gain the magus's [[Actions/Spellstrike|Spellstrike]] activity. You can recharge it only as an activity that takes 1 minute. This restriction applies even if you gain another ability that recharges Spellstrike.
 
-## [[Feats/Advanced Martial Magic|Advanced Martial Magic]] Feat 6
+## [[Advanced Martial Magic|Advanced Martial Magic]] Feat 6
 
 **Prerequisites** Basic Martial Magic
 
@@ -58,7 +58,7 @@ You gain one magus feat. For the purpose of meeting its prerequisites, your magu
 
 **Special** You can select this feat more than once. Each time you select it, you gain another magus feat.
 
-## [[Feats/Basic Magus Spellcasting|Basic Magus Spellcasting]] Feat 6
+## [[Basic Magus Spellcasting|Basic Magus Spellcasting]] Feat 6
 
 **Prerequisites** Magus Dedication
 
@@ -66,7 +66,7 @@ You gain one magus feat. For the purpose of meeting its prerequisites, your magu
 
 You gain the basic bounded spellcasting benefits.
 
-## [[Feats/Expert Magus Spellcasting|Expert Magus Spellcasting]] Feat 12
+## [[Expert Magus Spellcasting|Expert Magus Spellcasting]] Feat 12
 
 **Prerequisites** Basic Magus Spellcasting; master in Arcana
 
@@ -74,7 +74,7 @@ You gain the basic bounded spellcasting benefits.
 
 You gain the expert bounded spellcasting benefits.
 
-## [[Feats/Master Magus Spellcasting|Master Magus Spellcasting]] Feat 18
+## [[Master Magus Spellcasting|Master Magus Spellcasting]] Feat 18
 
 **Prerequisites** Expert Magus Spellcasting; legendary in Arcana
 

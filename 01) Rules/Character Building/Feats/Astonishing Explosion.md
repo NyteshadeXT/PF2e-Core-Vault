@@ -21,7 +21,7 @@ license: OGL
 
 **Frequency** once per minute
 
-**Trigger** You use [[Feats/Quick Alchemy|Quick Alchemy]] to craft an alchemical bomb that deals splash damage and is at least 2 levels lower than your [[Class Features/Advanced Alchemy|Advanced Alchemy]] level.
+**Trigger** You use [[01) Rules/Character Building/Feats/Quick Alchemy|Quick Alchemy]] to craft an alchemical bomb that deals splash damage and is at least 2 levels lower than your [[Class Features/Advanced Alchemy|Advanced Alchemy]] level.
 
 * * *
 

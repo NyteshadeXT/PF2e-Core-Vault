@@ -19,7 +19,7 @@ license: OGL
 
 **Prerequisites** Dual-Weapon Warrior Dedication
 * * *
-**Requirements** Your last action was a [[Feats/Double Slice|Double Slice]], and both attacks hit the target.
+**Requirements** Your last action was a [[Double Slice|Double Slice]], and both attacks hit the target.
 
 * * *
 

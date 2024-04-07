@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by [[Feats/Corpse-Killer's Defiance|Corpse-Killer's Defiance]]
+Granted by [[Corpse-Killer's Defiance|Corpse-Killer's Defiance]]
 
 You gain a +1 status bonus to attack and damage rolls against undead.
 

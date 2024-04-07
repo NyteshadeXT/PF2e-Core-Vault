@@ -20,7 +20,7 @@ You've dedicated your life to unraveling the secrets of the ancient Shory Empire
 
 Choose two ability boosts. One must be to **Dexterity** or **Intelligence**, and one is a free ability boost.
 
-You're trained in the Crafting skill and the Shory Lore skill. You gain the [[Feats/Specialty Crafting|Specialty Crafting]] skill feat.
+You're trained in the Crafting skill and the Shory Lore skill. You gain the [[Specialty Crafting|Specialty Crafting]] skill feat.
 
 *Source: Pathfinder Lost Omens: World Guide*
 *OGL*

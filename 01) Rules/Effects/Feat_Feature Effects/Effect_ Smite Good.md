@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by [[Feats/Smite Good|Smite Good]].
+Granted by [[Smite Good|Smite Good]].
 
 Until the start of your next turn, your Strikes against that foe using the weapon your blade ally inhabits deal an extra 4 spirit damage if the target is holy, increasing to 6 if you have master proficiency with this weapon.
 

@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by [[Actions/Clue In|Clue In]] if the investigator has [[Feats/Detective's Readiness|Detective's Readiness]].
+Granted by [[Actions/Clue In|Clue In]] if the investigator has [[Detective's Readiness|Detective's Readiness]].
 
 Whenever you attempt a saving throw against the subject of a lead, you gain a +1 circumstance bonus to the check.
 

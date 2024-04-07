@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by [[Feats/Aura of Life|Aura of Life]]
+Granted by [[Aura of Life|Aura of Life]]
 
 You gain resistance 5 to void energy and a +1 status bonus to saves against necromancy effects.
 

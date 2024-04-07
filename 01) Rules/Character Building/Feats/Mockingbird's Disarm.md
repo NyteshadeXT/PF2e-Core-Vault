@@ -21,7 +21,7 @@ license: OGL
 * * *
 **Frequency** once per minute
 
-**Trigger** You succeed at a check to [[Actions/Tumble Through|Tumble Through]] or use [[Feats/Tumbling Strike|Tumbling Strike]], and you moved through an enemy's space.
+**Trigger** You succeed at a check to [[Actions/Tumble Through|Tumble Through]] or use [[Tumbling Strike|Tumbling Strike]], and you moved through an enemy's space.
 
 * * *
 

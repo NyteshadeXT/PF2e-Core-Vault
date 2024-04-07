@@ -20,7 +20,7 @@ Within her magnificent museum demiplane, the sorcerer Hao Jin extracted and pres
 
 Choose two ability boosts. One must be to **Constitution** or **Wisdom**, and one is a free ability boost.
 
-You're trained in the Medicine or Stealth skill, plus a Lore skill related to the terrain you lived in while on the demiplane (such as Cave Lore or Desert Lore). You gain the [[Feats/Assurance|Assurance]] skill feat with the skill you chose to become trained in (Medicine or Stealth).
+You're trained in the Medicine or Stealth skill, plus a Lore skill related to the terrain you lived in while on the demiplane (such as Cave Lore or Desert Lore). You gain the [[Assurance|Assurance]] skill feat with the skill you chose to become trained in (Medicine or Stealth).
 
 * * *
 

@@ -31,19 +31,19 @@ Any effects from backlash can't be reduced, prevented, or otherwise bypassed. Co
 
 ## Troll Deviant Feats
 
-[[Feats/Bone Spikes|Bone Spikes]]
+[[Bone Spikes|Bone Spikes]]
 
-[[Feats/Titan Swing|Titan Swing]]
+[[Titan Swing|Titan Swing]]
 
-[[Feats/High-Speed Regeneration|High-Speed Regeneration]]
+[[High-Speed Regeneration|High-Speed Regeneration]]
 
-[[Feats/Tectonic Stomp|Tectonic Stomp]]
+[[Tectonic Stomp|Tectonic Stomp]]
 
 ### Universal Deviant Feats
 
-[[Feats/Awakened Power|Awakened Power]]
+[[Awakened Power|Awakened Power]]
 
-[[Feats/Greater Awakened Power|Greater Awakened Power]]
+[[Greater Awakened Power|Greater Awakened Power]]
 
 *Source: Pathfinder Dark Archive*
 *OGL*

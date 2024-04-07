@@ -20,7 +20,7 @@ You know there are monstrous things out in the swamp known as Fogfen; you've see
 
 Choose two ability boosts. One must be to **Strength** or **Charisma**, and one is a free ability boost.
 
-You're trained in Athletics and the Swamp Lore skill. You gain the [[Feats/Titan Wrestler|Titan Wrestler]] skill feat.
+You're trained in Athletics and the Swamp Lore skill. You gain the [[Titan Wrestler|Titan Wrestler]] skill feat.
 
 *Source: Pathfinder: Abomination Vaults Player's Guide*
 *OGL*

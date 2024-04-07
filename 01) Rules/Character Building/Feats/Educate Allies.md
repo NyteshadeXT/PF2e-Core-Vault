@@ -25,7 +25,7 @@ license: ORC
 
 * * *
 
-You tweak the properties of your composition spell to convey a bit of your defensive knowledge. All allies affected by your composition spell gain your +1 circumstance bonus from [[Feats/Well-Versed|Well-Versed]] until the start of your next turn. Teaching your allies also bolsters your own skills; your personal circumstance bonus from Well-Versed also increases to +2 until the start of your next turn.
+You tweak the properties of your composition spell to convey a bit of your defensive knowledge. All allies affected by your composition spell gain your +1 circumstance bonus from [[Well-Versed|Well-Versed]] until the start of your next turn. Teaching your allies also bolsters your own skills; your personal circumstance bonus from Well-Versed also increases to +2 until the start of your next turn.
 
 [[Feat_Feature Effects/Effect_ Educate Allies|Effect: Educate Allies]]
 

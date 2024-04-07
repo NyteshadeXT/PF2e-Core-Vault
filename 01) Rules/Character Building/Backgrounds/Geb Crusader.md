@@ -24,7 +24,7 @@ You grew up considering the existence of the undead nation of Geb an atrocity an
 
 Choose two ability boosts. One must be to **Constitution** or **Wisdom**, and one is a free ability boost.
 
-You're trained in the Religion skill and the Undead Lore skill. You gain the [[Feats/Student of the Canon|Student of the Canon]] skill feat.
+You're trained in the Religion skill and the Undead Lore skill. You gain the [[Student of the Canon|Student of the Canon]] skill feat.
 
 *Source: Pathfinder Lost Omens: World Guide*
 *OGL*

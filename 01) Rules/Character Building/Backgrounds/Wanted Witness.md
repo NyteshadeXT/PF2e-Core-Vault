@@ -24,7 +24,7 @@ Not only did you not make the cut for whatever kinds of jobs were on offer that 
 
 Choose two ability boosts. One must be to **Constitution** or **Charisma**, and one is a free ability boost.
 
-You're trained in the Society skill and the Alkenstar Lore skill. You gain the [[Feats/Read Lips|Read Lips]] skill feat.
+You're trained in the Society skill and the Alkenstar Lore skill. You gain the [[Read Lips|Read Lips]] skill feat.
 
 *Source: Pathfinder: Outlaws of Alkenstar Player's Guide*
 *OGL*

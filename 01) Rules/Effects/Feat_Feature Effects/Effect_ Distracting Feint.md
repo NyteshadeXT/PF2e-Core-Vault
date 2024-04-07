@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by [[Feats/Distracting Feint|Distracting Feint]]
+Granted by [[Distracting Feint|Distracting Feint]]
 
 While a creature is [[Conditions/Off-Guard|Off-Guard]] by your Feint, it also takes a -2 circumstance penalty to Perception checks and Reflex saves.
 

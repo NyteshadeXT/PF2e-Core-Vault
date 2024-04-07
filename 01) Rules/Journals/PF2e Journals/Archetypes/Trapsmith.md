@@ -16,9 +16,9 @@ Wielding a wrench or blowtorch, you manufacture snares that whir and tick with d
 
 You can select the dedication feat for the trapsmith archetype even if you haven't yet gained three feats from the snarecrafter archetype.
 
-## [[Feats/Trapsmith Dedication|Trapsmith Dedication]] Feat 4
+## [[Trapsmith Dedication|Trapsmith Dedication]] Feat 4
 
-**Prerequisites** [[Feats/Snarecrafter Dedication|Snarecrafter Dedication]] or [[Feats/Snare Specialist|Snare Specialist]] ranger class feat.
+**Prerequisites** [[Snarecrafter Dedication|Snarecrafter Dedication]] or [[Snare Specialist|Snare Specialist]] ranger class feat.
 
 * * *
 
@@ -26,41 +26,41 @@ You use glimmering gears and gnashing mechanisms to manufacture snares using spe
 
 **Special** You can't select another dedication feat until you have gained two other feats from the snarecrafter or trapsmith archetypes.
 
-## [[Feats/Gear Gnash|Gear Gnash]] Feat 4
+## [[Gear Gnash|Gear Gnash]] Feat 4
 
-**Prerequisites** [[Feats/Trapsmith Dedication|Trapsmith Dedication]], expert in Crafting
+**Prerequisites** [[Trapsmith Dedication|Trapsmith Dedication]], expert in Crafting
 
 * * *
 
 Snares you create have complicated inner workings that are quite difficult to disable. Creatures attempting to Disable your snares that use gears must succeed at an additional Thievery check in order to disable the snare. On a failed check, while the snare doesn't fully trigger, the grinding mechanisms deal bludgeoning damage to the creature equal to half your level. The snare still triggers on a critical failure, as normal.
 
-## [[Feats/Propeller Attachment|Propeller Attachment]] Feat 7
+## [[Propeller Attachment|Propeller Attachment]] Feat 7
 
-**Prerequisites** [[Feats/Trapsmith Dedication|Trapsmith Dedication]], master in Crafting
+**Prerequisites** [[Trapsmith Dedication|Trapsmith Dedication]], master in Crafting
 
 * * *
 
 You've mastered attaching clockwork propellers to your daily quick-deploy snares that use gears. This allows you to place your snares in the air or underwater, where they remain in place for up to 10 minutes, after which the propeller runs out of power and they fall or sink. Unless you use additional precautions to hide it, a propeller snare's location is usually obvious.
 
-## [[Feats/Recycled Cogwheels|Recycled Cogwheels]] Feat 8
+## [[Recycled Cogwheels|Recycled Cogwheels]] Feat 8
 
-**Prerequisites** [[Feats/Trapsmith Dedication|Trapsmith Dedication]]
+**Prerequisites** [[Trapsmith Dedication|Trapsmith Dedication]]
 
 * * *
 
 You're able to scavenge the cogwheels from your daily quick-deploy snares that use gears. This allows you to deconstruct a snare that didn't trigger in order to set the snare up somewhere else. Doing so takes the same number of actions as setting the snare did. When you do, you recover the snare and can deploy it in another location.
 
-## [[Feats/Repurposed Parts|Repurposed Parts]] Feat 10
+## [[Repurposed Parts|Repurposed Parts]] Feat 10
 
-**Prerequisites** [[Feats/Trapsmith Dedication|Trapsmith Dedication]]
+**Prerequisites** [[Trapsmith Dedication|Trapsmith Dedication]]
 
 * * *
 
 You are familiar with the fittings and cogwheels of your snares and can repurpose parts from prepared quick-deploy snares to assemble a new creation on the fly. Using two of the snares you prepared for quick deployment during daily preparations, you can quickly deploy a different snare that you know how to Craft, even if you didn't prepare that snare during your daily preparations.
 
-## [[Feats/Finessed Features|Finessed Features]] Feat 12
+## [[Finessed Features|Finessed Features]] Feat 12
 
-**Prerequisites** [[Feats/Trapsmith Dedication|Trapsmith Dedication]]
+**Prerequisites** [[Trapsmith Dedication|Trapsmith Dedication]]
 
 * * *
 

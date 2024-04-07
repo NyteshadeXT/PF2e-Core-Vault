@@ -19,7 +19,7 @@ license: OGL
 
 **Prerequisites** Elemental Assault
 * * *
-You can use [[Feats/Elemental Assault|Elemental Assault]] once per hour instead of once per day.
+You can use [[Elemental Assault|Elemental Assault]] once per hour instead of once per day.
 
 *Source: Pathfinder Lost Omens: Ancestry Guide*
 *OGL*

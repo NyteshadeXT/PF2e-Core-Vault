@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by [[Feats/Inertial Barrier|Inertial Barrier]]
+Granted by [[Inertial Barrier|Inertial Barrier]]
 
 You or one target of the spell gains resistance to physical damage equal to 2 + the spell's rank until the start of your next turn.
 

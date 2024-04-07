@@ -20,7 +20,7 @@ Some history survives only so long as its physical remains do. You've developed 
 
 Choose two ability boosts. One must be to **Dexterity** or **Intelligence**, and one is a free ability boost.
 
-You're trained in either the Crafting skill or the Thievery skill, and you're trained in either the Accounting Lore or the Underworld Lore skill. If you selected Crafting, you gain the [[Feats/Quick Repair|Quick Repair]] skill feat. If you chose Thievery, you gain the [[Feats/Assurance|Assurance (Thievery)]] skill feat.
+You're trained in either the Crafting skill or the Thievery skill, and you're trained in either the Accounting Lore or the Underworld Lore skill. If you selected Crafting, you gain the [[Quick Repair|Quick Repair]] skill feat. If you chose Thievery, you gain the [[Assurance|Assurance (Thievery)]] skill feat.
 
 **Connection:** Ria, an oread gnome curator who studies rivethun traditions
 

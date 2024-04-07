@@ -23,9 +23,9 @@ Members of the Order of the Rack seek to eliminate wastefulness throughout the I
 
 * * *
 
-**Lesser Benefit** [[Feats/Disillusionment|Disillusionment]]
+**Lesser Benefit** [[Disillusionment|Disillusionment]]
 
-**Greater Benefit** [[Feats/Silence Heresy|Silence Heresy]]
+**Greater Benefit** [[Silence Heresy|Silence Heresy]]
 
 *Source: Pathfinder Lost Omens: Character Guide*
 *OGL*

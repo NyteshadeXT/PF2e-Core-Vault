@@ -20,7 +20,7 @@ To Clan Tolorr, history shouldn't be dry and boring; it deserves to be engaging 
 
 Choose two ability boosts. One must be to **Strength** or **Charisma**, and one is a free ability boost.
 
-You're trained in either the Performance skill or the Society skill, and you're trained in the Dwarf Lore skill. If you selected Performance, you gain the [[Feats/Impressive Performance|Impressive Performance]] skill feat. If you chose Society, you gain the [[Feats/Dubious Knowledge|Dubious Knowledge]] skill feat.
+You're trained in either the Performance skill or the Society skill, and you're trained in the Dwarf Lore skill. If you selected Performance, you gain the [[Impressive Performance|Impressive Performance]] skill feat. If you chose Society, you gain the [[Dubious Knowledge|Dubious Knowledge]] skill feat.
 
 **Connection:** Bulgra Veldollow, a matriarch in Clan Tolorr and accomplished puppeteer
 

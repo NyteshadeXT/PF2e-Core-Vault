@@ -24,7 +24,7 @@ Your family might support your passion, or it could be a source of contention th
 
 Choose two attribute boosts. One must be to **Dexterity** or **Intelligence**, and one is a free attribute boost.
 
-You're trained in the Arcana skill and the Academia Lore skill. You gain the [[Feats/Multilingual|Multilingual]] skill feat, but one of the languages you gain from this feat must be Thassilonian. Increase the party's reputation with Runewatchers by 1 and reduce the party's reputation with Townsfolk by 1.
+You're trained in the Arcana skill and the Academia Lore skill. You gain the [[Multilingual|Multilingual]] skill feat, but one of the languages you gain from this feat must be Thassilonian. Increase the party's reputation with Runewatchers by 1 and reduce the party's reputation with Townsfolk by 1.
 
 *Source: Pathfinder: Seven Dooms for Sandpoint Player's Guide*
 *OGL*

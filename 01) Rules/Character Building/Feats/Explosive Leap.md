@@ -14,7 +14,7 @@ license: OGL
 ---
 # Explosive Leap `pf2:1`
 ## Feat 1
-### [[Fire]][[inventor]][[move]][[unstable]]
+### [[Fire]][[01) Rules/Character Building/Feats/Inventor]][[move]][[unstable]]
 
 **Category** class; 
 

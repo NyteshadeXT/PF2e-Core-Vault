@@ -24,7 +24,7 @@ You seek to join the Free Captains of the Shackles and have learned everything y
 
 Choose two ability boosts. One must be to **Wisdom** or **Charisma**, and one is a free ability boost.
 
-You're trained in the Intimidation skill and the Sailing Lore skill. You gain the [[Feats/Group Coercion|Group Coercion]] skill feat.
+You're trained in the Intimidation skill and the Sailing Lore skill. You gain the [[Group Coercion|Group Coercion]] skill feat.
 
 *Source: Pathfinder Lost Omens: World Guide*
 *OGL*

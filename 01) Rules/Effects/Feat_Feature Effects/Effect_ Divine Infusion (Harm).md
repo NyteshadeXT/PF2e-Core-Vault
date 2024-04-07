@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by [[Feats/Divine Infusion|Divine Infusion]]
+Granted by [[Divine Infusion|Divine Infusion]]
 
 You deal an additional 1d6 void damage with your melee weapons and unarmed attacks. If the _harm_ spell is at least 5th rank, this damage increases to 2d6, and if the _harm_ spell is at least 8th rank, the damage increases to 3d6.
 

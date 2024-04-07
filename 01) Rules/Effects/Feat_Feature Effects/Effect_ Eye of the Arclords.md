@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by [[Feats/Eye of the Arclords|Eye of the Arclords]].
+Granted by [[Eye of the Arclords|Eye of the Arclords]].
 
 While the eye is open, you gain the following benefits:
 

@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by [[Feats/Striking Retribution|Striking Retribution]]
+Granted by [[Striking Retribution|Striking Retribution]]
 
 *Source: Pathfinder Lost Omens: Ancestry Guide*
 *OGL*

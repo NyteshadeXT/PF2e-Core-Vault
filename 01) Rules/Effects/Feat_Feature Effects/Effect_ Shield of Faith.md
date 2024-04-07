@@ -17,7 +17,7 @@ license: ORC
 
 
 
-Granted by [[Feats/Shield of Faith|Shield of Faith]]
+Granted by [[Shield of Faith|Shield of Faith]]
 
 You gain a +1 status bonus to your AC.
 

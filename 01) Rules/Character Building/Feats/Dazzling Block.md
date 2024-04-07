@@ -25,7 +25,7 @@ license: OGL
 
 * * *
 
-When you use [[Feats/Shield Block|Shield Block]], you can create a flash of brilliant, multicolored light in a 15-foot cone. Each creature in the area must attempt a Fortitude check save, with the following effects.
+When you use [[01) Rules/Character Building/Feats/Shield Block|Shield Block]], you can create a flash of brilliant, multicolored light in a 15-foot cone. Each creature in the area must attempt a Fortitude check save, with the following effects.
 
 * * *
 

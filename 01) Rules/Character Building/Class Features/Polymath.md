@@ -23,7 +23,7 @@ Your muse is a jack of all trades, flitting between skills and pursuits. Some ba
 
 As a bard with a polymath muse, you are interested in a wide array of topics but rarely dedicated to any one, and you rarely make up your mind—you want to try everything.
 
-**Muse Feat** [[Feats/Versatile Performance|Versatile Performance]]
+**Muse Feat** [[Versatile Performance|Versatile Performance]]
 
 **Muse Spell** [[Spells/Phantasmal Minion|Phantasmal Minion]]
 

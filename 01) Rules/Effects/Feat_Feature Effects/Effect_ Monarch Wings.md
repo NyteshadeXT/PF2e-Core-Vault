@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by [[Feats/Fey Ascension|Fey Ascension]]
+Granted by [[Fey Ascension|Fey Ascension]]
 
 You gain a fly Speed equal to your Speed while you've manifested your wings.
 

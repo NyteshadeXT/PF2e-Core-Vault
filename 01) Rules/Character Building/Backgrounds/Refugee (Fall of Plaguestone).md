@@ -20,7 +20,7 @@ The fighting around the Lake Encarthan region has forced many of the people resi
 
 Choose two ability boosts. One must be to **Constitution** or **Intelligence**, and one is a free ability boost.
 
-You're trained in the Survival skill and the Hunting Lore skill. You gain the [[Feats/Forager|Forager]] skill feat.
+You're trained in the Survival skill and the Hunting Lore skill. You gain the [[Forager|Forager]] skill feat.
 
 *Source: Pathfinder Adventure: The Fall of Plaguestone*
 *OGL*

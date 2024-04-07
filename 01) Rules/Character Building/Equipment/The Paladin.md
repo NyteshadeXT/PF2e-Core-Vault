@@ -26,7 +26,7 @@ license: OGL
 
 * * *
 
-_The Paladin_ represents righteousness and resolute defense. As long as you have _The Paladin_ invested, you gain the [[Feats/Shield Block|Shield Block]] general feat. If you already possess this feat, you gain an additional reaction at the start of your turn that can only be used to Shield Block.
+_The Paladin_ represents righteousness and resolute defense. As long as you have _The Paladin_ invested, you gain the [[01) Rules/Character Building/Feats/Shield Block|Shield Block]] general feat. If you already possess this feat, you gain an additional reaction at the start of your turn that can only be used to Shield Block.
 
 **Activate** `pf2:r` envision
 

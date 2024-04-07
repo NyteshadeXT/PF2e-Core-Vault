@@ -24,7 +24,7 @@ Staying alive among the scheming, ravenous undead of Geb required a deep knowled
 
 Choose two ability boosts. One must be to **Charisma** or **Constitution**, and one is a free ability boost.
 
-You're trained in the Deception skill and the Undead Lore skill. You gain the [[Feats/Charming Liar|Charming Liar]] skill feat.
+You're trained in the Deception skill and the Undead Lore skill. You gain the [[Charming Liar|Charming Liar]] skill feat.
 
 *Source: Pathfinder Lost Omens: World Guide*
 *OGL*

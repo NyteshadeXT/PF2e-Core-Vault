@@ -22,7 +22,7 @@ Believing that Highhelm might provide you with greater opportunities, a Blue War
 
 Choose two ability boosts. One must be to **Intelligence** or **Wisdom**, and one is a free ability boost.
 
-You're trained in the Occultism skill and the Dwarven Pantheon Lore skill, an uncommonly broad Lore skill that pertains to Torag's faith and those faiths of his divine family. You gain the [[Feats/Quick Identification|Quick Identification]] skill feat.
+You're trained in the Occultism skill and the Dwarven Pantheon Lore skill, an uncommonly broad Lore skill that pertains to Torag's faith and those faiths of his divine family. You gain the [[Quick Identification|Quick Identification]] skill feat.
 
 **Connection:** Rosha Coppervein, a Blue Warder who married into Clan Tolorr
 

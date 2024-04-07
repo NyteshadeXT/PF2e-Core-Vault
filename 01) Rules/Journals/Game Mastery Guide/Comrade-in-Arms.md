@@ -8,4 +8,4 @@ tags:
 ---
 You and this character were once comrades in military service, and you trained yourself and this character to improve your physical fitness.
 
-Add the [[Feats/Assurance|Assurance]] skill feat for Athletics to your background options
+Add the [[Assurance|Assurance]] skill feat for Athletics to your background options

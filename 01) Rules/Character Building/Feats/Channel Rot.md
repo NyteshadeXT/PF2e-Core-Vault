@@ -19,7 +19,7 @@ license: OGL
 
 **Prerequisites** Accursed Touch
 * * *
-You've learned to channel your curse through weapons you wield instead of solely through your flesh. The benefits of [[Feats/Accursed Touch|Accursed Touch]] apply to any melee weapon you wield instead of only your fist Strikes.
+You've learned to channel your curse through weapons you wield instead of solely through your flesh. The benefits of [[Accursed Touch|Accursed Touch]] apply to any melee weapon you wield instead of only your fist Strikes.
 
 *Source: Pathfinder Book of the Dead*
 *OGL*

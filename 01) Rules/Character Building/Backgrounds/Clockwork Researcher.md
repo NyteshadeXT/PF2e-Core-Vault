@@ -20,7 +20,7 @@ New forms of clockwork technology are incredibly interesting to you, and you've 
 
 Choose two ability boosts. One must be to **Dexterity** or **Intelligence**, and one is a free ability boost.
 
-You're trained in the Society skill and the Engineering Lore skill. You gain the [[Feats/Eye For Numbers|Eye For Numbers]] skill feat.
+You're trained in the Society skill and the Engineering Lore skill. You gain the [[Eye For Numbers|Eye For Numbers]] skill feat.
 
 *Source: Pathfinder Guns & Gears*
 *OGL*

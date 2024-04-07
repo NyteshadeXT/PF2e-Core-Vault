@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by: [[Feats/Impassable Wall Stance|Impassable Wall Stance]]
+Granted by: [[Impassable Wall Stance|Impassable Wall Stance]]
 
 You refuse to let foes past your guard. As long as you are in this stance, when you critically hit with an [[Actions/Reactive Strike|Reactive Strike]] triggered by a move action, you disrupt that move action.
 

@@ -24,7 +24,7 @@ You joined a secret society dedicated to freeing halfling slaves, most likely fr
 
 Choose two ability boosts. One must be to **Dexterity** or **Charisma**, and one is a free ability boost.
 
-You're trained in the Stealth skill and the Underworld Lore skill. You gain the [[Feats/Experienced Smuggler|Experienced Smuggler]] skill feat.
+You're trained in the Stealth skill and the Underworld Lore skill. You gain the [[Experienced Smuggler|Experienced Smuggler]] skill feat.
 
 *Source: Pathfinder Lost Omens: World Guide*
 *OGL*

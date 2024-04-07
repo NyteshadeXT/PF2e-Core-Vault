@@ -20,7 +20,7 @@ After an altercation with an undead creature, you feared you might be infected. 
 
 Choose two ability boosts. One must be to **Dexterity** or **Wisdom**, and one is a free ability boost.
 
-You're trained in the Medicine skill and the Undead Lore skill. You gain the [[Feats/Battle Medicine|Battle Medicine]] skill feat.
+You're trained in the Medicine skill and the Undead Lore skill. You gain the [[Battle Medicine|Battle Medicine]] skill feat.
 
 *Source: Pathfinder Lost Omens: Knights of Lastwall*
 *OGL*

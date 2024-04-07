@@ -20,7 +20,7 @@ license: ORC
 
 **Prerequisites** Order Explorer
 * * *
-You have delved deeper into the teaching of a new order, gaining access to a coveted order spell. Choose an order you have selected with [[Feats/Order Explorer|Order Explorer]]. You gain the initial order spell from that order.
+You have delved deeper into the teaching of a new order, gaining access to a coveted order spell. Choose an order you have selected with [[Order Explorer|Order Explorer]]. You gain the initial order spell from that order.
 
 * * *
 

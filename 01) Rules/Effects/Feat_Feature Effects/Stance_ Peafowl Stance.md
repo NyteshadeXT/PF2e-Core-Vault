@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by [[Feats/Peafowl Stance|Peafowl Stance]]
+Granted by [[Peafowl Stance|Peafowl Stance]]
 
 You enter a tall and proud stance while remaining mobile, with all the grace and composure of a peafowl.
 

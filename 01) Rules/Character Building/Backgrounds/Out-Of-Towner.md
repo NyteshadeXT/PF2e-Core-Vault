@@ -22,7 +22,7 @@ You're excited to meet new people and cultures, and answering the Call for Heroe
 
 Choose two ability boosts. One must be to **Constitution** or **Intelligence**, and one is a free ability boost.
 
-You're trained in the Diplomacy skill and a Lore skill thematically associated with the members of the ancestry you grew up with: Dwarf, Elf, Gnome, Goblin, or Halfling. You gain the [[Feats/Hobnobber|Hobnobber]] skill feat.
+You're trained in the Diplomacy skill and a Lore skill thematically associated with the members of the ancestry you grew up with: Dwarf, Elf, Gnome, Goblin, or Halfling. You gain the [[Hobnobber|Hobnobber]] skill feat.
 
 *Source: Pathfinder: Age of Ashes Player's Guide*
 *OGL*

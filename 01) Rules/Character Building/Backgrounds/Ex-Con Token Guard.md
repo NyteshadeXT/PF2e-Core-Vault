@@ -22,7 +22,7 @@ You transferred to the Edgewatch, the Precipice Quarter's new precinct, in the h
 
 Choose two ability boosts. One must be to **Dexterity** or **Charisma**, and one is a free ability boost.
 
-You're trained in the Thievery skill and your choice of Legal Lore or Underworld Lore. You gain a +1 circumstance bonus to Deception, Diplomacy, and Intimidation checks to [[Actions/Interact|Interact]] with Token Guards and convicted criminals such as prison inmates. You gain the [[Feats/Pickpocket|Pickpocket]] skill feat.
+You're trained in the Thievery skill and your choice of Legal Lore or Underworld Lore. You gain a +1 circumstance bonus to Deception, Diplomacy, and Intimidation checks to [[Actions/Interact|Interact]] with Token Guards and convicted criminals such as prison inmates. You gain the [[Pickpocket|Pickpocket]] skill feat.
 
 *Source: Pathfinder: Agents of Edgewatch Player's Guide*
 *OGL*

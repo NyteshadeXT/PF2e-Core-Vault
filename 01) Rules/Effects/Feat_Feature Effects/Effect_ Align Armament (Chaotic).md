@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by [[Feats/Sanctify Armament|Sanctify Armament]].
+Granted by [[Sanctify Armament|Sanctify Armament]].
 
 For 1 round, that weapon deals an additional 1d6 spirit damage.
 

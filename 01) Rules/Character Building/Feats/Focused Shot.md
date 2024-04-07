@@ -20,7 +20,7 @@ license: OGL
 
 **Prerequisites** Monastic Archer Stance
 * * *
-**Requirements** You are in [[Feats/Monastic Archer Stance|Monastic Archer Stance]].
+**Requirements** You are in [[Monastic Archer Stance|Monastic Archer Stance]].
 
 * * *
 

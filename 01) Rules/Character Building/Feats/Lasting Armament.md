@@ -20,7 +20,7 @@ license: ORC
 
 **Prerequisites** Sanctify Armament
 * * *
-When you sanctify a weapon, it remains sanctified for an extended period. The duration of [[Feats/Sanctify Armament|Sanctify Armament]] is increased to 1 hour, but it still ends if you use Sanctify Armament on another weapon.
+When you sanctify a weapon, it remains sanctified for an extended period. The duration of [[Sanctify Armament|Sanctify Armament]] is increased to 1 hour, but it still ends if you use Sanctify Armament on another weapon.
 
 *Source: Pathfinder Player Core*
 *ORC*

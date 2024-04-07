@@ -24,7 +24,7 @@ Whether in Katapesh or one of the bustling markets along the Path of Salt, you'v
 
 Choose two ability boosts. One must be to **Intelligence** or **Wisdom**, and one is a free ability boost.
 
-You're trained in the Arcana skill and the Mercantile Lore skill. You gain the [[Feats/Quick Identification|Quick Identification]] skill feat.
+You're trained in the Arcana skill and the Mercantile Lore skill. You gain the [[Quick Identification|Quick Identification]] skill feat.
 
 *Source: Pathfinder Lost Omens: World Guide*
 *OGL*

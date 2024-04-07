@@ -26,7 +26,7 @@ As with most militia members, you likely are a lifelong resident of Sandpoint. W
 
 Choose two attribute boosts. One must be to **Strength** or **Wisdom**, and one is a free attribute boost.
 
-You're trained in the Athletics skill and the Sailing Lore skill. You gain the [[Feats/Lie to Me|Lie to Me]] skill feat. Increase the party's reputation with the Town Watch by 1 and reduce the party's reputation with the Bunyip Club by 1.
+You're trained in the Athletics skill and the Sailing Lore skill. You gain the [[Lie to Me|Lie to Me]] skill feat. Increase the party's reputation with the Town Watch by 1 and reduce the party's reputation with the Bunyip Club by 1.
 
 *Source: Pathfinder: Seven Dooms for Sandpoint Player's Guide*
 *OGL*

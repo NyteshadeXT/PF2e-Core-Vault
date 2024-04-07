@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by [[Feats/Disrupting Strikes|Disrupting Strikes]]
+Granted by [[Disrupting Strikes|Disrupting Strikes]]
 
 Your weapon and unarmed Strikes gain the effects of a _disrupting_ property rune until the start of your next turn.
 

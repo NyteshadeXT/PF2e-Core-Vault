@@ -20,7 +20,7 @@ Either through witnessing their deeds and devout heroics firsthand, or through r
 
 Choose two ability boosts. One must be to **Strength** or **Charisma**, and one is a free ability boost.
 
-You're trained in the Diplomacy skill and the Shining Sentinels Lore skill. You gain the [[Feats/No Cause For Alarm|No Cause for Alarm]] skill feat.
+You're trained in the Diplomacy skill and the Shining Sentinels Lore skill. You gain the [[No Cause For Alarm|No Cause for Alarm]] skill feat.
 
 *Source: Pathfinder Lost Omens: Knights of Lastwall*
 *OGL*

@@ -20,7 +20,7 @@ You apprenticed under a necromancer-a hard education in a field where a cadaver 
 
 Choose two ability boosts. One must be to **Constitution** or **Intelligence**, and one is a free ability boost.
 
-You're trained in the Arcana skill and the Necromancy Lore skill. You gain the [[Feats/Quick Identification|Quick Identification]] skill feat.
+You're trained in the Arcana skill and the Necromancy Lore skill. You gain the [[Quick Identification|Quick Identification]] skill feat.
 
 *Source: Pathfinder Book of the Dead*
 *OGL*

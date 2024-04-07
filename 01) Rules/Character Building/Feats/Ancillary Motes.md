@@ -19,7 +19,7 @@ license: OGL
 
 **Prerequisites** Crystalline Dust
 * * *
-You can use [[Feats/Crystalline Dust|Crystalline Dust]] one more time per day.
+You can use [[Crystalline Dust|Crystalline Dust]] one more time per day.
 
 * * *
 

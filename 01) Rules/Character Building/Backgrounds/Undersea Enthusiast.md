@@ -24,7 +24,7 @@ You love diving and exploring the world beneath the waves, and long periods of s
 
 Choose two ability boosts. One must be to **Strength** or **Constitution**, and one is a free ability boost.
 
-You're trained in the Athletics skill and the Ocean Lore skill. You gain the [[Feats/Underwater Marauder|Underwater Marauder]] skill feat.
+You're trained in the Athletics skill and the Ocean Lore skill. You gain the [[Underwater Marauder|Underwater Marauder]] skill feat.
 
 *Source: Pathfinder Lost Omens: World Guide*
 *OGL*

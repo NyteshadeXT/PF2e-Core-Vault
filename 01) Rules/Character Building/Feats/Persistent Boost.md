@@ -11,7 +11,7 @@ license: OGL
 ---
 # Persistent Boost
 ## Feat 16
-### [[inventor]]
+### [[01) Rules/Character Building/Feats/Inventor]]
 
 **Category** class; 
 

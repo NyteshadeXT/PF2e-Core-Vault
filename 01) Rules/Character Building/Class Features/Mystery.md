@@ -45,7 +45,7 @@ A mystery entry contains the following information, followed by a description of
 
 **Granted Cantrip** You automatically add this cantrip to your spell repertoire, in addition to those you gain through divine spellcasting.
 
-**Revelation Spells** You automatically gain your mystery's initial revelation spell at 1st level and can gain more by selecting the [[Feats/Advanced Revelation|Advanced Revelation]], [[Feats/Greater Revelation|Greater Revelation]], and [[Feats/Diverse Mystery|Diverse Mystery]] oracle feats.
+**Revelation Spells** You automatically gain your mystery's initial revelation spell at 1st level and can gain more by selecting the [[Advanced Revelation|Advanced Revelation]], [[Greater Revelation|Greater Revelation]], and [[Diverse Mystery|Diverse Mystery]] oracle feats.
 
 **Related Domains** These are the cleric domains associated with your mystery. You select one initial domain spell from one of these domains at 1st level, which you can cast as a revelation spell with the cursebound trait.
 

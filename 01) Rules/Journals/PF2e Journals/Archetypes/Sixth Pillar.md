@@ -10,7 +10,7 @@ tags:
 # Sixth Pillar
 The Sixth Pillar follows a tradition that blends martial arts with magic. Traditionally, this is a way to better focus and harness innate or bloodline magic, but it can be used by anyone who can cast spells.
 
-## [[Feats/Sixth Pillar Dedication|Sixth Pillar Dedication]] Feat 10
+## [[Sixth Pillar Dedication|Sixth Pillar Dedication]] Feat 10
 
 **Prerequisites** Dexterity +2, expert in Acrobatics, ability to cast spells
 
@@ -20,7 +20,7 @@ You use your physical discipline to channel your magic. If your proficiency rank
 
 **Special** You can't select another dedication feat until you have gained two other feats from this archetype.
 
-## [[Feats/Maneuvering Spell|Maneuvering Spell]] Feat 12
+## [[Maneuvering Spell|Maneuvering Spell]] Feat 12
 
 **Prerequisites** Sixth Pillar Dedication
 
@@ -30,7 +30,7 @@ You use your physical discipline to channel your magic. If your proficiency rank
 
 You instantly tap into the magical power of a spell you're casting to quickly pounce around the battlefield. You [[Actions/Step|Step]], [[Actions/Leap|Leap]], or [[Actions/Stand|Stand]]. This action can be before or after you Cast the Spell.
 
-## [[Feats/Six Pillars Stance|Six Pillars Stance]] Feat 12
+## [[Six Pillars Stance|Six Pillars Stance]] Feat 12
 
 **Prerequisites** Sixth Pillar Dedication
 
@@ -40,7 +40,7 @@ You instantly tap into the magical power of a spell you're casting to quickly po
 
 You stand firm, steeling your mind and body, allowing you to use your magic unperturbed. While in this stance, you gain a +4 circumstance bonus to AC against reactions triggered by using actions with the concentrate or manipulate traits. In addition, when you cast a spell that requires one or more actions while in this stance, your unarmed Strikes gain a +1 circumstance bonus to damage.
 
-## [[Feats/Sixth Pillar Mastery|Sixth Pillar Mastery]] Feat 14
+## [[Sixth Pillar Mastery|Sixth Pillar Mastery]] Feat 14
 
 **Prerequisites** Sixth Pillar Dedication
 
@@ -48,7 +48,7 @@ You stand firm, steeling your mind and body, allowing you to use your magic unpe
 
 You align your magical and physical potential. Whenever you succeed at an unarmed Strike against an opponent, they have a -1 status penalty to saves against your spells until the start of your next turn. Whenever you cast a spell using spell slots, you gain a +1 status bonus to attack rolls with your unarmed Strikes until the start of your next turn.
 
-## [[Feats/Touch Focus|Touch Focus]] Feat 16
+## [[Touch Focus|Touch Focus]] Feat 16
 
 **Prerequisites** Sixth Pillar Dedication
 

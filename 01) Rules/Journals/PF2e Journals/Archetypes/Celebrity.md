@@ -10,13 +10,13 @@ tags:
 # Celebrity
 You're a special personality... and you know it. You're not merely comfortable in the spotlight, you crave it. While the traditional celebrity is a musician or another type of performer, you could be known for any occupation.
 
-## [[Feats/Celebrity Dedication|Celebrity Dedication]] Feat 2
+## [[Celebrity Dedication|Celebrity Dedication]] Feat 2
 
 The more people you have looking at you, the more content you are, and you take every opportunity to show up others when their performances are less than perfect. You gain the Upstage reaction. In addition, when you Earn Income, if the level of the task is higher than your level, you gain a +1 circumstance bonus to your check to Earn Income.
 
 **Special** You can't select another dedication feat until you have gained two other feats from the celebrity archetype.
 
-## [[Feats/Never Tire|Never Tire]] Feat 4
+## [[Never Tire|Never Tire]] Feat 4
 
 **Prerequisites** Celebrity Dedication
 
@@ -28,7 +28,7 @@ The more people you have looking at you, the more content you are, and you take 
 
 As long as you have an audience, you can continue to perform. Indeed, you must-you have an obligation to your fans! You delay the effects of the fatigued condition for 1 minute or until you are no longer observed by the required creatures, whichever comes first. If the fatigued condition has a duration, the duration begins to elapse only after the delay. You can't further delay or prevent the fatigued condition after this ability ends.
 
-## [[Feats/Mesmerizing Gaze|Mesmerizing Gaze]] Feat 6
+## [[Mesmerizing Gaze|Mesmerizing Gaze]] Feat 6
 
 **Prerequisites** Celebrity Dedication
 
@@ -38,7 +38,7 @@ When you meet someone's gaze, they are unable to look away. Choose one target cr
 
 When you select this feat, it gains either the arcane or occult trait; once you make this choice, you can't change it.
 
-## [[Feats/Command Attention|Command Attention]] Feat 10
+## [[Command Attention|Command Attention]] Feat 10
 
 **Prerequisites** Celebrity Dedication
 

@@ -19,7 +19,7 @@ license: OGL
 
 **Prerequisites** expert in heavy armor; Hellknight Armiger Dedication
 * * *
-You've learned how best to move in heavy armor. When wearing heavy armor, if you meet the Strength requirement, instead of reducing the movement penalty by 5 feet, you reduce the penalty by 10 feet (typically reducing the penalty to 0). If you are a dwarf with the [[Feats/Unburdened Iron|Unburdened Iron]] feat, increase your Speed by 5 feet.
+You've learned how best to move in heavy armor. When wearing heavy armor, if you meet the Strength requirement, instead of reducing the movement penalty by 5 feet, you reduce the penalty by 10 feet (typically reducing the penalty to 0). If you are a dwarf with the [[Unburdened Iron|Unburdened Iron]] feat, increase your Speed by 5 feet.
 
 *Source: Pathfinder Lost Omens: World Guide*
 *OGL*

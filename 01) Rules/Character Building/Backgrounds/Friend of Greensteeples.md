@@ -20,7 +20,7 @@ You're a good friend of Benedet, the majordomo of Greensteeples Manor in Egorian
 
 Choose two ability boosts. One must be to **Dexterity** or **Charisma**, and one is a free ability boost.
 
-You're trained in your choice of the Deception or Society skills, and gain the [[Feats/Assurance|Assurance]] skill feat with your chosen skill. You're also trained in a Lore skill about a narrow category of creatures.
+You're trained in your choice of the Deception or Society skills, and gain the [[Assurance|Assurance]] skill feat with your chosen skill. You're also trained in a Lore skill about a narrow category of creatures.
 
 Additionally, when you receive a mission briefing at Greensteeples Manor (or a briefing from Benedet or Varian Jeggare at another location), you receive a warm welcome. You gain a +2 circumstance bonus to your checks to Gather Information or Recall Knowledge during the Getting Started segment of such adventures. Be sure to remind your GM that you have a relevant background.
 

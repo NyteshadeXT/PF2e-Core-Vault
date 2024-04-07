@@ -26,13 +26,13 @@ From _[[Class Features/Blade Ally|Blade Ally]]_:
 
 * * *
 
-From _[[Feats/Radiant Blade Spirit|Radiant Blade Spirit]]_:
+From _[[Radiant Blade Spirit|Radiant Blade Spirit]]_:
 
 [[Equipment/Flaming|Flaming]], [[Equipment/Holy|Holy]], or [[Equipment/Unholy|Unholy]]
 
 * * *
 
-From _[[Feats/Radiant Blade Master|Radiant Blade Master]]_:
+From _[[Radiant Blade Master|Radiant Blade Master]]_:
 
 [[Equipment/Animated|Dancing]], [[Equipment/Vitalizing (Greater)|Vitalizing (Greater)]], or [[Equipment/Keen|Keen]]
 

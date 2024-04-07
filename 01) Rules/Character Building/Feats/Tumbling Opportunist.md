@@ -22,7 +22,7 @@ license: OGL
 * * *
 **Frequency** once per minute
 
-**Requirements** Your most recent action was to [[Actions/Tumble Through|Tumble Through]] or [[Feats/Tumbling Strike|Tumbling Strike]], and you successfully moved through an enemy's space.
+**Requirements** Your most recent action was to [[Actions/Tumble Through|Tumble Through]] or [[Tumbling Strike|Tumbling Strike]], and you successfully moved through an enemy's space.
 
 * * *
 

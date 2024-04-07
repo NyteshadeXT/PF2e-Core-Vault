@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted when you use [[Feats/Vivacious Bravado|Vivacious Bravado]].
+Granted when you use [[Vivacious Bravado|Vivacious Bravado]].
 
 *Source: Pathfinder Advanced Player's Guide*
 *OGL*

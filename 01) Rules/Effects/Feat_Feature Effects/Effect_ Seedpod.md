@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by [[Feats/Seedpod|Seedpod]]
+Granted by [[Seedpod|Seedpod]]
 
 On a critical hit, a seedpod bursts, issuing forth a tangle of vegetation that imposes a -10-foot circumstance penalty on the target's Speed for 1 round.
 

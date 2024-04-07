@@ -22,7 +22,7 @@ With the restrictions on Hermean citizenship lifted, you may have fled the city 
 
 Choose two ability boosts. One must be to **Constitution** or **Wisdom**, and one is a free ability boost.
 
-You're trained in the Society skill and the Legal Lore skill. You gain the [[Feats/Multilingual|Multilingual]] skill feat or the [[Feats/Assurance|Assurance]] skill feat for Society.
+You're trained in the Society skill and the Legal Lore skill. You gain the [[Multilingual|Multilingual]] skill feat or the [[Assurance|Assurance]] skill feat for Society.
 
 *Source: Pathfinder #150: Broken Promises*
 *OGL*

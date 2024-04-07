@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by [[Spells/Lay on Hands|Lay on Hands]] if you have [[Feats/Accelerating Touch|Accelerating Touch]].
+Granted by [[Spells/Lay on Hands|Lay on Hands]] if you have [[Accelerating Touch|Accelerating Touch]].
 
 If the target is one of your allies, they also gain a +2 status bonus to AC and a +10-foot status bonus to Speed for 1 round.
 

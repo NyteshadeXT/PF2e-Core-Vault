@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by [[Feats/Endemic Herbs|Endemic Herbs]]
+Granted by [[Endemic Herbs|Endemic Herbs]]
 
 Gain a +1 circumstance bonus to Fortitude saves.
 

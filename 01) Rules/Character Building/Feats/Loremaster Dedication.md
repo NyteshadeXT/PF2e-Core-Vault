@@ -26,7 +26,7 @@ If you have legendary proficiency in a skill used to [[Actions/Decipher Writing|
 
 You can take feats in the loremaster's additional feats entry even if you don't meet the [[Class Features/Enigma|enigma muse]] prerequisite.
 
-If you have the [[Feats/Bardic Lore|Bardic Lore]] class feat, you gain a +1 circumstance bonus to skill checks with Bardic Lore.
+If you have the [[Bardic Lore|Bardic Lore]] class feat, you gain a +1 circumstance bonus to skill checks with Bardic Lore.
 
 **Special** You can't select another dedication feat until you have gained two other feats from the [[Compendium.pf2e.journals.JournalEntry.vx5FGEG34AxI2dow.JournalEntryPage.ackdHdIAmSb0AiVL|Loremaster]] archetype.
 

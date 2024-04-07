@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by [[Feats/Gathering Moss|Gathering Moss]]
+Granted by [[Gathering Moss|Gathering Moss]]
 
 You gain fast healing equal to your level.
 

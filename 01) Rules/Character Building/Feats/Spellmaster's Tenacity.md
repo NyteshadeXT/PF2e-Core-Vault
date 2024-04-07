@@ -21,7 +21,7 @@ license: OGL
 * * *
 **Frequency** once per day
 
-**Trigger** You critically fail at a saving throw against a foe's spell, and that spell was cast or created with the tradition of magic you selected with the [[Feats/Spellmaster's Resilience|Spellmaster's Resilience]] feat.
+**Trigger** You critically fail at a saving throw against a foe's spell, and that spell was cast or created with the tradition of magic you selected with the [[Spellmaster's Resilience|Spellmaster's Resilience]] feat.
 
 * * *
 

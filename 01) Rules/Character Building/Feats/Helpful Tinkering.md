@@ -12,7 +12,7 @@ license: OGL
 ---
 # Helpful Tinkering `pf2:1`
 ## Feat 10
-### [[inventor]][[manipulate]]
+### [[01) Rules/Character Building/Feats/Inventor]][[manipulate]]
 
 **Category** class; 
 

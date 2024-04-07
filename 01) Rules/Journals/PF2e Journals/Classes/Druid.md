@@ -197,11 +197,11 @@ Some of your spells are cantrips. A cantrip is a special type of spell that does
 
 ## Shield Block
 
-You gain the [[Feats/Shield Block|Shield Block]] general feat, a reaction that lets you reduce damage with your shield.
+You gain the [[01) Rules/Character Building/Feats/Shield Block|Shield Block]] general feat, a reaction that lets you reduce damage with your shield.
 
 ## Voice of Nature
 
-You gain your choice of the [[Feats/Animal Empathy|Animal Empathy]] or [[Feats/Plant Empathy|Plant Empathy]] druid feat.
+You gain your choice of the [[Animal Empathy|Animal Empathy]] or [[Plant Empathy|Plant Empathy]] druid feat.
 
 ## Druid FeatsLevel 2
 
@@ -273,4 +273,4 @@ You have developed an unparalleled rapport with the magic of nature. Your profic
 
 ## Primal HierophantLevel 19
 
-You command the most potent forces of primal magic and can cast a spell of truly incredible power. You gain a single 10th-rank spell slot and can prepare a spell in that slot using druid spellcasting. Unlike with other spell slots, you can’t use 10-rank slots with abilities that give you more spell slots or that let you cast spells without expending spell slots. You don’t gain more 10th-rank spells as you level up, though you can take the [[Feats/Hierophant's Power|Hierophant's Power]] feat to gain a second slot.
+You command the most potent forces of primal magic and can cast a spell of truly incredible power. You gain a single 10th-rank spell slot and can prepare a spell in that slot using druid spellcasting. Unlike with other spell slots, you can’t use 10-rank slots with abilities that give you more spell slots or that let you cast spells without expending spell slots. You don’t gain more 10th-rank spells as you level up, though you can take the [[Hierophant's Power|Hierophant's Power]] feat to gain a second slot.

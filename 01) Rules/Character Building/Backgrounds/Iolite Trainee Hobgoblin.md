@@ -24,7 +24,7 @@ The Iolite Squad was Oprak's first foray into training hobgoblins for Pathfinder
 
 Choose two ability boosts. One must be to **Constitution** or **Intelligence**, and one is a free ability boost.
 
-You're trained in the Society skill and the Warfare Lore skill. You gain the [[Feats/Sign Language|Sign Language]] skill feat.
+You're trained in the Society skill and the Warfare Lore skill. You gain the [[Sign Language|Sign Language]] skill feat.
 
 *Source: Pathfinder Society Scenario #1-19: Iolite Squad Alpha*
 *OGL*

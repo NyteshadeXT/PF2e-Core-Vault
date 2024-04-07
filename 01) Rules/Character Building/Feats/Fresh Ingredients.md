@@ -20,7 +20,7 @@ license: OGL
 
 **Prerequisites** Herbalist Dedication; expert in Nature
 * * *
-When using [[Feats/Natural Medicine|Natural Medicine]] to [[Actions/Treat Wounds|Treat Wounds]], you can spend a batch of herbs to gain the +2 circumstance bonus from having fresh ingredients, even if not in wilderness. If you spend a batch of herbs in wilderness, you gain a +4 circumstance bonus instead.
+When using [[Natural Medicine|Natural Medicine]] to [[Actions/Treat Wounds|Treat Wounds]], you can spend a batch of herbs to gain the +2 circumstance bonus from having fresh ingredients, even if not in wilderness. If you spend a batch of herbs in wilderness, you gain a +4 circumstance bonus instead.
 
 *Source: Pathfinder Advanced Player's Guide*
 *OGL*

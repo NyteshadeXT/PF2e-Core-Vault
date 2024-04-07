@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by [[Feats/Reanimator Dedication|Reanimator Dedication]]
+Granted by [[Reanimator Dedication|Reanimator Dedication]]
 
 The undead you animate gains a +1 status bonus to attack rolls, AC, saving throws, and skill checks for the duration of [[Spells/Summon Undead|Summon Undead]].
 

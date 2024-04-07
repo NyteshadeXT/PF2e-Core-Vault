@@ -17,7 +17,7 @@ license: ORC
 
 
 
-Granted by [[Feats/Raise Symbol|Raise Symbol]]
+Granted by [[Raise Symbol|Raise Symbol]]
 
 You gain a +2 circumstance bonus to saving throws until the start of your next turn. While it's raised, if you roll a success at a saving throw against a vitality or void effect, you get a critical success instead.
 

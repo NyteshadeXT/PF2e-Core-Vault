@@ -18,7 +18,7 @@ license: OGL
 
 
 
-You make sure that your allies push themselves while traveling. You gain the [[Feats/Caravan Leader|Caravan Leader]] and [[Feats/Pick Up The Pace|Pick Up The Pace]] general feats, even if you don't meet the prerequisites.
+You make sure that your allies push themselves while traveling. You gain the [[Caravan Leader|Caravan Leader]] and [[Pick Up The Pace|Pick Up The Pace]] general feats, even if you don't meet the prerequisites.
 
 *Source: Pathfinder Lost Omens: Ancestry Guide*
 *OGL*

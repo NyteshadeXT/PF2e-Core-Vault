@@ -8,4 +8,4 @@ tags:
 ---
 When you were a child, you made contact with a magical creature, such as a dragon, unicorn, genie, pixie, or similar creature.
 
-Add the [[Feats/Recognize Spell|Recognize Spell]] skill feat to your background options.
+Add the [[Recognize Spell|Recognize Spell]] skill feat to your background options.

@@ -20,7 +20,7 @@ Forget the church orthodoxy and the stuffy cloisters-spreading the word of your 
 
 Choose two ability boosts. One must be to **Wisdom** or **Charisma**, and one is a free ability boost.
 
-You're trained in the Religion skill and the Lore skill for your patron deity. You gain the [[Feats/Dubious Knowledge|Dubious Knowledge]] skill feat.
+You're trained in the Religion skill and the Lore skill for your patron deity. You gain the [[Dubious Knowledge|Dubious Knowledge]] skill feat.
 
 *Source: Pathfinder Secrets of Magic*
 *OGL*

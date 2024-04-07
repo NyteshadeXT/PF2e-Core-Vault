@@ -58,7 +58,7 @@ Your soulforged armament has an essence power you choose when you first bind it.
 
 **Reflecting Spirit** Armor or shield only. You gain a +2 status bonus to AC against physical ranged attacks. If an enemy's physical ranged attack misses you, you can use your reaction to immediately attempt a ranged Strike against the attacker using the projectile that missed. _Corruption Flaw_ You have weakness 5 to physical ranged attacks.
 
-**Resolute Defiance** Shield only. The shield gains a +2 status bonus to its Hardness and gains temporary Hit Points equal to your level + 2 that last until the essence effect ends. If you don't have the [[Feats/Shield Block|Shield Block]] reaction, you gain it while your shield is manifested. _Corruption Flaw_ When you take damage while Raising a Shield or use Shield Block, attempt a DC 5 Flat check. If you fail, the shield is Dismissed if it's your soulforged armament or Dropped if it's a different shield.
+**Resolute Defiance** Shield only. The shield gains a +2 status bonus to its Hardness and gains temporary Hit Points equal to your level + 2 that last until the essence effect ends. If you don't have the [[01) Rules/Character Building/Feats/Shield Block|Shield Block]] reaction, you gain it while your shield is manifested. _Corruption Flaw_ When you take damage while Raising a Shield or use Shield Block, attempt a DC 5 Flat check. If you fail, the shield is Dismissed if it's your soulforged armament or Dropped if it's a different shield.
 
 *Source: Pathfinder Secrets of Magic*
 *OGL*

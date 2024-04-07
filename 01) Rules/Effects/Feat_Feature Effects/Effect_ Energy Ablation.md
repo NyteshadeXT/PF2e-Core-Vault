@@ -17,7 +17,7 @@ license: ORC
 
 
 
-Granted by [[Feats/Energy Ablation|Energy Ablation]]
+Granted by [[Energy Ablation|Energy Ablation]]
 
 You gain resistance to an energy damage type of your choice equal to the spell's rank.
 

@@ -20,7 +20,7 @@ license: ORC
 
 **Prerequisites** master in Nature; Monster Hunter
 * * *
-You have a nearly encyclopedic knowledge of all creatures of the world. You can use Nature to [[Actions/Recall Knowledge|Recall Knowledge]] to identify any creature. In addition, you gain the benefits of [[Feats/Monster Hunter|Monster Hunter]] (and [[Feats/Monster Warden|Monster Warden]], if you have it) on a success as well as a critical success.
+You have a nearly encyclopedic knowledge of all creatures of the world. You can use Nature to [[Actions/Recall Knowledge|Recall Knowledge]] to identify any creature. In addition, you gain the benefits of [[01) Rules/Character Building/Feats/Monster Hunter|Monster Hunter]] (and [[Monster Warden|Monster Warden]], if you have it) on a success as well as a critical success.
 
 *Source: Pathfinder Player Core*
 *ORC*

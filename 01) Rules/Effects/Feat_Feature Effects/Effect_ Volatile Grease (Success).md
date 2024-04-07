@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by [[Feats/Volatile Grease|Volatile Grease]]
+Granted by [[Volatile Grease|Volatile Grease]]
 
 The target gains weakness 2 to fire until the end of your next turn.
 

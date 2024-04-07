@@ -8,4 +8,4 @@ tags:
 ---
 You have always wanted to prove yourself better than this character in a fancy social situation but have yet to decisively do so.
 
-Add the [[Feats/Courtly Graces|Courtly Graces]] skill feat to your background options.
+Add the [[Courtly Graces|Courtly Graces]] skill feat to your background options.

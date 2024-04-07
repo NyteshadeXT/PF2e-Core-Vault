@@ -21,7 +21,7 @@ license: OGL
 
 * * *
 
-**Effect** The hazard explodes, dealing the bombs' damage and splash damage to the inanimate object. Combine this damage for the purpose of resistances and weaknesses, and this damage ignores an amount of the object's Hardness equal to your level. Any creatures adjacent to the hazard take the bombs' splash damage, similarly combined for the purpose of resistances and weaknesses. As a reminder, since you didn't throw the bombs, [[Feats/Calculated Splash|Calculated Splash]] and similar effects don't apply.
+**Effect** The hazard explodes, dealing the bombs' damage and splash damage to the inanimate object. Combine this damage for the purpose of resistances and weaknesses, and this damage ignores an amount of the object's Hardness equal to your level. Any creatures adjacent to the hazard take the bombs' splash damage, similarly combined for the purpose of resistances and weaknesses. As a reminder, since you didn't throw the bombs, [[Calculated Splash|Calculated Splash]] and similar effects don't apply.
 
 *Source: Pathfinder Advanced Player's Guide*
 *OGL*

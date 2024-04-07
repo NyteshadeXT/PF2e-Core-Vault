@@ -24,7 +24,7 @@ Despite the setbacks Cheliax has suffered recently, your loyalties lie with the 
 
 Choose two ability boosts. One must be to **Intelligence** or **Charisma**, and one is a free ability boost.
 
-You're trained in the Religion skill and the Hell Lore skill You gain the [[Feats/Student of the Canon|Student of the Canon]] skill feat.
+You're trained in the Religion skill and the Hell Lore skill You gain the [[Student of the Canon|Student of the Canon]] skill feat.
 
 *Source: Pathfinder Lost Omens: World Guide*
 *OGL*

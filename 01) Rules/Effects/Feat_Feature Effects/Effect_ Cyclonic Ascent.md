@@ -17,7 +17,7 @@ license: OGL
 
 
 
-Granted by [[Feats/Cyclonic Ascent|Cyclonic Ascent]]
+Granted by [[Cyclonic Ascent|Cyclonic Ascent]]
 
 You gain a fly Speed equal to your land Speed or 30 feet, whichever is greater.
 

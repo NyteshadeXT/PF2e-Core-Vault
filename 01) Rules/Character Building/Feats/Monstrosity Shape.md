@@ -20,7 +20,7 @@ license: ORC
 
 **Prerequisites** Untamed Form
 * * *
-You can transform into a powerful magical creature. Add the cave worm and sea serpent shapes listed in [[Spells/Monstrosity Form|Monstrosity Form]] to your [[Spells/Untamed Form|Untamed Form]] list. If you have [[Feats/Soaring Shape|Soaring Shape]], also add the phoenix shape to your _untamed form_ list.
+You can transform into a powerful magical creature. Add the cave worm and sea serpent shapes listed in [[Spells/Monstrosity Form|Monstrosity Form]] to your [[Spells/Untamed Form|Untamed Form]] list. If you have [[Soaring Shape|Soaring Shape]], also add the phoenix shape to your _untamed form_ list.
 
 *Source: Pathfinder Player Core*
 *ORC*

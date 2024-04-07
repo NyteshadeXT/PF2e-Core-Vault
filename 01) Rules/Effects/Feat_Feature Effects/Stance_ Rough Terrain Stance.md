@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by: [[Feats/Rough Terrain Stance|Rough Terrain Stance]]
+Granted by: [[Rough Terrain Stance|Rough Terrain Stance]]
 
 * * *
 

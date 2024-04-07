@@ -24,7 +24,7 @@ Your or one of your ancestors hails from Irrisen, and some spark of the icy regi
 
 Choose two ability boosts. One must be to **Constitution** or **Charisma**, and one is a free ability boost.
 
-You're trained in the Arcana skill and the Weather Lore skill. You gain the [[Feats/Arcane Sense|Arcane Sense]] skill feat.
+You're trained in the Arcana skill and the Weather Lore skill. You gain the [[Arcane Sense|Arcane Sense]] skill feat.
 
 *Source: Pathfinder Lost Omens: World Guide*
 *OGL*

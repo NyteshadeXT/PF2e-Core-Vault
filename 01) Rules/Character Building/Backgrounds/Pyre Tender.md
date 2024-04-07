@@ -20,7 +20,7 @@ You're experienced at building funeral pyres. You might have lit flaming biers i
 
 Choose two ability boosts. One must be to **Dexterity** or **Intelligence**, and one is a free ability boost.
 
-You're trained in the Crafting skill and the Funeral Lore skill. You gain the [[Feats/Alchemical Crafting|Alchemical Crafting]] skill feat.
+You're trained in the Crafting skill and the Funeral Lore skill. You gain the [[Alchemical Crafting|Alchemical Crafting]] skill feat.
 
 *Source: Pathfinder Book of the Dead*
 *OGL*

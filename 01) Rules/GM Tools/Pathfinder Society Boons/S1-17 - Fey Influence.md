@@ -23,7 +23,7 @@ license: OGL
 
 **Effect** Bhopanese culture has numerous traditions that involve bloodletting as a sign of respect or a show of bravery. You participated in at least one of these traditions. This boon will have an effect in future scenarios.
 
-[[Feats/Fey Influence|Fey Influence]]
+[[Fey Influence|Fey Influence]]
 
 *Source: *
 *OGL*

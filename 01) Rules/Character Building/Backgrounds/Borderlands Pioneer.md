@@ -20,7 +20,7 @@ You have long lived along the southern border of Brevoy, in the shadow of the wi
 
 Choose two ability boosts. One must be to **Strength** or **Wisdom**, and one is a free ability boost.
 
-You're trained in the Nature skill and a Lore skill associated with a particular type of wilderness (choose from forest, hills, mountains, plains, rivers, or swamp). You gain the [[Feats/Train Animal|Train Animal]] skill feat.
+You're trained in the Nature skill and a Lore skill associated with a particular type of wilderness (choose from forest, hills, mountains, plains, rivers, or swamp). You gain the [[Train Animal|Train Animal]] skill feat.
 
 *Source: Pathfinder: Kingmaker Player's Guide*
 *OGL*

@@ -8,4 +8,4 @@ tags:
 ---
 You grew up against the backdrop of a major military conflict that affected much of your childhood world.
 
-Add the [[Feats/Battle Medicine|Battle Medicine]] skill feat to your background options.
+Add the [[Battle Medicine|Battle Medicine]] skill feat to your background options.

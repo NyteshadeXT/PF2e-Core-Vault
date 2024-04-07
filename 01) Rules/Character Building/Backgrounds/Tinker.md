@@ -21,7 +21,7 @@ Creating all sorts of minor inventions scratches your itch for problem-solving. 
 
 Choose two attribute boosts. One must be to **Dexterity** or **Intelligence**, and one is a free attribute boost.
 
-You're trained in the Crafting skill and the Engineering Lore skill. You gain the [[Feats/Specialty Crafting|Specialty Crafting]] skill feat.
+You're trained in the Crafting skill and the Engineering Lore skill. You gain the [[Specialty Crafting|Specialty Crafting]] skill feat.
 
 *Source: Pathfinder Player Core*
 *ORC*

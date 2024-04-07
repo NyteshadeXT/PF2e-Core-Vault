@@ -18,7 +18,7 @@ Very rarely, mummies are created by natural processes occurring in locations tha
 
 Mummies are most commonly found in Geb and Osirion, as well as the surrounding nations of Thuvia, Katapesh, and Qadira. They have a foothold in the Gravelands, the Realm of the Mammoth Lords, and the Mwangi Expanse, particularly around Mzali. Outside the Inner Sea, mummies are found in Vudra and Arcadia, particularly in places once ruled by the Razatlani empire.
 
-## [[Feats/Mummy Dedication|Mummy Dedication]] Feat 2
+## [[Mummy Dedication|Mummy Dedication]] Feat 2
 
 **Prerequisites** you are dead and were mummified (by natural or ritualistic means)
 
@@ -26,7 +26,7 @@ Mummies are most commonly found in Geb and Osirion, as well as the surrounding n
 
 Whether through natural processes or foul rituals, your body was mummified, and you've risen as an undead mummy. You gain the mummy and undead traits, as well as [[Ancestry Features/Basic Undead Benefits|Basic Undead Benefits]].
 
-Many effects that harm the living are far less effective against your desiccated form. Unfortunately, your dried-out body is also highly flammable. You gain the [[Feats/Toughness|Toughness]] feat, but also fire weakness equal to half your level.
+Many effects that harm the living are far less effective against your desiccated form. Unfortunately, your dried-out body is also highly flammable. You gain the [[Toughness|Toughness]] feat, but also fire weakness equal to half your level.
 
 Your fist draws moisture from the living by touch, making it more damaging and deadly. The damage die for your fist increases to 1d6 instead of 1d4, and your fist loses the nonlethal trait.
 
@@ -34,7 +34,7 @@ Finally, you become supernaturally bound to the dominant terrain in which you we
 
 **Special** You can't select another dedication feat until you have gained two other feats from the mummy archetype.
 
-## [[Feats/One with the Land|One with the Land]] Feat 4
+## [[01) Rules/Character Building/Feats/One with the Land|One with the Land]] Feat 4
 
 **Prerequisites** Mummy Dedication
 
@@ -47,17 +47,17 @@ Your connection to your bound terrain strengthens, making you unhindered by loca
 *   **Mountain** Clouds or mist
 *   **Swamp** Rain or murky water
 
-## [[Feats/Semblance of Life|Semblance of Life]] Feat 4
+## [[Semblance of Life|Semblance of Life]] Feat 4
 
 **Prerequisites** Mummy Dedication
 
-**Trigger** You deal damage to a living creature with your fist Strike or with [[Feats/Desiccating Inhalation|Desiccating Inhalation]].
+**Trigger** You deal damage to a living creature with your fist Strike or with [[Desiccating Inhalation|Desiccating Inhalation]].
 
 * * *
 
 You draw the moisture you've drained from others into your own flesh, temporarily taking on the appearance of life. This has the effects of [[Spells/Illusory Disguise|Illusory Disguise]], except you can appear only as yourself while you were a living humanoid.
 
-## [[Feats/Grave Mummification|Grave Mummification]] Feat 6
+## [[Grave Mummification|Grave Mummification]] Feat 6
 
 **Prerequisites** Mummy Dedication
 
@@ -67,7 +67,7 @@ Exposure to the elements, magic, alchemy, and other phenomena intensified the ch
 
 In addition, you gain resistance equal to half your level against any damage you'd take from your bound terrain, including its dangerous temperatures, weather, hazardous terrain, and environmental hazards.
 
-## [[Feats/Mummy's Despair|Mummy's Despair]] Feat 6
+## [[Mummy's Despair|Mummy's Despair]] Feat 6
 
 **Prerequisites** Mummy Dedication
 
@@ -77,7 +77,7 @@ In addition, you gain resistance equal to half your level against any damage you
 
 You force your mental anguish outward, projecting it upon those around you. You gain an aura of despair in a 30-foot emanation lasting 5 rounds. A creature that enters or begins its turn in the aura must succeed at a Will save against the higher of your class DC or spell DC or be [[Conditions/Frightened 1|Frightened 1]] ([[Conditions/Frightened 1|Frightened 2]] on a critical failure). A creature that succeeds at the save is temporarily immune to Mummy's Despair for 10 minutes.
 
-## [[Feats/Accursed Touch|Accursed Touch]] Feat 8
+## [[Accursed Touch|Accursed Touch]] Feat 8
 
 **Prerequisites** Mummy Dedication
 
@@ -85,7 +85,7 @@ You force your mental anguish outward, projecting it upon those around you. You 
 
 **Trigger** You've learned to harness the supernatural curse that animates you, imbuing your most powerful attacks with a terrible curse. When you critically hit with a fist Strike, void energy binds to it; this is a curse and a disease. The creature takes 2d6 persistent void damage. While the creature has this persistent damage, it's also [[Conditions/Stupefied 1|Stupefied 1]]. The persistent damage increases to 3d6 at 14th level and 4d6 at 20th level. This is a critical specialization effect.
 
-## [[Feats/Storm Shroud|Storm Shroud]] Feat 8
+## [[Storm Shroud|Storm Shroud]] Feat 8
 
 **Prerequisites** Mummy Dedication
 
@@ -95,7 +95,7 @@ You force your mental anguish outward, projecting it upon those around you. You 
 
 You become surrounded by a swirling storm of rain, sand, snow, or clouds, whichever of those suits your bound terrain. This activity has traits appropriate to the storm you create - typically earth for sand and water for rain, snow, or clouds. You become [[Conditions/Concealed|Concealed]] for 1 minute. You can't use this concealment to Hide or Sneak, as normal for concealment that makes your position obvious.
 
-## [[Feats/Channel Rot|Channel Rot]] Feat 10
+## [[Channel Rot|Channel Rot]] Feat 10
 
 **Prerequisites** Accursed Touch
 
@@ -103,7 +103,7 @@ You become surrounded by a swirling storm of rain, sand, snow, or clouds, whiche
 
 You've learned to channel your curse through weapons you wield instead of solely through your flesh. The benefits of Accursed Touch apply to any melee weapon you wield instead of only your fist Strikes.
 
-## [[Feats/Ensnaring Wrappings|Ensnaring Wrappings]] Feat 10
+## [[Ensnaring Wrappings|Ensnaring Wrappings]] Feat 10
 
 **Prerequisites** Mummy Dedication; expert in Athletics
 
@@ -113,7 +113,7 @@ You've learned to channel your curse through weapons you wield instead of solely
 
 Some of your wrappings come loose to ensnare a creature you recently damaged. You attempt to [[Actions/Grapple|Grapple]] the creature you damaged.
 
-## [[Feats/Terrain Form|Terrain Form]] Feat 10
+## [[Terrain Form|Terrain Form]] Feat 10
 
 **Prerequisites** Mummy Dedication
 
@@ -128,7 +128,7 @@ You crumble to pieces, becoming composed of the very terrain to which you're bou
 *   **Mountain** Cloud (water)
 *   **Swamp** Mud (earth, water)
 
-## [[Feats/Desiccating Inhalation|Desiccating Inhalation]] Feat 12
+## [[Desiccating Inhalation|Desiccating Inhalation]] Feat 12
 
 **Prerequisites** Mummy Dedication
 
@@ -140,7 +140,7 @@ You draw in the moisture from nearby creatures, draining them dry to heal your w
 
 At 14th level and every 2 levels thereafter, the damage increases by 1d8.
 
-## [[Feats/Greater Despair|Greater Despair]] Feat 12
+## [[Greater Despair|Greater Despair]] Feat 12
 
 **Prerequisites** Mummy's Despair
 

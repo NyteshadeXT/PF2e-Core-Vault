@@ -20,7 +20,7 @@ People die. This is the unfortunate fact of life on which you've founded your bu
 
 Choose two ability boosts. One must be to **Intelligence** or **Wisdom**, and one is a free ability boost.
 
-You're trained in the Medicine skill and a Lore skill specializing in one local type of undead. You gain the [[Feats/Forensic Acumen|Forensic Acumen]] skill feat.
+You're trained in the Medicine skill and a Lore skill specializing in one local type of undead. You gain the [[Forensic Acumen|Forensic Acumen]] skill feat.
 
 *Source: Pathfinder Guns & Gears*
 *OGL*

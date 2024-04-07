@@ -20,7 +20,7 @@ Your life truly began after your first kill. Maybe you killed in self-defense, m
 
 Choose two ability boosts. One boost must be to **Strength** or **Dexterity**, and one is a free ability boost.
 
-You're trained in the Stealth skill and the Underworld Lore skill. You gain the [[Feats/Terrain Stalker|Terrain Stalker]] skill feat, choosing a terrain appropriate for where you make your kills.
+You're trained in the Stealth skill and the Underworld Lore skill. You gain the [[Terrain Stalker|Terrain Stalker]] skill feat, choosing a terrain appropriate for where you make your kills.
 
 *Source: Pathfinder Guns & Gears*
 *OGL*

@@ -21,7 +21,7 @@ license: OGL
 * * *
 Ever inventive, you have discovered increasingly devastating ways for your bombs to impede and hamper your foes.
 
-When you use [[Feats/Debilitating Bomb|Debilitating Bomb]], add the following to the list you can choose from: [[Conditions/Enfeebled 1|Enfeebled 2]], [[Conditions/Stupefied 1|Stupefied 2]], or -15-foot status penalty to Speeds.
+When you use [[Debilitating Bomb|Debilitating Bomb]], add the following to the list you can choose from: [[Conditions/Enfeebled 1|Enfeebled 2]], [[Conditions/Stupefied 1|Stupefied 2]], or -15-foot status penalty to Speeds.
 
 If you instead apply one of the effects listed in Debilitating Bomb the target avoids the effect only if the result of its saving throw is a critical success.
 

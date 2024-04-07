@@ -10,7 +10,7 @@ tags:
 # Cleric
 You are an ordained priest of your deity and have even learned how to cast a few divine spells. Though your main training lies elsewhere, your religious calling provides you divine gifts.
 
-## [[Feats/Cleric Dedication|Cleric Dedication]] Feat 2
+## [[Cleric Dedication|Cleric Dedication]] Feat 2
 
 **Prerequisites** Wisdom +2
 
@@ -24,7 +24,7 @@ Choose a deity as you would if you were a cleric. You become bound by that deity
 
 **Special** You cannot select another dedication feat until you have gained two other feats from the cleric archetype.
 
-## [[Feats/Basic Cleric Spellcasting|Basic Cleric Spellcasting]] Feat 4
+## [[Basic Cleric Spellcasting|Basic Cleric Spellcasting]] Feat 4
 
 **Prerequisites** Cleric Dedication
 
@@ -32,7 +32,7 @@ Choose a deity as you would if you were a cleric. You become bound by that deity
 
 You gain the [[Compendium.pf2e.journals.JournalEntry.vx5FGEG34AxI2dow.JournalEntryPage.DOc3Pf8wmVxanTIv|Basic Spellcasting Feat]] benefits. You can prepare your deity's spells in your spell slots of the appropriate rank from the cleric archetype.
 
-## [[Feats/Basic Dogma|Basic Dogma]] Feat 4
+## [[Basic Dogma|Basic Dogma]] Feat 4
 
 **Prerequisites** Cleric Dedication
 
@@ -40,7 +40,7 @@ You gain the [[Compendium.pf2e.journals.JournalEntry.vx5FGEG34AxI2dow.JournalEnt
 
 You gain a 1st- or 2nd-level cleric feat.
 
-## [[Feats/Advanced Dogma|Advanced Dogma]] Feat 6
+## [[Advanced Dogma|Advanced Dogma]] Feat 6
 
 **Prerequisites** Basic Dogma
 
@@ -52,7 +52,7 @@ You gain one cleric feat. For the purpose of meeting its prerequisites, your cle
 
 **Special** You can select this feat more than once. Each time you select it, you gain another cleric feat.
 
-## [[Feats/Divine Breadth|Divine Breadth]] Feat 8
+## [[Divine Breadth|Divine Breadth]] Feat 8
 
 **Prerequisites** Basic Cleric Spellcasting
 
@@ -60,7 +60,7 @@ You gain one cleric feat. For the purpose of meeting its prerequisites, your cle
 
 As your understanding increases, your god grants you more divine spells each day. Increase the spell slots you gain from cleric archetype feats by 1 for each spell rank other than your two highest cleric spell slots.
 
-## [[Feats/Expert Cleric Spellcasting|Expert Cleric Spellcasting]] Feat 12
+## [[Expert Cleric Spellcasting|Expert Cleric Spellcasting]] Feat 12
 
 **Prerequisites** Basic Cleric Spellcasting, master in Religion
 
@@ -68,7 +68,7 @@ As your understanding increases, your god grants you more divine spells each day
 
 You gain the [[Compendium.pf2e.journals.JournalEntry.vx5FGEG34AxI2dow.JournalEntryPage.DOc3Pf8wmVxanTIv|Expert Spellcasting Feat]] benefits.
 
-## [[Feats/Master Cleric Spellcasting|Master Cleric Spellcasting]] Feat 18
+## [[Master Cleric Spellcasting|Master Cleric Spellcasting]] Feat 18
 
 **Prerequisites** Expert Cleric Spellcasting, legendary in Religion
 

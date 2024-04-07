@@ -22,7 +22,7 @@ You may live in one of the many apartments set aside for acolytes in the cathedr
 
 Choose two attribute boosts. One must be to **Wisdom** or **Charisma**, and one is a free attribute boost.
 
-You're trained in the Religion skill and the Scribing Lore skill. You gain the [[Feats/Battle Medicine|Battle Medicine]] skill feat.
+You're trained in the Religion skill and the Scribing Lore skill. You gain the [[Battle Medicine|Battle Medicine]] skill feat.
 
 Increase the party's reputation with Sandpoint Cathedral by 1 and reduce the party's reputation with the Scarnetti Consortium by 1.
 

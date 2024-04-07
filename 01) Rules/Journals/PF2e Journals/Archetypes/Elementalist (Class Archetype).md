@@ -10,9 +10,9 @@ tags:
 # Elementalist (Class Archetype)
 You revere the four elements—air, earth, fire, and water—as the building blocks of creation and the source of all life. You believe that by balancing, mixing, and rearranging these four elements, magic is made. This belief has led you to eschew traditional magical theories and divisions, and you instead focus on harnessing, manipulating, and shaping the four elements. You cast spells drawn from multiple traditions and can use the four elements to alter and empower your spells, making them manifest and mixing them in unique ways. Most elementalists embrace the four elements equally as a mystical quaternity, and they strengthen their connection to one of these elements each day to protect themselves from harm. Others, notably sorcerer and wizard elementalists, feel a stronger connection to a singular element that they hone to great heights, utilizing the other three elements to support and augment their favored element.
 
-**Additional Feats** 4th [[Feats/Familiar|Familiar]]; 6th [[Feats/Enhanced Familiar|Enhanced Familiar]]; 8th [[Feats/Current Spell|Current Spell]], [[Feats/Water Step|Water Step]]
+**Additional Feats** 4th [[Familiar|Familiar]]; 6th [[Enhanced Familiar|Enhanced Familiar]]; 8th [[Current Spell|Current Spell]], [[Water Step|Water Step]]
 
-## [[Feats/Elementalist Dedication|Elementalist Dedication]] Feat 2
+## [[Elementalist Dedication|Elementalist Dedication]] Feat 2
 
 **Prerequisites** [[Class Features/Elemental Magic|Elemental Magic]]
 
@@ -28,9 +28,9 @@ This attunement lasts until you next make your daily preparations.
 
 **Special** You can't select another dedication feat until you've gained two other feats from the elementalist archetype.
 
-## [[Feats/Dousing Spell|Dousing Spell]] Feat 4
+## [[Dousing Spell|Dousing Spell]] Feat 4
 
-**Prerequisites** [[Feats/Elementalist Dedication|Elementalist Dedication]]
+**Prerequisites** [[Elementalist Dedication|Elementalist Dedication]]
 
 * * *
 
@@ -40,9 +40,9 @@ If the next action you use is to Cast a Spell targeting a single creature, you s
 
 The spell gains the water trait (causing it to deal extra damage to creatures with weakness to water).
 
-## [[Feats/Elemental Familiar|Elemental Familiar]] Feat 4
+## [[Elemental Familiar|Elemental Familiar]] Feat 4
 
-**Prerequisites** [[Feats/Elementalist Dedication|Elementalist Dedication]], [[Feats/Familiar|Familiar]]
+**Prerequisites** [[Elementalist Dedication|Elementalist Dedication]], [[Familiar|Familiar]]
 
 * * *
 
@@ -55,9 +55,9 @@ Your familiar gains one additional familiar ability each day, which must be one 
 *   **Fire** Your familiar sheds bright light in a 20-foot radius (and dim light for the next 20 feet) and emits warmth. Creatures that remain within a 15-foot emanation don't take damage from severe environmental cold.
 *   **Water** Your familiar can move through a gap at least 2 inches wide without [[Actions/Squeeze|Squeezing]] and can Squeeze through a gap at least 1 inch wide.
 
-## [[Feats/Burning Spell|Burning Spell]] Feat 6
+## [[Burning Spell|Burning Spell]] Feat 6
 
-**Prerequisites** [[Feats/Elementalist Dedication|Elementalist Dedication]]
+**Prerequisites** [[Elementalist Dedication|Elementalist Dedication]]
 
 * * *
 
@@ -67,9 +67,9 @@ If the next action you use is to Cast a non-cantrip Spell that deals damage at a
 
 The spell gains the fire trait.
 
-## [[Feats/Metabolize Element|Metabolize Element]] Feat 8
+## [[Metabolize Element|Metabolize Element]] Feat 8
 
-**Prerequisites** [[Feats/Elementalist Dedication|Elementalist Dedication]]
+**Prerequisites** [[Elementalist Dedication|Elementalist Dedication]]
 
 * * *
 
@@ -79,9 +79,9 @@ The spell gains the fire trait.
 
 You rapidly metabolize the elemental particles in your opponent's spell to gain a boost of energy. You gain the [[Conditions/Quickened|Quickened]] condition until the end of your next turn. You can use the extra action only to Step or Stride.
 
-## [[Feats/Rockslide Spell|Rockslide Spell]] Feat 10
+## [[Rockslide Spell|Rockslide Spell]] Feat 10
 
-**Prerequisites** [[Feats/Elementalist Dedication|Elementalist Dedication]]
+**Prerequisites** [[Elementalist Dedication|Elementalist Dedication]]
 
 * * *
 
@@ -91,9 +91,9 @@ If the next action you use is to Cast a non-cantrip Spell that affects an area, 
 
 The spell gains the earth trait.
 
-## [[Feats/Redirect Elements|Redirect Elements]] Feat 12
+## [[Redirect Elements|Redirect Elements]] Feat 12
 
-**Prerequisites** [[Feats/Elementalist Dedication|Elementalist Dedication]]
+**Prerequisites** [[Elementalist Dedication|Elementalist Dedication]]
 
 * * *
 
@@ -103,9 +103,9 @@ The spell gains the earth trait.
 
 You seize the elemental essence of an incoming spell and redirect the spell to a creature of your choice within the spell's area. The attacker rerolls the spell's attack roll against the new target.
 
-## [[Feats/Wind-Tossed Spell|Wind-Tossed Spell]] Feat 14
+## [[Wind-Tossed Spell|Wind-Tossed Spell]] Feat 14
 
-**Prerequisites** [[Feats/Elementalist Dedication|Elementalist Dedication]]
+**Prerequisites** [[Elementalist Dedication|Elementalist Dedication]]
 
 * * *
 

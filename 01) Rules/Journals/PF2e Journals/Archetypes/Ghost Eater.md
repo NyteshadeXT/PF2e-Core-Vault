@@ -12,7 +12,7 @@ The warriors of Minata frequently contend with lost spirits of the Taumatan peop
 
 Characters can gain access to this archetype from Ingdani after they retrieve the [[Equipment/Phoenix Necklace|Phoenix Necklace]] from the temple of Irori.
 
-## [[Feats/Ghost Eater Dedication|Ghost Eater Dedication]] Feat 2
+## [[Ghost Eater Dedication|Ghost Eater Dedication]] Feat 2
 
 **Prerequisites** trained in Occultism or Religion
 
@@ -22,7 +22,7 @@ You have trained as a ghost eater, a hunter specialized in the destruction of sp
 
 **Special** You can't select another dedication feat until you have gained two other feats from this archetype.
 
-## [[Feats/Reach Beyond|Reach Beyond]] Feat 4
+## [[Reach Beyond|Reach Beyond]] Feat 4
 
 **Prerequisites** Ghost Eater Dedication
 
@@ -30,7 +30,7 @@ You have trained as a ghost eater, a hunter specialized in the destruction of sp
 
 You've learned to move your spiritual energy past yourself to attack spirits where others can't. You can make melee Strikes against incorporeal creatures that are inside solid objects as long as the object is within your reach. An incorporeal creature inside of a solid object is hidden, requiring you to succeed at a DC 11 flat check when you target it. You can spend an action, which has the concentrate trait, to focus on a creature inside of a solid object. If you do, the next melee Strike you make this turn requires you to succeed at only a DC 6 flat check to affect the creature.
 
-## [[Feats/Disrupting Strikes|Disrupting Strikes]] Feat 6
+## [[Disrupting Strikes|Disrupting Strikes]] Feat 6
 
 **Prerequisites** Ghost Eater Dedication
 
@@ -40,7 +40,7 @@ You call forth vitality energy from within to help you destroy undead. Your weap
 
 If you're 14th level or higher, your Strikes instead gain the effects of a greater disrupting property rune. The DC for the rune's effect is equal to your class DC or spell DC, whichever is higher.
 
-## [[Feats/Cross the Threshold|Cross the Threshold]] Feat 16
+## [[Cross the Threshold|Cross the Threshold]] Feat 16
 
 **Prerequisites** Ghost Eater Dedication
 

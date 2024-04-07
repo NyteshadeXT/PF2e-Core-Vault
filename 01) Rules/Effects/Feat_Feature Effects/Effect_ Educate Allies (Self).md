@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by using [[Feats/Educate Allies|Educate Allies]] on your allies.
+Granted by using [[Educate Allies|Educate Allies]] on your allies.
 
 *Source: Pathfinder Advanced Player's Guide*
 *OGL*

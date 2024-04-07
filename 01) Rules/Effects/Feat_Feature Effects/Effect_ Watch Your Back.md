@@ -17,7 +17,7 @@ license: ORC
 
 
 
-Granted by [[Feats/Watch Your Back|Watch Your Back]]
+Granted by [[Watch Your Back|Watch Your Back]]
 
 The target gains a +2 status bonus to Perception checks against you, but it takes a –2 status penalty to Will saves against fear effects.
 

@@ -20,7 +20,7 @@ license: OGL
 
 **Prerequisites** Peafowl Stance
 * * *
-**Requirements** You are in [[Feats/Peafowl Stance|Peafowl Stance]].
+**Requirements** You are in [[Peafowl Stance|Peafowl Stance]].
 
 * * *
 

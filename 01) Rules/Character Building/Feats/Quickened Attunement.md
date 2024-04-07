@@ -31,7 +31,7 @@ If your next action is to cast a spell that would grant your terrain attunement 
 
 * * *
 
-**Special** You can't use Quickened Attunement and [[Feats/Quickened Casting|Quickened Casting]] in the same round.
+**Special** You can't use Quickened Attunement and [[Quickened Casting|Quickened Casting]] in the same round.
 
 *Source: Pathfinder Secrets of Magic*
 *OGL*

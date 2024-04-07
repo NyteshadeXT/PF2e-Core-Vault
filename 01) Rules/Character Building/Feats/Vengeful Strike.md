@@ -22,7 +22,7 @@ license: OGL
 * * *
 **Trigger** A creature within your reach succeeds or critically succeeds at an attack against you.
 
-**Requirements** You're under the effect of [[Feats/Come and Get Me|Come and Get Me]]
+**Requirements** You're under the effect of [[Come and Get Me|Come and Get Me]]
 
 * * *
 

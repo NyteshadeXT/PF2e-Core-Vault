@@ -20,7 +20,7 @@ As the Pathfinder Society's influence has grown, so too did many of its factions
 
 Choose two ability boosts. One must be to **Intelligence** or **Wisdom**, and one is a free ability boost.
 
-You're trained in the Diplomacy skill, plus either Guild Lore, Heraldry Lore, or Mercantile Lore. You gain the [[Feats/Hobnobber|Hobnobber]] skill feat.
+You're trained in the Diplomacy skill, plus either Guild Lore, Heraldry Lore, or Mercantile Lore. You gain the [[Hobnobber|Hobnobber]] skill feat.
 
 * * *
 

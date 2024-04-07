@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by [[Feats/Core Cannon|Core Cannon]]
+Granted by [[Core Cannon|Core Cannon]]
 
 Your body transforms into a powerful magical cannon.
 

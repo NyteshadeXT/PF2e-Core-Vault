@@ -17,7 +17,7 @@ license: OGL
 
 
 
-Granted by [[Feats/Steam Knight|Steam Knight]]
+Granted by [[Steam Knight|Steam Knight]]
 
 You shape your kinetic aura into swirling armor of steam that scalds your enemies and propels you on super-heated jet streams. A creature can take damage from Steam Knight only once per round. Your steam armor has the following effects.
 

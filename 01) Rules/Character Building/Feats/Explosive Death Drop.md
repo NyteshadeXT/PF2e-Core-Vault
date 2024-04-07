@@ -20,7 +20,7 @@ license: OGL
 
 **Prerequisites** Blazing Talon Surge
 * * *
-**Requirements** You are in [[Feats/Rain of Embers Stance|Rain of Embers Stance]] and have a target [[Conditions/Grabbed|Grabbed]] or [[Conditions/Restrained|Restrained]].
+**Requirements** You are in [[Rain of Embers Stance|Rain of Embers Stance]] and have a target [[Conditions/Grabbed|Grabbed]] or [[Conditions/Restrained|Restrained]].
 
 * * *
 

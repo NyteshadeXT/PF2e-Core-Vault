@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by [[Feats/Discordant Voice|Discordant Voice]], while you are affected by Inspire Courage.
+Granted by [[Discordant Voice|Discordant Voice]], while you are affected by Inspire Courage.
 
 *Source: Pathfinder Advanced Player's Guide*
 *OGL*

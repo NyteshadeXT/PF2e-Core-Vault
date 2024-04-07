@@ -35,7 +35,7 @@ A _spell-bastion_ rune creates a reservoir of eldritch energy within the shield.
 
 **Requirements** You have a spell stored in your _spell-bastion_ shield, and you've activated the shield since your last turn in preparation for unleashing the spell
 
-**Trigger** You use the [[Feats/Shield Block|Shield Block]] reaction against a foe that the stored spell can target
+**Trigger** You use the [[01) Rules/Character Building/Feats/Shield Block|Shield Block]] reaction against a foe that the stored spell can target
 
 * * *
 

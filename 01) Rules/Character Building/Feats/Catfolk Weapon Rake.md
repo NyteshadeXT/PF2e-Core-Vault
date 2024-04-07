@@ -19,7 +19,7 @@ license: OGL
 
 **Prerequisites** Catfolk Weapon Familiarity
 * * *
-You know how to efficiently use weapons that rake across your enemies. Whenever you critically hit using a catfolk weapon or one of the weapons listed in [[Feats/Catfolk Weapon Familiarity|Catfolk Weapon Familiarity]], you apply the weapon's critical specialization effect.
+You know how to efficiently use weapons that rake across your enemies. Whenever you critically hit using a catfolk weapon or one of the weapons listed in [[Catfolk Weapon Familiarity|Catfolk Weapon Familiarity]], you apply the weapon's critical specialization effect.
 
 *Source: Pathfinder Advanced Player's Guide*
 *OGL*

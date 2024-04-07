@@ -24,7 +24,7 @@ You grew up among the northern houses of Brevoy in old Issia. Steeped in the cul
 
 Choose two ability boosts. One must be to **Intelligence** or **Charisma**, and one is a free ability boost.
 
-You're trained in the Deception skill and the Underworld Lore skill. You gain the [[Feats/Charming Liar|Charming Liar]] skill feat.
+You're trained in the Deception skill and the Underworld Lore skill. You gain the [[Charming Liar|Charming Liar]] skill feat.
 
 *Source: Pathfinder Lost Omens: World Guide*
 *OGL*

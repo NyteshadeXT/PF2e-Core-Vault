@@ -18,7 +18,7 @@ license: ORC
 
 
 
-Prerequisites [[Feats/Leshy Familiar Secrets|Leshy Familiar Secrets]]
+Prerequisites [[Leshy Familiar Secrets|Leshy Familiar Secrets]]
 
 Your familiar can extend vines or similar tendrils, increasing its reach to 15 feet.
 

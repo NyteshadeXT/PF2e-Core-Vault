@@ -20,7 +20,7 @@ You were among the Pathfinders recruited by the devious Shadow Lodge, lured in b
 
 Choose two ability boosts. One must be to **Dexterity** or **Intelligence**, and one is a free ability boost.
 
-You're trained in the Deception skill and the Underworld Lore skill. You gain the [[Feats/Lie to Me|Lie To Me]] skill feat.
+You're trained in the Deception skill and the Underworld Lore skill. You gain the [[Lie to Me|Lie To Me]] skill feat.
 
 * * *
 

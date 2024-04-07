@@ -12,7 +12,7 @@ license: OGL
 ---
 # Boost Modulation
 ## Feat 12
-### [[inventor]][[manipulate]]
+### [[01) Rules/Character Building/Feats/Inventor]][[manipulate]]
 
 **Category** class; 
 

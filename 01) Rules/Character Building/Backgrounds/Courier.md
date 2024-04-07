@@ -20,7 +20,7 @@ In your youth, you earned coin running messages for persons of wealth and influe
 
 Choose two ability boosts. One must be to **Dexterity** or **Intelligence**, and one is a free ability boost.
 
-You're trained in the Society skill and the Lore skill for the city in which you were raised. You gain the [[Feats/Glean Contents|Glean Contents]] skill feat.
+You're trained in the Society skill and the Lore skill for the city in which you were raised. You gain the [[Glean Contents|Glean Contents]] skill feat.
 
 *Source: Pathfinder Advanced Player's Guide*
 *OGL*

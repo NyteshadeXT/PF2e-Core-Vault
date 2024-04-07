@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by [[Feats/Crane Stance|Crane Stance]]
+Granted by [[Crane Stance|Crane Stance]]
 
 You enter the stance of a crane, holding your arms in an imitation of a crane's wings and using flowing, defensive motions. You gain a +1 circumstance bonus to AC, but the only Strikes you can make are crane wing attacks. These deal 1d6 bludgeoning damage; are in the brawling group; and have the agile, finesse, nonlethal, and unarmed traits.
 

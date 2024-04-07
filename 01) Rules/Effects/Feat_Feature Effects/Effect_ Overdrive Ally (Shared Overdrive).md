@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by [[Feats/Shared Overdrive|Shared Overdrive]]
+Granted by [[Shared Overdrive|Shared Overdrive]]
 
 The first time you use Overdrive Ally during a given Overdrive, the effect lasts for the remainder of the duration of your Overdrive, instead of just until the end of the target's next turn.
 

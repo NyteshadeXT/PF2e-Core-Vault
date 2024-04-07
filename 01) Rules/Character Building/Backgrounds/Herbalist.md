@@ -21,7 +21,7 @@ As a formally trained apothecary or a rural practitioner of folk medicine, you l
 
 Choose two attribute boosts. One must be to **Constitution** or **Wisdom**, and one is a free attribute boost.
 
-You're trained in the Nature skill and the Herbalism Lore skill. You gain the [[Feats/Natural Medicine|Natural Medicine]] skill feat.
+You're trained in the Nature skill and the Herbalism Lore skill. You gain the [[Natural Medicine|Natural Medicine]] skill feat.
 
 *Source: Pathfinder Player Core*
 *ORC*

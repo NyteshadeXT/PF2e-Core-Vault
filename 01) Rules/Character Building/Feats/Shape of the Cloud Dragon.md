@@ -34,7 +34,7 @@ While in this form, you gain the following cloud dragon-specific abilities:
 
 * * *
 
-**Special** You can use this feat in place of [[Feats/Shape Of The Dragon|Shape Of The Dragon]] to fulfill feat requirements.
+**Special** You can use this feat in place of [[Shape Of The Dragon|Shape Of The Dragon]] to fulfill feat requirements.
 
 *Source: Pathfinder #171: Hurricane's Howl*
 *OGL*

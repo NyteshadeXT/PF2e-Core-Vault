@@ -26,7 +26,7 @@ license: OGL
 
 Your body anticipates the blow. The impact area briefly reorganizes into a strengthened tissue lattice that blunts the attack. You gain resistance equal to your level to the triggering damage type, which applies against the triggering damage.
 
-If you have the [[Feats/Crystalline Dust|Crystalline Dust]] feat, you can use Preemptive Reconfiguration without expending a usage of the reaction for the purpose of the feat's Frequency limit. Instead, the usage counts toward your number of Crystalline Dust uses per day, as if you had used that feat instead.
+If you have the [[Crystalline Dust|Crystalline Dust]] feat, you can use Preemptive Reconfiguration without expending a usage of the reaction for the purpose of the feat's Frequency limit. Instead, the usage counts toward your number of Crystalline Dust uses per day, as if you had used that feat instead.
 
 *Source: Pathfinder Lost Omens: Ancestry Guide*
 *OGL*

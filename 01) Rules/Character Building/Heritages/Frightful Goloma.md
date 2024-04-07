@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Your face has a particularly off-putting appearance. You are trained in Intimidation (or another skill of your choice if you were already trained in Intimidation) and gain the [[Feats/Intimidating Glare|Intimidating Glare]] skill feat as a bonus feat.
+Your face has a particularly off-putting appearance. You are trained in Intimidation (or another skill of your choice if you were already trained in Intimidation) and gain the [[Intimidating Glare|Intimidating Glare]] skill feat as a bonus feat.
 
 * * *
 

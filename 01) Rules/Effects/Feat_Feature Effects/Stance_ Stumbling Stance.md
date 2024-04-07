@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by [[Feats/Stumbling Stance|Stumbling Stance]]
+Granted by [[Stumbling Stance|Stumbling Stance]]
 
 You enter a seemingly unfocused stance that mimics the movements of the inebriated—bobbing, weaving, leaving false openings, and distracting your enemies from your true movements. While in this stance, you gain a +1 circumstance bonus to Deception checks to [[Actions/Feint|Feint]].
 

@@ -17,7 +17,7 @@ license: OGL
 
 
 
-Granted by [[Feats/Fresh Produce|Fresh Produce]]
+Granted by [[Fresh Produce|Fresh Produce]]
 
 You gain resistance to void damage.
 

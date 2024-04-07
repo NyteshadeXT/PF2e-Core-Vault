@@ -17,7 +17,7 @@ license: ORC
 
 
 
-Granted by [[Feats/Deity's Protection|Deity's Protection]]
+Granted by [[Deity's Protection|Deity's Protection]]
 
 You gain resistance to all damage until the start of your next turn.
 

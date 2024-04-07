@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by [[Feats/Known Weaknesses|Known Weaknesses]].
+Granted by [[Known Weaknesses|Known Weaknesses]].
 
 Your ally gains a +1 circumstance bonus to their next attack roll against the subject of known weakness, as long as their attack is made before the beginning of your next turn.
 

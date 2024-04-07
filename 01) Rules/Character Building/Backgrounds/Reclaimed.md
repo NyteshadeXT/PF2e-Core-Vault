@@ -20,7 +20,7 @@ A unit of Crimson Reclaimers saved you from certain death in the Gravelands. You
 
 Choose two ability boosts. One must be to **Constitution** or **Charisma**, and one is a free ability boost.
 
-You're trained in the Intimidation skill and the Crimson Reclaimers Lore skill. You gain the [[Feats/Group Coercion|Group Coercion]] skill feat.
+You're trained in the Intimidation skill and the Crimson Reclaimers Lore skill. You gain the [[Group Coercion|Group Coercion]] skill feat.
 
 *Source: Pathfinder Lost Omens: Knights of Lastwall*
 *OGL*

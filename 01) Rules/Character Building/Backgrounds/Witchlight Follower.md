@@ -20,7 +20,7 @@ While in a dismal forest or remote swamp, you caught sight of a string of lights
 
 Choose two ability boosts. One must be to **Dexterity** or **Wisdom**, and one is a free ability boost.
 
-You're trained in Survival and the Wisp Lore skill. You gain the [[Feats/Terrain Expertise|Terrain Expertise]] skill feat with both swamp terrain and subterranean bodies of water.
+You're trained in Survival and the Wisp Lore skill. You gain the [[Terrain Expertise|Terrain Expertise]] skill feat with both swamp terrain and subterranean bodies of water.
 
 *Source: Pathfinder: Abomination Vaults Player's Guide*
 *OGL*

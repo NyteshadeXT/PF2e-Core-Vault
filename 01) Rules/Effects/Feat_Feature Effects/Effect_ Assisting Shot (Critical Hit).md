@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by [[Feats/Assisting Shot|Assisting Shot]] if you critically hit the target.
+Granted by [[Assisting Shot|Assisting Shot]] if you critically hit the target.
 
 The next creature other than you to attack the same target before the start of your next turn gains a +2 circumstance bonus on their roll.
 

@@ -16,7 +16,7 @@ license: OGL
 
 
 
-[[Feats/Defensive Instincts|Defensive Instincts]]
+[[Defensive Instincts|Defensive Instincts]]
 
 **Requirements** you are adjacent to at least two enemies
 

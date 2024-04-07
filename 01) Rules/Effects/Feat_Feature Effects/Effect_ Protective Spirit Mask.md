@@ -18,7 +18,7 @@ license: OGL
 
 You gain a +1 circumstance bonus to AC until the start of the caster's next turn.
 
-**Granted By:**[[Feats/Protective Spirit Mask|Protective Spirit Mask]]
+**Granted By:**[[Protective Spirit Mask|Protective Spirit Mask]]
 
 *Source: Pathfinder #174: Shadows of the Ancients*
 *OGL*

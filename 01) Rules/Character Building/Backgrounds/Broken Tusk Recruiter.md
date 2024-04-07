@@ -20,7 +20,7 @@ Your gifted tongue, friendly demeanor, and deep knowledge of Broken Tusk culture
 
 Choose two ability boosts. One must be to **Constitution** or **Charisma**, and one is a free ability boost.
 
-You're trained in the Diplomacy skill and the Hillcross Lore skill. You gain the [[Feats/Group Impression|Group Impression]] skill feat.
+You're trained in the Diplomacy skill and the Hillcross Lore skill. You gain the [[Group Impression|Group Impression]] skill feat.
 
 *Source: Pathfinder: Quest for the Frozen Flame Player's Guide*
 *OGL*

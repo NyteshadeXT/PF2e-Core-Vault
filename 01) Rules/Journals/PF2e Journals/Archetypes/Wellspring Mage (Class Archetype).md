@@ -14,9 +14,9 @@ tags:
 
 The source of your magic buckles against your control, always pressing to be released.
 
-**Additional Feats** 8th [[Feats/Energetic Resonance|Energetic Resonance]], [[Feats/Spell Relay|Spell Relay]]; 10th [[Feats/Surging Might|Surging Might]]; 16th [[Feats/Scintillating Spell|Scintillating Spell]]; 18th [[Feats/Echoing Spell|Echoing Spell]]
+**Additional Feats** 8th [[Energetic Resonance|Energetic Resonance]], [[Spell Relay|Spell Relay]]; 10th [[Surging Might|Surging Might]]; 16th [[Scintillating Spell|Scintillating Spell]]; 18th [[Echoing Spell|Echoing Spell]]
 
-## [[Feats/Wellspring Mage Dedication|Wellspring Mage Dedication]] Feat 2
+## [[Wellspring Mage Dedication|Wellspring Mage Dedication]] Feat 2
 
 **Prerequisites** [[Class Features/Wellspring Magic|Wellspring Magic]]
 
@@ -26,17 +26,17 @@ There's no longer a limit on how many temporary spell slots you can gain per day
 
 **Special** You can't select another dedication feat until you gain two other feats from the wellspring mage archetype.
 
-## [[Feats/Wellspring Control|Wellspring Control]] Feat 4
+## [[Wellspring Control|Wellspring Control]] Feat 4
 
-**Prerequisites** [[Feats/Wellspring Mage Dedication|Wellspring Mage Dedication]]
+**Prerequisites** [[Wellspring Mage Dedication|Wellspring Mage Dedication]]
 
 * * *
 
 When you generate a wellspring surge, roll twice on the Wellspring Surges table and take the result of your choice. This doesn't apply when you cause another creature to generate a wellspring surge.
 
-## [[Feats/Urgent Upwelling|Urgent Upwelling]] Feat 6
+## [[Urgent Upwelling|Urgent Upwelling]] Feat 6
 
-**Prerequisites** [[Feats/Wellspring Mage Dedication|Wellspring Mage Dedication]]
+**Prerequisites** [[Wellspring Mage Dedication|Wellspring Mage Dedication]]
 
 * * *
 
@@ -48,9 +48,9 @@ When you generate a wellspring surge, roll twice on the Wellspring Surges table 
 
 Defeat lets you to tap into your wellspring. Attempt the flat check for wellspring magic. If you critically succeed, you can choose to forgo gaining a temporary spell slot to instead have the triggering enemy undergo a wellspring surge. This surge functions just as it would for you, the only difference being that it emits from the enemy.
 
-## [[Feats/Interfering Surge|Interfering Surge]] Feat 12
+## [[Interfering Surge|Interfering Surge]] Feat 12
 
-**Prerequisites** [[Feats/Wellspring Mage Dedication|Wellspring Mage Dedication]]
+**Prerequisites** [[Wellspring Mage Dedication|Wellspring Mage Dedication]]
 
 * * *
 

@@ -17,7 +17,7 @@ license: ORC
 
 
 
-Granted by [[Feats/Sanctify Armament|Sanctify Armament]]
+Granted by [[Sanctify Armament|Sanctify Armament]]
 
 The weapon gains your holy or unholy trait. It also deals an additional 2d6 spirit damage to creatures of the opposed trait.
 

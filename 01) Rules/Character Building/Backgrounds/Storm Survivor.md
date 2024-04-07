@@ -24,7 +24,7 @@ Through luck or through skill, you managed to survive a catastrophic maritime di
 
 Choose two ability boosts. One must be to **Strength** or **Wisdom**, and one is a free ability boost.
 
-You're trained in the Survival skill and the Weather Lore skill. You gain the [[Feats/Forager|Forager]] skill feat.
+You're trained in the Survival skill and the Weather Lore skill. You gain the [[Forager|Forager]] skill feat.
 
 *Source: Pathfinder Lost Omens: World Guide*
 *OGL*

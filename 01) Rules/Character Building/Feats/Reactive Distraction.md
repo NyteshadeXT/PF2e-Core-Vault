@@ -24,7 +24,7 @@ license: ORC
 * * *
 **Trigger** You would be hit by an attack or targeted by an effect, or you are within an effect's area.
 
-**Requirements** You have [[Feats/Perfect Distraction|Perfect Distraction]] ready to use.
+**Requirements** You have [[Perfect Distraction|Perfect Distraction]] ready to use.
 
 * * *
 

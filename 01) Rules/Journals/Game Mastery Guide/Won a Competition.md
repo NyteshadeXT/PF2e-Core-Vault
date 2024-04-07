@@ -8,4 +8,4 @@ tags:
 ---
 You distinguished yourself at an early age when you won a competition. This might have been a martial contest of arms, a showing of apprentice magicians, high-stakes gambling, or something more mundane, like an eating contest.
 
-Add the [[Feats/Fascinating Performance|Fascinating Performance]] skill feat to your background options.
+Add the [[Fascinating Performance|Fascinating Performance]] skill feat to your background options.

@@ -20,7 +20,7 @@ Whether you're employed by a military organization to decipher coded messages se
 
 Choose two ability boosts. One must be to **Intelligence** or **Wisdom**, and one is a free ability boost.
 
-You're trained in the Society skill and the Cryptography Lore skill. You gain the [[Feats/Glean Contents|Glean Contents]] skill feat.
+You're trained in the Society skill and the Cryptography Lore skill. You gain the [[Glean Contents|Glean Contents]] skill feat.
 
 *Source: Pathfinder Guns & Gears*
 *OGL*

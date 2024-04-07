@@ -13,7 +13,7 @@ license: OGL
 ---
 # Clockwork Celerity `pf2:0`
 ## Feat 6
-### [[inventor]][[manipulate]][[unstable]]
+### [[01) Rules/Character Building/Feats/Inventor]][[manipulate]][[unstable]]
 
 **Category** class; 
 

@@ -24,7 +24,7 @@ Whether you trace your heritage to lost Sarkoris or are a crusader trying to ato
 
 Choose two ability boosts. One must be to **Constitution** or **Wisdom**, and one is a free boost.
 
-You're trained in the Medicine skill and the Abyssal Lore skill. You gain the [[Feats/Battle Medicine|Battle Medicine]] skill feat.
+You're trained in the Medicine skill and the Abyssal Lore skill. You gain the [[Battle Medicine|Battle Medicine]] skill feat.
 
 *Source: Pathfinder Lost Omens: World Guide*
 *OGL*

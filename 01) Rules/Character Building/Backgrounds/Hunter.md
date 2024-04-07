@@ -21,7 +21,7 @@ You stalked and took down animals and other creatures of the wild. Skinning anim
 
 Choose two attribute boosts. One must be to **Dexterity** or **Wisdom**, and one is a free attribute boost.
 
-You're trained in the Survival skill and the Tanning Lore skill. You gain the [[Feats/Survey Wildlife|Survey Wildlife]] skill feat.
+You're trained in the Survival skill and the Tanning Lore skill. You gain the [[Survey Wildlife|Survey Wildlife]] skill feat.
 
 *Source: Pathfinder Player Core*
 *ORC*

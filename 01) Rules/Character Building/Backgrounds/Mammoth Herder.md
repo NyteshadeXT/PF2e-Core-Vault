@@ -20,7 +20,7 @@ You're adept at calming, wrangling, and living beside woolly mammoths and other 
 
 Choose two ability boosts. One must be to **Wisdom** or **Charisma**, and one is a free ability boost.
 
-You're trained in the Nature skill and the Herding Lore skill. You gain the [[Feats/Train Animal|Train Animal]] skill feat.
+You're trained in the Nature skill and the Herding Lore skill. You gain the [[Train Animal|Train Animal]] skill feat.
 
 *Source: Pathfinder: Quest for the Frozen Flame Player's Guide*
 *OGL*

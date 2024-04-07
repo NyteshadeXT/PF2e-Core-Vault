@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by [[Feats/Crimson Shroud|Crimson Shroud]].
+Granted by [[Crimson Shroud|Crimson Shroud]].
 
 You gain a +1 circumstance bonus to your AC.
 

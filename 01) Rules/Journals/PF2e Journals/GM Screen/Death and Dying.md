@@ -21,7 +21,7 @@ tags:
 
 ## Hit Points, Healing, and Dying
 
-All creatures and objects have Hit Points (HP). Your maximum Hit Point value represents your health, wherewithal, and heroic drive when you are in good health and rested. Your maximum Hit Points include the Hit Points you gain at 1st level from your ancestry and class, those you gain at higher levels from your class, and any you gain from other sources (like the [[Feats/Toughness|Toughness]] general feat). When you take damage, you reduce your current Hit Points by a number equal to the damage dealt.
+All creatures and objects have Hit Points (HP). Your maximum Hit Point value represents your health, wherewithal, and heroic drive when you are in good health and rested. Your maximum Hit Points include the Hit Points you gain at 1st level from your ancestry and class, those you gain at higher levels from your class, and any you gain from other sources (like the [[Toughness|Toughness]] general feat). When you take damage, you reduce your current Hit Points by a number equal to the damage dealt.
 
 Some spells, items, and other effects, as well as simply resting, can heal living or undead creatures. When you are healed, you regain Hit Points equal to the amount healed, up to your maximum Hit Points.
 

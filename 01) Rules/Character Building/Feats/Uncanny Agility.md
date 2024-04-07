@@ -18,7 +18,7 @@ license: OGL
 
 
 
-You have near-supernatural poise that lets you move swiftly across the most unsteady surfaces. You gain the [[Feats/Steady Balance|Steady Balance]] skill feat. You can Step into difficult terrain caused by uneven ground, such as a rocky field or hilly incline.
+You have near-supernatural poise that lets you move swiftly across the most unsteady surfaces. You gain the [[Steady Balance|Steady Balance]] skill feat. You can Step into difficult terrain caused by uneven ground, such as a rocky field or hilly incline.
 
 *Source: Pathfinder Lost Omens: Ancestry Guide*
 *OGL*

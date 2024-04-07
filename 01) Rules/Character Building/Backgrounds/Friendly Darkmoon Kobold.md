@@ -20,7 +20,7 @@ It has taken time, but over the years, you've managed to find a place among the 
 
 Choose any two ability boosts. One must be to **Wisdom** or **Charisma**, and one is a free ability boost.
 
-You're trained in the Diplomacy skill and Kobold Lore skill. You gain the [[Feats/Group Impression|Group Impression]] skill feat.
+You're trained in the Diplomacy skill and Kobold Lore skill. You gain the [[Group Impression|Group Impression]] skill feat.
 
 *Source: Pathfinder Adventure: Crown of the Kobold King*
 *OGL*

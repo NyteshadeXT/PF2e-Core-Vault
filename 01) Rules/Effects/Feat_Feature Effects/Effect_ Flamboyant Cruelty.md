@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted when you use [[Feats/Flamboyant Cruelty|Flamboyant Cruelty]]
+Granted when you use [[Flamboyant Cruelty|Flamboyant Cruelty]]
 
 *Source: Pathfinder Lost Omens: Legends*
 *OGL*

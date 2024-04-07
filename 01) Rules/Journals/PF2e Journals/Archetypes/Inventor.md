@@ -10,19 +10,19 @@ tags:
 # Inventor
 You revel in the creation of clever inventions, deploying your brilliance to defeat your foes. Explosives, gadgets, and innovative technologies? You have ideas for all of them, and you're eager to test your theories.
 
-## [[Feats/Inventor Dedication|Inventor Dedication]] Feat 2
+## [[Inventor Dedication|Inventor Dedication]] Feat 2
 
 **Prerequisites** Intelligence +2
 
 * * *
 
-You become trained in Crafting and inventor class DC. You gain the [[Feats/Inventor|Inventor]] skill feat, even if you don't meet the skill feat's requirements. Choose an innovation. You gain that [[Class Features/Innovation|Innovation]], though you don't gain any other abilities that modify or use that innovation, such as modifications or Explode.
+You become trained in Crafting and inventor class DC. You gain the [[01) Rules/Character Building/Feats/Inventor|Inventor]] skill feat, even if you don't meet the skill feat's requirements. Choose an innovation. You gain that [[Class Features/Innovation|Innovation]], though you don't gain any other abilities that modify or use that innovation, such as modifications or Explode.
 
 * * *
 
 **Special** You cannot select another dedication feat until you have first gained two other feats from the inventor archetype.
 
-## [[Feats/Basic Breakthrough|Basic Breakthrough]] Feat 4
+## [[Basic Breakthrough|Basic Breakthrough]] Feat 4
 
 **Prerequisites** Inventor Dedication
 
@@ -30,7 +30,7 @@ You become trained in Crafting and inventor class DC. You gain the [[Feats/Inven
 
 You gain a 1st- or 2nd-level inventor feat of your choice.
 
-## [[Feats/Brilliant Crafter|Brilliant Crafter]] Feat 4
+## [[Brilliant Crafter|Brilliant Crafter]] Feat 4
 
 **Prerequisites** Inventor Dedication
 
@@ -38,7 +38,7 @@ You gain a 1st- or 2nd-level inventor feat of your choice.
 
 Your skill at crafting is unparalleled. You become an expert in Crafting. At 7th level you become a master in Crafting, and at 15th level, you become legendary in Crafting and you become an expert in your inventor class DC.
 
-## [[Feats/Advanced Breakthrough|Advanced Breakthrough]] Feat 6
+## [[Advanced Breakthrough|Advanced Breakthrough]] Feat 6
 
 **Prerequisites** Basic Breakthrough
 
@@ -50,7 +50,7 @@ You gain one inventor feat. For the purpose of meeting its prerequisites, your i
 
 **Special** You can select this feat more than once. Each time you select it, you gain another inventor feat.
 
-## [[Feats/Explosion|Explosion]] Feat 6
+## [[Explosion|Explosion]] Feat 6
 
 **Prerequisites** Inventor Dedication
 
@@ -58,7 +58,7 @@ You gain one inventor feat. For the purpose of meeting its prerequisites, your i
 
 Your innovation can explode on command. You gain the [[Actions/Explode|Explode]] action.
 
-## [[Feats/Basic Modification|Basic Modification]] Feat 8
+## [[Basic Modification|Basic Modification]] Feat 8
 
 **Prerequisites** Inventor Dedication
 

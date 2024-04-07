@@ -18,7 +18,7 @@ Each time you cast a halcyon spell, decide whether it is an arcane or primal spe
 
 Each time you gain a level and learn new spells, and each time you gain a halcyon feat, you can swap out one of your old halcyon spells for a different halcyon spell of the same rank; this is in addition to any swapping from your class, such as via a sorcerer's spell repertoire class feature. You can also swap out halcyon spells by retraining during downtime. If you have a spellbook, when you swap out a halcyon spell, you lose the spell from your spellbook entirely.
 
-## [[Feats/Magaambyan Attendant Dedication|Magaambyan Attendant Dedication]] Feat 2
+## [[Magaambyan Attendant Dedication|Magaambyan Attendant Dedication]] Feat 2
 
 **Prerequisites** trained in Arcana or Nature, member of the Magaambya of attendant rank
 
@@ -30,9 +30,9 @@ Regardless of whether you choose an arcane or primal cantrip, you also either be
 
 When you gain this feat, choose to affiliate with the Cascade Bearers, Emerald Boughs, Rain-Scribes, Tempest-Sun Mages, or Uzunjati. This grants you additional feats available to only that branch.
 
-**Special** You cannot select another dedication feat other than [[Feats/Halcyon Speaker Dedication|Halcyon Speaker Dedication]] until you have gained two other feats from the [[Compendium.pf2e.journals.JournalEntry.vx5FGEG34AxI2dow.JournalEntryPage.eLc6TSgWykjtSeuF|Magaambyan Attendant]] or [[Compendium.pf2e.journals.JournalEntry.vx5FGEG34AxI2dow.JournalEntryPage.pDmUITVao0FDMnVf|Halcyon Speaker]] archetype.
+**Special** You cannot select another dedication feat other than [[Halcyon Speaker Dedication|Halcyon Speaker Dedication]] until you have gained two other feats from the [[Compendium.pf2e.journals.JournalEntry.vx5FGEG34AxI2dow.JournalEntryPage.eLc6TSgWykjtSeuF|Magaambyan Attendant]] or [[Compendium.pf2e.journals.JournalEntry.vx5FGEG34AxI2dow.JournalEntryPage.pDmUITVao0FDMnVf|Halcyon Speaker]] archetype.
 
-## [[Feats/Mask Familiar|Mask Familiar]] Feat 4
+## [[Mask Familiar|Mask Familiar]] Feat 4
 
 **Prerequisites** Magaambyan Attendant Dedication
 
@@ -42,7 +42,7 @@ Your mask takes on a personality of its own, allowing it to serve as your famili
 
 **Mask Freeze** When in mask form, your familiar can hide its obvious supernatural qualities to pass as a simple, unassuming mask. It doesn't need to Impersonate to fool a passing glance, and it gains a +4 circumstance bonus to its Deception DC against an active observer Seeking or otherwise studying it.
 
-## [[Feats/Adaptive Mask Familiar|Adaptive Mask Familiar]] Feat 6
+## [[Adaptive Mask Familiar|Adaptive Mask Familiar]] Feat 6
 
 **Prerequisites** Mask Familiar
 
@@ -50,7 +50,7 @@ Your mask takes on a personality of its own, allowing it to serve as your famili
 
 Your mask familiar adapts quickly to material form, allowing it to gain more familiar and master abilities. You select four master and familiar abilities each day instead of two.
 
-## [[Feats/Cascade Bearer's Flexibility|Cascade Bearer's Flexibility]] Feat 6
+## [[Cascade Bearer's Flexibility|Cascade Bearer's Flexibility]] Feat 6
 
 **Frequency** once per day
 
@@ -62,7 +62,7 @@ Your mask familiar adapts quickly to material form, allowing it to gain more fam
 
 You call upon your Cascade Bearer training to help you adjust a spell for the current situation. Until the end of your turn, you gain a single metamagic feat from the druid class or the wizard class that has a level requirement of no more than half your level.
 
-## [[Feats/Emerald Boughs Accustomation|Emerald Boughs Accustomation]] Feat 6
+## [[Emerald Boughs Accustomation|Emerald Boughs Accustomation]] Feat 6
 
 **Prerequisites** Magaambyan Attendant Dedication, Emerald Boughs affiliation, expert in Society
 
@@ -70,7 +70,7 @@ You call upon your Cascade Bearer training to help you adjust a spell for the cu
 
 You are comfortable and socially capable in almost any cultural context. When you use the Society skill to Subsist, if you roll a critical failure, you get a failure instead; if you roll a success, you get a critical success instead; and if you roll a critical success, you can provide for another additional creature. Furthermore, when you attempt a Society check to Recall Knowledge about cultural practices and roll a critical failure, you get a failure instead.
 
-## [[Feats/Rain-Scribe Sustenance|Rain-Scribe Sustenance]] Feat 6
+## [[Rain-Scribe Sustenance|Rain-Scribe Sustenance]] Feat 6
 
 **Prerequisites** Magaambyan Attendant Dedication, Rain-Scribes affiliation
 
@@ -80,7 +80,7 @@ You use the power of your Rain-Scribe magic to draw on a stream of primal power 
 
 You can draw on primal power to stay awake and alert while otherwise resting your body and mind, gaining the full benefits of an 8-hour rest without falling asleep. When you do, you lose the other benefits of Rain- Scribe Sustenance for 1 week while your primal energies recharge.
 
-## [[Feats/Tempest-Sun Redirection|Tempest-Sun Redirection]] Feat 6
+## [[Tempest-Sun Redirection|Tempest-Sun Redirection]] Feat 6
 
 **Prerequisites** Magaambyan Attendant Dedication, Tempest-Sun Mages affiliation
 
@@ -88,7 +88,7 @@ You can draw on primal power to stay awake and alert while otherwise resting you
 
 If the next action you use is to Cast a Spell from your spell slots that damages other creatures, you can bend some of that spell's offensive energy, protecting allies in the area and boosting your own defenses against certain foes. Select any number of targets of the spell and reduce the spell's damage to those targets by an amount equal to the spell's rank. Until your next turn, when one of those targets damages you, that damage is reduced by twice the spell's rank.
 
-## [[Feats/Uzunjati Storytelling|Uzunjati Storytelling]] Feat 6
+## [[Uzunjati Storytelling|Uzunjati Storytelling]] Feat 6
 
 **Prerequisites** Magaambyan Attendant Dedication, Uzunjati affiliation, master in a Recall Knowledge skill
 
@@ -96,7 +96,7 @@ If the next action you use is to Cast a Spell from your spell slots that damages
 
 You tell a quick story or begin telling a longer tale. This is most useful when you want to prove your scholarly credibility or impress someone quickly. Roll a check with a skill that can be used to Recall Knowledge in which you have expert proficiency, using the result entry for the Perform action. Like Performing, Storytelling rarely has an effect on its own, but it might influence the DCs of subsequent Diplomacy checks against the observers-or even change their attitudes-if the GM sees fit. This action is not a Performance and cannot be used in place of anything that requires you to Perform.
 
-## [[Feats/Cascade Bearer's Spellcasting|Cascade Bearer's Spellcasting]] Feat 10
+## [[Cascade Bearer's Spellcasting|Cascade Bearer's Spellcasting]] Feat 10
 
 **Prerequisites** Magaambyan Attendant Dedication, Cascade Bearers affiliation
 
@@ -104,7 +104,7 @@ You tell a quick story or begin telling a longer tale. This is most useful when 
 
 Your Cascade Bearer training allows you to broaden the horizons of your halcyon spells further than most Magaambyans, weaving in spiritual magic. You can select halcyon spells from the divine or occult spell lists in additional to the arcane or primal spell lists, though they are still halcyon spells (so you choose when casting if they are arcane or primal spells). You gain a halcyon cantrip and a halcyon 1st-rank spell.
 
-## [[Feats/Emerald Boughs Hideaway|Emerald Boughs Hideaway]] Feat 10
+## [[Emerald Boughs Hideaway|Emerald Boughs Hideaway]] Feat 10
 
 **Prerequisites** Magaambyan Attendant Dedication, Emerald Boughs affiliation
 
@@ -112,7 +112,7 @@ Your Cascade Bearer training allows you to broaden the horizons of your halcyon 
 
 You use Emerald Bough techniques to create a small extradimensional space called a hideaway that lasts as long as you are conscious. The hideaway functions as a [[Equipment/Spacious Pouch (Type I)|Bag of Holding (Type I)]], but has no Bulk and takes no hands; it holds one object with a maximum Bulk equal to your highest mental attribute modifier; as you open the hideaway with pure thought, activating it to retrieve an item is a free action with the envision component instead of a single action with the Interact component. The hideaway's access point appears as an obviously magical gap within 1 foot of your body. Only you can access the hideaway; you can you use an Interact action each round to physically hold it open for another person. A successful dispel magic spell or similar effect against your spell DC and the hideaway's counteract rank of 2 expels the object; the object is also expelled if you become unconscious. After a successful dispel magic spell or when you become conscious again, the hideaway immediately reforms with no additional action from you. You can also dismiss the hideaway (if it is empty) or re-form it using a single action with the envision component.
 
-## [[Feats/Rain-Scribe Mobility|Rain-Scribe Mobility]] Feat 10
+## [[Rain-Scribe Mobility|Rain-Scribe Mobility]] Feat 10
 
 **Prerequisites** Magaambyan Attendant Dedication, Rain- Scribes affiliation
 
@@ -120,7 +120,7 @@ You use Emerald Bough techniques to create a small extradimensional space called
 
 You surround yourself in a mantle of Rain-Scribe magic and Stride twice; difficult terrain does not reduce your Speed, even if the difficult terrain has been manipulated by magic. Your magic clears the difficult terrain in each square you entered; until your next turn, those squares aren't difficult terrain for any creature walking through them (or are normal difficult terrain if they were previously greater difficult terrain).
 
-## [[Feats/Tempest-Sun Shielding|Tempest-Sun Shielding]] Feat 10
+## [[Tempest-Sun Shielding|Tempest-Sun Shielding]] Feat 10
 
 **Prerequisites** Tempest-Sun Redirection
 
@@ -130,7 +130,7 @@ You surround yourself in a mantle of Rain-Scribe magic and Stride twice; difficu
 
 You transform unrealized spell energy into a protective shield. If you're a spontaneous spellcaster, expend a spell slot; if you're a prepared spellcaster, expend a spell prepared in a spell slot. Reduce the triggering damage by an amount equal to four times the level of the expended slot or spell.
 
-## [[Feats/Uzunjati Recollection|Uzunjati Recollection]] Feat 10
+## [[Uzunjati Recollection|Uzunjati Recollection]] Feat 10
 
 **Prerequisites** Uzunjati Storytelling, master in a Recall Knowledge skill
 
@@ -138,7 +138,7 @@ You transform unrealized spell energy into a protective shield. If you're a spon
 
 You tell a story spontaneously from nearly forgotten facts, delving into your memory and entertaining your audience in the process. Recall Knowledge with a skill in which you have master proficiency, then use Uzunjati Storytelling with the same skill. You gain a +1 circumstance bonus to your skill check for Uzunjati Storytelling from the added details.
 
-## [[Feats/Janatimo's Lessons|Janatimo's Lessons]] Feat 12
+## [[Janatimo's Lessons|Janatimo's Lessons]] Feat 12
 
 **Prerequisites** Uzunjati Recollection
 

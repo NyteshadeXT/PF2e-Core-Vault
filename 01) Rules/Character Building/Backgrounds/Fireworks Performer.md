@@ -20,7 +20,7 @@ Few celebrations in Tian-Xia are complete without a show of fireworks, and your 
 
 Choose two ability boosts. One must be to **Intelligence** or **Charisma**, and one is a free ability boost.
 
-You're trained in the Performance skill and the Engineering Lore skill. You gain the [[Feats/Fascinating Performance|Fascinating Performance]] skill feat.
+You're trained in the Performance skill and the Engineering Lore skill. You gain the [[Fascinating Performance|Fascinating Performance]] skill feat.
 
 *Source: Pathfinder Guns & Gears*
 *OGL*

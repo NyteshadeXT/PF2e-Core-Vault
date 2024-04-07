@@ -21,7 +21,7 @@ Whether in a monastery, a religious household, or just as part of your everyday 
 
 Choose two attribute boosts. One must be to an attribute specified in your deity's **Divine Attribute**, and the other is a free attribute boost.
 
-You're trained in the deity's listed Divine Skill and gain the [[Feats/Assurance|Assurance]] feat with that skill. You gain a Lore skill related to your deity (Abadar Lore, for example).
+You're trained in the deity's listed Divine Skill and gain the [[Assurance|Assurance]] feat with that skill. You gain a Lore skill related to your deity (Abadar Lore, for example).
 
 *Source: Pathfinder Player Core*
 *ORC*

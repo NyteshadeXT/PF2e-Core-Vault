@@ -184,7 +184,7 @@ At 1st level, you gain a number of proficiencies that represent your basic train
 
 ## Shield Block
 
-You gain the [[Feats/Shield Block|Shield Block]] general feat, a reaction that lets you reduce damage with your shield.
+You gain the [[01) Rules/Character Building/Feats/Shield Block|Shield Block]] general feat, a reaction that lets you reduce damage with your shield.
 
 ## Skill FeatsLevel 2
 

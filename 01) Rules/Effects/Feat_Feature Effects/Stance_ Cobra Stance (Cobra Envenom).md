@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by [[Feats/Cobra Stance|Cobra Stance]] if you have [[Feats/Cobra Envenom|Cobra Envenom]], which increases the circumstance bonus to Fortitude saves and Fortitude DC to +2.
+Granted by [[Cobra Stance|Cobra Stance]] if you have [[Cobra Envenom|Cobra Envenom]], which increases the circumstance bonus to Fortitude saves and Fortitude DC to +2.
 
 You enter a tight stance, coiled up like a lashing cobra with your hands poised as venomous fangs. While in this stance, the only Strikes you can make are cobra fang unarmed attacks. These deal 1d4 poison damage; are in the brawling group; and have the agile, deadly d10, finesse, nonlethal, poison, and unarmed traits.
 

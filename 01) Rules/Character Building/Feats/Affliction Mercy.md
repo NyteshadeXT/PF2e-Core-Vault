@@ -21,7 +21,7 @@ license: OGL
 * * *
 The divine grace that flows through you grants reprieve from an affliction.
 
-When you use [[Feats/Mercy|Mercy]], you can instead attempt to counteract a curse, disease, or poison.
+When you use [[Mercy|Mercy]], you can instead attempt to counteract a curse, disease, or poison.
 
 *Source: Pathfinder Core Rulebook*
 *OGL*

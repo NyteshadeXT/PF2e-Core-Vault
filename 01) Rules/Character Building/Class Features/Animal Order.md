@@ -23,7 +23,7 @@ You have a strong connection to beasts, always feeling like you understood them 
 
 **Order Skill** Athletics
 
-**Druid Feat** [[Feats/Animal Companion|Animal Companion]]
+**Druid Feat** [[Animal Companion|Animal Companion]]
 
 **Order Spell** [[Spells/Heal Animal|Heal Animal]]
 

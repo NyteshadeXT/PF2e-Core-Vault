@@ -20,7 +20,7 @@ You live by the adage that one person's trash is another's treasure. Whether by 
 
 Choose two ability boosts. One must be to **Dexterity** or **Intelligence**, and one is a free ability boost.
 
-You're trained in the Crafting skill and your choice of either the Engineering Lore or Mining Lore skill. You gain the [[Feats/Crafter's Appraisal|Crafter's Appraisal]] skill feat.
+You're trained in the Crafting skill and your choice of either the Engineering Lore or Mining Lore skill. You gain the [[Crafter's Appraisal|Crafter's Appraisal]] skill feat.
 
 *Source: Pathfinder Guns & Gears*
 *OGL*

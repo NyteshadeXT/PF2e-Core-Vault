@@ -22,7 +22,7 @@ You've likely chosen to attend the Call for Heroes as a way to seek funds as an 
 
 Choose two ability boosts. One must be to **Strength** or **Charisma**, and one is a free ability boost.
 
-You're trained in the Intimidation skill, and the Dragon Lore skill. You gain the [[Feats/Intimidating Glare|Intimidating Glare]] skill feat.
+You're trained in the Intimidation skill, and the Dragon Lore skill. You gain the [[Intimidating Glare|Intimidating Glare]] skill feat.
 
 *Source: Pathfinder: Age of Ashes Player's Guide*
 *OGL*

@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by [[Feats/Monster Warden|Monster Warden]] if you have [[Feats/Legendary Monster Hunter|Legendary Monster Hunter]].
+Granted by [[Monster Warden|Monster Warden]] if you have [[Legendary Monster Hunter|Legendary Monster Hunter]].
 
 You gain a +2 circumstance bonus to your next attack roll against that prey.
 

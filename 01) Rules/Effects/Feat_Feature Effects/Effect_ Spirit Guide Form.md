@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by [[Feats/Spirit Guide Form|Spirit Guide Form]]
+Granted by [[Spirit Guide Form|Spirit Guide Form]]
 
 You fuse with your spirit guide, becoming a hybrid being with enhanced physical and spiritual power. This effect lasts 1 minute; you can end it early as a free action. During this time, you can't use any other actions granted by this archetype. You gain the following statistics and abilities, regardless of your type of spirit guide.
 

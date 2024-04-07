@@ -21,7 +21,7 @@ license: OGL
 
 * * *
 
-**Effect** You have survived exposure to numerous planar forces that would have warped or obliterated a lesser being. As long as you are at least 7th level and a master in Survival, you can slot this boon to gain the benefits of the [[Feats/Planar Survival|Planar Survival]] skill feat.
+**Effect** You have survived exposure to numerous planar forces that would have warped or obliterated a lesser being. As long as you are at least 7th level and a master in Survival, you can slot this boon to gain the benefits of the [[Planar Survival|Planar Survival]] skill feat.
 
 *Source: *
 *OGL*

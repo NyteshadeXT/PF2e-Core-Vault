@@ -17,7 +17,7 @@ license: ORC
 
 
 
-Granted by [[Feats/Resounding Finale|Resounding Finale]]
+Granted by [[Resounding Finale|Resounding Finale]]
 
 All allies that had been benefiting from the spell's effects gain sonic resistance against the triggering damage.
 

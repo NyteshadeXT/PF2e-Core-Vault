@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by [[Feats/Repair Module|Repair Module]].
+Granted by [[Repair Module|Repair Module]].
 
 *Source: Pathfinder Lost Omens: Ancestry Guide*
 *OGL*

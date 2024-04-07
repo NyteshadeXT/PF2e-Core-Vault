@@ -24,7 +24,7 @@ Exposure to the corrupting influence of the Mana Wastes' strange energies has wa
 
 Choose two ability boosts. One must be to **Constitution** or **Intelligence**, and one is a free ability boost.
 
-You're trained in the Arcana skill and the Wilderness Lore skill. You gain the [[Feats/Trick Magic Item|Trick Magic Item]] skill feat.
+You're trained in the Arcana skill and the Wilderness Lore skill. You gain the [[Trick Magic Item|Trick Magic Item]] skill feat.
 
 *Source: Pathfinder Lost Omens: World Guide*
 *OGL*

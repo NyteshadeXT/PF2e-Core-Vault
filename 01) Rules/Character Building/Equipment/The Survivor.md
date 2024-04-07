@@ -26,7 +26,7 @@ license: OGL
 
 * * *
 
-_The Survivor_ represents rebirth through ordeal. When you have _The Survivor_ invested, you gain [[Feats/Diehard|Diehard]] as a bonus feat. If you already possess this feat, you gain a +2 item bonus to all recovery checks. This item bonus increases to +3 if you are at least 17th-level.
+_The Survivor_ represents rebirth through ordeal. When you have _The Survivor_ invested, you gain [[Diehard|Diehard]] as a bonus feat. If you already possess this feat, you gain a +2 item bonus to all recovery checks. This item bonus increases to +3 if you are at least 17th-level.
 
 **Activate** `pf2:0` envision
 

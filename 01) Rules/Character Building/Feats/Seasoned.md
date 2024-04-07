@@ -21,7 +21,7 @@ license: ORC
 
 **Prerequisites** trained in Alcohol Lore, Cooking Lore, or Crafting
 * * *
-You've mastered the preparation of many types of food and drink. You gain a +1 circumstance bonus to checks to [[Actions/Craft|Craft]] food and drink, including elixirs if you have [[Feats/Alchemical Crafting|Alchemical Crafting]] and potions if you have [[Feats/Magical Crafting|Magical Crafting]]. If you are a master in one of the prerequisite skills, this bonus increases to +2.
+You've mastered the preparation of many types of food and drink. You gain a +1 circumstance bonus to checks to [[Actions/Craft|Craft]] food and drink, including elixirs if you have [[Alchemical Crafting|Alchemical Crafting]] and potions if you have [[Magical Crafting|Magical Crafting]]. If you are a master in one of the prerequisite skills, this bonus increases to +2.
 
 *Source: Pathfinder Player Core*
 *ORC*

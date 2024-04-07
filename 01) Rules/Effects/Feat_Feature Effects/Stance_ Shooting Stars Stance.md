@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by [[Feats/Shooting Stars Stance|Shooting Stars Stance]]
+Granted by [[Shooting Stars Stance|Shooting Stars Stance]]
 
 You enter a stance that lets you throw shuriken with lightning speed.
 

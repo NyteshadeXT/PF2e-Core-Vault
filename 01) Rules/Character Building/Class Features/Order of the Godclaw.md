@@ -23,9 +23,9 @@ The Order of the Godclaw's Hellknights see their cause as a holy mandate from th
 
 * * *
 
-**Lesser Benefit** [[Feats/Dedication to the Five|Dedication to the Five]]
+**Lesser Benefit** [[Dedication to the Five|Dedication to the Five]]
 
-**Greater Benefit** [[Feats/Blessings of the Five|Blessings of the Five]]
+**Greater Benefit** [[Blessings of the Five|Blessings of the Five]]
 
 *Source: Pathfinder Lost Omens: Character Guide*
 *OGL*

@@ -20,7 +20,7 @@ In your youth, you learned to transcribe books and translate scrolls to preserve
 
 Choose two ability boosts. One must be to **Intelligence** or **Charisma**, and one is a free ability boost.
 
-You're trained in the Society skill and the Scribing Lore skill. You gain the [[Feats/Multilingual|Multilingual]] skill feat.
+You're trained in the Society skill and the Scribing Lore skill. You gain the [[Multilingual|Multilingual]] skill feat.
 
 *Source: Pathfinder Lost Omens: Pathfinder Society Guide*
 *OGL*

@@ -14,7 +14,7 @@ tags:
 
 The Chime-Ringers serve as Nantambu's elite town guard, keeping the peace while carrying on ancient traditions of crafting chimes in metal, bamboo, or glass.
 
-## [[Feats/Nantambu Chime-Ringer Dedication|Nantambu Chime-Ringer Dedication]] Feat 2
+## [[Nantambu Chime-Ringer Dedication|Nantambu Chime-Ringer Dedication]] Feat 2
 
 **Prerequisites** trained in Performance and trained in Society
 
@@ -24,9 +24,9 @@ You've studied the basics of harmony and resonance in magic, exemplified by the 
 
 **Special** You can't select another dedication feat until you have gained two other feats from the Nantambu Chime-Ringer archetype.
 
-## [[Feats/Fleet Tempo|Fleet Tempo]] Feat 4
+## [[Fleet Tempo|Fleet Tempo]] Feat 4
 
-**Prerequisites** [[Feats/Nantambu Chime-Ringer Dedication|Nantambu Chime-Ringer Dedication]]
+**Prerequisites** [[Nantambu Chime-Ringer Dedication|Nantambu Chime-Ringer Dedication]]
 
 * * *
 
@@ -38,25 +38,25 @@ To rush after a criminal or reach someone in need, you ring a sprightly tone. Yo
 
 [[Feat\_Feature Effects/Effect\_ Fleet Tempo|Effect: Fleet Tempo]]
 
-## [[Feats/Deny the Songs of War|Deny the Songs of War]] Feat 10
+## [[Deny the Songs of War|Deny the Songs of War]] Feat 10
 
-**Prerequisites** [[Feats/Nantambu Chime-Ringer Dedication|Nantambu Chime-Ringer Dedication]]
+**Prerequisites** [[Nantambu Chime-Ringer Dedication|Nantambu Chime-Ringer Dedication]]
 
 * * *
 
 To keep the peace, you disrupt those who seek to break it. You can cast [[Spells/Deafness|Deafness]] and 4th-rank [[Spells/Silence|Silence]] once per day each as innate spells. The tradition of these spells is the one you chose for the Nantambu Chime-Ringer Dedication feat.
 
-## [[Feats/Sing to the Steel|Sing to the Steel]] Feat 12
+## [[Sing to the Steel|Sing to the Steel]] Feat 12
 
-**Prerequisites** [[Feats/Nantambu Chime-Ringer Dedication|Nantambu Chime-Ringer Dedication]]
+**Prerequisites** [[Nantambu Chime-Ringer Dedication|Nantambu Chime-Ringer Dedication]]
 
 * * *
 
 You strike magical tones that can turn the tide of combat. You and your allies within 30 feet gain the effects of one of the following runes until the end of your next turn: [[Equipment/Corrosive|Corrosive]], [[Equipment/Vitalizing|Vitalizing]], [[Equipment/Flaming|Flaming]], [[Equipment/Frost|Frost]], [[Equipment/Ghost Touch|Ghost Touch]], [[Equipment/Shock|Shock]], or [[Equipment/Thundering|Thundering]]. The effects apply to a single weapon the creature is holding or one of the creature's unarmed attacks. You choose the rune and the effect applies to all creatures. You can use an action, which has the concentrate trait, to extend the duration of the rune for 1 additional round up to a maximum of 1 minute. If this would give a weapon or unarmed attack more property runes than its normal maximum, an existing property rune (as the creature chooses) is suppressed until the spell ends.
 
-## [[Feats/Song of Grace and Speed|Song of Grace and Speed]] Feat 16
+## [[Song of Grace and Speed|Song of Grace and Speed]] Feat 16
 
-**Prerequisites** [[Feats/Nantambu Chime-Ringer Dedication|Nantambu Chime-Ringer Dedication]]
+**Prerequisites** [[Nantambu Chime-Ringer Dedication|Nantambu Chime-Ringer Dedication]]
 
 * * *
 

@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by [[Feats/Psi Strikes|Psi Strikes]]
+Granted by [[Psi Strikes|Psi Strikes]]
 
 The attack deals an extra 1d6 force damage.
 

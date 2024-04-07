@@ -13,7 +13,7 @@ license: OGL
 ---
 # Deep Freeze `pf2:2`
 ## Feat 12
-### [[Cold]][[inventor]][[manipulate]]
+### [[Cold]][[01) Rules/Character Building/Feats/Inventor]][[manipulate]]
 
 **Category** class; 
 

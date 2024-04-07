@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by [[Feats/Didactic Strike|Didactic Strike]].
+Granted by [[Didactic Strike|Didactic Strike]].
 
 Your first attack against the designated target before the investigator's next turn deals an extra 2d6 precision damage to the target if it hits.
 

@@ -37,7 +37,7 @@ The _harmonic hauberk_ attempts to counteract [[Spells/Silence|Silence]] spells 
 
 * * *
 
-**Effect** You gain 1 Focus Point and immediately use the Focus Point to cast [[Spells/Lingering Composition|Lingering Composition]], using your Performance check to determine the effects of the spell, followed by the [[Spells/Rallying Anthem|Rallying Anthem]]. You can use this activation to cast those spells even if you don't have the [[Feats/Lingering Composition|Lingering Composition]] or [[Feats/Rallying Anthem|Rallying Anthem]] feats.
+**Effect** You gain 1 Focus Point and immediately use the Focus Point to cast [[Spells/Lingering Composition|Lingering Composition]], using your Performance check to determine the effects of the spell, followed by the [[Spells/Rallying Anthem|Rallying Anthem]]. You can use this activation to cast those spells even if you don't have the [[01) Rules/Character Building/Feats/Lingering Composition|Lingering Composition]] or [[01) Rules/Character Building/Feats/Rallying Anthem|Rallying Anthem]] feats.
 
 *Source: Pathfinder Lost Omens: The Grand Bazaar*
 *OGL*

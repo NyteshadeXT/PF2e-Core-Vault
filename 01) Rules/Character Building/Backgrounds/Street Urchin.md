@@ -21,7 +21,7 @@ You eked out a living by picking pockets on the streets of a major city, never k
 
 Choose two attribute boosts. One must be to **Dexterity** or **Constitution**, and one is a free attribute boost.
 
-You're trained in the Thievery skill and a Lore skill for the city you lived in as a street urchin (such as Absalom Lore or Magnimar Lore). You gain the [[Feats/Pickpocket|Pickpocket]] skill feat.
+You're trained in the Thievery skill and a Lore skill for the city you lived in as a street urchin (such as Absalom Lore or Magnimar Lore). You gain the [[Pickpocket|Pickpocket]] skill feat.
 
 *Source: Pathfinder Player Core*
 *ORC*

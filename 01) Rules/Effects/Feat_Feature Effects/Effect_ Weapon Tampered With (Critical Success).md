@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by [[Feats/Tamper|Tamper]]
+Granted by [[Tamper|Tamper]]
 
 Your weapon has been tampered with! You take a -2 circumstance penalty to attack rolls and damage rolls with that weapon. The effect lasts until you [[Actions/Interact|Interact]] to remove it.
 

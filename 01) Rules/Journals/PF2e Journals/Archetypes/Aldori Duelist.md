@@ -10,7 +10,7 @@ tags:
 # Aldori Duelist
 You have sworn the Aldori swordpact and study the art of Aldori dueling, a famed school of bladecraft which has been passed down for over a millennium from the teachings of Baron Sirian Aldori. One day, you hope to demonstrate your skill at swordplay in order to become acknowledged as a true swordlord.
 
-## [[Feats/Aldori Duelist Dedication|Aldori Duelist Dedication]] Feat 2
+## [[Aldori Duelist Dedication|Aldori Duelist Dedication]] Feat 2
 
 **Prerequisites** trained in Aldori dueling swords
 
@@ -22,7 +22,7 @@ Your Aldori duelist training teaches you martial techniques and increases your d
 
 **Special** You cannot select another dedication feat until you have gained two other feats from the Aldori Duelist archetype.
 
-## [[Feats/Aldori Parry|Aldori Parry]] Feat 4
+## [[Aldori Parry|Aldori Parry]] Feat 4
 
 **Prerequisites** Aldori Duelist Dedication
 
@@ -32,7 +32,7 @@ Your Aldori duelist training teaches you martial techniques and increases your d
 
 You can parry attacks against you with your Aldori dueling sword. You gain a +2 circumstance bonus to AC until the start of your next turn as long as you continue to meet the requirement.
 
-## [[Feats/Duelist's Edge|Duelist's Edge]] Feat 4
+## [[Duelist's Edge|Duelist's Edge]] Feat 4
 
 **Prerequisites** Aldori Duelist Dedication
 
@@ -42,7 +42,7 @@ You can parry attacks against you with your Aldori dueling sword. You gain a +2 
 
 You hone your reaction time through duels and learn to draw your weapon seamlessly as you begin a fight. You gain a +2 circumstance bonus to the triggering initiative roll, and you can immediately Interact to draw your Aldori dueling sword.
 
-## [[Feats/Aldori Riposte|Aldori Riposte]] Feat 6
+## [[Aldori Riposte|Aldori Riposte]] Feat 6
 
 **Prerequisites** Aldori Parry
 
@@ -54,7 +54,7 @@ You hone your reaction time through duels and learn to draw your weapon seamless
 
 You riposte with your Aldori dueling sword when your enemy leaves an opening. Make a melee Strike or use a Disarm action against the triggering opponent using your Aldori dueling sword.
 
-## [[Feats/Unnerving Prowess|Unnerving Prowess]] Feat 6
+## [[Unnerving Prowess|Unnerving Prowess]] Feat 6
 
 **Prerequisites** Aldori Duelist Dedication
 
@@ -62,7 +62,7 @@ You riposte with your Aldori dueling sword when your enemy leaves an opening. Ma
 
 Your incredible skill with your blade unnerves your foes. You attempt to Demoralize the target of your Strike or Disarm. This Demoralize attempt does not have the auditory trait, nor do you take a penalty to the check if the target doesn't understand your language.
 
-## [[Feats/Saving Slash|Saving Slash]] Feat 10
+## [[Saving Slash|Saving Slash]] Feat 10
 
 **Prerequisites** Aldori Duelist Dedication
 

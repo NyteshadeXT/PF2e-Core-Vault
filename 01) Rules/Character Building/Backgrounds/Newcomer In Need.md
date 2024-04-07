@@ -20,7 +20,7 @@ You're a Gokan native in a bad spot, and you're going to need a miracle to get y
 
 Choose two ability boosts. One must be to **Constitution** or **Dexterity**, and one is a free ability boost.
 
-You're trained in Society and the Goka Lore skill. You gain the [[Feats/Streetwise|Streetwise]] skill feat.
+You're trained in Society and the Goka Lore skill. You gain the [[Streetwise|Streetwise]] skill feat.
 
 *Source: Pathfinder: Fists of the Ruby Phoenix Player's Guide*
 *OGL*

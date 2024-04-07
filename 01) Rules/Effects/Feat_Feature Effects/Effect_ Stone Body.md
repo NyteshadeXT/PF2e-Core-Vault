@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by [[Feats/Stone Body|Stone Body]]
+Granted by [[Stone Body|Stone Body]]
 
 You gain resistance 10 to all damage.
 

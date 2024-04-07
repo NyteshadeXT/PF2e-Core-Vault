@@ -11,7 +11,7 @@ license: OGL
 ---
 # Inventor Weapon Expertise
 ## Feat 5
-### [[inventor]]
+### [[01) Rules/Character Building/Feats/Inventor]]
 
 **Category** classfeature; 
 

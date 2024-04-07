@@ -10,9 +10,9 @@ tags:
 # Reanimator
 Most cultures revere the bodies of the deceased, laying to rest the mortal remains of their companions according to tradition formed generations before. Such customs assume a common conclusion: once the spirit that inhabited it has gone on to the Boneyard, the empty shell of a corpse has no purpose beyond its eventual return to the elements that formed it. You know differently. As the vessels that once housed immortal souls, corpses hold great power and potential, perfect construction materials for creations of unsurpassed wonder. As a reanimator, you have chosen to focus your study of the necromantic arts on the transformation of dead flesh into innumerable varieties of undead, from the lowliest shuffling corpses and brittle skeletons to abominations of ghastly splendor barely conceived of by only the most fanatical-or brilliant- mortal minds.
 
-**Additional Feats** 4th [[Feats/Undying Conviction|Undying Conviction]]; 12th [[Feats/Necromancer's Visage|Necromancer's Visage]]; 14th [[Feats/Sepulchral Sublimation|Sepulchral Sublimation]]
+**Additional Feats** 4th [[Undying Conviction|Undying Conviction]]; 12th [[Necromancer's Visage|Necromancer's Visage]]; 14th [[Sepulchral Sublimation|Sepulchral Sublimation]]
 
-## [[Feats/Reanimator Dedication|Reanimator Dedication]] Feat 2
+## [[Reanimator Dedication|Reanimator Dedication]] Feat 2
 
 **Prerequisites** able to cast animate dead with a spell slot
 
@@ -22,7 +22,7 @@ You have dedicated your studies to the art of raising and commanding undead. If 
 
 **Special** You can't select another dedication feat until you have gained two other feats from the reanimator archetype.
 
-## [[Feats/Deathly Secrets|Deathly Secrets]] Feat 6
+## [[Deathly Secrets|Deathly Secrets]] Feat 6
 
 **Prerequisites** Reanimator Dedication
 
@@ -32,7 +32,7 @@ No means of creating or ruling the undead is beyond your grasp, even those of ma
 
 **Special** You can select this feat more than once. Each time, you learn a different spell and your focus pool increases by 1 Focus Point.
 
-## [[Feats/Macabre Virtuoso|Macabre Virtuoso]] Feat 6
+## [[Macabre Virtuoso|Macabre Virtuoso]] Feat 6
 
 **Prerequisites** Reanimator Dedication; expert in Arcana, Occultism, or Religion
 
@@ -44,7 +44,7 @@ When acting as primary caster, you can perform all create undead rituals in 4 ho
 
 **Special** You can select this feat more than once. Each time, you learn the rituals to create two more types of undead creatures.
 
-## [[Feats/Bonds of Death|Bonds of Death]] Feat 8
+## [[Bonds of Death|Bonds of Death]] Feat 8
 
 **Prerequisites** Reanimator Dedication
 
@@ -56,7 +56,7 @@ When acting as primary caster, you can perform all create undead rituals in 4 ho
 
 You sway with the motions of your spells that animate the dead, channeling your power to sustain two at the same time. You Sustain your previous casting of animate dead, binding the necromantic energy of the two spells together with metaphysical twine. On subsequent rounds, you can Sustain both animate dead spells with a single action to Sustain the Spell. This benefit lasts until either of the spells ends.
 
-## [[Feats/Greater Deathly Secrets|Greater Deathly Secrets]] Feat 10
+## [[Greater Deathly Secrets|Greater Deathly Secrets]] Feat 10
 
 **Prerequisites** Deathly Secrets
 
@@ -66,7 +66,7 @@ Your undead secrets grow stronger still. You learn either the [[Spells/Malignant
 
 **Special** You can select this feat more than once. Each time, you learn a different spell and your focus pool increases by 1 Focus Point.
 
-## [[Feats/Master of the Dead|Master of the Dead]] Feat 12
+## [[Master of the Dead|Master of the Dead]] Feat 12
 
 **Prerequisites** Deathly Secrets
 

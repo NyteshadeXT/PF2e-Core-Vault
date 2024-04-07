@@ -10,7 +10,7 @@ tags:
 # Oracle
 A mysterious force granted you divine magic and a curse.
 
-## [[Feats/Oracle Dedication|Oracle Dedication]] Feat 2
+## [[Oracle Dedication|Oracle Dedication]] Feat 2
 
 **Prerequisites** Charisma +2
 
@@ -20,7 +20,7 @@ Choose a mystery. You become trained in Religion and the mystery's skill; if you
 
 **Special** You can't select another dedication feat until you have gained two other feats from the oracle archetype.
 
-## [[Feats/Basic Mysteries|Basic Mysteries]] Feat 4
+## [[Basic Mysteries|Basic Mysteries]] Feat 4
 
 **Prerequisites** Oracle Dedication
 
@@ -28,7 +28,7 @@ Choose a mystery. You become trained in Religion and the mystery's skill; if you
 
 You gain a 1st- or 2nd-level oracle feat of your choice.
 
-## [[Feats/Basic Oracle Spellcasting|Basic Oracle Spellcasting]] Feat 4
+## [[Basic Oracle Spellcasting|Basic Oracle Spellcasting]] Feat 4
 
 **Prerequisites** Oracle Dedication
 
@@ -36,7 +36,7 @@ You gain a 1st- or 2nd-level oracle feat of your choice.
 
 You gain the basic spellcasting benefits. When you gain a spell slot of a new level from the oracle archetype, add a common divine spell or another divine spell you have learned or discovered to your repertoire, of that spell rank.
 
-## [[Feats/First Revelation|First Revelation]] Feat 4
+## [[First Revelation|First Revelation]] Feat 4
 
 **Prerequisites** Oracle Dedication
 
@@ -46,7 +46,7 @@ You gain your mystery's initial revelation spell. Casting this spell progresses 
 
 If you don't have one, you gain a focus pool of 1 Focus Point. You can Refocus by reconciling the conflicting nature of your mystery, which also reduces your curse to minor.
 
-## [[Feats/Advanced Mysteries|Advanced Mysteries]] Feat 6
+## [[Advanced Mysteries|Advanced Mysteries]] Feat 6
 
 **Prerequisites** Basic Mysteries
 
@@ -56,7 +56,7 @@ You gain one oracle feat. For meeting its prerequisites, your oracle level is eq
 
 **Special** You can select this feat more than once. Each time you select it, you gain another oracle feat.
 
-## [[Feats/Mysterious Breadth|Mysterious Breadth]] Feat 8
+## [[Mysterious Breadth|Mysterious Breadth]] Feat 8
 
 **Prerequisites** Basic Oracle Spellcasting
 
@@ -64,7 +64,7 @@ You gain one oracle feat. For meeting its prerequisites, your oracle level is eq
 
 Increase the spell slots you gain from oracle archetype feats by 1 for each spell rank other than your two highest spell ranks.
 
-## [[Feats/Expert Oracle Spellcasting|Expert Oracle Spellcasting]] Feat 12
+## [[Expert Oracle Spellcasting|Expert Oracle Spellcasting]] Feat 12
 
 **Prerequisites** Basic Oracle Spellcasting, master in Religion
 
@@ -72,7 +72,7 @@ Increase the spell slots you gain from oracle archetype feats by 1 for each spel
 
 You gain the expert spellcasting benefits.
 
-## [[Feats/Master Oracle Spellcasting|Master Oracle Spellcasting]] Feat 18
+## [[Master Oracle Spellcasting|Master Oracle Spellcasting]] Feat 18
 
 **Prerequisites** Expert Oracle Spellcasting, legendary in Religion
 

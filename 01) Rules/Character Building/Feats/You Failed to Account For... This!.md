@@ -11,7 +11,7 @@ license: OGL
 ---
 # You Failed to Account For... This! `pf2:r`
 ## Feat 16
-### [[inventor]]
+### [[01) Rules/Character Building/Feats/Inventor]]
 
 **Category** class; 
 

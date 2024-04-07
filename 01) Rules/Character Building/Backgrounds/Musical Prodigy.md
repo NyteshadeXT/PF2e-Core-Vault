@@ -20,7 +20,7 @@ Ever since you were young, you've been almost supernaturally skilled in a partic
 
 Choose two ability boosts. One must be to **Dexterity** or **Charisma**, and one is a free ability boost.
 
-You're trained in Performance and Music Lore. You gain the [[Feats/Virtuosic Performer|Virtuosic Performer]] skill feat.
+You're trained in Performance and Music Lore. You gain the [[Virtuosic Performer|Virtuosic Performer]] skill feat.
 
 * * *
 

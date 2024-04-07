@@ -20,7 +20,7 @@ Haircuts, dentistry, bloodletting, and surgery-if it takes a steady hand and a r
 
 Choose two ability boosts. One must be to **Dexterity** or **Wisdom**, and one is a free ability boost.
 
-You're trained in the Medicine skill and the Surgery Lore skill. You gain the [[Feats/Risky Surgery|Risky Surgery]] skill feat.
+You're trained in the Medicine skill and the Surgery Lore skill. You gain the [[Risky Surgery|Risky Surgery]] skill feat.
 
 *Source: Pathfinder Advanced Player's Guide*
 *OGL*

@@ -22,7 +22,7 @@ The Call for Heroes is one of your hometown's most iconic traditions, and you wa
 
 Choose two ability boosts. One must be to **Constitution** or **Charisma**, and one is a free ability boost.
 
-You're trained in the Crafting skill and the Breachill Lore skill. You gain the [[Feats/Specialty Crafting|Specialty Crafting]] skill feat.
+You're trained in the Crafting skill and the Breachill Lore skill. You gain the [[Specialty Crafting|Specialty Crafting]] skill feat.
 
 *Source: Pathfinder: Age of Ashes Player's Guide*
 *OGL*

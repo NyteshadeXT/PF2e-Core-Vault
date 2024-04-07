@@ -19,7 +19,7 @@ license: OGL
 
 **Prerequisites** Horizon Walker Dedication
 * * *
-You spot anything out of place in the areas you know best. While in your [[Feats/Favored Terrain|Favored Terrain]], you always gain the benefits of the [[Actions/Scout|Scout]] exploration activity, even if you are performing another exploration activity.
+You spot anything out of place in the areas you know best. While in your [[Favored Terrain|Favored Terrain]], you always gain the benefits of the [[Actions/Scout|Scout]] exploration activity, even if you are performing another exploration activity.
 
 If you're legendary in Survival, you gain these benefits in any terrain.
 

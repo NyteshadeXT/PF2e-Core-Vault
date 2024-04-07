@@ -21,7 +21,7 @@ The strands of fate are clear to you, as you have learned many traditional forms
 
 Choose two attribute boosts. One must be to **Intelligence** or **Charisma**, and one is a free attribute boost.
 
-You're trained in the Occultism skill and the Fortune-Telling Lore skill. You gain the [[Feats/Oddity Identification|Oddity Identification]] skill feat.
+You're trained in the Occultism skill and the Fortune-Telling Lore skill. You gain the [[Oddity Identification|Oddity Identification]] skill feat.
 
 *Source: Pathfinder Player Core*
 *ORC*

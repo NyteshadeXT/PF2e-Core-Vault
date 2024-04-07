@@ -6,33 +6,33 @@ Turns Player Core 436
 
 # Basic Actions
 **Aid** DC 15 check to give a +1 circumstance bonus to assisted skill check or attack roll (crit success: +2, +3 if master, +4 if legendary). 
-**Crawl** [one-action] (move) Move 5 feet while prone.
-**Delay** [free-action] Select this when your turn begins; take your turn later.
-**Drop Prone** [one-action] (move) Fall prone.
-**Escape** [one-action] (attack) Attempt to get free when grappled, restrained, or immobilized. Use unarmed attack modifier, Acrobatics, or Athletics.
-**Interact** [one-action] (manipulate) Grab an object, open a door, draw an item, or do a similar action.
-**Leap** [one-action] (move) Jump horizontally 10 feet (15 feet if your Speed is 30 feet or more), or vertically 3 feet and horizontally 5 feet.
-**Ready** [two-actions] (concentrate) Prepare to take a single action or free action as a reaction with a trigger you designate.
-**Release** [free-action] (manipulate) Release something you’re holding without triggering reactions.
-**Seek** [one-action] (concentrate, secret) Scan a 30ft area for signs of creatures or objects using Perception.
-**Sense Motive** [one-action] (concentrate, secret) See if a creature's behavior is abnormal. 
-**Stand** [one-action] (move) You stand up from prone. 
-**Step** [one-action] (move) Move 5 feet without triggering reactions.
-**Stride** [one-action] (move) Move up to your Speed.
-**Strike** [one-action] (attack) Attack with a weapon or unarmed attack.
-**Take Cover** [one-action] Gain cover, or get greater cover if you have cover.
+**Crawl** `pf2:1` (move) Move 5 feet while prone.
+**Delay** `pf2:0` Select this when your turn begins; take your turn later.
+**Drop Prone** `pf2:1` (move) Fall prone.
+**Escape** `pf2:1` (attack) Attempt to get free when grappled, restrained, or immobilized. Use unarmed attack modifier, Acrobatics, or Athletics.
+**Interact** `pf2:1` (manipulate) Grab an object, open a door, draw an item, or do a similar action.
+**Leap** `pf2:1` (move) Jump horizontally 10 feet (15 feet if your Speed is 30 feet or more), or vertically 3 feet and horizontally 5 feet.
+**Ready** `pf2:2` (concentrate) Prepare to take a single action or free action as a reaction with a trigger you designate.
+**Release** `pf2:0` (manipulate) Release something you’re holding without triggering reactions.
+**Seek** `pf2:1` (concentrate, secret) Scan a 30ft area for signs of creatures or objects using Perception.
+**Sense Motive** `pf2:1` (concentrate, secret) See if a creature's behavior is abnormal. 
+**Stand** `pf2:1` (move) You stand up from prone. 
+**Step** `pf2:1` (move) Move 5 feet without triggering reactions.
+**Stride** `pf2:1` (move) Move up to your Speed.
+**Strike** `pf2:1` (attack) Attack with a weapon or unarmed attack.
+**Take Cover** `pf2:1` Gain cover, or get greater cover if you have cover.
 
 # Speciality Basic Actions
 **Arrest a Fall** [reaction] Use Acrobatics or Reflex to slow your fall while flying.
-**Avert Gaze** [one-action] Get a +2 circumstance bonus against visual abilities.
-**Burrow** [one-action] (move) Move up to your burrow Speed.
-**Dismiss** [one-action] (concentrate) End an effect that states you can dismiss it.
-**Fly** [one-action] (move) Move up to your fly Speed. Moving upward counts as traveling through difficult terrain. You can move straight down 10 feet for every 5 feet of movement you spend. If you’re airborne at the end of your turn and didn’t Fly this round, you fall.
+**Avert Gaze** `pf2:1` Get a +2 circumstance bonus against visual abilities.
+**Burrow** `pf2:1` (move) Move up to your burrow Speed.
+**Dismiss** `pf2:1` (concentrate) End an effect that states you can dismiss it.
+**Fly** `pf2:1` (move) Move up to your fly Speed. Moving upward counts as traveling through difficult terrain. You can move straight down 10 feet for every 5 feet of movement you spend. If you’re airborne at the end of your turn and didn’t Fly this round, you fall.
 **Grab an Edge** [reaction] (manipulate) Use Acrobatics or Reflex to try to catch something stoping a fall.
-**Mount** [one-action] (move) Get on an allied animal bigger than you to ride it or dismount if you are already mounted.
-**Point Out** [one-action] (auditory, manipulate, visual) Reveal unobserved creature.
-**Raise a Shield** [one-action] Put up a shield to get its bonus to AC.
-**Sustain** [one-action] Choose one of your effects that has a sustained duration or lists a special benefit when you Sustain it.
+**Mount** `pf2:1` (move) Get on an allied animal bigger than you to ride it or dismount if you are already mounted.
+**Point Out** `pf2:1` (auditory, manipulate, visual) Reveal unobserved creature.
+**Raise a Shield** `pf2:1` Put up a shield to get its bonus to AC.
+**Sustain** `pf2:1` Choose one of your effects that has a sustained duration or lists a special benefit when you Sustain it.
 
 # Death and Dying
 **Knocked Out** When reduced to 0 HP, move your initiative to directly before the creature or effect that reduced you to 0 HP. Gain dying 1, or dying 2 if the damage came from a critical hit or your critical failure on a save. A nonlethal effect makes you unconscious at 0 HP and doesn’t give you the dying condition. If you have the wounded condition, increase your dying value by an amount equal to your wounded value.

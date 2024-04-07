@@ -19,7 +19,7 @@ license: OGL
 
 **Prerequisites** Cat Nap; Focus Pool
 * * *
-When you [[Feats/Cat Nap|Cat Nap]], you can also [[Actions/Refocus|Refocus]] as you dream of a relevant activity.
+When you [[Cat Nap|Cat Nap]], you can also [[Actions/Refocus|Refocus]] as you dream of a relevant activity.
 
 *Source: Pathfinder Lost Omens: Ancestry Guide*
 *OGL*

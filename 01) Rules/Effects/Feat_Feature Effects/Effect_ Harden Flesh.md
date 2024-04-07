@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by [[Feats/Harden Flesh|Harden Flesh]]
+Granted by [[Harden Flesh|Harden Flesh]]
 
 You gain resistance 3 to physical damage, except adamantine, until the beginning of your next turn.
 

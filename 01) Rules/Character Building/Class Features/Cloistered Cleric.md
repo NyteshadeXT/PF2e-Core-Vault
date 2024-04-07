@@ -21,7 +21,7 @@ license: ORC
 
 You are a cleric of the cloth, focusing on divine magic and your connection to your deity's domains.
 
-**First Doctrine (1st):** You gain the [[Feats/Domain Initiate|Domain Initiate]] cleric feat.
+**First Doctrine (1st):** You gain the [[Domain Initiate|Domain Initiate]] cleric feat.
 
 **Second Doctrine (3rd):** Your proficiency rank for Fortitude saves increases to expert.
 

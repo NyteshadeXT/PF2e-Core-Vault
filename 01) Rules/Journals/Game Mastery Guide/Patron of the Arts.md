@@ -8,4 +8,4 @@ tags:
 ---
 This character encouraged you to excel at a type of performance you loved, even going so far as to support you in lean times.
 
-Add the [[Feats/Virtuosic Performer|Virtuosic Performer]] skill feat to your background options.
+Add the [[Virtuosic Performer|Virtuosic Performer]] skill feat to your background options.

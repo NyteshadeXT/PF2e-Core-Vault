@@ -14,13 +14,13 @@ While most who hunt undead do so out of fear, vengeance, or a desire to protect 
 
 Nearly all soul wardens worship [[Deities/Pharasma|Pharasma]] or one of the psychopomp ushers, especially [[Deities/Barzahk|Barzahk]] the Passage, a psychopomp usher who routinely shirks their duties and needs help from mortal soul wardens. Soul wardens also often join organizations that regularly combat undead, including the Voices of the Spire and Ustalav's Ivory Reapers (page 14).
 
-**Additional Feats**: 4th [[Feats/Domain Initiate|Domain Initiate]], Familiar; 8th [[Feats/Expanded Domain Initiate|Expanded Domain Initiate]]; 16th [[Feats/Advanced Domain|Advanced Domain]]
+**Additional Feats**: 4th [[Domain Initiate|Domain Initiate]], Familiar; 8th [[Expanded Domain Initiate|Expanded Domain Initiate]]; 16th [[Advanced Domain|Advanced Domain]]
 
 THE SOUL CYCLE
 
 A soul's journey begins on the Forge of Creation, where blank, empty souls attach themselves alongside the vitality essence of the plane to mortals on the Material Plane, forming a single living being. At the end of a mortal's life, these souls enter the Ethereal Plane, progressing through the River of Souls to Pharasma's Boneyard, where they're judged and sorted into the appropriate afterlife. Judged souls proceed to their assigned planes, becoming petitioners. These, too, die in time, becoming absorbed by and expanding their associated plane, as their own spiritual essence joins with the plane's as a substance known as quintessence. But the ever-churning Maelstrom breaks these planes down, scattering this planar quintessence throughout the Maelstrom and adjoining planes. Those pieces that land on the Forge of Creation eventually form new blank souls and the cycle begins anew.
 
-## [[Feats/Soul Warden Dedication|Soul Warden Dedication]] Feat 2
+## [[Soul Warden Dedication|Soul Warden Dedication]] Feat 2
 
 **Prerequisites** trained in Occultism or Religion, worships Pharasma or a psychopomp usher
 
@@ -36,7 +36,7 @@ When you have at least two other feats from this archetype, the spiral glows wit
 
 **Special** You can't select another dedication feat until you have gained two other feats from the soul warden archetype.
 
-## [[Feats/Cycle Spell|Cycle Spell]] Feat 4
+## [[Cycle Spell|Cycle Spell]] Feat 4
 
 **Prerequisites** Soul Warden Dedication
 
@@ -44,7 +44,7 @@ When you have at least two other feats from this archetype, the spiral glows wit
 
 Your devotion to the cycle of souls grants you an additional divine spell. Choose from [[Spells/Bless|Bless]], [[Spells/Infuse Vitality|Infuse Vitality]], or [[Spells/Heal|Heal]]. You must make this selection when you take this feat and it can't be changed. Once per day, while your spiral is glowing, you can cast the selected spell as a divine innate spell.
 
-## [[Feats/Psychopomp Familiar|Psychopomp Familiar]] Feat 4
+## [[Psychopomp Familiar|Psychopomp Familiar]] Feat 4
 
 **Prerequisites** Soul Warden Dedication, familiar
 
@@ -57,7 +57,7 @@ You can select three familiar or master abilities each day, instead of two, but 
 *   **Soul Sight** Your familiar gains lifesense with a range of 30 feet.
 *   **Spirit Touch** Your familiar can touch incorporeal creatures. If you have the spell delivery master ability from your familiar, any spell the familiar delivers with it gains the benefits of the [[Equipment/Ghost Touch|Ghost Touch]] property rune.
 
-## [[Feats/Liberate Soul|Liberate Soul]] Feat 6
+## [[Liberate Soul|Liberate Soul]] Feat 6
 
 **Prerequisites** Soul Warden Dedication
 
@@ -65,7 +65,7 @@ You can select three familiar or master abilities each day, instead of two, but 
 
 The light flows from your sigil of Pharasma to shatter the bonds imprisoning a soul. You attempt to counteract a possession effect, or an effect, object, or spell that is imprisoning a soul (such as [[Spells/Seize Soul|Seize Soul]], a soul gem, or a devourer's devoured souls). You must be within 60 feet of the possessed creature or object, or of the receptacle imprisoning the soul. Your counteract rank is half your level rounded up, and your counteract modifier is your divine spell DC - 10. If the attempt fails, you can't use Liberate Soul against that particular effect again unless circumstances have changed drastically, as determined by the GM.
 
-## [[Feats/Spiral Sworn|Spiral Sworn]] Feat 6
+## [[Spiral Sworn|Spiral Sworn]] Feat 6
 
 **Prerequisites** Soul Warden Dedication
 
@@ -75,7 +75,7 @@ You trace a spiral in the air while intoning prayers to Pharasma, gaining her bl
 
 If your spiral is glowing, you can target a willing creature in its light. If you do, that creature gains the bonuses instead of you.
 
-## [[Feats/Enhanced Psychopomp Familiar|Enhanced Psychopomp Familiar]] Feat 8
+## [[Enhanced Psychopomp Familiar|Enhanced Psychopomp Familiar]] Feat 8
 
 **Prerequisites** Psychopomp Familiar
 
@@ -85,7 +85,7 @@ Your psychopomp's continued service in Pharasma's name brings it favor from the 
 
 *   **Augury** Your familiar can glimpse the strands of fate to give you a cryptic clue regarding your future. Your familiar can cast [[Spells/Augury|Augury]] once per day using your magical tradition and spell DC. You must be at least 8th level to select this ability.
 
-## [[Feats/Safeguard Soul|Safeguard Soul]] Feat 8
+## [[Safeguard Soul|Safeguard Soul]] Feat 8
 
 **Prerequisites** Soul Warden Dedication
 
@@ -93,7 +93,7 @@ Your psychopomp's continued service in Pharasma's name brings it favor from the 
 
 You've girded your soul against outside interference. You gain a +2 status bonus to saving throws against death effects, possession effects, and effects that attempt to manipulate or steal your soul. You can't be transformed into an undead by any means. While your spiral is glowing, your allies in the light of the spiral gain this benefit as well.
 
-## [[Feats/Expand Spiral|Expand Spiral]] Feat 10
+## [[Expand Spiral|Expand Spiral]] Feat 10
 
 **Prerequisites** Spiral Sworn
 

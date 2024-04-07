@@ -20,7 +20,7 @@ Whether by instinct or study, magic is one of your most notable talents. Your un
 
 Choose two ability boosts. One must be to **Intelligence** or **Wisdom**, and one is a free ability boost.
 
-You're trained in your choice of the Arcana, Nature, Occultism, or Religion skill, and gain Thassilonian as a bonus language. You also gain the [[Feats/Quick Identification|Quick Identification]] skill feat.
+You're trained in your choice of the Arcana, Nature, Occultism, or Religion skill, and gain Thassilonian as a bonus language. You also gain the [[Quick Identification|Quick Identification]] skill feat.
 
 *Source: Pathfinder Adventure: Rusthenge*
 *OGL*

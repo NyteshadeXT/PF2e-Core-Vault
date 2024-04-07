@@ -11,7 +11,7 @@ license: OGL
 ---
 # Infinite Invention
 ## Feat 19
-### [[inventor]]
+### [[01) Rules/Character Building/Feats/Inventor]]
 
 **Category** classfeature; 
 

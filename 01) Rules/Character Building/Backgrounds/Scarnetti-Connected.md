@@ -24,7 +24,7 @@ Your home might be with your family, or you could have been staying in a room re
 
 Choose two attribute boosts. One must be to **Charisma** or **Dexterity**, and one is a free attribute boost.
 
-You're trained in the Intimidation skill and the Mercantile Lore skill. You gain the [[Feats/Charming Liar|Charming Liar]] skill feat. Increase the party's reputation with the Scarnetti Consortium by 1 and reduce the party's reputation with the Sandpoint Cathedral by 1.
+You're trained in the Intimidation skill and the Mercantile Lore skill. You gain the [[Charming Liar|Charming Liar]] skill feat. Increase the party's reputation with the Scarnetti Consortium by 1 and reduce the party's reputation with the Sandpoint Cathedral by 1.
 
 *Source: Pathfinder: Seven Dooms for Sandpoint Player's Guide*
 *OGL*

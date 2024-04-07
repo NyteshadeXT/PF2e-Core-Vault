@@ -24,7 +24,7 @@ The devastation and carnage of the Worldwound were nearly complete, but you some
 
 Choose two ability boosts. One must be to **Strength** or **Constitution**, and one is a free boost.
 
-You're trained in the Survival skill and the Sarkorian History Lore skill. You gain the [[Feats/Forager|Forager]] skill feat.
+You're trained in the Survival skill and the Sarkorian History Lore skill. You gain the [[Forager|Forager]] skill feat.
 
 *Source: Pathfinder Lost Omens: World Guide*
 *OGL*

@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by [[Feats/Jellyfish Stance|Jellyfish Stance]]
+Granted by [[Jellyfish Stance|Jellyfish Stance]]
 
 **Requirements** You are unarmored.
 

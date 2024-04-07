@@ -21,7 +21,7 @@ The thrill of the win drew you into games of chance. This might have been a lucr
 
 Choose two attribute boosts. One must be to **Dexterity** or **Charisma**, and one is a free attribute boost.
 
-You're trained in the Deception skill and the Games Lore skill. You gain the [[Feats/Lie to Me|Lie To Me]] skill feat.
+You're trained in the Deception skill and the Games Lore skill. You gain the [[Lie to Me|Lie To Me]] skill feat.
 
 *Source: Pathfinder Player Core*
 *ORC*

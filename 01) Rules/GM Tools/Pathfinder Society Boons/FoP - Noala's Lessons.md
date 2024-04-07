@@ -21,7 +21,7 @@ license: OGL
 
 * * *
 
-**Effect** You gain access to either the ranger feat [[Feats/Relentless Stalker|Relentless Stalker]] or the skill feat [[Feats/Wilderness Spotter|Wilderness Spotter]]. Once you have taken one of these feats, check the box next to this boon and cross the other one out.
+**Effect** You gain access to either the ranger feat [[Relentless Stalker|Relentless Stalker]] or the skill feat [[Wilderness Spotter|Wilderness Spotter]]. Once you have taken one of these feats, check the box next to this boon and cross the other one out.
 
 *Source: *
 *OGL*

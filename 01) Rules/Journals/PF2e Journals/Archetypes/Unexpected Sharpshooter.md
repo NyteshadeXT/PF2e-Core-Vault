@@ -27,7 +27,7 @@ If your inclination is to play a character who hides their abilities, consider t
 
 If you instead prefer to play a character who's legitimately a bit uncoordinated but abnormally lucky, you might choose to pursue actions that have a high chance of earning you a Hero Point. You could also consider taking abilities with the fortune or misfortune traits, such as Halfling Luck or Harbinger's Caw.
 
-## [[Feats/Unexpected Sharpshooter Dedication|Unexpected Sharpshooter Dedication]] Feat 2
+## [[Unexpected Sharpshooter Dedication|Unexpected Sharpshooter Dedication]] Feat 2
 
 * * *
 
@@ -39,9 +39,9 @@ Who needs skill when you've got dumb luck? Sometimes your shots hit miraculously
 
 **Special** You can't select another dedication feat until you've gained two other feats from the unexpected sharpshooter archetype.
 
-## [[Feats/Lucky Escape|Lucky Escape]] Feat 4
+## [[Lucky Escape|Lucky Escape]] Feat 4
 
-**Prerequisites** [[Feats/Unexpected Sharpshooter Dedication|Unexpected Sharpshooter Dedication]]
+**Prerequisites** [[Unexpected Sharpshooter Dedication|Unexpected Sharpshooter Dedication]]
 
 * * *
 
@@ -53,9 +53,9 @@ Who needs skill when you've got dumb luck? Sometimes your shots hit miraculously
 
 Your enemy lies in wait, lines up the perfect shot, and pulls the trigger... then at just the right moment you duck down to notice something scrawled on the cobblestone in chalk, a shiny coin, or some other coincidental distraction, creating an opportunity for the attack to miss. The attacker must roll the attack twice and use the worse result.
 
-## [[Feats/No Hard Feelings|No Hard Feelings]] Feat 6
+## [[No Hard Feelings|No Hard Feelings]] Feat 6
 
-**Prerequisites** [[Feats/Unexpected Sharpshooter Dedication|Unexpected Sharpshooter Dedication]]
+**Prerequisites** [[Unexpected Sharpshooter Dedication|Unexpected Sharpshooter Dedication]]
 
 * * *
 
@@ -63,7 +63,7 @@ Despite the devastation your weapons tend to inflict upon their targets or the d
 
 ## [[Feats/That Was a Close One, Huh\_|That Was a Close One, Huh?]] Feat 7
 
-**Prerequisites** [[Feats/Unexpected Sharpshooter Dedication|Unexpected Sharpshooter Dedication]]
+**Prerequisites** [[Unexpected Sharpshooter Dedication|Unexpected Sharpshooter Dedication]]
 
 * * *
 
@@ -75,25 +75,25 @@ Despite the devastation your weapons tend to inflict upon their targets or the d
 
 You laugh innocently about the inexplicable luck of your last shot hitting its mark or how close the attack that just missed you came to taking your head off, causing your foes to second guess whether it's a good idea to oppose you in battle. Attempt to [[Actions/Demoralize|Demoralize]] either the foe you hit with Accidental Shot or the foe that missed you due to Lucky Escape. You use Deception instead of Intimidation to attempt the check to Demoralize.
 
-## [[Feats/Unbelievable Luck|Unbelievable Luck]] Feat 8
+## [[Unbelievable Luck|Unbelievable Luck]] Feat 8
 
-**Prerequisites** [[Feats/Unexpected Sharpshooter Dedication|Unexpected Sharpshooter Dedication]]
+**Prerequisites** [[Unexpected Sharpshooter Dedication|Unexpected Sharpshooter Dedication]]
 
 * * *
 
 While no one, not even you, might appear to understand why, you demonstrate a greater ability to hit your targets regardless of the obstacles in your way. You can use the Accidental Shot activity granted to you by the Unexpected Sharpshooter Dedication once per hour instead of once per day.
 
-## [[Feats/Unbelievable Escape|Unbelievable Escape]] Feat 10
+## [[Unbelievable Escape|Unbelievable Escape]] Feat 10
 
-**Prerequisites** [[Feats/Unexpected Sharpshooter Dedication|Unexpected Sharpshooter Dedication]]
+**Prerequisites** [[Unexpected Sharpshooter Dedication|Unexpected Sharpshooter Dedication]]
 
 * * *
 
 Your ability to narrowly evade danger defies all logic. You can use Lucky Escape once per hour instead of once per day.
 
-## [[Feats/I Meant to do That|I Meant to do That]] Feat 10
+## [[I Meant to do That|I Meant to do That]] Feat 10
 
-**Prerequisites** [[Feats/Unexpected Sharpshooter Dedication|Unexpected Sharpshooter Dedication]], trained in Deception
+**Prerequisites** [[Unexpected Sharpshooter Dedication|Unexpected Sharpshooter Dedication]], trained in Deception
 
 * * *
 
@@ -105,9 +105,9 @@ Your ability to narrowly evade danger defies all logic. You can use Lucky Escape
 
 Somehow your stray bullet causes an unintended reaction that creates a problem for your enemy: perhaps a ricochet knocks your foe's weapon away or they stumble over stray debris in an attempt to dodge your bullets. Roll a Deception check to attempt to [[Actions/Shove|Shove]], [[Actions/Trip|Trip]], or [[Actions/Disarm|Disarm]] the foe you missed.
 
-## [[Feats/Chain Reaction|Chain Reaction]] Feat 12
+## [[Chain Reaction|Chain Reaction]] Feat 12
 
-**Prerequisites** [[Feats/Unexpected Sharpshooter Dedication|Unexpected Sharpshooter Dedication]]
+**Prerequisites** [[Unexpected Sharpshooter Dedication|Unexpected Sharpshooter Dedication]]
 
 * * *
 

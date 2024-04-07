@@ -20,7 +20,7 @@ license: ORC
 
 **Prerequisites** Ricochet Stance
 * * *
-While in [[Feats/Ricochet Stance (Rogue)|Ricochet Stance]], you can bounce a thrown weapon off a foe to distract them. You can attempt a [[Actions/Feint|Feint]] against a creature within the first range increment of a thrown weapon you are wielding, rather than only creatures within your melee reach.
+While in [[Ricochet Stance (Rogue)|Ricochet Stance]], you can bounce a thrown weapon off a foe to distract them. You can attempt a [[Actions/Feint|Feint]] against a creature within the first range increment of a thrown weapon you are wielding, rather than only creatures within your melee reach.
 
 *Source: Pathfinder Player Core*
 *ORC*

@@ -10,7 +10,7 @@ tags:
 # Psychic
 You've awoken the latent abilities of your mind, taking your first steps into wielding psychic magic.
 
-## [[Feats/Psychic Dedication|Psychic Dedication]] Feat 2
+## [[Psychic Dedication|Psychic Dedication]] Feat 2
 
 **Prerequisites** Intelligence +2 or Charisma +2
 
@@ -22,7 +22,7 @@ You feel something awaken within your mind. You become trained in Occultism; if 
 
 **Special** You can't select another dedication feat until you have gained two other feats from the psychic archetype.
 
-## [[Feats/Basic Psychic Spellcasting|Basic Psychic Spellcasting]] Feat 4
+## [[Basic Psychic Spellcasting|Basic Psychic Spellcasting]] Feat 4
 
 **Prerequisites** Psychic Dedication
 
@@ -30,7 +30,7 @@ You feel something awaken within your mind. You become trained in Occultism; if 
 
 You gain the basic spellcasting benefits. When you gain a spell slot of a new level from the psychic archetype, add a spell of the appropriate spell rank to your repertoire: a common occult spell, one of the granted spells from your conscious mind, or another spell you've learned or discovered.
 
-## [[Feats/Basic Thoughtform|Basic Thoughtform]] Feat 4
+## [[Basic Thoughtform|Basic Thoughtform]] Feat 4
 
 **Prerequisites** Psychic Dedication
 
@@ -38,7 +38,7 @@ You gain the basic spellcasting benefits. When you gain a spell slot of a new le
 
 You gain a 1st- or 2nd-level psychic feat of your choice.
 
-## [[Feats/Advanced Thoughtform|Advanced Thoughtform]] Feat 6
+## [[Advanced Thoughtform|Advanced Thoughtform]] Feat 6
 
 **Prerequisites** Basic Thoughtform
 
@@ -50,7 +50,7 @@ You gain one psychic feat. For the purpose of meeting its prerequisites, your ps
 
 **Special** You can select this feat more than once. Each time you select it, you gain another psychic feat.
 
-## [[Feats/Psi Development|Psi Development]] Feat 6
+## [[Psi Development|Psi Development]] Feat 6
 
 **Prerequisites** Psychic Dedication
 
@@ -58,7 +58,7 @@ You gain one psychic feat. For the purpose of meeting its prerequisites, your ps
 
 You've found a new mental form. You gain another psi cantrip from your conscious mind: either the standard cantrip you didn't take with Psychic Dedication, or the unique surface psi cantrip. You gain the benefits and the amp for this second psi cantrip. Increase the number of Focus Points in your focus pool by 1.
 
-## [[Feats/Expert Psychic Spellcasting|Expert Psychic Spellcasting]] Feat 12
+## [[Expert Psychic Spellcasting|Expert Psychic Spellcasting]] Feat 12
 
 **Prerequisites** Basic Psychic Spellcasting; master in Occultism
 
@@ -66,7 +66,7 @@ You've found a new mental form. You gain another psi cantrip from your conscious
 
 You gain the expert spellcasting benefits.
 
-## [[Feats/Master Psychic Spellcasting|Master Psychic Spellcasting]] Feat 18
+## [[Master Psychic Spellcasting|Master Psychic Spellcasting]] Feat 18
 
 **Prerequisites** Expert Psychic Spellcasting; legendary in Occultism
 

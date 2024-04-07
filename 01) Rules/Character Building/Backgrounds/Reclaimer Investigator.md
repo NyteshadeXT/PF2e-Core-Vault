@@ -20,7 +20,7 @@ You believe the mysterious patron of the Crimson Reclaimers has an ulterior moti
 
 Choose two ability boosts. One must be to **Intelligence** or **Wisdom**, and one is a free ability boost.
 
-You're trained in the Occultism skill and the Crimson Reclaimers Lore skill. You gain the [[Feats/Oddity Identification|Oddity Identification]] skill feat.
+You're trained in the Occultism skill and the Crimson Reclaimers Lore skill. You gain the [[Oddity Identification|Oddity Identification]] skill feat.
 
 *Source: Pathfinder Lost Omens: Knights of Lastwall*
 *OGL*

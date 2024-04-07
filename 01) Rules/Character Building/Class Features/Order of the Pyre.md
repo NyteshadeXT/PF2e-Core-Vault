@@ -23,9 +23,9 @@ The Order of the Pyre is dedicated to eliminating those faiths and beliefs they 
 
 * * *
 
-**Lesser Benefit** [[Feats/Righteous Resistance|Righteous Resistance]]
+**Lesser Benefit** [[Righteous Resistance|Righteous Resistance]]
 
-**Greater Benefit** [[Feats/Spiritual Disruption|Spiritual Disruption]]
+**Greater Benefit** [[Spiritual Disruption|Spiritual Disruption]]
 
 *Source: Pathfinder Lost Omens: Character Guide*
 *OGL*

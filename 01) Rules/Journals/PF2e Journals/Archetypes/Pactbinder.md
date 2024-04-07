@@ -14,7 +14,7 @@ As a pactbinder, you make deals with strange entities, otherworldly beings, and 
 
 All these things, you can and must consider in every pact. In addition to pacts, you might also pursue magical contracts. While less of a metaphysical commitment than a pact, contracts offer similar benefits you just can't resist— and you can employ your skill set as a pactbinder to manipulate the precise wording of the bargain.
 
-## [[Feats/Pactbinder Dedication|Pactbinder Dedication]] Feat 2
+## [[Pactbinder Dedication|Pactbinder Dedication]] Feat 2
 
 **Prerequisites** trained in Diplomacy as well as either Arcana, Nature, Occultism, or Religion
 
@@ -28,7 +28,7 @@ The first step toward forming a successful pact is an understanding of the magic
 
 **Special** You can't select another dedication feat until you've gained two other feats from the pactbinder archetype.
 
-## [[Feats/Pact of Fey Glamour|Pact of Fey Glamour]] Feat 4
+## [[Pact of Fey Glamour|Pact of Fey Glamour]] Feat 4
 
 **Prerequisites** Pactbinder Dedication
 
@@ -38,7 +38,7 @@ You've sworn a pact with fey powers, granting you the otherworldly appearance of
 
 In exchange, you promise to accept any fey's request for hospitality, granting them food, drink, and lodging for up to 3 days and 3 nights. You also promise not to harm any creature to whom you've offered hospitality or who has shown hospitality to you, whether or not that creature is fey, unless that creature does harm first. If you refuse hospitality to a fey or violate hospitality, you lose the benefits of this feat until you atone for your transgressions, instantly reverting your appearance to the one you had before the pact.
 
-## [[Feats/Sociable Vow|Sociable Vow]] Feat 4
+## [[Sociable Vow|Sociable Vow]] Feat 4
 
 **Prerequisites** Pactbinder Dedication; expert in Diplomacy
 
@@ -46,7 +46,7 @@ In exchange, you promise to accept any fey's request for hospitality, granting t
 
 You can leverage your vow in more social interactions. The circumstance bonus from your Binding Vow also applies to attempts to Gather Information, [[Actions/Make an Impression|Make an Impression]], or [[Actions/Demoralize|Demoralize]] you make directly in service of fulfilling the vow.
 
-## [[Feats/Pact of Draconic Fury|Pact of Draconic Fury]] Feat 6
+## [[Pact of Draconic Fury|Pact of Draconic Fury]] Feat 6
 
 **Prerequisites** Pactbinder Dedication
 
@@ -54,7 +54,7 @@ You can leverage your vow in more social interactions. The circumstance bonus fr
 
 You've sworn a pact with a dragon, giving you the ability to tap into the dragon's immeasurable power in exchange for adding to their hoard. You gain the [[Actions/Dragon Breath|Dragon Breath]] activity. In exchange, you promise to search for objects the dragon wants for its hoard upon request. These requests might be extremely specific unique objects, or they might be a broad category of objects. While the dragon agrees to pay you a fair price for the item you retrieve, the pact requires you to give your time and service.
 
-## [[Feats/Pact of Infernal Prowess|Pact of Infernal Prowess]] Feat 8
+## [[Pact of Infernal Prowess|Pact of Infernal Prowess]] Feat 8
 
 **Prerequisites** Pactbinder Dedication
 
@@ -66,7 +66,7 @@ You've sworn a pact with devils, granting you success in life in exchange for yo
 
 **Special** You can't retrain out of a Pact of Infernal Prowess without journeying to Hell and destroying the devil's written contract spelling out the terms of your pact.
 
-## [[Feats/Pact of the Final Breath|Pact of the Final Breath]] Feat 12
+## [[Pact of the Final Breath|Pact of the Final Breath]] Feat 12
 
 **Prerequisites** Pactbinder Dedication
 
@@ -76,7 +76,7 @@ You've sworn a pact with a powerful psychopomp-typically an olethros advocate or
 
 In exchange, you swear to treat the dead you come across with respect, performing last rites and final dispositions to ensure their spirits rest in peace and are less likely to rise as undead. Furthermore, you swear to destroy undead you come across, so long as it's within your power to do so without inordinate risk to yourself. Violating your part of the pact causes its protections to immediately end. If at that point you had already lived beyond your natural lifespan, the psychopomps typically give you a few moments to make any last farewells, and then you simply breathe your final breath and pass on.
 
-## [[Feats/Pact of Eldritch Eyes|Pact of Eldritch Eyes]] Feat 14
+## [[Pact of Eldritch Eyes|Pact of Eldritch Eyes]] Feat 14
 
 **Prerequisites** Pactbinder Dedication
 

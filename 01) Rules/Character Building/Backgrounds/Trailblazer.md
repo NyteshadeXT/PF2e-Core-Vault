@@ -20,7 +20,7 @@ Uncharted realms have always intrigued you, and you've explored and mapped large
 
 Choose two ability boosts. One must be to **Constitution** or **Wisdom**, and one is a free ability boost.
 
-You're trained in the Survival skill and the Cartography Lore skill. You gain the [[Feats/Terrain Expertise|Terrain Expertise]] skill feat with one terrain you've explored (such as forest or underground).
+You're trained in the Survival skill and the Cartography Lore skill. You gain the [[Terrain Expertise|Terrain Expertise]] skill feat with one terrain you've explored (such as forest or underground).
 
 *Source: Pathfinder Lost Omens: Pathfinder Society Guide*
 *OGL*

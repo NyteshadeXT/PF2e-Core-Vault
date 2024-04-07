@@ -22,7 +22,7 @@ You've decided to respond to the Call for Heroes to follow in your ancestor's fo
 
 Choose two ability boosts. One must be to **Dexterity** or **Wisdom**, and one is a free ability boost.
 
-You're trained in the Thievery skill and the Engineering Lore skill. You gain the [[Feats/Pickpocket|Pickpocket]] skill feat.
+You're trained in the Thievery skill and the Engineering Lore skill. You gain the [[Pickpocket|Pickpocket]] skill feat.
 
 *Source: Pathfinder: Age of Ashes Player's Guide*
 *OGL*

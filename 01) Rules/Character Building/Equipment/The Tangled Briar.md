@@ -26,7 +26,7 @@ license: OGL
 
 * * *
 
-_The Tangled Briar_ signifies the return of ancient triumphs. As long as you have _The Tangled Briar_ invested, you gain [[Feats/Toughness|Toughness]] as a bonus feat. If you already possess this feat, increase your maximum Hit Points by twice your level.
+_The Tangled Briar_ signifies the return of ancient triumphs. As long as you have _The Tangled Briar_ invested, you gain [[Toughness|Toughness]] as a bonus feat. If you already possess this feat, increase your maximum Hit Points by twice your level.
 
 **Activate** `pf2:2` envision, Interact
 

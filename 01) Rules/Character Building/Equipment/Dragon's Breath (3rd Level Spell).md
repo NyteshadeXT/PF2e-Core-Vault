@@ -27,7 +27,7 @@ This rune depicts a specific type of dragon, resizing after application to fit t
 
 * * *
 
-**Effect** If your next action is to [[Actions/Cast a Spell|Cast a Spell]] with an area of effect that deals the same type of damage as the depicted dragon's breath weapon, the spell gains the effects of the [[Feats/Widen Spell|Widen Spell]] feat. The rune can only affect spells of 3rd level or lower.
+**Effect** If your next action is to [[Actions/Cast a Spell|Cast a Spell]] with an area of effect that deals the same type of damage as the depicted dragon's breath weapon, the spell gains the effects of the [[Widen Spell|Widen Spell]] feat. The rune can only affect spells of 3rd level or lower.
 
 *Source: Pathfinder Lost Omens: The Grand Bazaar*
 *OGL*

@@ -10,9 +10,9 @@ tags:
 # Duelist
 Across the world, students in martial academies practice with their blades to master one-on-one combat. The libraries of such schools hold deep troves of information detailing hundreds of combat techniques, battle stances, and honorable rules of engagement. Those who gain admission to such schools might train in formalized duels-and that's certainly the more genteel route to take. However, others assert that there's no better place to try out dueling techniques than in the life-and-death struggles common to an adventurer's life.
 
-**Additional Feats** 4th [[Feats/Dueling Parry (Fighter)|Dueling Parry]]; 8th [[Feats/Disarming Stance|Disarming Stance]]; 10th [[Feats/Dueling Riposte|Dueling Riposte]]; 12th [[Feats/Disarming Twist|Disarming Twist]]; 14th [[Feats/Dueling Dance (Fighter)|Dueling Dance]], [[Feats/Improved Dueling Riposte|Improved Dueling Riposte]]; 16th [[Feats/Guiding Riposte|Guiding Riposte]]
+**Additional Feats** 4th [[Dueling Parry (Fighter)|Dueling Parry]]; 8th [[Disarming Stance|Disarming Stance]]; 10th [[Dueling Riposte|Dueling Riposte]]; 12th [[Disarming Twist|Disarming Twist]]; 14th [[Dueling Dance (Fighter)|Dueling Dance]], [[Improved Dueling Riposte|Improved Dueling Riposte]]; 16th [[Guiding Riposte|Guiding Riposte]]
 
-## [[Feats/Duelist Dedication|Duelist Dedication]] Feat 2
+## [[Duelist Dedication|Duelist Dedication]] Feat 2
 
 **Prerequisites** trained in light armor and simple weapons
 
@@ -22,7 +22,7 @@ You are always ready to draw your weapon and begin a duel, no matter the circums
 
 **Special** You can't select another dedication feat until you have gained two other feats from the duelist archetype.
 
-## [[Feats/Duelist's Challenge|Duelist's Challenge]] Feat 4
+## [[Duelist's Challenge|Duelist's Challenge]] Feat 4
 
 **Prerequisites** Duelist Dedication
 
@@ -32,7 +32,7 @@ Select one foe that you can see and proclaim a challenge. That foe is your dueli
 
 If you attack a creature other than your dueling opponent, you take a circumstance penalty to damage equal to the number of damage dice your weapon deals.
 
-## [[Feats/Selfless Parry|Selfless Parry]] Feat 8
+## [[Selfless Parry|Selfless Parry]] Feat 8
 
 **Prerequisites** Dueling Parry, Duelist Dedication
 
@@ -40,7 +40,7 @@ If you attack a creature other than your dueling opponent, you take a circumstan
 
 You protect those near you with a flash of steel. When you're benefiting from Dueling Parry, allies adjacent to you gain a +1 circumstance bonus to AC. If you have Dueling Riposte, you can use it when an enemy within your reach critically fails a Strike against an ally adjacent to you, not just against yourself.
 
-## [[Feats/Student Of The Dueling Arts|Student Of The Dueling Arts]] Feat 12
+## [[Student Of The Dueling Arts|Student Of The Dueling Arts]] Feat 12
 
 **Prerequisites** Duelist Dedication
 

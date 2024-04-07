@@ -20,7 +20,7 @@ You have a knack for picking up on simmering tensions and calming frayed nerves.
 
 Choose two ability boosts. One must be to **Wisdom** or **Charisma**, and one is a free ability boost.
 
-You're trained in the Diplomacy skill and the Lore skill for the city or settlement you lived in when you became a Fightbreaker. You gain the [[Feats/Group Impression|Group Impression]] skill feat.
+You're trained in the Diplomacy skill and the Lore skill for the city or settlement you lived in when you became a Fightbreaker. You gain the [[Group Impression|Group Impression]] skill feat.
 
 *Source: Pathfinder Lost Omens: Highhelm*
 *OGL*

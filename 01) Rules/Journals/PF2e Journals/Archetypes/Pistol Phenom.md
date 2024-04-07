@@ -25,19 +25,19 @@ Many gunslingers can learn how to twirl a pistol or intimidate a foe, but it's n
 
 Despite this attitude, or perhaps because of it, as a pistol phenom you likely tend to get along well with groups of allies, understanding both how to take the spotlight to protect your allies and how to share it to make sure they get their time in the sun. The one exception to this can be other pistol phenoms. When two or more pistol phenoms gather in the same group, it's almost inevitable for a duel or other contest to arise. However, such a contest need not end in enmity. Depending on your temperament, and that of the other pistol phenom, the result of the exhilarating rivalry expressed during competition could be a lifelong friendship, albeit one in which you both keep score of your greatest achievements to compare exploits.
 
-## [[Feats/Pistol Phenom Dedication|Pistol Phenom Dedication]] Feat 2
+## [[Pistol Phenom Dedication|Pistol Phenom Dedication]] Feat 2
 
 **Prerequisites** trained in at least one type of one-handed firearm, trained in Deception, trained in Performance
 
 * * *
 
-You catch an opponent off-guard by spinning your weapon. You gain the [[Feats/Pistol Twirl|Pistol Twirl]] gunslinger feat, enabling you to Feint against creatures within your weapon's first range increment. This otherwise serves as Pistol Twirl for the purpose of meeting prerequisites, although as normal, it doesn't count as another pistol phenom feat for the purpose of meeting Pistol Phenom Dedication's special entry and taking another archetype. Whenever you Feint with a one-handed firearm, you can choose to attempt a Performance check instead of a Deception check.
+You catch an opponent off-guard by spinning your weapon. You gain the [[Pistol Twirl|Pistol Twirl]] gunslinger feat, enabling you to Feint against creatures within your weapon's first range increment. This otherwise serves as Pistol Twirl for the purpose of meeting prerequisites, although as normal, it doesn't count as another pistol phenom feat for the purpose of meeting Pistol Phenom Dedication's special entry and taking another archetype. Whenever you Feint with a one-handed firearm, you can choose to attempt a Performance check instead of a Deception check.
 
 **Special** You can't select another dedication feat until you've gained at least two other feats from the pistol phenom archetype.
 
-## [[Feats/Gunpowder Gauntlet|Gunpowder Gauntlet]] Feat 4
+## [[Gunpowder Gauntlet|Gunpowder Gauntlet]] Feat 4
 
-**Prerequisites** [[Feats/Pistol Phenom Dedication|Pistol Phenom Dedication]]
+**Prerequisites** [[Pistol Phenom Dedication|Pistol Phenom Dedication]]
 
 * * *
 
@@ -53,17 +53,17 @@ Your flair keeps foes' attention, as your motions with your gun draw your foes i
 
 **Success** The target takes a -1 status penalty to attack rolls against creatures other than you until the beginning of your next turn.
 
-## [[Feats/Dazzling Bullet|Dazzling Bullet]] Feat 6
+## [[Dazzling Bullet|Dazzling Bullet]] Feat 6
 
-**Prerequisites** [[Feats/Pistol Phenom Dedication|Pistol Phenom Dedication]]
+**Prerequisites** [[Pistol Phenom Dedication|Pistol Phenom Dedication]]
 
 * * *
 
 Your tricks discombobulate your opponent, leaving spots in their vision from the bright flash of your gunshot reflected straight into their eyes (or other visual organs). Attempt a Performance check against the target creature's Will DC and make a ranged firearm Strike against that target. If the Strike deals damage to the target creature and you succeed at the Performance check, the creature is [[Conditions/Dazzled|Dazzled]] for 1 round.
 
-## [[Feats/Hot Foot|Hot Foot]] Feat 8
+## [[Hot Foot|Hot Foot]] Feat 8
 
-**Prerequisites** [[Feats/Pistol Phenom Dedication|Pistol Phenom Dedication]]
+**Prerequisites** [[Pistol Phenom Dedication|Pistol Phenom Dedication]]
 
 * * *
 
@@ -79,17 +79,17 @@ Using a carefully aimed shot, you make a creature "dance." You shoot at the grou
 
 **Success** The creature can't use reactions until the start of its next turn.
 
-## [[Feats/Phenom's Verve|Phenom's Verve]] Feat 10
+## [[Phenom's Verve|Phenom's Verve]] Feat 10
 
-**Prerequisites** [[Feats/Pistol Phenom Dedication|Pistol Phenom Dedication]]
+**Prerequisites** [[Pistol Phenom Dedication|Pistol Phenom Dedication]]
 
 * * *
 
 You're possessed with an incredibly vivacious spark that separates you not only from ordinary gun users and gunslingers, but even from other phenoms. Using that distinctive verve, when you perform impeccably and control the scene with your abilities, you also manage to set up your foes for disaster and ensure they remain in your sights for any follow-up attacks you want to make against them. If you critically succeed at a Performance check for Pistol Twirl or a pistol phenom archetype feat, you gain a +1 status bonus to your attack rolls with one-handed firearms and one-handed melee weapons until the end of your turn.
 
-## [[Feats/Reach for the Sky|Reach for the Sky]] Feat 12
+## [[Reach for the Sky|Reach for the Sky]] Feat 12
 
-**Prerequisites** [[Feats/Pistol Phenom Dedication|Pistol Phenom Dedication]]
+**Prerequisites** [[Pistol Phenom Dedication|Pistol Phenom Dedication]]
 
 * * *
 
@@ -99,9 +99,9 @@ You're possessed with an incredibly vivacious spark that separates you not only 
 
 You command the room, firing a gun into the air and ordering everyone to surrender and put their hands in the air. You fire your firearm and then attempt a single Intimidation check to Demoralize each enemy within 30 feet. Creatures who become frightened instinctively put their hands in the air. If they had Raised a Shield, they lose the benefits, as they raise the shield above their head where it's of little use to block attacks. With their hands in the air, each of these frightened creatures can't use reactions or free actions that require their hands, or items held in their hands, until the beginning of their next turn. Regardless of the result, each creature is then temporarily immune to Reach for the Sky for 1 minute.
 
-## [[Feats/Whirling Knockdown|Whirling Knockdown]] Feat 14
+## [[Whirling Knockdown|Whirling Knockdown]] Feat 14
 
-**Prerequisites** [[Feats/Pistol Phenom Dedication|Pistol Phenom Dedication]]
+**Prerequisites** [[Pistol Phenom Dedication|Pistol Phenom Dedication]]
 
 * * *
 

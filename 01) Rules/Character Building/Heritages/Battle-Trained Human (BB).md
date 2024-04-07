@@ -18,7 +18,7 @@ license: OGL
 
 Your family has trained in battle for generations, granting you advantages in a fight. You are trained in all martial weapons..
 
-In addition, you gain the [[Feats/Diehard|Diehard]] feat.
+In addition, you gain the [[Diehard|Diehard]] feat.
 
 _Note: This heritage is from the Beginner Box and features non-standard heritage features_
 

@@ -20,7 +20,7 @@ license: OGL
 
 To you, a fight is a kind of performance art, and you command your foes' attention with mesmerizing motions.
 
-You are trained in Performance and gain the [[Feats/Fascinating Performance|Fascinating Performance]] skill feat. You gain [[Feat_Feature Effects/Effect_ Panache|Panache]] during an encounter when the result of your Performance check to [[Actions/Perform|Perform]] exceeds the Will DC of an observing foe, even if the foe isn't fascinated.
+You are trained in Performance and gain the [[Fascinating Performance|Fascinating Performance]] skill feat. You gain [[Feat_Feature Effects/Effect_ Panache|Panache]] during an encounter when the result of your Performance check to [[Actions/Perform|Perform]] exceeds the Will DC of an observing foe, even if the foe isn't fascinated.
 
 *Source: Pathfinder Advanced Player's Guide*
 *OGL*

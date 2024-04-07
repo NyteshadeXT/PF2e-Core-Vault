@@ -22,7 +22,7 @@ license: ORC
 * * *
 You can take the shape of a plant creature. If you don't have untamed form, you can cast [[Spells/Plant Form|Plant Form]] once per day, heightened to the same rank as your highest-rank druid spell slot.
 
-If you do have [[Feats/Untamed Form|Untamed Form]], add the shapes listed in [[Spells/Plant Form|Plant Form]] to your [[Spells/Untamed Form|Untamed Form]] list, and whenever you're polymorphed into another shape using untamed form, you gain resistance 5 to poison.
+If you do have [[01) Rules/Character Building/Feats/Untamed Form|Untamed Form]], add the shapes listed in [[Spells/Plant Form|Plant Form]] to your [[Spells/Untamed Form|Untamed Form]] list, and whenever you're polymorphed into another shape using untamed form, you gain resistance 5 to poison.
 
 *Source: Pathfinder Player Core*
 *ORC*

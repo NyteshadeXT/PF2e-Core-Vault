@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by [[Feats/Prayer-Touched Weapon|Prayer-Touched Weapon]]
+Granted by [[Prayer-Touched Weapon|Prayer-Touched Weapon]]
 
 The chosen weapon deals an extra 1d6 vitality damage.
 

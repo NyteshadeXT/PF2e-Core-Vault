@@ -30,7 +30,7 @@ When attempting a [[Actions/High Jump|High Jump]] or [[Actions/Long Jump|Long Ju
 
 * * *
 
-**Special** If you have [[Feats/Felling Strike|Felling Strike]], you can use Felling Strike instead of a normal Strike. This doesn't change the number of actions Sudden Leap takes.
+**Special** If you have [[Felling Strike|Felling Strike]], you can use Felling Strike instead of a normal Strike. This doesn't change the number of actions Sudden Leap takes.
 
 *Source: Pathfinder Player Core*
 *ORC*

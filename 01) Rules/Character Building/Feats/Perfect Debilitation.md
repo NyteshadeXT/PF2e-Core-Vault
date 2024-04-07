@@ -20,7 +20,7 @@ license: OGL
 
 You have perfected the formulas for bombs that impede your enemies.
 
-When you use [[Feats/Debilitating Bomb|Debilitating Bomb]], your target avoids the condition the bomb imposes only if it critically succeeds at its saving throw.
+When you use [[Debilitating Bomb|Debilitating Bomb]], your target avoids the condition the bomb imposes only if it critically succeeds at its saving throw.
 
 *Source: Pathfinder Core Rulebook*
 *OGL*

@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by [[Feats/Dragon's Rage Wings|Dragon's Rage Wings]]
+Granted by [[Dragon's Rage Wings|Dragon's Rage Wings]]
 
 While you are raging, you gain a fly Speed equal to your land Speed.
 

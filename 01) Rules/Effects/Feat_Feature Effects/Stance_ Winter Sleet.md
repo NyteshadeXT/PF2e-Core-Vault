@@ -17,7 +17,7 @@ license: OGL
 
 
 
-Granted by [[Feats/Winter Sleet|Winter Sleet]]
+Granted by [[Winter Sleet|Winter Sleet]]
 
 Bone-chilling, swirling sleet surrounds you, cruel as deepest winter. Surfaces in your kinetic aura are coated in slippery ice. A creature that moves on this uneven ground immediately falls unless it [[Actions/Balance|Balances]] (DC 15). A creature is [[Conditions/Off-Guard|Off-Guard]] on the ice, as normal for uneven ground. You're immune to these effects.
 

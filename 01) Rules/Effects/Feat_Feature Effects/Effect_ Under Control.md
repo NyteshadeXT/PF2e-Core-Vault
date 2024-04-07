@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by [[Feats/Undying Conviction|Undying Conviction]]
+Granted by [[Undying Conviction|Undying Conviction]]
 
 *Source: Pathfinder Book of the Dead*
 *OGL*

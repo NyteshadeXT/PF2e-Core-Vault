@@ -12,7 +12,7 @@ You know how to draw power from the land around you, no matter the terrain, by a
 
 You might be a druid with an elemental focus (such as the flame, stone, or wave orders) or a naturalist with a touch of magic at your disposal. You could concentrate on a single type of terrain to wring every last drop of power from it or choose to wander the land to experience every type of terrain possible.
 
-## [[Feats/Geomancer Dedication|Geomancer Dedication]] Feat 2
+## [[Geomancer Dedication|Geomancer Dedication]] Feat 2
 
 **Prerequisites** trained in Nature; ability to cast spells from spell slots; at least one spell with the air, cold, earth, fire, plant, or water trait
 
@@ -34,9 +34,9 @@ Certain terrain attunements affect your enemies instead of you. If they do, when
 
 **Special** You can't select another dedication feat until you've gained two other feats from the geomancer archetype.
 
-## [[Feats/Attunement Shift|Attunement Shift]] Feat 4
+## [[Attunement Shift|Attunement Shift]] Feat 4
 
-**Prerequisites** [[Feats/Geomancer Dedication|Geomancer Dedication]]
+**Prerequisites** [[Geomancer Dedication|Geomancer Dedication]]
 
 * * *
 
@@ -50,17 +50,17 @@ The magic of your spell floods into you, overriding your connection to the land 
 
 Your terrain attunement reverts to that of the terrain you're in 1 minute after you use Attunement Shift.
 
-## [[Feats/Shared Attunement|Shared Attunement]] Feat 4
+## [[Shared Attunement|Shared Attunement]] Feat 4
 
-**Prerequisites** [[Feats/Geomancer Dedication|Geomancer Dedication]]
+**Prerequisites** [[Geomancer Dedication|Geomancer Dedication]]
 
 * * *
 
 When you would gain a benefit from your terrain attunement, you can grant it to one ally within 30 feet instead of yourself. This has no effect if the terrain attunement affects your foes instead of granting you a benefit.
 
-## [[Feats/Rough Terrain Stance|Rough Terrain Stance]] Feat 6
+## [[Rough Terrain Stance|Rough Terrain Stance]] Feat 6
 
-**Prerequisites** [[Feats/Geomancer Dedication|Geomancer Dedication]], expert in Nature
+**Prerequisites** [[Geomancer Dedication|Geomancer Dedication]], expert in Nature
 
 * * *
 
@@ -72,17 +72,17 @@ You enter a stance that makes it difficult to move around you. Each square adjac
 
 This stance ends if you move into a different type of terrain.
 
-## [[Feats/Attuned Stride|Attuned Stride]] Feat 8
+## [[Attuned Stride|Attuned Stride]] Feat 8
 
-**Prerequisites** [[Feats/Geomancer Dedication|Geomancer Dedication]], expert in Nature
+**Prerequisites** [[Geomancer Dedication|Geomancer Dedication]], expert in Nature
 
 * * *
 
 You can move freely through terrain you're attuned to. When you gain a terrain attunement benefit, you ignore difficult terrain in the corresponding type of terrain until the end of your next turn.
 
-## [[Feats/Draw From the Land|Draw From the Land]] Feat 10
+## [[Draw From the Land|Draw From the Land]] Feat 10
 
-**Prerequisites** [[Feats/Geomancer Dedication|Geomancer Dedication]], expert in Nature
+**Prerequisites** [[Geomancer Dedication|Geomancer Dedication]], expert in Nature
 
 * * *
 
@@ -92,17 +92,17 @@ You can move freely through terrain you're attuned to. When you gain a terrain a
 
 You pull strength from the surrounding terrain. You gain temporary Hit Points equal to your level. They last for 1 round. If you previously gained the plains terrain attunement effect this turn, combine the temporary Hit Points together.
 
-## [[Feats/Read the Land|Read the Land]] Feat 12
+## [[Read the Land|Read the Land]] Feat 12
 
-**Prerequisites** [[Feats/Geomancer Dedication|Geomancer Dedication]], master in Nature
+**Prerequisites** [[Geomancer Dedication|Geomancer Dedication]], master in Nature
 
 * * *
 
 You've learned how to commune with the land to learn information. You learn the [[Spells/Commune|Commune]] ritual if you didn't know it already. You can perform this ritual with a casting time of 1 hour instead of 1 day and without a secondary caster.
 
-## [[Feats/Terrain Shield|Terrain Shield]] Feat 14
+## [[Terrain Shield|Terrain Shield]] Feat 14
 
-**Prerequisites** [[Feats/Geomancer Dedication|Geomancer Dedication]], master in Nature
+**Prerequisites** [[Geomancer Dedication|Geomancer Dedication]], master in Nature
 
 * * *
 
@@ -116,9 +116,9 @@ You've learned how to commune with the land to learn information. You learn the 
 
 You're so attuned to the land that it rises up to protect you from a potentially fatal blow in a seeming coincidence. For instance, a branch suddenly falls from a nearby tree to take the brunt of a sword swing or a surprising change of current disrupts an enemy's attack. You gain resistance to physical damage equal to double your level against the triggering Strike.
 
-## [[Feats/Shifting Terrain|Shifting Terrain]] Feat 14
+## [[Shifting Terrain|Shifting Terrain]] Feat 14
 
-**Prerequisites** [[Feats/Rough Terrain Stance|Rough Terrain Stance]], master in Nature
+**Prerequisites** [[Rough Terrain Stance|Rough Terrain Stance]], master in Nature
 
 * * *
 
@@ -140,9 +140,9 @@ After you use this action, you can't use it again for 1d4 rounds.
 
 **Critical Failure** The creature is clumsy 2 for 1 round and falls [[Conditions/Prone|Prone]].
 
-## [[Feats/Quickened Attunement|Quickened Attunement]] Feat 16
+## [[Quickened Attunement|Quickened Attunement]] Feat 16
 
-**Prerequisites** [[Feats/Geomancer Dedication|Geomancer Dedication]], legendary in Nature
+**Prerequisites** [[Geomancer Dedication|Geomancer Dedication]], legendary in Nature
 
 * * *
 
@@ -156,4 +156,4 @@ If your next action is to cast a spell that would grant your terrain attunement 
 
 * * *
 
-**Special** You can't use Quickened Attunement and [[Feats/Quickened Casting|Quickened Casting]] in the same round.
+**Special** You can't use Quickened Attunement and [[Quickened Casting|Quickened Casting]] in the same round.

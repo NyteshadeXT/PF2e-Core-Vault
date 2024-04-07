@@ -21,7 +21,7 @@ You have been imprisoned or punished for crimes (whether you were guilty or not)
 
 Choose two attribute boosts. One must be to **Strength** or **Constitution**, and one is a free attribute boost.
 
-You're trained in the Stealth skill and the Underworld Lore skill. You gain the [[Feats/Experienced Smuggler|Experienced Smuggler]] skill feat.
+You're trained in the Stealth skill and the Underworld Lore skill. You gain the [[Experienced Smuggler|Experienced Smuggler]] skill feat.
 
 *Source: Pathfinder Player Core*
 *ORC*

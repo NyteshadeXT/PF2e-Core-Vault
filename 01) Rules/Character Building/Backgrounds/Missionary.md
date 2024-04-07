@@ -20,7 +20,7 @@ You received training from clergy in a faraway temple, who sent you out into the
 
 Choose two ability boosts. One must be to **Constitution** or **Wisdom**, and one is a free ability boost.
 
-You're trained in the Diplomacy skill and the Scribing Lore skill. You gain the [[Feats/Group Impression|Group Impression]] skill feat.
+You're trained in the Diplomacy skill and the Scribing Lore skill. You gain the [[Group Impression|Group Impression]] skill feat.
 
 *Source: Pathfinder Adventure: The Fall of Plaguestone*
 *OGL*

@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Applied when you apply a poison created with [[Feats/Poison Weapon|Poison Weapon]].
+Applied when you apply a poison created with [[Poison Weapon|Poison Weapon]].
 
 *Source: Pathfinder Core Rulebook*
 *OGL*

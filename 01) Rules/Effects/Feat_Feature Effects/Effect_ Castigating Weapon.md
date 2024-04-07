@@ -17,7 +17,7 @@ license: ORC
 
 
 
-Granted by [[Feats/Castigating Weapon|Castigating Weapon]]
+Granted by [[Castigating Weapon|Castigating Weapon]]
 
 Your weapon or unarmed Strikes gain your holy or unholy trait and deal additional spirit damage.
 

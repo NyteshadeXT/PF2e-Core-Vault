@@ -22,7 +22,7 @@ One or more of your parents (either biological or adoptive) were heroes of the A
 
 Choose two ability boosts. One must be to **Dexterity** or **Charisma**, and one is a free ability boost.
 
-You're trained in the Intimidation skill, and the Genealogy Lore skill. You gain the [[Feats/Group Coercion|Group Coercion]] skill feat.
+You're trained in the Intimidation skill, and the Genealogy Lore skill. You gain the [[Group Coercion|Group Coercion]] skill feat.
 
 *Source: Pathfinder #150: Broken Promises*
 *OGL*

@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by [[Feats/Heart of the Kaiju|Heart of the Kaiju]]
+Granted by [[Heart of the Kaiju|Heart of the Kaiju]]
 
 You take on a kaiju form. The battle form is Gargantuan size with the following specific abilities.
 

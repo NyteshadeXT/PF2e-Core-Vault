@@ -11,7 +11,7 @@ license: OGL
 ---
 # Full Automation
 ## Feat 20
-### [[inventor]]
+### [[01) Rules/Character Building/Feats/Inventor]]
 
 **Category** class; 
 

@@ -20,7 +20,7 @@ license: OGL
 
 **Prerequisites** You speak at least three languages.
 * * *
-You have studied languages and their development. You become trained in Society; if you were already trained in Society, you instead become an expert in Society. You gain the [[Feats/Multilingual|Multilingual]] skill feat twice.
+You have studied languages and their development. You become trained in Society; if you were already trained in Society, you instead become an expert in Society. You gain the [[Multilingual|Multilingual]] skill feat twice.
 
 **Special** You can't select another dedication feat until you have gained two other feats from the [[Compendium.pf2e.journals.JournalEntry.vx5FGEG34AxI2dow.JournalEntryPage.mtc5frNxUHORGscz|Linguist]] archetype.
 

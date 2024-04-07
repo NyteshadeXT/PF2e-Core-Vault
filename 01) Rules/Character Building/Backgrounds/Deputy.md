@@ -20,7 +20,7 @@ While your life may have taken some twists and turns in the intervening years, y
 
 Choose two ability boosts. One must be to **Dexterity** or **Wisdom**, and one is a free ability boost.
 
-You're trained in the Survival skill and the Hunting Lore skill. You gain the [[Feats/Experienced Tracker|Experienced Tracker]] skill feat.
+You're trained in the Survival skill and the Hunting Lore skill. You gain the [[Experienced Tracker|Experienced Tracker]] skill feat.
 
 *Source: Pathfinder Guns & Gears*
 *OGL*

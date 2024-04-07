@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by [[Feats/Defensive Recovery|Defensive Recovery]]
+Granted by [[Defensive Recovery|Defensive Recovery]]
 
 You gain a +2 status bonus to AC and saving throws.
 

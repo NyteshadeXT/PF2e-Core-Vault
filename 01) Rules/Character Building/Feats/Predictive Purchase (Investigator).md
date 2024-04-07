@@ -18,7 +18,7 @@ license: OGL
 
 
 
-You have just the thing for the situation. You gain the [[Feats/Prescient Planner|Prescient Planner]] and [[Feats/Prescient Consumable|Prescient Consumable]] feats.
+You have just the thing for the situation. You gain the [[Prescient Planner|Prescient Planner]] and [[Prescient Consumable|Prescient Consumable]] feats.
 
 When using Prescient Planner, you can pull out the item as a 2-action activity to remove your backpack (or a similar container) and draw the item, rather than taking 1 minute.
 

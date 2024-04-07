@@ -24,7 +24,7 @@ You are from Nidal, and regardless of your personal values, Zon-Kuthon has a cla
 
 Choose two ability boosts. One must be to **Intelligence** or **Wisdom**, and one is a free ability boost.
 
-You're trained in the Intimidation skill and the Shadow Plane Lore skill. You gain the [[Feats/Quick Coercion|Quick Coercion]] skill feat.
+You're trained in the Intimidation skill and the Shadow Plane Lore skill. You gain the [[Quick Coercion|Quick Coercion]] skill feat.
 
 *Source: Pathfinder Lost Omens: World Guide*
 *OGL*

@@ -22,7 +22,7 @@ Traditionally, you might have family in town, but chances are that you're estran
 
 Choose two attribute boosts. One must be to **Dexterity** or **Charisma**, and one is a free attribute boost.
 
-You're trained in the Thievery skill and the Underworld Lore skill. You gain the [[Feats/Bon Mot|Bon Mot]] skill feat.
+You're trained in the Thievery skill and the Underworld Lore skill. You gain the [[Bon Mot|Bon Mot]] skill feat.
 
 Increase the party's reputation with the Bunyip Club by 1 and reduce the party's reputation with the Town Watch by 1.
 

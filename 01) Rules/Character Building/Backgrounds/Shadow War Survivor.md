@@ -20,7 +20,7 @@ Countless factions have fought for influence in Absalom for millennia, and for d
 
 Choose two ability boosts. One must be to **Wisdom** or **Charisma**, and one is a free ability boost.
 
-You're trained in the Society skill and the Absalom Lore skill. You gain the [[Feats/Streetwise|Streetwise]] skill feat.
+You're trained in the Society skill and the Absalom Lore skill. You gain the [[Streetwise|Streetwise]] skill feat.
 
 * * *
 

@@ -20,7 +20,7 @@ Fishing is Osprey Cove's number one profession, and you've apprenticed under the
 
 Choose two ability boosts. One must be to **Strength** or **Dexterity**, and one is a free ability boost.
 
-You're trained in the Crafting skill and the Sailing Lore skill. You gain the [[Feats/Quick Repair|Quick Repair]] skill feat.
+You're trained in the Crafting skill and the Sailing Lore skill. You gain the [[Quick Repair|Quick Repair]] skill feat.
 
 *Source: Pathfinder Adventure: Rusthenge*
 *OGL*

@@ -20,7 +20,7 @@ license: OGL
 
 **Prerequisites** Medic Dedication
 * * *
-You move to provide immediate care to those who need it. Stride, then use one of the following: [[Feats/Battle Medicine|Battle Medicine]] or [[Actions/Treat Poison|Treat Poison]]. You can spend a second action to instead Stride and then [[Actions/Administer First Aid|Administer First Aid]] or [[Feats/Treat Condition|Treat a Condition]].
+You move to provide immediate care to those who need it. Stride, then use one of the following: [[Battle Medicine|Battle Medicine]] or [[Actions/Treat Poison|Treat Poison]]. You can spend a second action to instead Stride and then [[Actions/Administer First Aid|Administer First Aid]] or [[Treat Condition|Treat a Condition]].
 
 *Source: Pathfinder Advanced Player's Guide*
 *OGL*

@@ -20,7 +20,7 @@ You hail from the River Kingdoms or the more lawless reaches of Brevoy. Your lif
 
 Choose two ability boosts. One must be to **Strength** or **Constitution**, and one is a free ability boost.
 
-You're trained in the Intimidation skill and the Banditry Lore skill. You gain the [[Feats/Group Coercion|Group Coercion]] skill feat.
+You're trained in the Intimidation skill and the Banditry Lore skill. You gain the [[Group Coercion|Group Coercion]] skill feat.
 
 *Source: Pathfinder: Kingmaker Player's Guide*
 *OGL*

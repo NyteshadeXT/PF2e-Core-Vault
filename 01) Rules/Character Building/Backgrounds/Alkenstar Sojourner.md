@@ -20,7 +20,7 @@ You came to Alkenstar because you heard they had guns, but you stayed because of
 
 Choose two ability boosts. One must be to **Intelligence** or **Charisma**, and one is a free ability boost.
 
-You're trained in Society and Engineering Lore. You gain the [[Feats/Streetwise|Streetwise]] skill feat.
+You're trained in Society and Engineering Lore. You gain the [[Streetwise|Streetwise]] skill feat.
 
 *Source: Pathfinder Guns & Gears*
 *OGL*

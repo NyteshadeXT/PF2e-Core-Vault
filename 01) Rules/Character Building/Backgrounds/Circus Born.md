@@ -20,7 +20,7 @@ The itinerant life of a traveling circus performer is nothing new to you; you we
 
 Choose two ability boosts. One must be to **Intelligence** or **Charisma**, and one is a free ability boost.
 
-You're trained in the Performance skill and the Circus Lore skill. You gain the [[Feats/Experienced Professional|Experienced Professional]] skill feat.
+You're trained in the Performance skill and the Circus Lore skill. You gain the [[Experienced Professional|Experienced Professional]] skill feat.
 
 *Source: Pathfinder: Extinction Curse Player's Guide*
 *OGL*

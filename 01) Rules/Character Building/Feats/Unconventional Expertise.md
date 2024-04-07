@@ -19,7 +19,7 @@ license: OGL
 
 **Prerequisites** Unconventional Weaponry; trained in the weapon you chose for Unconventional Weaponry
 * * *
-You've continued to advance your powers using your unconventional weapon. Whenever you gain a class feature that grants you expert or greater proficiency in certain weapons, you also gain that proficiency in the weapon you chose for [[Feats/Unconventional Weaponry|Unconventional Weaponry]].
+You've continued to advance your powers using your unconventional weapon. Whenever you gain a class feature that grants you expert or greater proficiency in certain weapons, you also gain that proficiency in the weapon you chose for [[Unconventional Weaponry|Unconventional Weaponry]].
 
 *Source: Pathfinder Core Rulebook*
 *OGL*

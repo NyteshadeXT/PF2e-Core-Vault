@@ -14,7 +14,7 @@ tags:
 
 As rippling explosions bring a castle's walls tumbling down, you grin and wipe the stone dust of your handiwork from your face. Brute force might work for others, but applying science to place the right explosives in just the right spot is essential to your craft.
 
-## [[Feats/Demolitionist Dedication|Demolitionist Dedication]] Feat 2
+## [[Demolitionist Dedication|Demolitionist Dedication]] Feat 2
 
 * * *
 
@@ -22,33 +22,33 @@ You know how to set explosives to cause the maximum possible damage to buildings
 
 **Special** You can't select another dedication feat until you've gained two other feats from the demolitionist archetype.
 
-## [[Feats/Safety Measures|Safety Measures]] Feat 4
+## [[Safety Measures|Safety Measures]] Feat 4
 
-**Prerequisites** [[Feats/Demolitionist Dedication|Demolitionist Dedication]]
+**Prerequisites** [[Demolitionist Dedication|Demolitionist Dedication]]
 
 * * *
 
 You're often careful to be sure you're not hoisted on your own petard, or anyone else's, for that matter. When you have cover from a bomb, you gain resistance to damage caused by that bomb equal to half your level, plus a value equal to the circumstance bonus to AC granted by the cover. You gain these benefits against your own bombs regardless of whether you have cover.
 
-## [[Feats/Explosive Entry|Explosive Entry]] Feat 7
+## [[Explosive Entry|Explosive Entry]] Feat 7
 
-**Prerequisites** [[Feats/Demolitionist Dedication|Demolitionist Dedication]], master in Engineering Lore
+**Prerequisites** [[Demolitionist Dedication|Demolitionist Dedication]], master in Engineering Lore
 
 * * *
 
 You know exactly how to make a memorable entrance... by detonating a bomb to produce a devastating explosion, of course! You Set Explosives on a door, window, container, or heavy gate. When the explosives detonate, you can attempt an Engineering Lore check to Force Open the target. If a bomb would add an item bonus to attack rolls, add that item bonus to your Engineering Lore check. Since you're blasting your way in, you can't avoid breaking the object or structure. If you roll a critical success, you get a success instead.
 
-## [[Feats/Controlled Blast|Controlled Blast]] Feat 8
+## [[Controlled Blast|Controlled Blast]] Feat 8
 
-**Prerequisites** [[Feats/Demolitionist Dedication|Demolitionist Dedication]]; [[Feats/Calculated Splash|Calculated Splash]], [[Feats/Directional Bombs|Directional Bombs]], or [[Feats/Expanded Splash|Expanded Splash]]
+**Prerequisites** [[Demolitionist Dedication|Demolitionist Dedication]]; [[Calculated Splash|Calculated Splash]], [[Directional Bombs|Directional Bombs]], or [[Expanded Splash|Expanded Splash]]
 
 * * *
 
 You maximize the effectiveness of your explosives by controlling every possible parameter of the blast meticulously. If you have the Directional Bombs feats, you can use it with Set Explosives or Demolition Charge, even though you didn't throw the bombs. If you have the Calculated Splash or Expanded Splash feats, you can apply the additional splash damage to one of the bombs when you Set Explosives or use Demolition Charge, and you can apply the increased splash area from Expanded Splash to all the bombs.
 
-## [[Feats/Collapse Wall|Collapse Wall]] Feat 12
+## [[Collapse Wall|Collapse Wall]] Feat 12
 
-**Prerequisites** [[Feats/Demolitionist Dedication|Demolitionist Dedication]]
+**Prerequisites** [[Demolitionist Dedication|Demolitionist Dedication]]
 
 * * *
 

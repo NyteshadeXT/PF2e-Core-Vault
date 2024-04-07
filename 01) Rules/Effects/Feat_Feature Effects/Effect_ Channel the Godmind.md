@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by [[Feats/Channel The Godmind|Channel The Godmind]].
+Granted by [[Channel The Godmind|Channel The Godmind]].
 
 *Source: Pathfinder Lost Omens: Ancestry Guide*
 *OGL*

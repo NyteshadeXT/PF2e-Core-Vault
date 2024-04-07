@@ -10,7 +10,7 @@ tags:
 # Bard
 A muse has called you to dabble in occult lore, allowing you to cast a few spells. The deeper you delve, the more powerful your performances become.
 
-## [[Feats/Bard Dedication|Bard Dedication]] Feat 2
+## [[Bard Dedication|Bard Dedication]] Feat 2
 
 **Prerequisites** Charisma +2
 
@@ -24,7 +24,7 @@ Choose a muse as you would if you were a bard. You can take that muse’s feats,
 
 **Special** You cannot select another dedication feat until you have gained two other feats from the bard archetype.
 
-## [[Feats/Basic Bard Spellcasting|Basic Bard Spellcasting]] Feat 4
+## [[Basic Bard Spellcasting|Basic Bard Spellcasting]] Feat 4
 
 **Prerequisites** Bard Dedication
 
@@ -32,7 +32,7 @@ Choose a muse as you would if you were a bard. You can take that muse’s feats,
 
 You gain the [[Compendium.pf2e.journals.JournalEntry.vx5FGEG34AxI2dow.JournalEntryPage.DOc3Pf8wmVxanTIv|Basic Spellcasting Feat]] benefits. Each time you gain a spell slot of a new rank from the bard archetype, add a common occult spell of the appropriate rank, or another appropriate occult spell you learned or discovered, to your repertoire.
 
-## [[Feats/Basic Muse's Whispers|Basic Muse's Whispers]] Feat 4
+## [[Basic Muse's Whispers|Basic Muse's Whispers]] Feat 4
 
 **Prerequisites** Bard Dedication
 
@@ -40,7 +40,7 @@ You gain the [[Compendium.pf2e.journals.JournalEntry.vx5FGEG34AxI2dow.JournalEnt
 
 You gain a 1st- or 2nd-level bard feat.
 
-## [[Feats/Advanced Muse's Whispers|Advanced Muse's Whispers]] Feat 6
+## [[Advanced Muse's Whispers|Advanced Muse's Whispers]] Feat 6
 
 **Prerequisites** Basic Muse's Whispers
 
@@ -52,7 +52,7 @@ You gain one bard feat. For the purpose of meeting its prerequisites, your bard 
 
 **Special** You can select this feat more than once. Each time you select it, you gain another bard feat.
 
-## [[Feats/Counter Perform|Counter Perform]] Feat 6
+## [[Counter Perform|Counter Perform]] Feat 6
 
 **Prerequisites** Bard Dedication
 
@@ -60,7 +60,7 @@ You gain one bard feat. For the purpose of meeting its prerequisites, your bard 
 
 You gain the [[Spells/Counter Performance|Counter Performance]] composition spell. This is a focus spell, granting you a focus pool or expanding that pool. You can Refocus by engaging your muse.
 
-## [[Feats/Anthemic Performance|Anthemic Performance]] Feat 8
+## [[Anthemic Performance|Anthemic Performance]] Feat 8
 
 **Prerequisites** Bard Dedication
 
@@ -68,7 +68,7 @@ You gain the [[Spells/Counter Performance|Counter Performance]] composition spel
 
 Your music, speech, or other performance inspires your allies to dive into battle. You gain the [[Spells/Courageous Anthem|Courageous Anthem]] composition cantrip.
 
-## [[Feats/Occult Breadth|Occult Breadth]] Feat 8
+## [[Occult Breadth|Occult Breadth]] Feat 8
 
 **Prerequisites** Basic Bard Spellcasting
 
@@ -76,7 +76,7 @@ Your music, speech, or other performance inspires your allies to dive into battl
 
 Your repertoire expands, and you can cast more occult spells each day. Increase the number of spells in your repertoire and the number of spell slots you gain from bard archetype feats by 1 for each spell rank other than your two highest bard spell slots.
 
-## [[Feats/Expert Bard Spellcasting|Expert Bard Spellcasting]] Feat 12
+## [[Expert Bard Spellcasting|Expert Bard Spellcasting]] Feat 12
 
 **Prerequisites** Basic Bard Spellcasting; master in Occultism
 
@@ -84,7 +84,7 @@ Your repertoire expands, and you can cast more occult spells each day. Increase 
 
 You gain the [[Compendium.pf2e.journals.JournalEntry.vx5FGEG34AxI2dow.JournalEntryPage.DOc3Pf8wmVxanTIv|Expert Spellcasting Feat]] benefits.
 
-## [[Feats/Master Bard Spellcasting|Master Bard Spellcasting]] Feat 18
+## [[Master Bard Spellcasting|Master Bard Spellcasting]] Feat 18
 
 **Prerequisites** Expert Bard Spellcasting; legendary in Occultism
 

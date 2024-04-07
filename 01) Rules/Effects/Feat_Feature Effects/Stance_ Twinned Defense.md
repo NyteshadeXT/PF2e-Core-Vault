@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by: [[Feats/Twinned Defense (Fighter)|Twinned Defense (Fighter)]] or [[Feats/Twinned Defense (Swashbuckler)|Twinned Defense (Swashbuckler)]]
+Granted by: [[Twinned Defense (Fighter)|Twinned Defense (Fighter)]] or [[Twinned Defense (Swashbuckler)|Twinned Defense (Swashbuckler)]]
 
 * * *
 
@@ -24,7 +24,7 @@ Granted by: [[Feats/Twinned Defense (Fighter)|Twinned Defense (Fighter)]] or [[F
 
 * * *
 
-You're always ready to use your off-hand weapon to interfere with attacks against you. While you are in this stance, you constantly gain the benefits of the [[Feats/Twin Parry|Twin Parry]] action.
+You're always ready to use your off-hand weapon to interfere with attacks against you. While you are in this stance, you constantly gain the benefits of the [[Twin Parry|Twin Parry]] action.
 
 *Source: Pathfinder Core Rulebook*
 *OGL*

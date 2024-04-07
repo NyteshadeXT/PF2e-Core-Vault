@@ -23,7 +23,7 @@ license: OGL
 
 **Prerequisites** Dragon Stance
 * * *
-**Requirements** You are in [[Feats/Dragon Stance|Dragon Stance]]
+**Requirements** You are in [[Dragon Stance|Dragon Stance]]
 
 * * *
 

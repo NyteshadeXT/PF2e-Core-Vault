@@ -24,7 +24,7 @@ You are a leshy from Finadar Forest, originally created under the corruption of 
 
 Choose two ability boosts. One must be to **Constitution** or **Charisma**, and one is a free ability boost.
 
-You're trained in the Intimidation skill and the Abyssal Lore skill. You gain the [[Feats/Intimidating Glare|Intimidating Glare]] skill feat.
+You're trained in the Intimidation skill and the Abyssal Lore skill. You gain the [[Intimidating Glare|Intimidating Glare]] skill feat.
 
 *Source: Pathfinder Society Scenario #1-15: The Blooming Catastrophe*
 *OGL*

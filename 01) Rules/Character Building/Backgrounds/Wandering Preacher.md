@@ -20,7 +20,7 @@ While you once spoke to a small congregation in a ramshackle church, those days 
 
 Choose two ability boosts. One boost must be to **Constitution** or **Wisdom**, and one is a free ability boost.
 
-You're trained in the Religion skill and a Lore skill associated with the deity you preach for (such as Pharasmin Lore). You gain the [[Feats/Pilgrim's Token|Pilgrim's Token]] skill feat.
+You're trained in the Religion skill and a Lore skill associated with the deity you preach for (such as Pharasmin Lore). You gain the [[01) Rules/Character Building/Feats/Pilgrim's Token|Pilgrim's Token]] skill feat.
 
 *Source: Pathfinder Guns & Gears*
 *OGL*

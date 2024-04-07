@@ -19,7 +19,7 @@ license: ORC
 
 
 
-You've learned how to handle situations when you're out of your depth. You gain the [[Feats/Untrained Improvisation|Untrained Improvisation]] general feat. In addition, you can attempt skill actions that normally require you to be trained, even if you are untrained.
+You've learned how to handle situations when you're out of your depth. You gain the [[Untrained Improvisation|Untrained Improvisation]] general feat. In addition, you can attempt skill actions that normally require you to be trained, even if you are untrained.
 
 *Source: Pathfinder Player Core*
 *ORC*

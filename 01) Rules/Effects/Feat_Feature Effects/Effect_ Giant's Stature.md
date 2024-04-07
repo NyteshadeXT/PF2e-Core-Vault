@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by [[Feats/Giant's Stature|Giant's Stature]]
+Granted by [[Giant's Stature|Giant's Stature]]
 
 You become Large, increasing your reach by 5 feet and gaining the [[Conditions/Clumsy 1|Clumsy 1]] condition until you stop raging
 

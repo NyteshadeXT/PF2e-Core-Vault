@@ -21,7 +21,7 @@ license: ORC
 
 You have trained in the more militant doctrine of your church, focusing on both spells and battle.
 
-**First Doctrine (1st):** You're trained in light and medium armor, and you have expert proficiency in Fortitude saves. You gain the [[Feats/Shield Block|Shield Block]] general feat, a reaction to reduce damage with a shield. If your deity's favored weapon is a simple weapon or an unarmed attack, you gain the [[Feats/Deadly Simplicity|Deadly Simplicity]] cleric feat. At 13th level, if you gain the [[Class Features/Divine Defense|Divine Defense]] class feature, you also gain expert proficiency in light and medium armor.
+**First Doctrine (1st):** You're trained in light and medium armor, and you have expert proficiency in Fortitude saves. You gain the [[01) Rules/Character Building/Feats/Shield Block|Shield Block]] general feat, a reaction to reduce damage with a shield. If your deity's favored weapon is a simple weapon or an unarmed attack, you gain the [[Deadly Simplicity|Deadly Simplicity]] cleric feat. At 13th level, if you gain the [[Class Features/Divine Defense|Divine Defense]] class feature, you also gain expert proficiency in light and medium armor.
 
 **Second Doctrine (3rd):** You're trained in martial weapons.
 

@@ -10,7 +10,7 @@ tags:
 # Acrobat
 You have trained your body to perform incredible, seemingly superhuman feats of grace. You move in ways that leave your opponents caught off guard and fumbling for a response, turning every fight into performance art.
 
-## [[Feats/Acrobat Dedication|Acrobat Dedication]] Feat 2
+## [[Acrobat Dedication|Acrobat Dedication]] Feat 2
 
 **Prerequisites** trained in Acrobatics
 
@@ -20,7 +20,7 @@ You become an expert in Acrobatics. At 7th level, you become a master in Acrobat
 
 **Special** You can't select another dedication feat until you have gained two other feats from the acrobat archetype.
 
-## [[Feats/Contortionist|Contortionist]] Feat 4
+## [[Contortionist|Contortionist]] Feat 4
 
 **Prerequisites** Acrobat Dedication
 
@@ -28,7 +28,7 @@ You become an expert in Acrobatics. At 7th level, you become a master in Acrobat
 
 You can squeeze out of tight situations surprisingly quickly, gaining an advantage against foes that try to pin you down. You gain the Quick Squeeze skill feat, and if you're a master in Acrobatics, you can Squeeze at full Speed. Whenever you successfully Escape using Acrobatics, the creature you Escaped from is off-guard against the next attack you make against it before the end of your next turn.
 
-## [[Feats/Dodge Away|Dodge Away]] Feat 6
+## [[Dodge Away|Dodge Away]] Feat 6
 
 **Prerequisites** Acrobat Dedication
 
@@ -40,7 +40,7 @@ You can squeeze out of tight situations surprisingly quickly, gaining an advanta
 
 You use your acrobatic prowess to evade an attack, using momentum to keep yourself moving, if you choose. You gain a +1 circumstance bonus to AC against the triggering attack. If the attack misses you, you can Step after the Strike. If you're a master in Acrobatics, you can move 10 feet on this Step instead of 5 feet.
 
-## [[Feats/Graceful Leaper|Graceful Leaper]] Feat 7
+## [[Graceful Leaper|Graceful Leaper]] Feat 7
 
 **Prerequisites** Acrobat Dedication, master in Acrobatics
 
@@ -48,7 +48,7 @@ You use your acrobatic prowess to evade an attack, using momentum to keep yourse
 
 Mass and muscle are meaningless when you leap; only grace and balance matter. You can roll an Acrobatics check instead of an Athletics check when making a High Jump or Long Jump.
 
-## [[Feats/Show-Off|Show-Off]] Feat 8
+## [[Show-Off|Show-Off]] Feat 8
 
 **Frequency** once per minute
 
@@ -62,7 +62,7 @@ Mass and muscle are meaningless when you leap; only grace and balance matter. Yo
 
 As is the tradition with many Firebrands, you call your shot and look to impress with an extra bit of panache or a greater stunt. Attempt the triggering check again, using the second result. On a success, you gain the normal results of the check, plus you feel invigorated by your stunt and gain temporary Hit Points equal to your level (double your level on a critical success). You lose any remaining temporary Hit Points after 1 minute. Typically, a challenging task is one with at least a standard DC for your level, though the difficulty may be higher depending on the situation. A meaningful context is one where the action's success or failure is relevant to the pursuit of your goals.
 
-## [[Feats/Tumbling Strike|Tumbling Strike]] Feat 8
+## [[Tumbling Strike|Tumbling Strike]] Feat 8
 
 **Prerequisites** Acrobat Dedication
 
@@ -82,7 +82,7 @@ Attempt an Acrobatics check against the Reflex DC of an enemy adjacent to you.
 
 **Critical Failure** No effect.
 
-## [[Feats/Mockingbird's Disarm|Mockingbird's Disarm]] Feat 10
+## [[Mockingbird's Disarm|Mockingbird's Disarm]] Feat 10
 
 **Frequency** once per minute
 
@@ -96,7 +96,7 @@ Attempt an Acrobatics check against the Reflex DC of an enemy adjacent to you.
 
 The Mockingbird is a master at running into foes and coming away with their weapons. Mimicking their skill, you strike at a foe's wrist while tumbling past them, weakening their grip. You attempt to Disarm the enemy whose space you moved through. You can use Acrobatics instead of Athletics for this check.
 
-## [[Feats/Tumbling Opportunist|Tumbling Opportunist]] Feat 10
+## [[Tumbling Opportunist|Tumbling Opportunist]] Feat 10
 
 **Prerequisites** Acrobat Dedication
 
@@ -108,7 +108,7 @@ The Mockingbird is a master at running into foes and coming away with their weap
 
 You use a burst of stamina to perform a breathtaking feat of Acrobatics as you speed through a foe's space, leaving your foe lying flat on their back. You attempt to Trip the enemy whose space you moved through. You can use Acrobatics instead of Athletics for this check.
 
-## [[Feats/Quick Spring|Quick Spring]] Feat 13
+## [[Quick Spring|Quick Spring]] Feat 13
 
 **Prerequisites** Acrobat Dedication; master in Acrobatics
 

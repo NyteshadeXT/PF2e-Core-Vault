@@ -20,7 +20,7 @@ When the Great Quake rumbled across the eastern lands and opened the rift that s
 
 Choose two ability boosts. One must be to **Constitution** or **Wisdom**, and one is a free ability boost.
 
-You're trained in the Religion skill and the Demon Lore skill. You gain the [[Feats/Pilgrim's Token|Pilgrim's Token]] skill feat.
+You're trained in the Religion skill and the Demon Lore skill. You gain the [[01) Rules/Character Building/Feats/Pilgrim's Token|Pilgrim's Token]] skill feat.
 
 *Source: Pathfinder: Quest for the Frozen Flame Player's Guide*
 *OGL*

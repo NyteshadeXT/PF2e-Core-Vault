@@ -8,4 +8,4 @@ tags:
 ---
 A friend or family member whom you trusted more than anyone else betrayed you.
 
-Add the [[Feats/Lie to Me|Lie To Me]] skill feat to your background options.
+Add the [[Lie to Me|Lie To Me]] skill feat to your background options.

@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by [[Feats/Overdrive Ally|Overdrive Ally]]
+Granted by [[Overdrive Ally|Overdrive Ally]]
 
 Until the end of their next turn, that ally's Strikes deal additional damage equal to half your Intelligence modifier, or your full Intelligence modifier if you were in critical overdrive.
 

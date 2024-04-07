@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by [[Feats/Bon Mot|Bon Mot]]
+Granted by [[Bon Mot|Bon Mot]]
 
 You are distracted and take a -2 status penalty to Perception and Will saves for 1 minute.
 

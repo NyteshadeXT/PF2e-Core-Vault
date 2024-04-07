@@ -18,7 +18,7 @@ license: OGL
 
 Your toes are adapted for gripping and climbing.
 
-You gain the [[Feats/Combat Climber|Combat Climber]] feat as a bonus feat, and as long as you aren't wearing footwear, you can use the sticky pads on your feet to climb, leaving your hands free.
+You gain the [[Combat Climber|Combat Climber]] feat as a bonus feat, and as long as you aren't wearing footwear, you can use the sticky pads on your feet to climb, leaving your hands free.
 
 Additionally, if you roll a success on an Athletics check to climb, you get a critical success instead.
 

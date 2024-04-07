@@ -10,7 +10,7 @@ tags:
 # Edgewatch Detective
 You're a specially trained detective for the Edgewatch guard precinct in Absalom.
 
-## [[Feats/Edgewatch Detective Dedication|Edgewatch Detective Dedication]] Feat 2
+## [[Edgewatch Detective Dedication|Edgewatch Detective Dedication]] Feat 2
 
 **Prerequisites** Intelligence +2 or Wisdom +2
 
@@ -20,7 +20,7 @@ You become trained in Society or Thievery; if you are already trained in both of
 
 **Special** You can't select another dedication feat until you have gained two other feats from the Edgewatch Detective archetype.
 
-## [[Feats/Sense Alignment|Sense Alignment]] Feat 4
+## [[Sense Alignment|Sense Alignment]] Feat 4
 
 **Prerequisites** Edgewatch Detective Dedication
 
@@ -38,7 +38,7 @@ You read the body language of an intelligent creature within 30 feet and pick up
 
 **Critical Failure** You incorrectly ascertain the target's alignment, misidentifying their alignment along either one axis or both (GM's choice).
 
-## [[Feats/Arcane Sensitivity|Arcane Sensitivity]] Feat 6
+## [[Arcane Sensitivity|Arcane Sensitivity]] Feat 6
 
 **Prerequisites** Edgewatch Detective Dedication
 
@@ -46,7 +46,7 @@ You read the body language of an intelligent creature within 30 feet and pick up
 
 You can sense the presence of the supernatural, even if you don't have any magical ability yourself. You can spend a single action (this action has the concentrate trait) to determine if any magical auras are present in the area. This has the effects of a 1st-rank _detect magic_ spell but isn't magical. By straining, you can also discover the source of the magic and its school (with the effect of a 4th-rank _detect magic_ spell), but doing so prevents you from using this ability again until you've rested for 8 hours.
 
-## [[Feats/Bolera's Interrogation|Bolera's Interrogation]] Feat 6
+## [[Bolera's Interrogation|Bolera's Interrogation]] Feat 6
 
 **Prerequisites** Edgewatch Detective Dedication
 

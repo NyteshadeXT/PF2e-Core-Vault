@@ -11,7 +11,7 @@ license: OGL
 ---
 # Energy Barrier
 ## Feat 15
-### [[inventor]]
+### [[01) Rules/Character Building/Feats/Inventor]]
 
 **Category** classfeature; 
 

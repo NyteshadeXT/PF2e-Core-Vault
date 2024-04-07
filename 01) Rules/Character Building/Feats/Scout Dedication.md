@@ -20,7 +20,7 @@ license: OGL
 
 **Prerequisites** trained in Stealth and Survival
 * * *
-You are a highly skilled scout, capable of providing your allies a timely warning of any danger. You gain the [[Feats/Scout's Warning|Scout's Warning]] ranger feat.
+You are a highly skilled scout, capable of providing your allies a timely warning of any danger. You gain the [[Scout's Warning|Scout's Warning]] ranger feat.
 
 When you're using the [[Actions/Scout|Scout]] exploration activity, you grant your allies a +2 circumstance bonus to their initiative rolls instead of a +1 circumstance bonus.
 

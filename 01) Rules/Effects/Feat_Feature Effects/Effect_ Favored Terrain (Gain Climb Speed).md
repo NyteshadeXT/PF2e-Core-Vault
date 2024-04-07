@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by [[Feats/Favored Terrain|Favored Terrain (Forest, Moutain or Underground)]] if you have the [[Class Features/Unimpeded Journey|Wild Stride]] class feature, and are in forested, mountainous or underground terrain and do not already have a climb Speed.
+Granted by [[Favored Terrain|Favored Terrain (Forest, Moutain or Underground)]] if you have the [[Class Features/Unimpeded Journey|Wild Stride]] class feature, and are in forested, mountainous or underground terrain and do not already have a climb Speed.
 
 You gain a climb Speed equal to your Speed.
 

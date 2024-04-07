@@ -20,7 +20,7 @@ license: OGL
 
 **Prerequisites** Shield Block
 * * *
-You are particularly skilled at using a shield in combat. You gain the [[Feats/Reactive Shield|Reactive Shield]] feat. This fulfills any prerequisites requiring Reactive Shield as normal.
+You are particularly skilled at using a shield in combat. You gain the [[Reactive Shield|Reactive Shield]] feat. This fulfills any prerequisites requiring Reactive Shield as normal.
 
 **Special** You can't select another dedication feat until you have gained two other feats from the [[Compendium.pf2e.journals.JournalEntry.vx5FGEG34AxI2dow.JournalEntryPage.C3P0TycdFCN02p9u|Bastion]] archetype.
 

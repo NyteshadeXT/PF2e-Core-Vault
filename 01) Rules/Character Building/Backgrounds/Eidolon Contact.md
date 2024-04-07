@@ -20,7 +20,7 @@ You've come into contact with a disembodied being of magical essence known as an
 
 Choose two ability boosts. One must be to **Constitution** or **Charisma**, and one is a free ability boost.
 
-You're trained in your choice of Arcana, Nature, Occultism, or Religion, and a Lore skill for the creature associated with your contacted eidolon (such as Angel Lore or Dragon Lore). You gain the [[Feats/Dubious Knowledge|Dubious Knowledge]] skill feat.
+You're trained in your choice of Arcana, Nature, Occultism, or Religion, and a Lore skill for the creature associated with your contacted eidolon (such as Angel Lore or Dragon Lore). You gain the [[Dubious Knowledge|Dubious Knowledge]] skill feat.
 
 *Source: Pathfinder Secrets of Magic*
 *OGL*

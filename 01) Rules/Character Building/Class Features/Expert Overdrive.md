@@ -11,7 +11,7 @@ license: OGL
 ---
 # Expert Overdrive
 ## Feat 3
-### [[inventor]]
+### [[01) Rules/Character Building/Feats/Inventor]]
 
 **Category** classfeature; 
 

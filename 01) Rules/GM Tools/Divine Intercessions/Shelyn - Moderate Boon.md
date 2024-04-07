@@ -17,7 +17,7 @@ license: OGL
 
 
 
-**Moderate Boon** You are inspired to create great works and become a virtuoso at all arts. You gain the [[Feats/Specialty Crafting|Specialty Crafting]] feat and the [[Feats/Virtuosic Performer|Virtuosic Performer]] feat in all categories of Crafting and Performance.
+**Moderate Boon** You are inspired to create great works and become a virtuoso at all arts. You gain the [[Specialty Crafting|Specialty Crafting]] feat and the [[Virtuosic Performer|Virtuosic Performer]] feat in all categories of Crafting and Performance.
 
 *Source: Pathfinder Lost Omens: Gods & Magic*
 *OGL*

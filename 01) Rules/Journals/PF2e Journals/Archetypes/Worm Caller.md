@@ -10,7 +10,7 @@ tags:
 # Worm Caller
 You follow the ancient hryngar tradition of the worm caller—mystics who can call upon the strength and destructive force of the mighty cave worms that inhabit the Darklands. You can manifest worms to attack your enemies, draw upon their senses and resistances, summon one to do your bidding and, eventually, become a worm yourself
 
-## [[Feats/Worm Caller Dedication|Worm Caller Dedication]] Feat 2
+## [[Worm Caller Dedication|Worm Caller Dedication]] Feat 2
 
 **Prerequisites** Trained in Nature or Cave Worm Lore
 
@@ -18,7 +18,7 @@ You follow the ancient hryngar tradition of the worm caller—mystics who can ca
 
 You pledge yourself to understanding and emulating one of the most powerful creatures of the Darklands: the mighty cave worm. You gain the [[Actions/Shake It Off|Shake It Off]] reaction.
 
-## [[Feats/Worm Sense|Worm Sense]] Feat 4
+## [[Worm Sense|Worm Sense]] Feat 4
 
 **Prerequisites** Worm Caller Dedication
 
@@ -28,7 +28,7 @@ You emulate the senses of the cave worm. You gain darkvision and tremorsense as 
 
 The range of the tremorsense increases to 10 feet at 8th level and to 15 feet at 12th level.
 
-## [[Feats/Wormskin|Wormskin]] Feat 4
+## [[Wormskin|Wormskin]] Feat 4
 
 **Prerequisites** Worm Caller Dedication
 
@@ -40,7 +40,7 @@ When you're unarmored, your flesh gives you a +2 item bonus to AC with a Dexteri
 
 **Special** You can take this feat up to three times, each time selecting a new damage type from the list.
 
-## [[Feats/Inexorable|Inexorable]] Feat 6
+## [[Inexorable|Inexorable]] Feat 6
 
 **Prerequisites** Worm Caller Dedication
 
@@ -50,7 +50,7 @@ You imbue yourself with the resilience of the cave worm. When you gain the [[Con
 
 When using Worm Form you are immune to penalties to your Speed and the [[Conditions/Immobilized|Immobilized]] condition, you gain a +2 circumstance bonus to your Fortitude or Reflex DC against attempts to [[Actions/Shove|Shove]] or [[Actions/Trip|Trip]] you, and you ignore difficult terrain and greater difficult terrain.
 
-## [[Feats/Worm's Feast|Worm's Feast]] Feat 6
+## [[Worm's Feast|Worm's Feast]] Feat 6
 
 **Prerequisites** Worm Caller Dedication
 
@@ -72,7 +72,7 @@ You call forth a brood of infantile cave worms to feast on your enemy's flesh. C
 
 **Critical Failure** As failure, plus the target is [[Conditions/Off-Guard|Off-Guard]] as long as it takes persistent piercing damage.
 
-## [[Feats/Worm Empathy|Worm Empathy]] Feat 8
+## [[Worm Empathy|Worm Empathy]] Feat 8
 
 **Prerequisites** Worm Caller Dedication
 
@@ -80,7 +80,7 @@ You call forth a brood of infantile cave worms to feast on your enemy's flesh. C
 
 You can connect with cave worms (and other worm-related creatures, at the GM's discretion) on a rudimentary level. You can use Diplomacy to [[Actions/Make an Impression|Make an Impression]] on cave worms and to make simple Requests of them. In most cases, the cave worm's starting attitude is indifferent and they will give you time to establish contact.
 
-## [[Feats/Azure Fins|Azure Fins]] Feat 10
+## [[Azure Fins|Azure Fins]] Feat 10
 
 **Prerequisites** Worm Caller Dedication
 
@@ -88,7 +88,7 @@ You can connect with cave worms (and other worm-related creatures, at the GM's d
 
 When submerged in water or another liquid, you form small fin-like arms along your body, granting you far greater maneuverability while swimming. You gain a swim Speed equal to your land Speed. Furthermore, while swimming on the surface of a liquid, you can [[Actions/Leap|Leap]] out of the liquid and do not fall until the end of your turn, allowing you to spend the rest of the turn above the surface.
 
-## [[Feats/Call Worm Spirit|Call Worm Spirit]] Feat 10
+## [[Call Worm Spirit|Call Worm Spirit]] Feat 10
 
 **Prerequisites** Worm Caller Dedication
 
@@ -110,7 +110,7 @@ You call forth a ghostly manifestation of the worm spirit. Choose an intersectio
 
 **Critical Failure** As failure, but the damage increases to 6d10 + 30 bludgeoning and the target is knocked [[Conditions/Prone|Prone]].
 
-## [[Feats/Tunnel|Tunnel]] Feat 2
+## [[Tunnel|Tunnel]] Feat 2
 
 **Prerequisites** Worm Caller Dedication
 
@@ -118,7 +118,7 @@ You call forth a ghostly manifestation of the worm spirit. Choose an intersectio
 
 You gain a burrow speed of 10 feet.
 
-## [[Feats/Crimson Breath|Crimson Breath]] Feat 12
+## [[Crimson Breath|Crimson Breath]] Feat 12
 
 **Prerequisites** Worm Caller Dedication
 
@@ -130,7 +130,7 @@ You gain a burrow speed of 10 feet.
 
 You gain a fire breath weapon similar to that of a crimson worm. You breathe a blast of flame in a 30-foot cone that deals 12d6 fire damage to all creatures in the area (basic Reflex save). This damage increases by 2d6 at 14th level and every 2 levels thereafter.
 
-## [[Feats/Venomous Touch|Venomous Touch]] Feat 12
+## [[Venomous Touch|Venomous Touch]] Feat 12
 
 **Prerequisites** Worm Caller Dedication
 
@@ -138,7 +138,7 @@ You gain a fire breath weapon similar to that of a crimson worm. You breathe a b
 
 You've learned to channel the sting of the worm. You gain [[Spells/Purple Worm Sting|Purple Worm Sting]] as an innate primal spell that you can cast once per day.
 
-## [[Feats/Worm Form|Worm Form]] Feat 14
+## [[Worm Form|Worm Form]] Feat 14
 
 **Prerequisites** Worm Caller Dedication
 
@@ -172,7 +172,7 @@ You also gain specific abilities based on the type of monster you choose:
 
 **Hybrid Caster** You retain the ability to speak, and can cast spells as long as they don't have somatic or material components.
 
-## [[Feats/Call The Worm|Call The Worm]] Feat 18
+## [[Call The Worm|Call The Worm]] Feat 18
 
 **Prerequisites** Call Worm Spirit
 

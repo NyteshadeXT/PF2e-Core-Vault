@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by [[Feats/Aura Of Despair|Aura Of Despair]]
+Granted by [[Aura Of Despair|Aura Of Despair]]
 
 Enemies within 15 of you take a -1 circumstance penalty to saving throws against fear.
 

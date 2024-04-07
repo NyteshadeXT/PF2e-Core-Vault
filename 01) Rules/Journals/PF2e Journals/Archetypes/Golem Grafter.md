@@ -10,7 +10,7 @@ tags:
 # Golem Grafter
 You have replaced a portion of your body with artifice of the kind used to create golems, fortifying your flesh with the unyielding might of magical constructs.
 
-## [[Feats/Golem Grafter Dedication|Golem Grafter Dedication]] Feat 8
+## [[Golem Grafter Dedication|Golem Grafter Dedication]] Feat 8
 
 **Prerequisites** expert in Arcana and Crafting, or an ally with expert proficiency in those skills willing to augment you
 
@@ -20,7 +20,7 @@ Your flesh has been specially treated with the same arcane and alchemical proces
 
 **Special** You cannot select another dedication feat until you have gained two other feats from the golem grafter archetype.
 
-## [[Feats/Accursed Clay Fist|Accursed Clay Fist]] Feat 10
+## [[Accursed Clay Fist|Accursed Clay Fist]] Feat 10
 
 **Prerequisites** Golem Grafter Dedication, expert in unarmed attacks
 
@@ -30,7 +30,7 @@ You have replaced one of your forearms with one made of clay and infused with cu
 
 **Special** The damage die for your clay fist is 1d8, and it loses the agile and finesse traits of a typical fist.
 
-## [[Feats/Quicken Heartbeat|Quicken Heartbeat]] Feat 10
+## [[Quicken Heartbeat|Quicken Heartbeat]] Feat 10
 
 **Frequency** once per turn
 
@@ -40,7 +40,7 @@ You have replaced one of your forearms with one made of clay and infused with cu
 
 You've replaced your heart with one made of animated quicksilver and living adamantine. You reduce your slowed condition by 1. Alternatively, if you are not slowed, you are quickened 1 during your next turn, and can use your extra action to Stride or Strike.
 
-## [[Feats/Legs of Stone|Legs of Stone]] Feat 12
+## [[Legs of Stone|Legs of Stone]] Feat 12
 
 **Prerequisites** Golem Grafter Dedication
 
@@ -48,7 +48,7 @@ You've replaced your heart with one made of animated quicksilver and living adam
 
 You gain a +2 status bonus to your Fortitude and Reflex DCs against attempts to Shove or Trip you. You can Shove creatures even if you don't have a hand free. When you successfully Shove a foe, you can Stride away from your opponent (instead of toward it), but you must move the same distance in the opposite direction from where you Shoved it.
 
-## [[Feats/Iron Lung|Iron Lung]] Feat 14
+## [[Iron Lung|Iron Lung]] Feat 14
 
 **Prerequisites** Golem Grafter Dedication
 

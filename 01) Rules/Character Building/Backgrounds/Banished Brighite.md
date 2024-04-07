@@ -24,7 +24,7 @@ On the run and with nowhere to turn, your faith has been thoroughly tested, thou
 
 Choose two ability boosts. One must be to **Intelligence** or **Wisdom**, and one is a free ability boost.
 
-You're trained in the Religion skill and the Brigh Lore skill. You gain the [[Feats/Quick Identification|Quick Identification]] skill feat.
+You're trained in the Religion skill and the Brigh Lore skill. You gain the [[Quick Identification|Quick Identification]] skill feat.
 
 *Source: Pathfinder: Outlaws of Alkenstar Player's Guide*
 *OGL*

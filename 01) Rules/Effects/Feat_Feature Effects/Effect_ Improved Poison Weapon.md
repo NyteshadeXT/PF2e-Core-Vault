@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Applied when you apply a poison created with [[Feats/Improved Poison Weapon|Improved Poison Weapon]].
+Applied when you apply a poison created with [[Improved Poison Weapon|Improved Poison Weapon]].
 
 *Source: Pathfinder Core Rulebook*
 *OGL*

@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by [[Feats/Nanite Surge|Nanite Surge]].
+Granted by [[Nanite Surge|Nanite Surge]].
 
 You gain a +2 status bonus to the triggering skill check.
 

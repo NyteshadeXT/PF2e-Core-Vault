@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by [[Feats/Nanite Surge|Nanite Surge]].
+Granted by [[Nanite Surge|Nanite Surge]].
 
 Your circuitry glows, lighting a 10-foot emanation with dim light for 1 round.
 

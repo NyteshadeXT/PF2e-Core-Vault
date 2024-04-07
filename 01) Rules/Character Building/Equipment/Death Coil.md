@@ -22,7 +22,7 @@ license: OGL
 **Bulk** 0; **Size** med
 **Usage** held-in-one-hand
 
-This modified Stasian coil of metal and glass stands about three feet tall. It activates when at least three creatures are within 20 feet of it, or if at least one creature stays within 20 feet of it for more than 1 round. It then lashes out with a torrent of electrical energy dealing 7d12 electricity damage to all creatures within 20 feet of it. Due to the fact that it doesn't trigger immediately when a creature enters its square, abilities like [[Feats/Surprise Snare|Surprise Snare]] don't work with a death coil. Creatures within that area must attempt a DC 43 Fortitude check saving throw.
+This modified Stasian coil of metal and glass stands about three feet tall. It activates when at least three creatures are within 20 feet of it, or if at least one creature stays within 20 feet of it for more than 1 round. It then lashes out with a torrent of electrical energy dealing 7d12 electricity damage to all creatures within 20 feet of it. Due to the fact that it doesn't trigger immediately when a creature enters its square, abilities like [[Surprise Snare|Surprise Snare]] don't work with a death coil. Creatures within that area must attempt a DC 43 Fortitude check saving throw.
 
 * * *
 

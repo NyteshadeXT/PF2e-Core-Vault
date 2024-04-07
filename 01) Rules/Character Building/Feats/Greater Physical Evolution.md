@@ -23,9 +23,9 @@ You hold a deep understanding of the innate fundamental structures of the physic
 
 Once per day, you can use a sorcerer spell slot to cast any common polymorph battle form spell of the spell slot's level as if it were a signature spell in your repertoire.
 
-If you have [[Feats/Arcane Evolution|Arcane Evolution]], you can also choose from any battle form spell in your spellbook.
+If you have [[Arcane Evolution|Arcane Evolution]], you can also choose from any battle form spell in your spellbook.
 
-If you have [[Feats/Primal Evolution|Primal Evolution]], you can Cast a Spell listed in that feat using the extra spell slot the feat grants (instead of a sorcerer spell slot).
+If you have [[Primal Evolution|Primal Evolution]], you can Cast a Spell listed in that feat using the extra spell slot the feat grants (instead of a sorcerer spell slot).
 
 *Source: Pathfinder Advanced Player's Guide*
 *OGL*

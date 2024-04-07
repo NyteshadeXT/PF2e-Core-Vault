@@ -17,7 +17,7 @@ license: OGL
 
 
 
-Granted by [[Feats/Ghosts in the Storm|Ghosts in the Storm]]
+Granted by [[Ghosts in the Storm|Ghosts in the Storm]]
 
 The creature is concealed, and its Strikes gain the _shock_ rune.
 

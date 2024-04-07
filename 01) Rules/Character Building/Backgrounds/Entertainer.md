@@ -21,7 +21,7 @@ Through an education in the arts or sheer dogged practice, you learned to entert
 
 Choose two attribute boosts. One must be to **Dexterity** or **Charisma**, and one is a free attribute boost.
 
-You're trained in the Performance skill and the Theater Lore skill. You gain the [[Feats/Fascinating Performance|Fascinating Performance]] skill feat.
+You're trained in the Performance skill and the Theater Lore skill. You gain the [[Fascinating Performance|Fascinating Performance]] skill feat.
 
 *Source: Pathfinder Player Core*
 *ORC*

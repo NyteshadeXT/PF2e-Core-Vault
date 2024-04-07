@@ -20,7 +20,7 @@ Recruiters invite many candidates like you to train to be Knights of Lastwall, b
 
 Choose two ability boosts. One must be to **Strength** or **Constitution**, and one is a free ability boost.
 
-You're trained in the Warfare Lore skill, and you gain the [[Feats/Canny Acumen|Canny Acumen]] feat.
+You're trained in the Warfare Lore skill, and you gain the [[Canny Acumen|Canny Acumen]] feat.
 
 *Source: Pathfinder Lost Omens: Knights of Lastwall*
 *OGL*

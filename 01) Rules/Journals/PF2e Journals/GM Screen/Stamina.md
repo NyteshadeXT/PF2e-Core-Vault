@@ -39,8 +39,8 @@ If a character is dying at the start of their turn, their player can spend 1 Res
 
 ## Stamina Feats
 
-*   [[Feats/Encouraging Words|Encouraging Words]]
-*   [[Feats/Steel Your Resolve|Steel Your Resolve]]
+*   [[01) Rules/Character Building/Feats/Encouraging Words|Encouraging Words]]
+*   [[01) Rules/Character Building/Feats/Steel Your Resolve|Steel Your Resolve]]
 
 ## Other Creatures
 

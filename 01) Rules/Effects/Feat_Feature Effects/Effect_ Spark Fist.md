@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by [[Feats/Spark Fist|Spark Fist]]
+Granted by [[Spark Fist|Spark Fist]]
 
 Your fist loses the nonlethal trait and deals additional fire damage on a successful Strike.
 

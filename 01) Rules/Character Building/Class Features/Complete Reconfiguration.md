@@ -11,7 +11,7 @@ license: OGL
 ---
 # Complete Reconfiguration
 ## Feat 13
-### [[inventor]]
+### [[01) Rules/Character Building/Feats/Inventor]]
 
 **Category** classfeature; 
 

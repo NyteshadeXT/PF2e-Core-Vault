@@ -24,7 +24,7 @@ You're one of those who successfully completed the hunt and bonded with your pri
 
 A beast gunner's bond with their beast gun is deep and mystical, so if you hope to be a successful beast gunner, it's important to choose a beast gun that suits your temperament, magic, and combat style. For example, if you favor strength and intimidation, a screech shooter is the right choice for you, whereas a spider gun might be optimal if you prefer a more careful style of setting up the battlefield in advance. Similarly, a tentacle cannon is slow and methodical and can hold an enemy in place at close range, while a drake rifle is energetic and mobile and can be used to attack from a great distance. Each beast gun has a personality and magical abilities that attract people who value them. For this reason, some experienced beast gunners say the weapon chooses you.
 
-## [[Feats/Beast Gunner Dedication|Beast Gunner Dedication]] Feat 6
+## [[Beast Gunner Dedication|Beast Gunner Dedication]] Feat 6
 
 **Prerequisites** expert with at least one type of firearm, you own a beast gun and have slain the type of creature associated with your beast gun in a fair hunt (see above); trained in Arcana and Crafting
 
@@ -38,29 +38,29 @@ If you already cast arcane or primal spells from spell slots, you learn one addi
 
 You also gain [[Actions/Spellsling|Spellsling]].
 
-## [[Feats/Basic Beast Gunner Spellcasting|Basic Beast Gunner Spellcasting]] Feat 8
+## [[Basic Beast Gunner Spellcasting|Basic Beast Gunner Spellcasting]] Feat 8
 
-**Prerequisites** [[Feats/Beast Gunner Dedication|Beast Gunner Dedication]]
+**Prerequisites** [[Beast Gunner Dedication|Beast Gunner Dedication]]
 
 * * *
 
 You've unlocked the first secrets of beast guns, granting you the power of their synergistic magic.You gain the basic spellcasting benefits. Each time you gain a spell slot of a new level from this archetype, add a spell of the appropriate spell rank to your repertoire, either a common spell of your chosen tradition or another spell of that tradition you've learned or discovered.
 
-## [[Feats/Call Gun|Call Gun]] Feat 8\*
+## [[01) Rules/Character Building/Feats/Call Gun|Call Gun]] Feat 8\*
 
-**Prerequisites** [[Feats/Spellshot Dedication|Spellshot Dedication]]
+**Prerequisites** [[Spellshot Dedication|Spellshot Dedication]]
 
-\* This version of the Call Gun feat is intended for use with an Archetype and has a different level for access than the [[Feats/Call Gun|original feat]].
+\* This version of the Call Gun feat is intended for use with an Archetype and has a different level for access than the [[01) Rules/Character Building/Feats/Call Gun|original feat]].
 
 * * *
 
 You build a powerful magical connection with a chosen gun or crossbow, gaining the ability to conjure it directly to your hand from any distant location. During your daily preparations, choose a single crossbow or firearm. Until your next daily preparations, you can use the [[Actions/Call Gun|Call Gun]] action to call the gun to your hand.
 
-## [[Feats/Drain Vitality|Drain Vitality]] Feat 10
+## [[Drain Vitality|Drain Vitality]] Feat 10
 
 **Frequency** once per minute
 
-**Prerequisites** [[Feats/Beast Gunner Dedication|Beast Gunner Dedication]]
+**Prerequisites** [[Beast Gunner Dedication|Beast Gunner Dedication]]
 
 **Requirements** You're wielding your bonded beast gun.
 
@@ -68,19 +68,19 @@ You build a powerful magical connection with a chosen gun or crossbow, gaining t
 
 You draw out the bestial magic energy within your bonded beast gun to fortify yourself, purge ongoing harm, and bolster your life force with a sheath of swirling life essence. You gain temporary Hit Points equal to your level and attempt a flat check against any ongoing persistent damage, using the DC appropriate for particularly effective assistance. Using this ability depletes the magic within your bonded beast gun, preventing you from using any of its activated abilities until the end of your next turn.
 
-## [[Feats/Expert Beast Gunner Spellcasting|Expert Beast Gunner Spellcasting]] Feat 12
+## [[Expert Beast Gunner Spellcasting|Expert Beast Gunner Spellcasting]] Feat 12
 
-**Prerequisites** [[Feats/Basic Beast Gunner Spellcasting|Basic Beast Gunner Spellcasting]]
+**Prerequisites** [[Basic Beast Gunner Spellcasting|Basic Beast Gunner Spellcasting]]
 
 * * *
 
 You've learned the deeper secrets of beast guns, making you an expert in the magic they grant you. You gain the expert spellcasting benefits.
 
-## [[Feats/Controlled Bullet|Controlled Bullet]] Feat 16
+## [[Controlled Bullet|Controlled Bullet]] Feat 16
 
 **Frequency** once per day
 
-**Prerequisites** [[Feats/Beast Gunner Dedication|Beast Gunner Dedication]]
+**Prerequisites** [[Beast Gunner Dedication|Beast Gunner Dedication]]
 
 * * *
 
@@ -88,9 +88,9 @@ You create a direct magical connection with your beast gun, allowing you to guid
 
 You can continue to make Strikes against new targets in this same way until your attack misses, at which point your shot dissipates. You can't make a Strike against a target you already attacked during this use of Controlled Bullet, but you can otherwise continue to make attacks against valid targets until you miss. Each attack counts toward your multiple attack penalty, but don't increase your penalty until you've made all your attacks.
 
-## [[Feats/Master Beast Gunner Spellcasting|Master Beast Gunner Spellcasting]] Feat 18
+## [[Master Beast Gunner Spellcasting|Master Beast Gunner Spellcasting]] Feat 18
 
-**Prerequisites** [[Feats/Expert Beast Gunner Spellcasting|Expert Beast Gunner Spellcasting]]
+**Prerequisites** [[Expert Beast Gunner Spellcasting|Expert Beast Gunner Spellcasting]]
 
 * * *
 

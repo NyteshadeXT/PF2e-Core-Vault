@@ -16,7 +16,7 @@ license: OGL
 
 
 
-You gain the benefits of the [[Feats/Diehard|Diehard]] feat.
+You gain the benefits of the [[Diehard|Diehard]] feat.
 
 *Source: Pathfinder #198: No Breath to Cry*
 *OGL*

@@ -18,7 +18,7 @@ license: OGL
 **Bulk** 0; **Size** med
 **Usage** worn
 
-Obtained with [[Feats/Ka Stone Ritual|Ka Stone Ritual]]
+Obtained with [[Ka Stone Ritual|Ka Stone Ritual]]
 
 You inscribe your true name on your _ka stone_, as well as oaths to gods and pharaohs, and embed it in your forehead in a special ritual with a sphinx or with a living monolith who already has this feat. The _ka stone_ is an invested magic item that you automatically invest each day. It can't be removed without your permission, nor can it be dispelled, and you can never lose investiture in the ka stone. Its Bulk is negligible.
 

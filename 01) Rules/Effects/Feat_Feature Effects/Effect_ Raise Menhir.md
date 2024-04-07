@@ -17,7 +17,7 @@ license: ORC
 
 
 
-Granted by [[Feats/Raise Menhir|Raise Menhir]]
+Granted by [[Raise Menhir|Raise Menhir]]
 
 Choose arcane, divine, or occult; all creatures within 15 feet of the monument gain a +2 status bonus to their saving throws against effects with that trait.
 

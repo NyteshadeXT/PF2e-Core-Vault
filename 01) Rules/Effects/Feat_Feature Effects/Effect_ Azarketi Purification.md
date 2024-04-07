@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by [[Feats/Azarketi Purification|Azarketi Purification]]
+Granted by [[Azarketi Purification|Azarketi Purification]]
 
 *Source: Pathfinder Lost Omens: Ancestry Guide*
 *OGL*

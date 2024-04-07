@@ -10,9 +10,9 @@ tags:
 # Viking
 To go 'viking' is to raid by sea, and thus vikings have spread far and wide. Some have even settled in the very communities they once raided. Vikings traditionally travel in longboats; a score of these warriors might live aboard their ship for days at a time, sailing the seas (or, as they call it, the 'whale-road') to ambush coastal communities. Once they arrive at a settlement, they charge ashore, plundering all they can find and slaying anyone foolish enough to get in their way. The ferocity of viking raids is legendary.
 
-**Additional Feats** 4th [[Feats/Reactive Shield|Reactive Shield]]; 6th [[Feats/Shielded Stride|Shielded Stride]]; 10th [[Feats/Quick Shield Block|Quick Shield Block]]
+**Additional Feats** 4th [[Reactive Shield|Reactive Shield]]; 6th [[Shielded Stride|Shielded Stride]]; 10th [[Quick Shield Block|Quick Shield Block]]
 
-## [[Feats/Viking Dedication|Viking Dedication]] Feat 2
+## [[Viking Dedication|Viking Dedication]] Feat 2
 
 **Prerequisites** trained in Athletics
 
@@ -22,7 +22,7 @@ Vikings spend long periods of time at sea, only to leap from their boats at a mo
 
 **Special** You can't select another dedication feat until you have gained two other feats from the Viking archetype.
 
-## [[Feats/Hurling Charge|Hurling Charge]] Feat 4
+## [[Hurling Charge|Hurling Charge]] Feat 4
 
 **Prerequisites** Viking Dedication
 
@@ -30,7 +30,7 @@ Vikings spend long periods of time at sea, only to leap from their boats at a mo
 
 You make a ranged Strike with a thrown weapon you already have in your hand, Stride, and then Interact to draw another weapon. If you are raging, you can add the additional damage with melee weapons you receive from raging to your damage with the thrown weapon.
 
-## [[Feats/Viking Weapon Familiarity|Viking Weapon Familiarity]] Feat 4
+## [[Viking Weapon Familiarity|Viking Weapon Familiarity]] Feat 4
 
 **Prerequisites** Viking Dedication
 
@@ -38,7 +38,7 @@ You make a ranged Strike with a thrown weapon you already have in your hand, Str
 
 From childhood, you have been exposed to traditional viking weapons, and you soon learned to handle them in battle. Now, you can raid proudly alongside your fellows. You are trained with the battle axe, hatchet, longsword, and shortsword. In addition, you gain the Shield Block reaction.
 
-## [[Feats/Viking Weapon Specialist|Viking Weapon Specialist]] Feat 6
+## [[Viking Weapon Specialist|Viking Weapon Specialist]] Feat 6
 
 **Prerequisites** Viking Weapon Familiarity
 
@@ -46,7 +46,7 @@ From childhood, you have been exposed to traditional viking weapons, and you soo
 
 You are even more skilled in the weapons of your people. You gain the critical specialization effects of the battle axe, hatchet, longsword, and shortsword. Whenever you gain a class feature that grants you expert or greater proficiency in certain weapons, you also gain that proficiency rank in the above four weapons.
 
-## [[Feats/Second Shield|Second Shield]] Feat 6
+## [[Second Shield|Second Shield]] Feat 6
 
 **Prerequisites** Viking Dedication
 

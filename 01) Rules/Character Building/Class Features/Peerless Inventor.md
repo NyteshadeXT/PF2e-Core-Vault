@@ -11,14 +11,14 @@ license: OGL
 ---
 # Peerless Inventor
 ## Feat 1
-### [[inventor]]
+### [[01) Rules/Character Building/Feats/Inventor]]
 
 **Category** classfeature; 
 
 
 
 
-You are constantly inventing, and your skill at crafting is unimpeachable. You gain the [[Feats/Inventor|Inventor]] skill feat, even if you don't meet its prerequisites.
+You are constantly inventing, and your skill at crafting is unimpeachable. You gain the [[01) Rules/Character Building/Feats/Inventor|Inventor]] skill feat, even if you don't meet its prerequisites.
 
 *Source: Pathfinder Guns & Gears*
 *OGL*

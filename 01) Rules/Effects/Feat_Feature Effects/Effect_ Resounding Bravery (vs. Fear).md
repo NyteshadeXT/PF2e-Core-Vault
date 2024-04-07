@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by [[Feats/Resounding Bravery|Resounding Bravery]] if you critically succeed at a Will save against a foe's fear effect.
+Granted by [[Resounding Bravery|Resounding Bravery]] if you critically succeed at a Will save against a foe's fear effect.
 
 You gain a +2 status bonus to saves and a number of temporary Hit Points equal to your level for 1 minute.
 

@@ -22,7 +22,7 @@ The chance to become an adventurer has excited you for some time, as you hope to
 
 Choose two ability boosts. One must be to **Dexterity** or **Charisma**, and one is a free ability boost.
 
-You're trained in the Stealth skill and the Kintargo Lore skill. You gain the [[Feats/Terrain Stalker|Terrain Stalker]] skill feat.
+You're trained in the Stealth skill and the Kintargo Lore skill. You gain the [[Terrain Stalker|Terrain Stalker]] skill feat.
 
 *Source: Pathfinder: Age of Ashes Player's Guide*
 *OGL*

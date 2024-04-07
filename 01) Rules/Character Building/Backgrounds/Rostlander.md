@@ -20,7 +20,7 @@ You were raised in the south of Brevoy, a land of dense forests and rolling plai
 
 Choose two ability boosts. One must be to **Strength** or **Constitution**, and one is a free ability boost.
 
-You're trained in the Athletics skill and the Farming Lore skill. You gain the [[Feats/Hefty Hauler|Hefty Hauler]] skill feat.
+You're trained in the Athletics skill and the Farming Lore skill. You gain the [[Hefty Hauler|Hefty Hauler]] skill feat.
 
 *Source: Pathfinder: Kingmaker Player's Guide*
 *OGL*

@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by [[Feats/Inventive Offensive|Inventive Offensive]]
+Granted by [[Inventive Offensive|Inventive Offensive]]
 
 When you use this ability, add one of the following weapon traits to a melee weapon you wield: deadly d6, disarm, nonlethal, shove, trip, versatile B, versatile P, or versatile S. You cannot add a trait that the weapon already has. The weapon retains this trait until you a successfully hit and deal damage with the weapon. The weapon retains this trait only while you wield it, and you can have only one weapon modified in this way at any time.
 

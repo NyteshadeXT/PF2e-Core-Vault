@@ -26,7 +26,7 @@ Noble Court: gavel, goblet, quill, lectern
 
 Tavern: bottle, mug, serving tray, stool
 
-## [[Feats/Weapon Improviser Dedication|Weapon Improviser Dedication]] Feat 2
+## [[Weapon Improviser Dedication|Weapon Improviser Dedication]] Feat 2
 
 **Prerequisites** trained in all martial weapons
 
@@ -36,7 +36,7 @@ You don't take the normal -2 penalty to attack rolls with improvised weapons. Ad
 
 **Special** You can't select another dedication feat until you have gained two other feats from the Weapon Improviser archetype.
 
-## [[Feats/Improvised Pummel|Improvised Pummel]] Feat 4
+## [[Improvised Pummel|Improvised Pummel]] Feat 4
 
 **Prerequisites** Weapon Improviser Dedication
 
@@ -48,7 +48,7 @@ You make a Strike with your wielded improvised weapon. You gain a +1 item bonus 
 
 At 12th level, your item bonus to the attack roll increases to +2 instead of +1, and at 16th level, the Strike deals three weapon damage dice if it would have dealt fewer, instead of two.
 
-## [[Feats/Surprise Strike|Surprise Strike]] Feat 4
+## [[Surprise Strike|Surprise Strike]] Feat 4
 
 **Prerequisites** Weapon Improviser Dedication
 
@@ -56,7 +56,7 @@ At 12th level, your item bonus to the attack roll increases to +2 instead of +1,
 
 Whenever you make a Strike with an improvised weapon against a creature that hasn't seen you make a Strike using an improvised weapon or that is otherwise ignorant of your skill with improvised weapons, the creature is off-guard against you for that Strike.
 
-## [[Feats/Improvised Critical|Improvised Critical]] Feat 8
+## [[Improvised Critical|Improvised Critical]] Feat 8
 
 **Prerequisites** Weapon Improviser Dedication
 
@@ -64,7 +64,7 @@ Whenever you make a Strike with an improvised weapon against a creature that has
 
 You can apply critical specialization effects to improvised weapons you wield. For any given improvised weapon, the GM determines which critical specialization effect is most applicable, based on the type of object it is.
 
-## [[Feats/Makeshift Strike|Makeshift Strike]] Feat 8
+## [[Makeshift Strike|Makeshift Strike]] Feat 8
 
 **Prerequisites** Weapon Improviser Dedication
 
@@ -72,7 +72,7 @@ You can apply critical specialization effects to improvised weapons you wield. F
 
 You quickly snatch up whatever's nearby and then attack with it as an improvised weapon. You Interact to pick up a nearby object you could use as an improvised weapon. It must be located at around your chest level, such as a mug on a table, rather than an object on the floor. You then either Strike or make an Improvised Pummel with the improvised weapon.
 
-## [[Feats/Shattering Strike (Weapon Improviser)|Shattering Strike (Weapon Improviser)]] Feat 10
+## [[Shattering Strike (Weapon Improviser)|Shattering Strike (Weapon Improviser)]] Feat 10
 
 **Prerequisites** Improvised Pummel
 

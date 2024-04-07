@@ -17,7 +17,7 @@ license: OGL
 
 
 
-Granted by [[Feats/Desert Wind|Desert Wind]]
+Granted by [[01) Rules/Character Building/Feats/Desert Wind|Desert Wind]]
 
 A vortex of sand and dust surrounds you. Each creature inside your kinetic aura (including you) is [[Conditions/Concealed|Concealed]] from any creature outside your kinetic aura, and creatures outside the aura are concealed from creatures inside the aura other than you. Your air impulses carry sands that cut at great speed.
 

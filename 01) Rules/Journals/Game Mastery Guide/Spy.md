@@ -8,4 +8,4 @@ tags:
 ---
 You spied upon this character in the past, either at the behest of someone else or because of your own suspicions.
 
-Add the [[Feats/Read Lips|Read Lips]] skill feat to your background options.
+Add the [[Read Lips|Read Lips]] skill feat to your background options.

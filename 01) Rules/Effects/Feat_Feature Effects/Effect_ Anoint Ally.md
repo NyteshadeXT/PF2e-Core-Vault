@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by [[Feats/Anoint Ally|Anoint Ally]].
+Granted by [[Anoint Ally|Anoint Ally]].
 
 *Source: Pathfinder Advanced Player's Guide*
 *OGL*

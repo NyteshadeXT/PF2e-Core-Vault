@@ -30,7 +30,7 @@ Make a bow Strike against a foe who is [[Conditions/Observed|Observed]] or [[Con
 
 The ammunition travels to your target in a straight line, passing through any non-magical barriers or walls in its way, though magical barriers stop the arrow. The shot ignores all cover, the concealed condition, the hidden condition, and circumstance bonuses to AC from shields. It has a +4 status bonus to hit creatures wearing any type of armor.
 
-The Strike's damage can't be reduced with a [[Feats/Shield Block|Shield Block]] reaction using a non-magical shield.
+The Strike's damage can't be reduced with a [[01) Rules/Character Building/Feats/Shield Block|Shield Block]] reaction using a non-magical shield.
 
 *Source: Pathfinder Advanced Player's Guide*
 *OGL*

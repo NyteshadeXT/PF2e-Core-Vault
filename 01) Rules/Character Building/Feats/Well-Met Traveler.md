@@ -20,7 +20,7 @@ license: OGL
 
 You have seen people from so many walks of life in your travels that you naturally adopt a pleasant and affable demeanor when meeting others. You are trained in Diplomacy. If you would automatically become trained in Diplomacy (from your background or class, for example), you instead become trained in a skill of your choice.
 
-In addition, you gain the [[Feats/Hobnobber|Hobnobber]] skill feat.
+In addition, you gain the [[Hobnobber|Hobnobber]] skill feat.
 
 * * *
 

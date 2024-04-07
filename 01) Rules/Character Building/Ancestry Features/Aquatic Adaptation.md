@@ -18,7 +18,7 @@ license: OGL
 
 
 
-Your reptilian biology allows you to hold your breath for a long time. You gain the [[Feats/Breath Control|Breath Control]] general feat as a bonus feat.
+Your reptilian biology allows you to hold your breath for a long time. You gain the [[Breath Control|Breath Control]] general feat as a bonus feat.
 
 *Source: Pathfinder Lost Omens: Character Guide*
 *OGL*

@@ -21,7 +21,7 @@ You called the wilderness home as you found trails and guided travelers. Your wa
 
 Choose two attribute boosts. One must be to **Dexterity** or **Wisdom**, and one is a free attribute boost.
 
-You're trained in the Survival skill and a Lore skill related to one terrain you scouted in (such as Forest Lore or Cavern Lore). You gain the [[Feats/Forager|Forager]] skill feat.
+You're trained in the Survival skill and a Lore skill related to one terrain you scouted in (such as Forest Lore or Cavern Lore). You gain the [[Forager|Forager]] skill feat.
 
 *Source: Pathfinder Player Core*
 *ORC*

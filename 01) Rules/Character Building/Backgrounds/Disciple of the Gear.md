@@ -20,7 +20,7 @@ While many regard science and faith as incompatible, you believe scientific adva
 
 Choose two ability boosts. One must be to **Intelligence** or **Wisdom**, and one is a free ability boost.
 
-You're trained in the Crafting skill and the Lore skill for the deity you worship. You gain the [[Feats/Quick Repair|Quick Repair]] skill feat.
+You're trained in the Crafting skill and the Lore skill for the deity you worship. You gain the [[Quick Repair|Quick Repair]] skill feat.
 
 *Source: Pathfinder Guns & Gears*
 *OGL*

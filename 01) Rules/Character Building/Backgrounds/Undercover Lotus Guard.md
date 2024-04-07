@@ -22,7 +22,7 @@ You transferred to the Edgewatch after your cover was unexpectedly blown and you
 
 Choose two ability boosts. One must be to **Intelligence** or **Charisma**, and one is a free ability boost.
 
-You're trained in the Deception skill, Art Lore, **and** Underworld Lore. You gain a +1 circumstance bonus to Deception, Diplomacy, and Intimidation checks to Interact with Lotus Guards and high-ranking criminals like guild masters, gang leaders, and mob bosses. You gain the [[Feats/Charming Liar|Charming Liar]] skill feat.
+You're trained in the Deception skill, Art Lore, **and** Underworld Lore. You gain a +1 circumstance bonus to Deception, Diplomacy, and Intimidation checks to Interact with Lotus Guards and high-ranking criminals like guild masters, gang leaders, and mob bosses. You gain the [[Charming Liar|Charming Liar]] skill feat.
 
 *Source: Pathfinder: Agents of Edgewatch Player's Guide*
 *OGL*

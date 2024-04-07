@@ -19,7 +19,7 @@ license: OGL
 
 **Prerequisites** master in Intimidation
 * * *
-A gnoll's sinister giggle is a sound of warning and threat. You gain the [[Feats/Battle Cry|Battle Cry]] skill feat. You don't take a penalty when you attempt to Demoralize a creature that doesn't understand your language.
+A gnoll's sinister giggle is a sound of warning and threat. You gain the [[01) Rules/Character Building/Feats/Battle Cry|Battle Cry]] skill feat. You don't take a penalty when you attempt to Demoralize a creature that doesn't understand your language.
 
 *Source: Pathfinder Lost Omens: The Mwangi Expanse*
 *OGL*

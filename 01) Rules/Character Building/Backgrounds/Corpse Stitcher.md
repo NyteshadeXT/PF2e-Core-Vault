@@ -22,7 +22,7 @@ The Reanimators appreciate your past service. Your party gains 1 Reputation Poin
 
 Choose two ability boosts. One must be to **Constitution** or **Wisdom**, and one is a free ability boost.
 
-You're trained in the Medicine skill. You gain your choice of either the [[Feats/Risky Surgery|Risky Surgery]] or [[Feats/Stitch Flesh|Stitch Flesh]] skill feats. You're also trained in Zombie Lore.
+You're trained in the Medicine skill. You gain your choice of either the [[Risky Surgery|Risky Surgery]] or [[Stitch Flesh|Stitch Flesh]] skill feats. You're also trained in Zombie Lore.
 
 *Source: Pathfinder: Blood Lords Player's Guide*
 *OGL*

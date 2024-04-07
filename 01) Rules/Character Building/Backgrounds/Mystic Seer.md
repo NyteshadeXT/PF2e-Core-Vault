@@ -20,7 +20,7 @@ You delight crowds by reading minds, telling futures, and contacting spirits. Al
 
 Choose two ability boosts. One must be to **Intelligence** or **Wisdom**, and one is a free ability boost.
 
-You're trained in the Arcana skill and the Scam Lore skill. You gain the [[Feats/Arcane Sense|Arcane Sense]] skill feat.
+You're trained in the Arcana skill and the Scam Lore skill. You gain the [[Arcane Sense|Arcane Sense]] skill feat.
 
 *Source: Pathfinder: Extinction Curse Player's Guide*
 *OGL*

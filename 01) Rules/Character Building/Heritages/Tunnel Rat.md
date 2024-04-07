@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Your incredibly small bones allow you to easily compress your body and squeeze through gaps. You gain the [[Feats/Quick Squeeze|Quick Squeeze]] feat as a bonus feat, even if you aren't trained in Acrobatics. Tight spaces not tight enough to require the Squeeze action aren't difficult terrain for you.
+Your incredibly small bones allow you to easily compress your body and squeeze through gaps. You gain the [[Quick Squeeze|Quick Squeeze]] feat as a bonus feat, even if you aren't trained in Acrobatics. Tight spaces not tight enough to require the Squeeze action aren't difficult terrain for you.
 
 *Source: Pathfinder Lost Omens: Ancestry Guide*
 *OGL*

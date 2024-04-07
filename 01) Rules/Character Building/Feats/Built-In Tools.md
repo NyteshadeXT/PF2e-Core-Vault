@@ -12,7 +12,7 @@ license: OGL
 ---
 # Built-In Tools
 ## Feat 1
-### [[inventor]][[modification]]
+### [[01) Rules/Character Building/Feats/Inventor]][[modification]]
 
 **Category** class; 
 

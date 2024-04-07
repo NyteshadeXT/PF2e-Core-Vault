@@ -20,7 +20,7 @@ You never expected to join a circus, but you were looking for a good place to li
 
 Choose two ability boosts. One must be to **Dexterity** or **Charisma**, and one is a free ability boost.
 
-You're trained in your choice of the Deception or Thievery skills. You gain a skill feat: [[Feats/Lengthy Diversion|Lengthy Diversion]] if you chose Deception, or [[Feats/Subtle Theft|Subtle Theft]] if you chose Thievery. You are also trained in the Underworld Lore skill.
+You're trained in your choice of the Deception or Thievery skills. You gain a skill feat: [[Lengthy Diversion|Lengthy Diversion]] if you chose Deception, or [[Subtle Theft|Subtle Theft]] if you chose Thievery. You are also trained in the Underworld Lore skill.
 
 *Source: Pathfinder: Extinction Curse Player's Guide*
 *OGL*

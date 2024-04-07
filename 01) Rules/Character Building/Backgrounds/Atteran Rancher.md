@@ -24,7 +24,7 @@ You grew up breeding and training the famous horses of the Atteran Ranches in no
 
 Choose two ability boosts. One must be to **Strength** or **Dexterity**, and one is a free ability boost.
 
-You're trained in the Nature skill and the Animal Lore skill. You gain the [[Feats/Train Animal|Train Animal]] skill feat.
+You're trained in the Nature skill and the Animal Lore skill. You gain the [[Train Animal|Train Animal]] skill feat.
 
 *Source: Pathfinder Lost Omens: World Guide*
 *OGL*

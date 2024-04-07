@@ -17,7 +17,7 @@ license: ORC
 
 
 
-Granted by [[Feats/Restorative Strike|Restorative Strike]]
+Granted by [[Restorative Strike|Restorative Strike]]
 
 Cast a 1-action [[Spells/Harm|Harm]] or [[Spells/Heal|Heal]] spell to heal yourself, expending the spell normally. It loses the manipulate trait when cast this way. Then make a melee Strike. If you make this Strike with your deity's favored weapon, you gain a +1 status bonus to the attack roll.
 

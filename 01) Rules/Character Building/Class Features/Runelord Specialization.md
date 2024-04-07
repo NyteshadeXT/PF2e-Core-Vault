@@ -18,7 +18,7 @@ license: OGL
 
 **Prerequisites** You must be a wizard specializing in one of the seven schools other than divination
 * * *
-You draw untold power from runes, sometimes called sin magic. You associate with one of the seven vices, also known as the seven rewards of rule: envy (abjuration), gluttony (necromancy), greed (transmutation), lust (enchantment), pride (illusion), sloth (conjuration), and wrath (evocation). Studying these techniques often tempts you with the associated sin. While leaning into it could corrupt you, it might make you more powerful. If you choose this class archetype, you must select [[Feats/Runelord Dedication|Runelord Dedication]] as your 2nd-level class feat.
+You draw untold power from runes, sometimes called sin magic. You associate with one of the seven vices, also known as the seven rewards of rule: envy (abjuration), gluttony (necromancy), greed (transmutation), lust (enchantment), pride (illusion), sloth (conjuration), and wrath (evocation). Studying these techniques often tempts you with the associated sin. While leaning into it could corrupt you, it might make you more powerful. If you choose this class archetype, you must select [[Runelord Dedication|Runelord Dedication]] as your 2nd-level class feat.
 
 **Prerequisites** You must be a wizard specializing in one of the seven schools other than divination.
 
@@ -30,7 +30,7 @@ You are trained in martial polearms. At 11th level, if you gain [[Class Features
 
 Finally, you lose the ability to prepare or cast any spell from your school's prohibited schools. You remove all spells of those schools from your spell list, meaning you can't even activate scrolls or wands of such spells.
 
-**Additional Feats** 2nd [[Feats/Tattoo Artist|Tattoo Artist]]
+**Additional Feats** 2nd [[Tattoo Artist|Tattoo Artist]]
 
 ## The Seven Schools
 

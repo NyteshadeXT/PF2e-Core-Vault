@@ -22,7 +22,7 @@ You decided to join the Call for Heroes to hoping to gain an opportunity to expl
 
 Choose two ability boosts. One must be to **Strength** or **Intelligence**, and one is a free ability boost.
 
-You're trained in the Society skill and the Architecture Lore skill. You gain the [[Feats/Courtly Graces|Courtly Graces]] skill feat.
+You're trained in the Society skill and the Architecture Lore skill. You gain the [[Courtly Graces|Courtly Graces]] skill feat.
 
 *Source: Pathfinder: Age of Ashes Player's Guide*
 *OGL*

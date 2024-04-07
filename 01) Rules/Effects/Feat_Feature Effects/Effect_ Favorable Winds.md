@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by [[Feats/Favorable Winds|Favorable Winds]].
+Granted by [[Favorable Winds|Favorable Winds]].
 
 * * *
 

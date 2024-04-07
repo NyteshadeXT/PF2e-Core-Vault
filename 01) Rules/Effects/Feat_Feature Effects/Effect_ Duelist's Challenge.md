@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by [[Feats/Duelist's Challenge|Duelist's Challenge]].
+Granted by [[Duelist's Challenge|Duelist's Challenge]].
 
 Select one foe that you can see and proclaim a challenge. That foe is your dueling opponent until they are defeated, flee, or the encounter ends.
 

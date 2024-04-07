@@ -11,7 +11,7 @@ license: OGL
 ---
 # Lock On `pf2:1`
 ## Feat 10
-### [[inventor]]
+### [[01) Rules/Character Building/Feats/Inventor]]
 
 **Category** class; 
 

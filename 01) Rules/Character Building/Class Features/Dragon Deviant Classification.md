@@ -33,19 +33,19 @@ Any effects from backlash can't be reduced, prevented, or otherwise bypassed. Co
 
 ## Dragon Deviant Feats
 
-[[Feats/Blasting Beams|Blasting Beams]]
+[[Blasting Beams|Blasting Beams]]
 
-[[Feats/Consume Energy|Consume Energy]]
+[[Consume Energy|Consume Energy]]
 
-[[Feats/Storming Breath|Storming Breath]]
+[[Storming Breath|Storming Breath]]
 
-[[Feats/Propulsive Leap|Propulsive Leap]]
+[[Propulsive Leap|Propulsive Leap]]
 
 ### Universal Deviant Feats
 
-[[Feats/Awakened Power|Awakened Power]]
+[[Awakened Power|Awakened Power]]
 
-[[Feats/Greater Awakened Power|Greater Awakened Power]]
+[[Greater Awakened Power|Greater Awakened Power]]
 
 *Source: Pathfinder Dark Archive*
 *OGL*

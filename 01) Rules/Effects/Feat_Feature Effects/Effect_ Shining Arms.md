@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by [[Feats/Shining Arms|Shining Arms]]
+Granted by [[Shining Arms|Shining Arms]]
 
 When a creature wielding the weapon critically hits a foe, you can Dismiss the spell as a reaction, causing the foe to be [[Conditions/Dazzled|Dazzled]] for 1 round
 

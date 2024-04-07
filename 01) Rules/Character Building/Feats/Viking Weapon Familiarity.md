@@ -21,7 +21,7 @@ license: OGL
 * * *
 From childhood, you have been exposed to traditional viking weapons, and you soon learned to handle them in battle. Now, you can raid proudly alongside your fellows.
 
-You are trained with the [[Equipment/Battle Axe|Battle Axe]], [[Equipment/Hatchet|Hatchet]], [[Equipment/Longsword|Longsword]], and [[Equipment/Shortsword|Shortsword]]. In addition, you gain the [[Feats/Shield Block|Shield Block]] reaction.
+You are trained with the [[Equipment/Battle Axe|Battle Axe]], [[Equipment/Hatchet|Hatchet]], [[Equipment/Longsword|Longsword]], and [[Equipment/Shortsword|Shortsword]]. In addition, you gain the [[01) Rules/Character Building/Feats/Shield Block|Shield Block]] reaction.
 
 *Source: Pathfinder Advanced Player's Guide*
 *OGL*

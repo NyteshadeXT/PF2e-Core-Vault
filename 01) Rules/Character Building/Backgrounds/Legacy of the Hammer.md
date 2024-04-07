@@ -20,7 +20,7 @@ Your introduction to the criminal life was spurred forward by a seemingly innocu
 
 Choose two ability boosts. One must be to **Dexterity** or **Charisma**, and one is a free ability boost.
 
-You're trained in the Thievery skill and Engineering Lore. You gain the [[Feats/Concealing Legerdemain|Concealing Legerdemain]] skill feat.
+You're trained in the Thievery skill and Engineering Lore. You gain the [[Concealing Legerdemain|Concealing Legerdemain]] skill feat.
 
 *Source: Pathfinder Dark Archive*
 *OGL*

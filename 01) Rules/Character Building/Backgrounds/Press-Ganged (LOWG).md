@@ -24,7 +24,7 @@ You were forced into service as a sailor against your will. Perhaps you were pun
 
 Choose two ability boosts. One must be to **Strength** or **Wisdom**, and one is a free ability boost.
 
-You're trained in the Society skill and the Sailing Lore skill. You gain the [[Feats/Experienced Professional|Experienced Professional]] skill feat.
+You're trained in the Society skill and the Sailing Lore skill. You gain the [[Experienced Professional|Experienced Professional]] skill feat.
 
 *Source: Pathfinder Lost Omens: World Guide*
 *OGL*

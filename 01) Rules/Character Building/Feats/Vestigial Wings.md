@@ -18,7 +18,7 @@ license: OGL
 
 
 
-You possess small, weak wings that aid in balance. You gain the [[Feats/Steady Balance|Steady Balance]] and [[Feats/Cat Fall|Cat Fall]] skill feats as bonus feats, even if you aren't trained in Acrobatics.
+You possess small, weak wings that aid in balance. You gain the [[Steady Balance|Steady Balance]] and [[Cat Fall|Cat Fall]] skill feats as bonus feats, even if you aren't trained in Acrobatics.
 
 *Source: Pathfinder Lost Omens: Ancestry Guide*
 *OGL*

@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by [[Feats/Ursine Avenger Form|Ursine Avenger Form]]
+Granted by [[Ursine Avenger Form|Ursine Avenger Form]]
 
 You gain a jaws unarmed attack that deals 1d8 piercing damage and a claws unarmed attack that deals 1d6 slashing damage and has the agile trait.
 

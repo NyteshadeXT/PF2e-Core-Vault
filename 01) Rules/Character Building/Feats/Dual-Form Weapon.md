@@ -12,7 +12,7 @@ license: OGL
 ---
 # Dual-Form Weapon
 ## Feat 4
-### [[inventor]][[modification]]
+### [[01) Rules/Character Building/Feats/Inventor]][[modification]]
 
 **Category** class; 
 

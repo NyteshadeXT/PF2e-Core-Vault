@@ -19,7 +19,7 @@ license: OGL
 
 **Prerequisites** Mountain Stronghold
 * * *
-**Requirements** You are in [[Feats/Mountain Stance|Mountain Stance]]
+**Requirements** You are in [[Mountain Stance|Mountain Stance]]
 
 * * *
 

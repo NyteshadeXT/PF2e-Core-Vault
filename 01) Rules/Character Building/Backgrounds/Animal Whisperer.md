@@ -21,7 +21,7 @@ You have always felt a connection to animals, and it was only a small leap to le
 
 Choose two attribute boosts. One must be to **Wisdom** or **Charisma**, and one is a free attribute boost.
 
-You're trained in the Nature skill and a Lore skill related to one terrain inhabited by animals you like (such as Plains Lore or Swamp Lore). You gain the [[Feats/Train Animal|Train Animal]] skill feat.
+You're trained in the Nature skill and a Lore skill related to one terrain inhabited by animals you like (such as Plains Lore or Swamp Lore). You gain the [[Train Animal|Train Animal]] skill feat.
 
 *Source: Pathfinder Player Core*
 *ORC*

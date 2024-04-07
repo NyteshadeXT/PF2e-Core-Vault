@@ -22,7 +22,7 @@ license: ORC
 * * *
 **Trigger** A creature within your reach critically fails a Strike against you.
 
-**Requirements** You are benefiting from [[Feats/Dueling Parry (Fighter)|Dueling Parry]].
+**Requirements** You are benefiting from [[Dueling Parry (Fighter)|Dueling Parry]].
 
 * * *
 

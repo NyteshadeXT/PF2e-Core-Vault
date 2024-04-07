@@ -17,7 +17,7 @@ license: ORC
 
 
 
-Granted by [[Feats/Premonition of Clarity|Premonition of Clarity]]
+Granted by [[Premonition of Clarity|Premonition of Clarity]]
 
 Reroll the triggering saving throw with a +2 circumstance bonus.
 

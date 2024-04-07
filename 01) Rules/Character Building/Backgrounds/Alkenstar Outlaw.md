@@ -20,7 +20,7 @@ You're an outlaw whose first crime was stealing the guns from Alkenstar's Gunwor
 
 Choose two ability boosts. One boost must be to **Dexterity** or **Constitution**, and one is a free ability boost.
 
-You're trained in Thievery and Underworld Lore. You gain the [[Feats/Subtle Theft|Subtle Theft]] skill feat.
+You're trained in Thievery and Underworld Lore. You gain the [[Subtle Theft|Subtle Theft]] skill feat.
 
 *Source: Pathfinder Guns & Gears*
 *OGL*

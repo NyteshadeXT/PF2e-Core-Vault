@@ -16,7 +16,7 @@ license: OGL
 
 
 
-[[Feats/Six Pillars Stance|Six Pillars Stance]]
+[[Six Pillars Stance|Six Pillars Stance]]
 
 **Requirements** You are unarmored.
 

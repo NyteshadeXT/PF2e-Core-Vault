@@ -20,7 +20,7 @@ You come from a small community far from any large cities, but the Magaambya is 
 
 Choose two ability boosts. One must be to **Intelligence** or **Wisdom**, and one is a free ability boost.
 
-You're trained in your choice of the Crafting or Survival skill. You gain a skill feat: [[Feats/Crafter's Appraisal|Crafter's Appraisal]] if you chose Crafting or [[Feats/Forager|Forager]] if you chose Survival. You're also trained in the Lore skill appropriate for the terrain around your community (such as Forest Lore or Jungle Lore).
+You're trained in your choice of the Crafting or Survival skill. You gain a skill feat: [[Crafter's Appraisal|Crafter's Appraisal]] if you chose Crafting or [[Forager|Forager]] if you chose Survival. You're also trained in the Lore skill appropriate for the terrain around your community (such as Forest Lore or Jungle Lore).
 
 Your recommended primary branch is the Cascade Bearers.
 

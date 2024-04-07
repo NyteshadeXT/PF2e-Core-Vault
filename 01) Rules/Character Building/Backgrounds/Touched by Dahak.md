@@ -22,7 +22,7 @@ As the manifestation of Dahak was destroyed, a shard of the dragon god's wrathfu
 
 Choose two ability boosts. One must be to **Strength** or **Charisma**, and one is a free ability boost.
 
-You're trained in the Athletics skill and the Dragon Lore skill. You gain the [[Feats/Titan Wrestler|Titan Wrestler]] skill feat.
+You're trained in the Athletics skill and the Dragon Lore skill. You gain the [[Titan Wrestler|Titan Wrestler]] skill feat.
 
 *Source: Pathfinder #150: Broken Promises*
 *OGL*

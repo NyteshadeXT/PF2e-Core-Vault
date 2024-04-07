@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by [[Feats/Aldori Parry|Aldori Parry]]
+Granted by [[Aldori Parry|Aldori Parry]]
 
 You gain a +2 circumstance bonus to AC.
 

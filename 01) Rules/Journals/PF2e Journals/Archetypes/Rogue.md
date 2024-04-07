@@ -10,7 +10,7 @@ tags:
 # Rogue
 You've learned to sneak, steal, and disable traps. With time and luck, you'll become capable of moving through the shadows, striking unseen, and escaping without notice.
 
-## [[Feats/Rogue Dedication|Rogue Dedication]] Feat 2
+## [[Rogue Dedication|Rogue Dedication]] Feat 2
 
 **Prerequisites** Dexterity +2
 
@@ -22,7 +22,7 @@ You gain a skill feat and the rogue's [[Class Features/Surprise Attack|Surprise 
 
 **Special** You cannot gain another dedication feat until you have gained two other feats from the rogue archetype.
 
-## [[Feats/Basic Trickery|Basic Trickery]] Feat 4
+## [[Basic Trickery|Basic Trickery]] Feat 4
 
 **Prerequisites** Rogue Dedication
 
@@ -30,7 +30,7 @@ You gain a skill feat and the rogue's [[Class Features/Surprise Attack|Surprise 
 
 You gain a 1st- or 2nd-level rogue feat.
 
-## [[Feats/Sneak Attacker|Sneak Attacker]] Feat 4
+## [[Sneak Attacker|Sneak Attacker]] Feat 4
 
 **Prerequisites** Rogue Dedication
 
@@ -38,7 +38,7 @@ You gain a 1st- or 2nd-level rogue feat.
 
 You gain the [[Class Features/Sneak Attack|Sneak Attack]] class feature, except it deals 1d4 damage, increasing to 1d6 at 6th level. You don't increase the number of dice as you gain levels.
 
-## [[Feats/Advanced Trickery|Advanced Trickery]] Feat 6
+## [[Advanced Trickery|Advanced Trickery]] Feat 6
 
 **Prerequisites** Basic Trickery
 
@@ -50,7 +50,7 @@ You gain one rogue feat. For the purpose of meeting its prerequisites, your rogu
 
 **Special** You can select this feat more than once. Each time you select it, you gain another rogue feat.
 
-## [[Feats/Skill Mastery (Rogue)|Skill Mastery (Rogue)]] Feat 8
+## [[Skill Mastery (Rogue)|Skill Mastery (Rogue)]] Feat 8
 
 **Prerequisites** Rogue Dedication; trained in at least one skill and expert in at least one skill
 
@@ -62,7 +62,7 @@ Increase your proficiency rank in one of your skills from expert to master and i
 
 **Special** You can select this feat up to five times.
 
-## [[Feats/Uncanny Dodge|Uncanny Dodge]] Feat 10
+## [[Uncanny Dodge|Uncanny Dodge]] Feat 10
 
 **Prerequisites** Rogue Dedication
 
@@ -70,7 +70,7 @@ Increase your proficiency rank in one of your skills from expert to master and i
 
 You gain the [[Class Features/Deny Advantage|Deny Advantage]] class feature.
 
-## [[Feats/Evasiveness (Rogue)|Evasiveness (Rogue)]] Feat 12
+## [[Evasiveness (Rogue)|Evasiveness (Rogue)]] Feat 12
 
 **Prerequisites** Rogue Dedication; expert in Reflex saves
 

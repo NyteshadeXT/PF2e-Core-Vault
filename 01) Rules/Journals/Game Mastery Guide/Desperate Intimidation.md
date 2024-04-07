@@ -8,4 +8,4 @@ tags:
 ---
 You had to frighten off pirates or slavers looking to capture you and this character.
 
-Add the [[Feats/Group Coercion|Group Coercion]] skill feat to your background options.
+Add the [[Group Coercion|Group Coercion]] skill feat to your background options.

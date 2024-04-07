@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by [[Feats/Emblazon Energy|Emblazon Energy]] when applied to a weapon.
+Granted by [[Emblazon Energy|Emblazon Energy]] when applied to a weapon.
 
 *   **Weapon** The weapon deals an extra 1d4 sonic damage, or an extra 1d6 sonic damage if you have a domain spell with the sonic trait.
 

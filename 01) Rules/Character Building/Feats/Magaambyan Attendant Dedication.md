@@ -28,7 +28,7 @@ When you gain this feat, choose to affiliate with the Cascade Bearers, Emerald B
 
 * * *
 
-**Special** You cannot select another dedication feat other than [[Feats/Halcyon Speaker Dedication|Halcyon Speaker Dedication]] until you have gained two other feats from the [[Compendium.pf2e.journals.JournalEntry.vx5FGEG34AxI2dow.JournalEntryPage.eLc6TSgWykjtSeuF|Magaambyan Attendant]] or [[Compendium.pf2e.journals.JournalEntry.vx5FGEG34AxI2dow.JournalEntryPage.pDmUITVao0FDMnVf|Halcyon Speaker]] archetype.
+**Special** You cannot select another dedication feat other than [[Halcyon Speaker Dedication|Halcyon Speaker Dedication]] until you have gained two other feats from the [[Compendium.pf2e.journals.JournalEntry.vx5FGEG34AxI2dow.JournalEntryPage.eLc6TSgWykjtSeuF|Magaambyan Attendant]] or [[Compendium.pf2e.journals.JournalEntry.vx5FGEG34AxI2dow.JournalEntryPage.pDmUITVao0FDMnVf|Halcyon Speaker]] archetype.
 
 *Source: Pathfinder Lost Omens: Character Guide*
 *OGL*

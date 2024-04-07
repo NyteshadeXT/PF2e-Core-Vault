@@ -10,7 +10,7 @@ tags:
 # Gunslinger
 You like a weapon that makes an impression almost as much as you like making an impression.
 
-## [[Feats/Gunslinger Dedication|Gunslinger Dedication]] Feat 2
+## [[Gunslinger Dedication|Gunslinger Dedication]] Feat 2
 
 **Prerequisites** Dexterity +2
 
@@ -22,7 +22,7 @@ You become trained in simple and martial crossbows and simple and martial firear
 
 **Special** You can't select another dedication feat until you've gained two other feats from the gunslinger archetype.
 
-## [[Feats/Basic Shooting|Basic Shooting]] Feat 4
+## [[Basic Shooting|Basic Shooting]] Feat 4
 
 **Prerequisites** Gunslinger Dedication
 
@@ -30,7 +30,7 @@ You become trained in simple and martial crossbows and simple and martial firear
 
 You gain a 1st- or 2nd-level gunslinger feat of your choice.
 
-## [[Feats/Advanced Shooting|Advanced Shooting]] Feat 6
+## [[Advanced Shooting|Advanced Shooting]] Feat 6
 
 **Prerequisites** Basic Shooting
 
@@ -42,7 +42,7 @@ You gain one gunslinger feat. For the purpose of meeting its prerequisites, your
 
 **Special** You can select this feat more than once. Each time you select it, you gain another gunslinger feat.
 
-## [[Feats/Slinger's Readiness|Slinger's Readiness]] Feat 6
+## [[Slinger's Readiness|Slinger's Readiness]] Feat 6
 
 **Prerequisites** Gunslinger Dedication
 
@@ -50,7 +50,7 @@ You gain one gunslinger feat. For the purpose of meeting its prerequisites, your
 
 You've learned a gunslinger's tricks for staking out your territory in a fight. You gain the initial deed for the way you selected with Gunslinger's Dedication.
 
-## [[Feats/Practiced Reloads|Practiced Reloads]] Feat 10
+## [[Practiced Reloads|Practiced Reloads]] Feat 10
 
 **Prerequisites** Gunslinger Dedication
 
@@ -58,7 +58,7 @@ You've learned a gunslinger's tricks for staking out your territory in a fight. 
 
 You've mastered the reloading techniques and methods usually practiced by only the most dedicated firearm professionals. You gain the slinger's reload for the way you selected with Gunslinger's Dedication.
 
-## [[Feats/Eagle Eye|Eagle Eye]] Feat 12
+## [[Eagle Eye|Eagle Eye]] Feat 12
 
 **Prerequisites** Gunslinger Dedication; expert in Perception
 
@@ -66,7 +66,7 @@ You've mastered the reloading techniques and methods usually practiced by only t
 
 Your practice with crossbows and firearms has sharpened your attention to detail. You become a master in Perception.
 
-## [[Feats/Firearm Expert|Firearm Expert]] Feat 12
+## [[Firearm Expert|Firearm Expert]] Feat 12
 
 **Prerequisites** Gunslinger Dedication; expert in any kind of weapon or unarmed attack
 

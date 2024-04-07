@@ -18,7 +18,7 @@ Emotions are powerful, and you can tap into that power to enhance your magic for
 
 Some emotional states, such as love or hatred, require the caster to focus on a specific individual called their emotional focus. Your emotional focus can change over time with you choosing a new focus after an important part of your story is resolved. Work with your GM to determine when this change happens. An emotional focus doesn't get a say in the matter; the cathartic spellcaster's emotions determine the bond. However, making another PC your emotional focus could result in an uncomfortable social dynamic. You should check with that PC's player in advance to see if such a link is acceptable.
 
-## [[Feats/Cathartic Mage Dedication|Cathartic Mage Dedication]] Feat 2
+## [[Cathartic Mage Dedication|Cathartic Mage Dedication]] Feat 2
 
 **Prerequisites** Charisma +2 or ability to cast spells from spell slotes
 
@@ -58,25 +58,25 @@ You gain the [[Actions/Catharsis|Catharsis]] reaction and the [[Actions/Settle E
 
 **Special** You can't select another dedication feat until you've gained two other feats from the cathartic mage archetype.
 
-## [[Feats/Basic Cathartic Spellcasting|Basic Cathartic Spellcasting]] Feat 4
+## [[Basic Cathartic Spellcasting|Basic Cathartic Spellcasting]] Feat 4
 
-**Prerequisites** [[Feats/Cathartic Mage Dedication|Cathartic Mage Dedication]]
+**Prerequisites** [[Cathartic Mage Dedication|Cathartic Mage Dedication]]
 
 * * *
 
 You gain the basic spellcasting benefits. Each time you gain a spell slot of a new level from this archetype, add a spell of that spell rank from your chosen tradition to your repertoire-either a common spell or another spell you've learned or discovered.
 
-## [[Feats/Cathartic Focus Spell|Cathartic Focus Spell]] Feat 4
+## [[Cathartic Focus Spell|Cathartic Focus Spell]] Feat 4
 
-**Prerequisites** [[Feats/Cathartic Mage Dedication|Cathartic Mage Dedication]]
+**Prerequisites** [[Cathartic Mage Dedication|Cathartic Mage Dedication]]
 
 * * *
 
 You learn the focus spell listed under your emotion's entry. You can cast it only while in emotional fervor. If you don't already have one, you gain a focus pool of 1 Focus Point, which you can Refocus while you use [[Actions/Settle Emotions|Settle Emotions]].
 
-## [[Feats/Work Yourself Up|Work Yourself Up]] Feat 8
+## [[Work Yourself Up|Work Yourself Up]] Feat 8
 
-**Prerequisites** [[Feats/Cathartic Mage Dedication|Cathartic Mage Dedication]]
+**Prerequisites** [[Cathartic Mage Dedication|Cathartic Mage Dedication]]
 
 * * *
 
@@ -86,25 +86,25 @@ You learn the focus spell listed under your emotion's entry. You can cast it onl
 
 You concentrate on your mental state, tapping into that raw emotional energy. Take your Catharsis reaction, causing the catharsis activation and entering your emotional fervor as normal. The fervor lasts only until the end of your turn. At the end of your emotional fervor, you experience the effects of your emotional fallout, as normal.
 
-## [[Feats/Expert Cathartic Spellcasting|Expert Cathartic Spellcasting]] Feat 12
+## [[Expert Cathartic Spellcasting|Expert Cathartic Spellcasting]] Feat 12
 
-**Prerequisites** [[Feats/Basic Cathartic Spellcasting|Basic Cathartic Spellcasting]]
+**Prerequisites** [[Basic Cathartic Spellcasting|Basic Cathartic Spellcasting]]
 
 * * *
 
 You gain the expert spellcasting benefits.
 
-## [[Feats/Infectious Emotions|Infectious Emotions]] Feat 12
+## [[Infectious Emotions|Infectious Emotions]] Feat 12
 
-**Prerequisites** [[Feats/Cathartic Mage Dedication|Cathartic Mage Dedication]]
+**Prerequisites** [[Cathartic Mage Dedication|Cathartic Mage Dedication]]
 
 * * *
 
 When you use [[Actions/Catharsis|Catharsis]], one ally within 30 feet gains the catharsis activation benefits in addition to you. If these benefits require an emotional focus, they use your emotional focus as they're experiencing an empathic imprint of your emotions. Depending on the activation benefit, it might be impossible to grant it to an ally; for instance, pride could only have an effect for an ally if both you and the ally critically failed the same saving throw against the same effect.
 
-## [[Feats/Master Cathartic Spellcasting|Master Cathartic Spellcasting]] Feat 18
+## [[Master Cathartic Spellcasting|Master Cathartic Spellcasting]] Feat 18
 
-**Prerequisites** [[Feats/Expert Cathartic Spellcasting|Expert Cathartic Spellcasting]]
+**Prerequisites** [[Expert Cathartic Spellcasting|Expert Cathartic Spellcasting]]
 
 * * *
 

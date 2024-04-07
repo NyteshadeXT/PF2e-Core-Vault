@@ -21,7 +21,7 @@ license: ORC
 
 **Prerequisites** master in Crafting; Specialty Crafting
 * * *
-You craft flawless creations with great efficiency. Whenever you roll a success at a Crafting check to make an item of the type you chose with [[Feats/Specialty Crafting|Specialty Crafting]], you get a critical success instead.
+You craft flawless creations with great efficiency. Whenever you roll a success at a Crafting check to make an item of the type you chose with [[Specialty Crafting|Specialty Crafting]], you get a critical success instead.
 
 *Source: Pathfinder Player Core*
 *ORC*

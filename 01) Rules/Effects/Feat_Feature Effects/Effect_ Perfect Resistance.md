@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by [[Feats/Perfect Resistance|Perfect Resistance]]
+Granted by [[Perfect Resistance|Perfect Resistance]]
 
 After using a Student of Perfection ki spell, the resistance increases to be equal to your level for 1 round.
 

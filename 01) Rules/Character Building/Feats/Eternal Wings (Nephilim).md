@@ -20,7 +20,7 @@ license: ORC
 
 **Prerequisites** Divine Wings
 * * *
-Your wings are now a permanent part of your body. You gain the effects of [[Feats/Divine Wings|Divine Wings]] at all times, rather than just once per day for 10 minutes.
+Your wings are now a permanent part of your body. You gain the effects of [[Divine Wings|Divine Wings]] at all times, rather than just once per day for 10 minutes.
 
 *Source: Pathfinder Player Core*
 *ORC*

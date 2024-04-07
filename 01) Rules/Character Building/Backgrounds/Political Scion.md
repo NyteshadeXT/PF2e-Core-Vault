@@ -22,7 +22,7 @@ Your decision to transfer to the Edgewatch has rubbed your traditionalist family
 
 Choose two ability boosts. One must be to **Constitution** or **Intelligence**, and one is a free ability boost.
 
-You're trained in the Diplomacy skill and Legal Lore. You gain a +1 circumstance bonus to Deception, Diplomacy, and Intimidation checks to Interact with members of Absalom's political establishment. You gain the [[Feats/Hobnobber|Hobnobber]] skill feat.
+You're trained in the Diplomacy skill and Legal Lore. You gain a +1 circumstance bonus to Deception, Diplomacy, and Intimidation checks to Interact with members of Absalom's political establishment. You gain the [[Hobnobber|Hobnobber]] skill feat.
 
 *Source: Pathfinder: Agents of Edgewatch Player's Guide*
 *OGL*

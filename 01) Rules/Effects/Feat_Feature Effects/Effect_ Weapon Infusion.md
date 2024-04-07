@@ -17,7 +17,7 @@ license: OGL
 
 
 
-Granted by [[Feats/Weapon Infusion|Weapon Infusion]].
+Granted by [[Weapon Infusion|Weapon Infusion]].
 
 If your next action is an Elemental Blast, choose a weapon shape for it to take. You can choose to change the blast's damage type to bludgeoning, piercing, or slashing-whichever suits the weapon shape-and you can choose other alterations depending on whether you make a melee or ranged blast.
 

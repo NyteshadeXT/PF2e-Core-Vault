@@ -17,7 +17,7 @@ license: ORC
 
 
 
-Granted by [[Feats/Forcible Energy|Forcible Energy]]
+Granted by [[Forcible Energy|Forcible Energy]]
 
 The target gains weakness 5 to acid, cold, electricity, fire, or sonic damage.
 

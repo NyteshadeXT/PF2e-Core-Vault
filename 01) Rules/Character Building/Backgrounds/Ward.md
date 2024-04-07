@@ -20,7 +20,7 @@ When you were young, you became the ward of another house-boarded, fed, and educ
 
 Choose two ability boosts. One must be to **Constitution** or **Charisma**, and one is a free ability boost.
 
-You're trained in the Performance skill and the Genealogy Lore skill. You gain the [[Feats/Fascinating Performance|Fascinating Performance]] skill feat.
+You're trained in the Performance skill and the Genealogy Lore skill. You gain the [[Fascinating Performance|Fascinating Performance]] skill feat.
 
 *Source: Pathfinder Advanced Player's Guide*
 *OGL*

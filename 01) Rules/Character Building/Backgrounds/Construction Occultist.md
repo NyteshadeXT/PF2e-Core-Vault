@@ -22,7 +22,7 @@ You are still well-regarded by the Builders League. Your party gains 1 Reputatio
 
 Choose two ability boosts. One must be to **Intelligence** or **Strength**, and one is a free ability boost.
 
-You're trained in your choice of the Athletics or Occultism skill. You gain a skill feat: [[Feats/Hefty Hauler|Hefty Hauler]] if you chose Athletics or [[Feats/Oddity Identification|Oddity Identification]] if you chose Occultism. You're also trained in Architecture Lore.
+You're trained in your choice of the Athletics or Occultism skill. You gain a skill feat: [[Hefty Hauler|Hefty Hauler]] if you chose Athletics or [[Oddity Identification|Oddity Identification]] if you chose Occultism. You're also trained in Architecture Lore.
 
 *Source: Pathfinder: Blood Lords Player's Guide*
 *OGL*

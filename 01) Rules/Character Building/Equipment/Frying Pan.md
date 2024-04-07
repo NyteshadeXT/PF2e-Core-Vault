@@ -24,7 +24,7 @@ license: OGL
 
 
 
-The cast-iron frying pan is an essential tool for adventuring halflings, gold panners, and remote tavern owners. Characters with the [[Feats/Halfling Weapon Familiarity|Halfling Weapon Familiarity]] ancestry feat are trained in the frying pan.
+The cast-iron frying pan is an essential tool for adventuring halflings, gold panners, and remote tavern owners. Characters with the [[Halfling Weapon Familiarity|Halfling Weapon Familiarity]] ancestry feat are trained in the frying pan.
 
 *Source: Pathfinder Treasure Vault*
 *OGL*

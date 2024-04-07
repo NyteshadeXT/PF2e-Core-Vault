@@ -20,7 +20,7 @@ You are the youngest child in a noble house (in Cheliax, Isger, or Andoran) and 
 
 Choose two ability boosts. One must be to **Dexterity** or **Intelligence**, and one is a free ability boost.
 
-You're trained in the Diplomacy skill and the Heraldry Lore skill. You gain the [[Feats/Hobnobber|Hobnobber]] skill feat.
+You're trained in the Diplomacy skill and the Heraldry Lore skill. You gain the [[Hobnobber|Hobnobber]] skill feat.
 
 *Source: Pathfinder Adventure: The Fall of Plaguestone*
 *OGL*

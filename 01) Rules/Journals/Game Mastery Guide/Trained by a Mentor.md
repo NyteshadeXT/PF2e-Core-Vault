@@ -8,4 +8,4 @@ tags:
 ---
 A mentor or patron took an interest in your development and volunteered to train or sponsor you.
 
-Add the [[Feats/Experienced Professional|Experienced Professional]] skill feat to your background options.
+Add the [[Experienced Professional|Experienced Professional]] skill feat to your background options.

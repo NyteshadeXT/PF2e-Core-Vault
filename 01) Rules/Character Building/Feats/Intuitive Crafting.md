@@ -18,7 +18,7 @@ license: OGL
 
 
 
-Your affinity with process and order makes you a natural artisan. You gain the trained proficiency rank in Crafting (or another skill of your choice, if you're already trained in Crafting). You gain the [[Feats/Specialty Crafting|Specialty Crafting]] skill feat in a specialty of your choice.
+Your affinity with process and order makes you a natural artisan. You gain the trained proficiency rank in Crafting (or another skill of your choice, if you're already trained in Crafting). You gain the [[Specialty Crafting|Specialty Crafting]] skill feat in a specialty of your choice.
 
 * * *
 

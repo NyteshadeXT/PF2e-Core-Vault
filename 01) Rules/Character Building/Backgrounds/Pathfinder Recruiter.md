@@ -20,7 +20,7 @@ The Pathfinder Society's always on the lookout for talent, but that talent rarel
 
 Choose two ability boosts. One must be to **Wisdom** or **Charisma**, and one is a free ability boost.
 
-You're trained in the Diplomacy skill and a Lore skill related to one city you've visited often. You gain the [[Feats/Group Impression|Group Impression]] skill feat.
+You're trained in the Diplomacy skill and a Lore skill related to one city you've visited often. You gain the [[Group Impression|Group Impression]] skill feat.
 
 *Source: Pathfinder Lost Omens: Pathfinder Society Guide*
 *OGL*

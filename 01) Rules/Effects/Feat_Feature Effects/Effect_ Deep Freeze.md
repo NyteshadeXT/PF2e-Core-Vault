@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by [[Feats/Deep Freeze|Deep Freeze]].
+Granted by [[Deep Freeze|Deep Freeze]].
 
 **Critical Success** The target is unaffected.
 

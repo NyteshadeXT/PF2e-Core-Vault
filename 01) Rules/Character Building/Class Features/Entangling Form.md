@@ -11,7 +11,7 @@ license: OGL
 ---
 # Entangling Form
 ## Feat 1
-### [[inventor]]
+### [[01) Rules/Character Building/Feats/Inventor]]
 
 **Category** classfeature; 
 

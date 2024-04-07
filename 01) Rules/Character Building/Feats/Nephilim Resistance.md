@@ -20,7 +20,7 @@ license: OGL
 
 You resist energy like your extraplanar predecessors. Choose one of the following energy damage types: acid, cold, electricity, fire, or sonic. You gain resistance 5 to that damage type.
 
-The damage type typically matches an extraplanar entity associated with your bloodline. For instance, an [[Feats/Angelkin|Angelkin]] might choose resistance to cold, while a [[Feats/Hellspawn|Hellspawn]] might choose resistance to fire.
+The damage type typically matches an extraplanar entity associated with your bloodline. For instance, an [[Angelkin|Angelkin]] might choose resistance to cold, while a [[Hellspawn|Hellspawn]] might choose resistance to fire.
 
 *Source: Pathfinder Advanced Player's Guide*
 *OGL*

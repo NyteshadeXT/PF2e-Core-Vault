@@ -19,7 +19,7 @@ license: OGL
 
 **Prerequisites** Lastwall Sentry Dedication
 * * *
-Any shield you wield gains the shove trait. When you [[Actions/Shove|Shove]] using a shield and Stride as part of that action, you can move an additional 5 feet to either side of the creature you Shoved. In addition, if you are in the [[Feats/Everstand Stance|Everstand Stance]] and successfully Shove a creature using a shield that you wield two-handed, you can increase the distance of your Shove to 10 feet.
+Any shield you wield gains the shove trait. When you [[Actions/Shove|Shove]] using a shield and Stride as part of that action, you can move an additional 5 feet to either side of the creature you Shoved. In addition, if you are in the [[Everstand Stance|Everstand Stance]] and successfully Shove a creature using a shield that you wield two-handed, you can increase the distance of your Shove to 10 feet.
 
 *Source: Pathfinder Lost Omens: Legends*
 *OGL*

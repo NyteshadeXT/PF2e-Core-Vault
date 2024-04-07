@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by [[Feats/Endemic Herbs|Endemic Herbs]]
+Granted by [[Endemic Herbs|Endemic Herbs]]
 
 For 1 hour, treat environmental heat effects as if they were one step less severe.
 

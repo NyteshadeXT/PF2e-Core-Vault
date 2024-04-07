@@ -32,7 +32,7 @@ In Woodsedge Lodge, this thin red ribbon, typically worn around the neck, symbol
 
 The instant nature of the disguise leaves a few traces of its haphazard nature, imposing a -2 circumstance penalty on checks to Impersonate using the disguise.
 
-Wearers with the [[Feats/Quick Disguise|Quick Disguise]] feat don't take this penalty. Any objects created as a part of the disguise disappear after 24 hours or after you remove them.
+Wearers with the [[Quick Disguise|Quick Disguise]] feat don't take this penalty. Any objects created as a part of the disguise disappear after 24 hours or after you remove them.
 
 *Source: Pathfinder Lost Omens: Pathfinder Society Guide*
 *OGL*

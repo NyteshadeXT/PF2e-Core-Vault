@@ -13,7 +13,7 @@ license: OGL
 ---
 # No! No! I Created You!
 ## Feat 1
-### [[auditory]][[concentrate]][[inventor]]
+### [[auditory]][[concentrate]][[01) Rules/Character Building/Feats/Inventor]]
 
 **Category** class; 
 

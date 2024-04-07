@@ -20,7 +20,7 @@ You ran the numbers on a large farm, for a merchant's endeavors, or with a major
 
 Choose two ability boosts. One must be to **Intelligence** or **Wisdom**, and one is a free ability boost.
 
-You're trained in the Society skill and the Accounting Lore skill. You gain the [[Feats/Eye For Numbers|Eye For Numbers]] skill feat.
+You're trained in the Society skill and the Accounting Lore skill. You gain the [[Eye For Numbers|Eye For Numbers]] skill feat.
 
 *Source: Pathfinder Advanced Player's Guide*
 *OGL*

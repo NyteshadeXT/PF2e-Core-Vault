@@ -21,7 +21,7 @@ license: ORC
 
 **Prerequisites** shield block
 * * *
-You can bring your shield into place with hardly a thought. At the start of each of your turns, you gain an additional reaction that you can use only to [[Feats/Shield Block|Shield Block]].
+You can bring your shield into place with hardly a thought. At the start of each of your turns, you gain an additional reaction that you can use only to [[01) Rules/Character Building/Feats/Shield Block|Shield Block]].
 
 *Source: Pathfinder Player Core*
 *ORC*

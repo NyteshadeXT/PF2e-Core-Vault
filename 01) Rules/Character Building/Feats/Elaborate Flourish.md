@@ -25,7 +25,7 @@ You embellish your spellcasting with entrancing flourishes and grand pronounceme
 
 If the next action you use is to [[Actions/Cast a Spell|Cast a Spell]], creatures with the ability to Cast that Spell don't automatically know what the spell is.
 
-In addition, creatures that witness your spellcasting take a -2 circumstance penalty to checks to identify the spell with [[Actions/Recall Knowledge|Recall Knowledge]] and checks to counteract the spell during its casting (such as with [[Feats/Counterspell (Prepared)|Counterspell]]).
+In addition, creatures that witness your spellcasting take a -2 circumstance penalty to checks to identify the spell with [[Actions/Recall Knowledge|Recall Knowledge]] and checks to counteract the spell during its casting (such as with [[Counterspell (Prepared)|Counterspell]]).
 
 *Source: Pathfinder Advanced Player's Guide*
 *OGL*

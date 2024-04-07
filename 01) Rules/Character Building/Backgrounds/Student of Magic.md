@@ -20,7 +20,7 @@ You are currently enrolled at a school of magic, where you're learning the funda
 
 Choose two ability boosts. One must be to **Intelligence** or **Wisdom**, and one is a free ability boost.
 
-You're trained in your choice of Arcana, Nature, Occultism, or Religion, as well as Academia Lore. You gain the [[Feats/Recognize Spell|Recognize Spell]] skill feat.
+You're trained in your choice of Arcana, Nature, Occultism, or Religion, as well as Academia Lore. You gain the [[Recognize Spell|Recognize Spell]] skill feat.
 
 *Source: Pathfinder Secrets of Magic*
 *OGL*

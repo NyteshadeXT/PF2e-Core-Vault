@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by [[Feats/Reckless Abandon (Barbarian)|Reckless Abandon (Barbarian)]]
+Granted by [[Reckless Abandon (Barbarian)|Reckless Abandon (Barbarian)]]
 
 You gain a +2 circumstance bonus to attack rolls, a -2 penalty to AC, and a -1 penalty to saves. These bonuses and penalties last until your Rage ends or until you are above half Hit Points, whichever comes first.
 

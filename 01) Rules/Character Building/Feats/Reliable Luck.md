@@ -19,7 +19,7 @@ license: OGL
 
 **Prerequisites** Cat's Luck
 * * *
-You have gone well past nine lives to survive danger with surprising regularity. You can use [[Feats/Cat's Luck|Cat's Luck]] once per hour, rather than once per day.
+You have gone well past nine lives to survive danger with surprising regularity. You can use [[Cat's Luck|Cat's Luck]] once per hour, rather than once per day.
 
 *Source: Pathfinder Advanced Player's Guide*
 *OGL*

@@ -17,7 +17,7 @@ license: OGL
 
 
 
-Granted by [[Feats/Ocean's Balm|Ocean's Balm]]
+Granted by [[Ocean's Balm|Ocean's Balm]]
 
 You gain fire resistance.
 

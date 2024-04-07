@@ -21,10 +21,10 @@ license: OGL
 * * *
 Your eidolon gains an evolution integral to its form, and it comes more easily than your other synergies. You gain one evolution feat from the following list:
 
-*   [[Feats/Airborne Form|Airborne Form]]
-*   [[Feats/Burrowing Form|Burrowing Form]]
-*   [[Feats/Ever-Vigilant Senses|Ever-Vigilant Senses]]
-*   [[Feats/Hulking Size|Hulking Size]]
+*   [[Airborne Form|Airborne Form]]
+*   [[Burrowing Form|Burrowing Form]]
+*   [[Ever-Vigilant Senses|Ever-Vigilant Senses]]
+*   [[Hulking Size|Hulking Size]]
 
 For the purpose of meeting its prerequisites, your summoner level is equal to your character level - 4.
 

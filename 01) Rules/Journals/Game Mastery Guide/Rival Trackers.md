@@ -8,4 +8,4 @@ tags:
 ---
 You and this character worked for a time as rival hunters, whether tracking animals or escaped criminals.
 
-Add the [[Feats/Experienced Tracker|Experienced Tracker]] skill feat to your background options.
+Add the [[Experienced Tracker|Experienced Tracker]] skill feat to your background options.

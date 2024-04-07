@@ -20,7 +20,7 @@ You competed in the last Ruby Phoenix Tournament 10 years ago, though you didn't
 
 Choose two ability boosts. One must be to **Dexterity** or **Strength**, and one is a free ability boost.
 
-You're trained in Acrobatics and the Gladiatorial Lore skill. You gain the [[Feats/Cat Fall|Cat Fall]] skill feat
+You're trained in Acrobatics and the Gladiatorial Lore skill. You gain the [[Cat Fall|Cat Fall]] skill feat
 
 *Source: Pathfinder: Fists of the Ruby Phoenix Player's Guide*
 *OGL*

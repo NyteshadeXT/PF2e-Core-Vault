@@ -23,7 +23,7 @@ You revere the bounty of nature, acting as both a gardener and warden for the wi
 
 **Order Skill** Diplomacy
 
-**Druid Feat** [[Feats/Leshy Familiar|Leshy Familiar]]
+**Druid Feat** [[Leshy Familiar|Leshy Familiar]]
 
 **Order Spell** [[Spells/Cornucopia|Cornucopia]]
 

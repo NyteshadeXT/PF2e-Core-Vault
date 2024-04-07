@@ -10,7 +10,7 @@ tags:
 # Hellknight Armiger
 You have presented yourself to a Hellknight citadel as a candidate to become a fearsome Hellknight. You believe that all who live must be forced to obey law, and you adventure as a test of your loyalty, discipline, and courage. Someday you will take the Hellknight test and battle a devil in single combat to prove your strength and join the Hellknight ranks.
 
-## [[Feats/Hellknight Armiger Dedication|Hellknight Armiger Dedication]] Feat 2
+## [[Hellknight Armiger Dedication|Hellknight Armiger Dedication]] Feat 2
 
 **Prerequisites** member of a Hellknight order, trained in heavy armor as well as your order's favored weapon
 
@@ -22,7 +22,7 @@ Your Hellknight training teaches you to terrorize others into compliance, but yo
 
 **Special** You can't select another dedication feat except dedication feats for higher positions within the Hellknights until you have gained two other feats from the Hellknight armiger archetype.
 
-## [[Feats/Ardent Armiger|Ardent Armiger]] Feat 4
+## [[Ardent Armiger|Ardent Armiger]] Feat 4
 
 **Prerequisites** Hellknight Armiger Dedication
 
@@ -32,7 +32,7 @@ You have been trained to resist the manipulations of fiends, and your Hellknight
 
 If a mental effect would compel you to act in a way that violates your Hellknight order's tenets (as determined by the GM), you can attempt to break free from the effect as a reaction triggered by receiving the violating order, and you gain a new Will save against the effect. You can attempt this new save only once for a given effect, even if you are compelled to violate your order's tenets multiple times.
 
-## [[Feats/Diabolic Certitude|Diabolic Certitude]] Feat 4
+## [[Diabolic Certitude|Diabolic Certitude]] Feat 4
 
 **Prerequisites** Hellknight Armiger Dedication
 
@@ -42,7 +42,7 @@ If a mental effect would compel you to act in a way that violates your Hellknigh
 
 Your Hellknight training drilled details of Hell's denizens deep into your mind. Make an attempt to Recall Knowledge about a devil you're observing. If you roll a critical failure on this check, you get a failure instead.
 
-## [[Feats/Mortification|Mortification]] Feat 4
+## [[Mortification|Mortification]] Feat 4
 
 **Prerequisites** Hellknight Armiger Dedication
 
@@ -50,7 +50,7 @@ Your Hellknight training drilled details of Hell's denizens deep into your mind.
 
 Your reckonings have prepared your body for physical punishment. Choose bludgeoning, piercing, or slashing damage, based on the nature of your physical reckonings. You gain resistance to the chosen damage type equal to your number of class feats from the Hellknight Armiger archetype and other Hellknight archetypes.
 
-## [[Feats/Armiger's Mobility|Armiger's Mobility]] Feat 8
+## [[Armiger's Mobility|Armiger's Mobility]] Feat 8
 
 **Prerequisites** expert in heavy armor, Hellknight Armiger Dedication
 
@@ -58,7 +58,7 @@ Your reckonings have prepared your body for physical punishment. Choose bludgeon
 
 You've learned how best to move in heavy armor. When wearing heavy armor, if you meet the Strength requirement, instead of reducing the movement penalty by 5 feet, you reduce the penalty by 10 feet (typically reducing the penalty to 0). If you are a dwarf with the Unburdened Iron feat, increase your Speed by 5 feet.
 
-## [[Feats/Order Training|Order Training]] Feat 8
+## [[Order Training|Order Training]] Feat 8
 
 **Prerequisites** Hellknight Armiger Dedication
 
@@ -66,7 +66,7 @@ You've learned how best to move in heavy armor. When wearing heavy armor, if you
 
 You gain the lesser order benefit for the Hellknight order to which you belong.
 
-## [[Feats/Advanced Order Training|Advanced Order Training]] Feat 12
+## [[Advanced Order Training|Advanced Order Training]] Feat 12
 
 **Prerequisites** Hellknight Armiger Dedication; Hellknight Dedication or Hellknight Signifer Dedication
 
@@ -74,7 +74,7 @@ You gain the lesser order benefit for the Hellknight order to which you belong.
 
 You gain the greater order benefit for the Hellknight order to which you belong.
 
-## [[Feats/Hellknight Order Cross-Training|Hellknight Order Cross-Training]] Feat 12
+## [[Hellknight Order Cross-Training|Hellknight Order Cross-Training]] Feat 12
 
 **Prerequisites** Hellknight Armiger Dedication; Hellknight Dedication or Hellknight Signifer Dedication
 

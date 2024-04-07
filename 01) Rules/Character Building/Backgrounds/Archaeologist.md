@@ -20,7 +20,7 @@ You've excavated enough sites to know that ancient civilizations aren't lost; th
 
 Choose two ability boosts. One must be to **Constitution** or **Intelligence**, and one is a free ability boost.
 
-You're trained in the Society skill and the Architecture Lore skill. You gain the [[Feats/Additional Lore|Additional Lore]] skill feat related to an ancient culture or the history of a culture you've studied (such as Azlanti Lore or Osirian History Lore).
+You're trained in the Society skill and the Architecture Lore skill. You gain the [[Additional Lore|Additional Lore]] skill feat related to an ancient culture or the history of a culture you've studied (such as Azlanti Lore or Osirian History Lore).
 
 *Source: Pathfinder Lost Omens: Pathfinder Society Guide*
 *OGL*

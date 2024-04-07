@@ -24,7 +24,7 @@ license: ORC
 
 **Activate** `pf2:0` (concentrate)
 
-**Trigger** You [[Feats/Shield Block|Shield Block]] a melee attack with the affixed shield.
+**Trigger** You [[01) Rules/Character Building/Feats/Shield Block|Shield Block]] a melee attack with the affixed shield.
 
 * * *
 

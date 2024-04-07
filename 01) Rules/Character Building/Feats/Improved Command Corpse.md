@@ -19,7 +19,7 @@ license: OGL
 
 **Prerequisites** Command Corpse
 * * *
-When you use [[Feats/Command Undead|Command Undead]] on a mindless undead, if the undead succeeds at its save but doesn't critically succeed, it becomes your minion for 1 round. If the undead fails its save, it becomes your minion for 1 hour. If it critically fails, it becomes your minion for 24 hours.
+When you use [[Command Undead|Command Undead]] on a mindless undead, if the undead succeeds at its save but doesn't critically succeed, it becomes your minion for 1 round. If the undead fails its save, it becomes your minion for 1 hour. If it critically fails, it becomes your minion for 24 hours.
 
 *Source: Pathfinder #181: Zombie Feast*
 *OGL*

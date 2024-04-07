@@ -20,7 +20,7 @@ A person cannot live on fish alone, which is why you work with Elder Bo'Mel on h
 
 Choose two ability boosts. One must be to **Strength** or **Constitution**, and one is a free ability boost.
 
-You're trained in the Nature skill and the Architecture Lore skill. You gain the [[Feats/Natural Medicine|Natural Medicine]] skill feat.
+You're trained in the Nature skill and the Architecture Lore skill. You gain the [[Natural Medicine|Natural Medicine]] skill feat.
 
 *Source: Pathfinder Adventure: Rusthenge*
 *OGL*

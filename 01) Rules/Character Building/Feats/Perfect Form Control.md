@@ -20,7 +20,7 @@ license: ORC
 
 **Prerequisites** Form Control; Strength +4
 * * *
-Thanks to magic and muscle memory, you can stay in your alternate shapes indefinitely. When you use [[Feats/Form Control|Form Control]], instead of lasting 1 hour, [[Spells/Untamed Form|Untamed Form]] duration is unlimited (you can still Dismiss it).
+Thanks to magic and muscle memory, you can stay in your alternate shapes indefinitely. When you use [[Form Control|Form Control]], instead of lasting 1 hour, [[Spells/Untamed Form|Untamed Form]] duration is unlimited (you can still Dismiss it).
 
 *Source: Pathfinder Player Core*
 *ORC*

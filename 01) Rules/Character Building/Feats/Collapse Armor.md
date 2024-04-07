@@ -13,7 +13,7 @@ license: OGL
 ---
 # Collapse Armor `pf2:1`
 ## Feat 2
-### [[inventor]][[manipulate]][[modification]]
+### [[01) Rules/Character Building/Feats/Inventor]][[manipulate]][[modification]]
 
 **Category** class; 
 

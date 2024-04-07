@@ -20,7 +20,7 @@ You live on the outskirts of civilization, combing through the detritus left beh
 
 Choose two ability boosts. One must be to **Strength** or **Wisdom**, and one is a free ability boost.
 
-You're trained in the Athletics skill and the Lore skill of the terrain in which you scavenge. You gain the [[Feats/Hefty Hauler|Hefty Hauler]] skill feat.
+You're trained in the Athletics skill and the Lore skill of the terrain in which you scavenge. You gain the [[Hefty Hauler|Hefty Hauler]] skill feat.
 
 *Source: Pathfinder Guns & Gears*
 *OGL*

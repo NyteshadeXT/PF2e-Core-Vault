@@ -20,7 +20,7 @@ You served as a messenger for a specific faction, guild, house, or individual, o
 
 Choose two ability boosts. One must be to **Strength** or **Intelligence**, and one is a free ability boost.
 
-You are trained in the Athletics skill and a Lore skill for the city in which you were a messenger. You gain the [[Feats/Quick Jump|Quick Jump]] skill feat.
+You are trained in the Athletics skill and a Lore skill for the city in which you were a messenger. You gain the [[Quick Jump|Quick Jump]] skill feat.
 
 *Source: Pathfinder Lost Omens: Firebrands*
 *OGL*

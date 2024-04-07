@@ -10,7 +10,7 @@ tags:
 # Bright Lion
 You are one of the Bright Lions, part revolutionary warrior, part undercover spy.
 
-## [[Feats/Bright Lion Dedication|Bright Lion Dedication]] Feat 2
+## [[Bright Lion Dedication|Bright Lion Dedication]] Feat 2
 
 **Prerequisites** member of the Bright Lions, not a worshipper of Walkena, trained in Stealth
 
@@ -22,7 +22,7 @@ You become trained in your choice of Deception or Diplomacy and in Mzali Lore; i
 
 **Special** You can't select another dedication feat until you have gained two other feats from the Bright Lion archetype.
 
-## [[Feats/Warding Light|Warding Light]] Feat 4
+## [[Warding Light|Warding Light]] Feat 4
 
 **Prerequisites** Bright Lion Dedication
 
@@ -32,7 +32,7 @@ You gain a tattoo that serves as a special ward to defend you against Walkena's 
 
 The tattoo allows you to cast the light cantrip as a divine innate spell at will. The cantrip is heightened to a spell rank equal to half your level rounded up. If you die, the tattoo immediately casts gentle repose on your corpse, heightened to the same spell rank.
 
-## [[Feats/Sun's Fury|Sun's Fury]] Feat 6
+## [[01) Rules/Character Building/Feats/Sun's Fury|Sun's Fury]] Feat 6
 
 **Prerequisites** Bright Lion Dedication
 
@@ -40,7 +40,7 @@ The tattoo allows you to cast the light cantrip as a divine innate spell at will
 
 The Old Sun Gods have granted you a gift in your fight against Walkena. You gain the sun's fury focus spell. If you don't already have one, you gain a focus pool of 1 Focus Point, which you can regain using the Refocus activity to pray to the Old Sun Gods; if you already have a focus pool, increase the number of Focus Points in your focus pool by 1. Your Bright Lion focus spells are divine spells; when you gain this feat, if you aren't already, you become trained in divine spell attacks and spell DCs, using Charisma as your spellcasting attribute attribute.
 
-## [[Feats/Elude the Divine|Elude the Divine]] Feat 8
+## [[Elude the Divine|Elude the Divine]] Feat 8
 
 **Prerequisites** Bright Lion Dedication
 

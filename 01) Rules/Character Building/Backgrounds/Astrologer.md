@@ -20,7 +20,7 @@ Astrologers look to the stars for signs and portents, using their positions to c
 
 Choose two ability boosts. One must be to **Intelligence** or **Wisdom**, and one is a free ability boost.
 
-You're trained in Occultism and Astrology Lore. You gain the [[Feats/Oddity Identification|Oddity Identification]] skill feat.
+You're trained in Occultism and Astrology Lore. You gain the [[Oddity Identification|Oddity Identification]] skill feat.
 
 *Source: Pathfinder Secrets of Magic*
 *OGL*

@@ -10,23 +10,23 @@ tags:
 # Zephyr Guard
 You are one of the Zephyr Guard, professional soldiers who protect Katapesh from military threats, economic sabotage, and elite thieves.
 
-## [[Feats/Zephyr Guard Dedication|Zephyr Guard Dedication]] Feat 2
+## [[Zephyr Guard Dedication|Zephyr Guard Dedication]] Feat 2
 
 As a Zephyr Guard, you're always vigilant against crime and threats to the city's safety. You gain a +1 circumstance bonus to Perception checks against attempts to Palm an Object, Steal, or Conceal an Object (including you're Seeking concealed objects). You become trained in Society and Katapesh Lore; if you were already trained, you become an expert instead.
 
 **Special** You can't select another dedication feat until you have gained two other feats from the Zephyr Guard archetype.
 
-## [[Feats/Know the Beat|Know the Beat]] Feat 3
+## [[Know the Beat|Know the Beat]] Feat 3
 
-**Prerequisites** [[Feats/Zephyr Guard Dedication|Zephyr Guard Dedication]]
+**Prerequisites** [[Zephyr Guard Dedication|Zephyr Guard Dedication]]
 
 * * *
 
 You become trained in your choice of Guild Lore, Legal Lore, Mercantile Lore, or Underworld Lore. You gain a +1 circumstance bonus to Diplomacy checks to Gather Information and to checks made to investigate crimes.
 
-## [[Feats/Decry Thief|Decry Thief]] Feat 4
+## [[Decry Thief|Decry Thief]] Feat 4
 
-**Prerequisites** [[Feats/Zephyr Guard Dedication|Zephyr Guard Dedication]], trained in Intimidation
+**Prerequisites** [[Zephyr Guard Dedication|Zephyr Guard Dedication]], trained in Intimidation
 
 * * *
 
@@ -36,9 +36,9 @@ When you attempt to Demoralize, you can make it harder for the target to flee, i
 
 **Success** For 1 round, the target takes a -5-foot status penalty to Speed and a -2 status penalty to Stealth.
 
-## [[Feats/Relentless Disarm|Relentless Disarm]] Feat 6
+## [[Relentless Disarm|Relentless Disarm]] Feat 6
 
-**Prerequisites** [[Feats/Zephyr Guard Dedication|Zephyr Guard Dedication]], trained in Athletics
+**Prerequisites** [[Zephyr Guard Dedication|Zephyr Guard Dedication]], trained in Athletics
 
 * * *
 
@@ -46,9 +46,9 @@ When you succeed, but don't critically succeed, at a check to Disarm a creature,
 
 When you critically succeed at a Disarm check, you can immediately Demoralize your target as a reaction.
 
-## [[Feats/Unfazed Assessment|Unfazed Assessment]] Feat 8
+## [[Unfazed Assessment|Unfazed Assessment]] Feat 8
 
-**Prerequisites** [[Feats/Zephyr Guard Dedication|Zephyr Guard Dedication]], expert in Perception
+**Prerequisites** [[Zephyr Guard Dedication|Zephyr Guard Dedication]], expert in Perception
 
 * * *
 

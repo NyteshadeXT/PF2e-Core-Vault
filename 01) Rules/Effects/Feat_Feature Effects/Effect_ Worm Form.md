@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by [[Feats/Worm Form|Worm Form]]
+Granted by [[Worm Form|Worm Form]]
 
 You take on the form of a purple worm or transform into a humanoid-worm hybrid, retaining your own head but with a worm's body, transforming into a Huge battle form. You must have enough space to expand into or the ability is lost. While in this form, you gain the animal trait. You can Dismiss the form.
 

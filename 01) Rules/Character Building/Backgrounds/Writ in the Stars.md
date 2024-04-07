@@ -20,7 +20,7 @@ Destiny has always intrigued you. Maybe you grew up in a family where fortune-te
 
 This background is associated with the suit of Stars.
 
-Choose two ability boosts. One must be to **Wisdom**, and one is a free ability boost. You gain the [[Feats/Pilgrim's Token|Pilgrim's Token]] skill feat (this token need not be from a faith and could simply be a good luck charm) and are trained in the Fortune-Telling Lore skill. You also gain the [[Actions/A Quick Glimpse Beyond|A Quick Glimpse Beyond]] free action.
+Choose two ability boosts. One must be to **Wisdom**, and one is a free ability boost. You gain the [[01) Rules/Character Building/Feats/Pilgrim's Token|Pilgrim's Token]] skill feat (this token need not be from a faith and could simply be a good luck charm) and are trained in the Fortune-Telling Lore skill. You also gain the [[Actions/A Quick Glimpse Beyond|A Quick Glimpse Beyond]] free action.
 
 *Source: Pathfinder: Stolen Fate Player's Guide*
 *OGL*

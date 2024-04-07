@@ -20,7 +20,7 @@ The unfamiliar technology of Numeria's Silver Mount still baffles Society schola
 
 Choose two ability boosts. One must be to **Constitution** or **Intelligence**, and one is a free ability boost.
 
-You're trained in the Crafting skill and the Engineering Lore skill. You gain the [[Feats/Quick Repair|Quick Repair]] skill feat.
+You're trained in the Crafting skill and the Engineering Lore skill. You gain the [[Quick Repair|Quick Repair]] skill feat.
 
 * * *
 

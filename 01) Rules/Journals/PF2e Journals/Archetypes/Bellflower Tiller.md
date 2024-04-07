@@ -10,7 +10,7 @@ tags:
 # Bellflower Tiller
 Bellflower tillers handle most of the ground-level efforts of freeing slaves and escorting them to safety. They use farming-related code words to hide their work: a tiller's freed slaves are her "crop," which she moves along secretive paths termed "rows," taking shelter in secret hideouts referred to as "barns."
 
-## [[Feats/Bellflower Dedication|Bellflower Dedication]] Feat 6
+## [[Bellflower Dedication|Bellflower Dedication]] Feat 6
 
 **Prerequisites** Charisma +2, expert in Stealth and Survival, member of the Bellflower Network
 
@@ -20,7 +20,7 @@ You dedicate yourself to freeing slaves and escorting them to freedom. You gain 
 
 **Special** You cannot select another dedication feat until you have gained two other feats from the Bellflower tiller archetype.
 
-## [[Feats/Garden Path|Garden Path]] Feat 8
+## [[Garden Path|Garden Path]] Feat 8
 
 **Prerequisites** Bellflower Dedication
 
@@ -28,7 +28,7 @@ You dedicate yourself to freeing slaves and escorting them to freedom. You gain 
 
 You can guide your crop to move without notice. When you and any of your crop are Avoiding Notice, you can choose one member of your crop to temporarily gain the benefits of the Quiet Allies skill feat until the group is no longer Avoiding Notice. The group rolls two checks instead of one, using the higher die roll. This is a fortune effect.
 
-## [[Feats/Practiced Guidance|Practiced Guidance]] Feat 8
+## [[Practiced Guidance|Practiced Guidance]] Feat 8
 
 **Prerequisites** Bellflower Dedication
 
@@ -36,7 +36,7 @@ You can guide your crop to move without notice. When you and any of your crop ar
 
 Making one's way to safety can be harrowing, but you have extensive practice at helping others along that path. When you roll a success to Aid a member of your crop, you get a critical success instead.
 
-## [[Feats/Scarecrow|Scarecrow]] Feat 8
+## [[01) Rules/Character Building/Feats/Scarecrow|Scarecrow]] Feat 8
 
 **Prerequisites** Bellflower Dedication
 
@@ -44,7 +44,7 @@ Making one's way to safety can be harrowing, but you have extensive practice at 
 
 You fight fiercely to protect your crop. When you hit a creature that is adjacent to two or more members of your crop with a weapon or unarmed attack, you gain a circumstance bonus to your damage roll equal to the number of weapon damage dice. When you hit a creature who has a member of your crop grabbed, that member can attempt to Escape using a reaction.
 
-## [[Feats/Tiller's Aid|Tiller's Aid]] Feat 10
+## [[Tiller's Aid|Tiller's Aid]] Feat 10
 
 **Prerequisites** Bellflower Dedication
 
@@ -52,7 +52,7 @@ You fight fiercely to protect your crop. When you hit a creature that is adjacen
 
 You can use the Aid reaction to help a member of your crop even if you haven't prepared to do so.
 
-## [[Feats/Tiller's Drive|Tiller's Drive]] Feat 10
+## [[Tiller's Drive|Tiller's Drive]] Feat 10
 
 **Prerequisites** Bellflower Dedication
 
@@ -60,7 +60,7 @@ You can use the Aid reaction to help a member of your crop even if you haven't p
 
 Your Speed bonus from Bellflower Dedication increases to +10 feet. Members of your crop receive a +5-foot circumstance bonus to Speed.
 
-## [[Feats/Cut the Bonds|Cut the Bonds]] Feat 12
+## [[Cut the Bonds|Cut the Bonds]] Feat 12
 
 **Prerequisites** Bellflower Dedication, expert in a melee weapon
 

@@ -24,7 +24,7 @@ You managed to escape the devastation that the Whispering Tyrant brought to your
 
 Choose two ability boosts. One must be to **Constitution** or **Wisdom**, and one is a free ability boost.
 
-You're trained in the Medicine skill and the Undead Lore skill. You gain the [[Feats/Battle Medicine|Battle Medicine]] skill feat.
+You're trained in the Medicine skill and the Undead Lore skill. You gain the [[Battle Medicine|Battle Medicine]] skill feat.
 
 *Source: Pathfinder Lost Omens: World Guide*
 *OGL*

@@ -19,7 +19,7 @@ license: OGL
 
 **Prerequisites** harmful font; Command Undead; evil alignment
 * * *
-Undead creatures find it all but impossible to resist your commands. When you use [[Feats/Command Undead|Command Undead]], if the undead succeeds at its save but doesn't critically succeed, it is your minion for 1 round. If the undead fails its save, it is your minion for 10 minutes. If it critically fails, it is your minion for 24 hours.
+Undead creatures find it all but impossible to resist your commands. When you use [[Command Undead|Command Undead]], if the undead succeeds at its save but doesn't critically succeed, it is your minion for 1 round. If the undead fails its save, it is your minion for 10 minutes. If it critically fails, it is your minion for 24 hours.
 
 *Source: Pathfinder Core Rulebook*
 *OGL*

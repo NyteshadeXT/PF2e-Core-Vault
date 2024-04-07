@@ -24,7 +24,7 @@ Your experience as a ledger-keeper for one of Absalom's trade guilds has made yo
 
 Choose two ability boosts. One must be to **Intelligence** or **Wisdom**, and one is a free ability boost.
 
-You're trained in the Society skill and the Business Lore skill. You gain the [[Feats/Experienced Professional|Experienced Professional]] skill feat.
+You're trained in the Society skill and the Business Lore skill. You gain the [[Experienced Professional|Experienced Professional]] skill feat.
 
 *Source: Pathfinder Lost Omens: World Guide*
 *OGL*

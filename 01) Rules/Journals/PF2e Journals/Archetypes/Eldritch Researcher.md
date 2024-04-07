@@ -12,7 +12,7 @@ An eager student of occult lore, you enjoy reading rare or forgotten tomes with 
 
 You've been particularly enlightened by the accumulated lore in _Thresholds of Truth_, and you know Zarmavdian was a kindred soul in occult research. With this book in hand, you feel like you stand at the doorway to unprecedented occult discoveries. You scoff at those fools who claim you meddle in things mortals aren't meant to know-for isn't it the duty of the enlightened to gather the universe's deepest truths?
 
-## [[Feats/Eldritch Researcher Dedication|Eldritch Researcher Dedication]] Feat 2
+## [[Eldritch Researcher Dedication|Eldritch Researcher Dedication]] Feat 2
 
 **Prerequisites** trained in Arcana and Occultism
 
@@ -24,7 +24,7 @@ Regardless of whether you choose an arcane or occult cantrip, you also become an
 
 **Special** You can't select another dedication feat until you have gained two other feats from the eldirtch researcher archetype.
 
-## [[Feats/Seeker of Truths|Seeker of Truths]] Feat 4
+## [[Seeker of Truths|Seeker of Truths]] Feat 4
 
 **Prerequisites** Eldritch Researcher Dedication
 
@@ -34,7 +34,7 @@ Your devotion to discovering and hoarding abstruse truths borders on the fanatic
 
 **Special** You can take this feat up to three times, selecting a different domain each time.
 
-## [[Feats/Strange Script|Strange Script]] Feat 4
+## [[Strange Script|Strange Script]] Feat 4
 
 **Prerequisites** Eldritch Researcher Dedication
 
@@ -42,7 +42,7 @@ Your devotion to discovering and hoarding abstruse truths borders on the fanatic
 
 You have such familiarity with obscure texts that you can compel them to reveal their secrets. Once per day, you can touch a single text (such as a tome, a wall of hieroglyphics, or something similar) and understand its meaning for 1 hour. If the text is in multiple languages, you gain the ability to understand them all for only the purposes of reading the text. If the text is in a code or cypher, you don't automatically understand the text, but you gain a +2 circumstance bonus to checks to decipher it.
 
-## [[Feats/Scholarly Defense|Scholarly Defense]] Feat 6
+## [[Scholarly Defense|Scholarly Defense]] Feat 6
 
 **Prerequisites** Eldritch Researcher Dedication
 
@@ -50,7 +50,7 @@ You have such familiarity with obscure texts that you can compel them to reveal 
 
 Your knowledge of strange creatures and their bizarre anatomy allows you to anticipate their physical attacks and reduce the damage you take from them. You gain resistance to physical damage from melee attacks made by aberrations and oozes. This resistance is equal to one-third your level.
 
-## [[Feats/Able Ritualist|Able Ritualist]] Feat 8
+## [[Able Ritualist|Able Ritualist]] Feat 8
 
 **Prerequisites** Eldritch Researcher Dedication
 
@@ -58,19 +58,19 @@ Your knowledge of strange creatures and their bizarre anatomy allows you to anti
 
 Your readings on rituals make you a skilled participant. You gain a +2 circumstance bonus to primary and secondary checks you attempt as part of casting a ritual.
 
-## [[Feats/Lorefinder|Lorefinder]] Feat 8
+## [[Lorefinder|Lorefinder]] Feat 8
 
 **Prerequisites** Eldritch Researcher Dedication
 
 You know that fate sometimes conspires to keep dangerous knowledge or items from the eyes of those most able to understand them. You deny fate the ability to conceal truths from you. You can cast locate as an innate occult spell once per day. When you reach 14th level, this spell is heightened to 5th level.
 
-## [[Feats/Know It All (Eldritch Researcher)|Know It All (Eldritch Researcher)]] Feat 10
+## [[Know It All (Eldritch Researcher)|Know It All (Eldritch Researcher)]] Feat 10
 
 **Prerequisites** Eldritch Researcher Dedication
 
 Your knowledge of abstruse topics is unparalleled. When you succeed at a check to Recall Knowledge, you gain additional information or context. When you critically succeed at a Knowledge check, at the GM's discretion you might gain even more additional information or context than normal.
 
-## [[Feats/Advanced Seeker of Truths|Advanced Seeker of Truths]] Feat 12
+## [[Advanced Seeker of Truths|Advanced Seeker of Truths]] Feat 12
 
 **Prerequisites** Eldritch Researcher Dedication, Seeker of Truths
 
@@ -78,13 +78,13 @@ You have unlocked deeper secrets to uncovering and hoarding lore. You gain an ad
 
 **Special** You can take this feat up to three times, each time selecting a different advanced domain spell from a domain you selected with Seeker of Truths.
 
-## [[Feats/Words of Unraveling|Words of Unraveling]] Feat 12
+## [[Words of Unraveling|Words of Unraveling]] Feat 12
 
 **Prerequisites** Eldritch Researcher Dedication
 
 You have unlocked abstruse methods to tangle with reality itself, altering the fate of a single individual. Once per day as an occult innate spell, you can cast daydreamer's curse, outcast's curse, or savant's curse. At the GM's discretion, you can substitute or add additional occult curse spells of 4th level or lower to this list. You can choose a different spell from the list each time you use this ability. If you couldn't already cast occult spells, these spells use Intelligence as your spellcasting attribute, and you become trained in spell attack rolls and spell DCs for occult spells; if you could already cast occult spells, your proficiency in spell attack rolls and spell DCs for occult spells increases to expert.
 
-## [[Feats/Entities From Afar|Entities From Afar]] Feat 14
+## [[Entities From Afar|Entities From Afar]] Feat 14
 
 **Prerequisites** Eldritch Researcher Dedication
 
@@ -92,7 +92,7 @@ You can call in aberrations to fight for you or to answer questions. You can cas
 
 As soon as the aberration arrives, instead of giving it any other commands, you can demand that it help you with a single question you pose to it. For the creature to effectively answer, you must Sustain the Spell for 1 minute, and you must understand and be understood by the aberration. If you do, the aberration gives you a cryptic clue as provided by the read omens spell, except that the clue is even more enigmatic than normal; the creature then immediately returns from whence it came without providing you any other benefit. At 16th level and every 2 levels thereafter, the summon entity spell is heightened by 1 rank (to a maximum of 8th rank when you reach 20th level).
 
-## [[Feats/Incredible Recollection|Incredible Recollection]] `pf2:1` Feat 14
+## [[Incredible Recollection|Incredible Recollection]] `pf2:1` Feat 14
 
 **Prerequisites** Eldritch Researcher Dedication
 

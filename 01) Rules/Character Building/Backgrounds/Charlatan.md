@@ -21,7 +21,7 @@ You traveled from place to place, peddling false fortunes and snake oil in one t
 
 Choose two attribute boosts. One must be to **Intelligence** or **Charisma**, and one is a free attribute boost.
 
-You're trained in the Deception skill and the Underworld Lore skill. You gain the [[Feats/Charming Liar|Charming Liar]] skill feat.
+You're trained in the Deception skill and the Underworld Lore skill. You gain the [[Charming Liar|Charming Liar]] skill feat.
 
 *Source: Pathfinder Player Core*
 *ORC*

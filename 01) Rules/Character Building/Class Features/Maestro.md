@@ -23,7 +23,7 @@ Your muse constantly inspires you to greater heights of artistic prowess. For ma
 
 As a bard with a maestro muse, you are an inspiration to your allies and confident of your musical and oratorical abilities.
 
-**Muse Feat** [[Feats/Lingering Composition|Lingering Composition]]
+**Muse Feat** [[01) Rules/Character Building/Feats/Lingering Composition|Lingering Composition]]
 
 **Muse Spell** [[Spells/Soothe|Soothe]]
 

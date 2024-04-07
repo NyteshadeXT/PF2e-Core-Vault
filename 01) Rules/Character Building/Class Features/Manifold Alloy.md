@@ -11,7 +11,7 @@ license: OGL
 ---
 # Manifold Alloy
 ## Feat 7
-### [[inventor]]
+### [[01) Rules/Character Building/Feats/Inventor]]
 
 **Category** classfeature; 
 

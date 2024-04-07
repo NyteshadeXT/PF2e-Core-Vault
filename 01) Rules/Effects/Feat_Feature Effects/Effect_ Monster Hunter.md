@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by [[Feats/Monster Hunter|Monster Hunter]]
+Granted by [[01) Rules/Character Building/Feats/Monster Hunter|Monster Hunter]]
 
 You gain a +1 circumstance bonus to your next attack roll against that prey.
 

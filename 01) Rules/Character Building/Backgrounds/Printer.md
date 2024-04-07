@@ -20,7 +20,7 @@ Keeping your finger on the pulse of the city, you write a small news broadsheet 
 
 Choose two ability boosts. One must be to **Intelligence** or **Charisma**, and one is a free ability boost.
 
-You're trained in the Society skill and the Scribing Lore skill. You gain the [[Feats/Multilingual|Multilingual]] skill feat.
+You're trained in the Society skill and the Scribing Lore skill. You gain the [[Multilingual|Multilingual]] skill feat.
 
 *Source: Pathfinder Guns & Gears*
 *OGL*

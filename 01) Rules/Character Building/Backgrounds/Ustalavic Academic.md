@@ -24,7 +24,7 @@ You were educated at a famed Ustalavic academy, such as the University of Lepids
 
 Choose two ability boosts. One must be to **Intelligence** or **Wisdom**, and one is a free ability boost.
 
-You're trained in the Crafting skill and the Academia Lore skill. You gain the [[Feats/Skill Training|Skill Training]] skill feat.
+You're trained in the Crafting skill and the Academia Lore skill. You gain the [[01) Rules/Character Building/Feats/Skill Training|Skill Training]] skill feat.
 
 *Source: Pathfinder Lost Omens: World Guide*
 *OGL*

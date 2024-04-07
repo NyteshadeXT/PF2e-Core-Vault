@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by [[Feats/Ghost Strike|Ghost Strike]]
+Granted by [[Ghost Strike|Ghost Strike]]
 
 The weapon gains the effects of the ghost touch property rune. At 10th level, you can apply this effect to two weapons instead of one.
 

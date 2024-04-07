@@ -20,7 +20,7 @@ In your youth, you galloped on horseback over vast prairies, serving as a vangua
 
 Choose two ability boosts. One must be to **Constitution** or **Wisdom**, and one is a free ability boost.
 
-You're trained in the Nature skill and the Plains Lore skill. You gain the [[Feats/Express Rider|Express Rider]] skill feat.
+You're trained in the Nature skill and the Plains Lore skill. You gain the [[Express Rider|Express Rider]] skill feat.
 
 *Source: Pathfinder Advanced Player's Guide*
 *OGL*

@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by [[Feats/Rain of Embers Stance|Rain of Embers Stance]]
+Granted by [[Rain of Embers Stance|Rain of Embers Stance]]
 
 You enter the stance of an enraged phoenix, holding your fingers as rigid as deadly talons while moving with quick, flickering gestures that dance with biting flames. The only Strikes you can make are fire talon Strikes. These deal 1d4 fire damage; are in the brawling group; and have the agile, finesse, fire, nonlethal, and unarmed traits.
 

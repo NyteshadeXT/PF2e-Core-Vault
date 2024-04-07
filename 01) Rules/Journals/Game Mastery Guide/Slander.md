@@ -8,4 +8,4 @@ tags:
 ---
 You and this character were rivals for the same person's affections, and you stooped to spreading vicious lies before the whole situation fell apart.
 
-Add the [[Feats/Charming Liar|Charming Liar]] skill feat to your background options.
+Add the [[Charming Liar|Charming Liar]] skill feat to your background options.

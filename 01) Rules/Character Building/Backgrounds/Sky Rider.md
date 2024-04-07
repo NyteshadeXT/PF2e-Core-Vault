@@ -21,7 +21,7 @@ The freedom of a bird in flight is something to envy, and envy it you did, but n
 
 Choose two attribute boosts. One must be to **Dexterity** or **Wisdom**, and one is a free attribute boost.
 
-You're trained in the Acrobatics skill and the Plane of Air Lore skill. You gain the [[Feats/Cat Fall|Cat Fall]] skill feat.
+You're trained in the Acrobatics skill and the Plane of Air Lore skill. You gain the [[Cat Fall|Cat Fall]] skill feat.
 
 *Source: Pathfinder Rage of Elements*
 *OGL*

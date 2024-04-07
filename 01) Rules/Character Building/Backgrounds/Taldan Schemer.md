@@ -24,7 +24,7 @@ Whether willing or unwilling, you have been involved in the many cutthroat polit
 
 Choose two ability boosts. One must be to **Charisma** or **Constitution**, and one is a free ability boost.
 
-You're trained in the Diplomacy skill and the Politics Lore skill. You gain the [[Feats/Hobnobber|Hobnobber]] skill feat.
+You're trained in the Diplomacy skill and the Politics Lore skill. You gain the [[Hobnobber|Hobnobber]] skill feat.
 
 *Source: Pathfinder Lost Omens: World Guide*
 *OGL*

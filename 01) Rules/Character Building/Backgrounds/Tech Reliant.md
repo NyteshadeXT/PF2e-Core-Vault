@@ -20,7 +20,7 @@ Some event, be it an accident, attack, or disaster, has left you horribly scarre
 
 Choose two ability boosts. One must be to **Constitution** or **Intelligence**, and one is a free ability boost.
 
-You're trained in the Crafting skill and the Medicine skill. You gain the [[Feats/Battle Medicine|Battle Medicine]] skill feat, and a +1 circumstance bonus to saving throws against spells. Healing spells, healing magic items, and magical effects with the healing trait have no effect on you.
+You're trained in the Crafting skill and the Medicine skill. You gain the [[Battle Medicine|Battle Medicine]] skill feat, and a +1 circumstance bonus to saving throws against spells. Healing spells, healing magic items, and magical effects with the healing trait have no effect on you.
 
 *Source: Pathfinder Guns & Gears*
 *OGL*

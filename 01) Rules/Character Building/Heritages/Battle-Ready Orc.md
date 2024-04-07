@@ -17,7 +17,7 @@ license: ORC
 
 
 
-You descend from a line of terrifying battlefield commanders. You become trained in Intimidation, and you gain the [[Feats/Intimidating Glare|Intimidating Glare]] skill feat.
+You descend from a line of terrifying battlefield commanders. You become trained in Intimidation, and you gain the [[Intimidating Glare|Intimidating Glare]] skill feat.
 
 *Source: Pathfinder Player Core*
 *ORC*

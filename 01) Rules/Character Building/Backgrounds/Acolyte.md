@@ -21,7 +21,7 @@ You spent your early days in a religious monastery or cloister. You may have tra
 
 Choose two attribute boosts. One must be to **Intelligence** or **Wisdom**, and one is a free attribute boost.
 
-You're trained in the Religion skill and the Scribing Lore skill. You gain the [[Feats/Student of the Canon|Student of the Canon]] skill feat.
+You're trained in the Religion skill and the Scribing Lore skill. You gain the [[Student of the Canon|Student of the Canon]] skill feat.
 
 *Source: Pathfinder Player Core*
 *ORC*

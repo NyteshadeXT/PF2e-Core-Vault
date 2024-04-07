@@ -11,7 +11,7 @@ license: OGL
 ---
 # Gigaton Strike
 ## Feat 8
-### [[inventor]]
+### [[01) Rules/Character Building/Feats/Inventor]]
 
 **Category** class; 
 

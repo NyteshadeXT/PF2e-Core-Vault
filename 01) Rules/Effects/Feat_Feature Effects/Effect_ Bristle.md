@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by [[Feats/Bristle|Bristle]]
+Granted by [[Bristle|Bristle]]
 
 You curl into a posture that splays out your bone spines. You gain a +1 circumstance bonus to AC until the start of your next turn.
 

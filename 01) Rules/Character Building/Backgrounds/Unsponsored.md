@@ -20,7 +20,7 @@ You have aspirations of attending the Magaambya academy of magic, but fate seeme
 
 Choose two ability boosts. One must be to **Constitution** or **Charisma**, and one is a free ability boost.
 
-You're trained in your choice of the Diplomacy or Intimidation skill. You gain a skill feat: [[Feats/Group Impression|Group Impression]] if you chose Diplomacy or [[Feats/Intimidating Glare|Intimidating Glare]] if you chose Intimidation. You're also trained in Academia Lore.
+You're trained in your choice of the Diplomacy or Intimidation skill. You gain a skill feat: [[Group Impression|Group Impression]] if you chose Diplomacy or [[Intimidating Glare|Intimidating Glare]] if you chose Intimidation. You're also trained in Academia Lore.
 
 Your recommended primary branch is the Tempest-Sun Mages.
 

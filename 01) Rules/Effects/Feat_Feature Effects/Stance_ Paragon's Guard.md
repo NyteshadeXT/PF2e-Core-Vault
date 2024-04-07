@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by [[Feats/Paragon's Guard|Paragon's Guard]].
+Granted by [[Paragon's Guard|Paragon's Guard]].
 
 * * *
 

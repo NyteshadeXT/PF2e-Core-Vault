@@ -22,7 +22,7 @@ Thankfully, you found an out: an invitation to transfer to the newly formed Edge
 
 Choose two ability boosts. One must be to **Constitution** or **Charisma**, and one is a free ability boost.
 
-You're trained in the Survival skill, as well as either Labor Lore or Underworld Lore. You gain a +1 circumstance bonus to Deception, Diplomacy, and Intimidation checks to [[Actions/Interact|Interact]] with Muckruckers, mercenaries, and adventurers. You gain the [[Feats/Experienced Tracker|Experienced Tracker]] skill feat.
+You're trained in the Survival skill, as well as either Labor Lore or Underworld Lore. You gain a +1 circumstance bonus to Deception, Diplomacy, and Intimidation checks to [[Actions/Interact|Interact]] with Muckruckers, mercenaries, and adventurers. You gain the [[Experienced Tracker|Experienced Tracker]] skill feat.
 
 *Source: Pathfinder: Agents of Edgewatch Player's Guide*
 *OGL*

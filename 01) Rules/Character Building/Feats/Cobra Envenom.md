@@ -22,7 +22,7 @@ license: OGL
 * * *
 **Frequency** once per minute
 
-**Requirements** You are in [[Feats/Cobra Stance|Cobra Stance]].
+**Requirements** You are in [[Cobra Stance|Cobra Stance]].
 
 * * *
 

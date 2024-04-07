@@ -11,7 +11,7 @@ license: OGL
 ---
 # Engine of Destruction `pf2:3`
 ## Feat 18
-### [[inventor]]
+### [[01) Rules/Character Building/Feats/Inventor]]
 
 **Category** class; 
 

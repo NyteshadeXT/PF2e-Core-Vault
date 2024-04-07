@@ -20,7 +20,7 @@ Although you've spent time in greasepaint and colorful clothing to amuse crowds,
 
 Choose two ability boosts. One must be to **Dexterity** or **Charisma**, and one is a free ability boost.
 
-You're trained in the Performance skill and the Clown Lore skill. You gain the [[Feats/Virtuosic Performer|Virtuosic Performer (Comedy)]] skill feat.
+You're trained in the Performance skill and the Clown Lore skill. You gain the [[Virtuosic Performer|Virtuosic Performer (Comedy)]] skill feat.
 
 *Source: Pathfinder: Extinction Curse Player's Guide*
 *OGL*

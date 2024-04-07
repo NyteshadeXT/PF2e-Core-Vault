@@ -23,7 +23,7 @@ license: OGL
 
 **Effect** Having Read the ancient scrolls from which Meleeka created the Unforgiving Fire style, you have gained access to the following feat for all of your characters (include a copy of this Chronicle sheet with any character who selects this feat).
 
-[[Feats/Rain of Embers Stance|Rain of Embers Stance]]
+[[Rain of Embers Stance|Rain of Embers Stance]]
 
 *Source: *
 *OGL*

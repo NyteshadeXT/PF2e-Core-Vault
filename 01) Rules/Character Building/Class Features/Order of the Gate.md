@@ -23,9 +23,9 @@ The Hellknight signifers of the Order of the Gate seek to prevent lawlessness of
 
 * * *
 
-**Lesser Benefit** [[Feats/Locate Lawbreakers|Locate Lawbreakers]]
+**Lesser Benefit** [[Locate Lawbreakers|Locate Lawbreakers]]
 
-**Greater Benefit** [[Feats/Devil Allies|Devil Allies]]
+**Greater Benefit** [[Devil Allies|Devil Allies]]
 
 *Source: Pathfinder Lost Omens: Character Guide*
 *OGL*

@@ -21,7 +21,7 @@ license: ORC
 
 
 
-You gain the [[Feats/Shield Block|Shield Block]] general feat, a reaction that lets you reduce damage with your shield.
+You gain the [[01) Rules/Character Building/Feats/Shield Block|Shield Block]] general feat, a reaction that lets you reduce damage with your shield.
 
 *Source: Pathfinder Player Core*
 *ORC*

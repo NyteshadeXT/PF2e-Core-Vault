@@ -17,7 +17,7 @@ license: OGL
 
 
 
-**Trigger** You use [[Feats/Orc Ferocity|Orc Ferocity]]
+**Trigger** You use [[Orc Ferocity|Orc Ferocity]]
 
 * * *
 

@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by [[Feats/Divine Infusion|Divine Infusion]]
+Granted by [[Divine Infusion|Divine Infusion]]
 
 You deal 1d6 additional vitality damage with your melee weapons and unarmed attacks until the end of its next turn. If the _heal_ spell is at least 5th rank, this damage increases to 2d6, or 3d6 if the spell is at least 8th rank.
 

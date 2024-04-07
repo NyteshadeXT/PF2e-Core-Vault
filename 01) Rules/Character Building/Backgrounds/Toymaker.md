@@ -20,7 +20,7 @@ You delight in making little trinkets for children of all ages, and seeing their
 
 Choose two ability boosts. One must be to **Intelligence** or **Charisma**, and one is a free ability boost.
 
-You're trained in the Crafting skill and the Mercantile Lore skill. You gain the [[Feats/Specialty Crafting|Specialty Crafting]] skill feat, choosing Artistry, Blacksmithing, Glassmaking, Leatherworking, Tailoring, or Woodworking as your specialty.
+You're trained in the Crafting skill and the Mercantile Lore skill. You gain the [[Specialty Crafting|Specialty Crafting]] skill feat, choosing Artistry, Blacksmithing, Glassmaking, Leatherworking, Tailoring, or Woodworking as your specialty.
 
 *Source: Pathfinder Guns & Gears*
 *OGL*

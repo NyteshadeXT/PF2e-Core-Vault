@@ -21,7 +21,7 @@ license: ORC
 
 **Prerequisites** Master in Arcana, Nature, Occultism or Religion; Recognize Spell
 * * *
-You Recognize Spells swiftly. Once per round, you can [[Feats/Recognize Spell|Recognize a Spell]] using a skill in which you're a master as a free action.
+You Recognize Spells swiftly. Once per round, you can [[Recognize Spell|Recognize a Spell]] using a skill in which you're a master as a free action.
 
 *Source: Pathfinder Player Core*
 *ORC*

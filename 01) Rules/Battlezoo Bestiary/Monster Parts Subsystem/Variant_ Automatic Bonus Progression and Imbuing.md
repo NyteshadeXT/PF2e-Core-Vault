@@ -8,7 +8,7 @@ tags:
 ---
 
 # Variant: Automatic Bonus Progression and Imbuing
-What if your campaign uses the automatic bonus progression subsystem? You can still use imbuing, replacing refining with the automatic bonus progression. This works in a simple way for weapons and armor: bonuses happen automatically per the automatic bonus progression rules. Use monster parts to imbue weapons and armor, gaining the ability to imbue the item at the same levels as normal on [[.PDd7sAQ1GApl4LXZ|Table 4A: Refinement Benefits by Level (Weapon)]] and [[.3BWwRohvETuT0mlj|Table 4B: Refinement Benefits by Level (Amor)]].
+What if your campaign uses the automatic bonus progression subsystem? You can still use imbuing, replacing refining with the automatic bonus progression. This works in a simple way for weapons and armor: bonuses happen automatically per the automatic bonus progression rules. Use monster parts to imbue weapons and armor, gaining the ability to imbue the item at the same levels as normal on [[Table 4A_ Refinement Benefits by Level (Weapon)|Table 4A: Refinement Benefits by Level (Weapon)]] and [[Table 4B_ Refinement Benefits by Level (Amor)|Table 4B: Refinement Benefits by Level (Amor)]].
 
 For shields, either use the normal refining and imbuing rules, or you might consider adding the shield refining rules as an "automatic shield progression" for 1 shield per character since those are the only items that have refinement and aren't part of the automatic bonus progression.
 

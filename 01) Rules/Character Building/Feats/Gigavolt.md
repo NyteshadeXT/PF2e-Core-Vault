@@ -11,7 +11,7 @@ license: OGL
 ---
 # Gigavolt
 ## Feat 12
-### [[inventor]]
+### [[01) Rules/Character Building/Feats/Inventor]]
 
 **Category** class; 
 

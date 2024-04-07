@@ -12,7 +12,7 @@ license: OGL
 ---
 # Distracting Explosion `pf2:r`
 ## Feat 10
-### [[inventor]][[manipulate]]
+### [[01) Rules/Character Building/Feats/Inventor]][[manipulate]]
 
 **Category** class; 
 

@@ -21,9 +21,9 @@ Members of the Order of the Chain are skilled at hunting down and capturing crim
 
 * * *
 
-**Lesser Benefit** [[Feats/Shackles of Law|Shackles of Law]]
+**Lesser Benefit** [[Shackles of Law|Shackles of Law]]
 
-**Greater Benefit** [[Feats/Sturdy Bindings|Sturdy Bindings]]
+**Greater Benefit** [[Sturdy Bindings|Sturdy Bindings]]
 
 *Source: Pathfinder Lost Omens: Character Guide*
 *OGL*

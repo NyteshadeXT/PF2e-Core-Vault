@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by [[Feats/Emblazon Armament|Emblazon Armament]] when applied to a shield.
+Granted by [[Emblazon Armament|Emblazon Armament]] when applied to a shield.
 
 *   **Shield** The shield gains a +1 status bonus to its Hardness.
 

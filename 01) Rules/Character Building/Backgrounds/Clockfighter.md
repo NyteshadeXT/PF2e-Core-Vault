@@ -20,7 +20,7 @@ While others choose to use their engineering ability to heal the injured or make
 
 Choose two ability boosts. One must be to **Intelligence** or **Charisma**, and one is a free ability boost.
 
-You're trained in the Crafting skill and the Gladiatorial Lore skill. You gain the [[Feats/Experienced Professional|Experienced Professional]] skill feat.
+You're trained in the Crafting skill and the Gladiatorial Lore skill. You gain the [[Experienced Professional|Experienced Professional]] skill feat.
 
 *Source: Pathfinder Guns & Gears*
 *OGL*

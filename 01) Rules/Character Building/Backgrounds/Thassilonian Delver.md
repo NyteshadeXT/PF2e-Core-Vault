@@ -20,7 +20,7 @@ As archaeologists uncovered and explored ever-larger numbers of Thassilonian rui
 
 Choose two ability boosts. One must be to **Constitution** or **Intelligence**, and one is a free ability boost.
 
-You're trained in the Arcana skill and the Thassilonian History Lore skill. You gain the [[Feats/Arcane Sense|Arcane Sense]] skill feat. Add **Thassilonian** to the list of additional languages you can learn for having a high Intelligence modifier.
+You're trained in the Arcana skill and the Thassilonian History Lore skill. You gain the [[Arcane Sense|Arcane Sense]] skill feat. Add **Thassilonian** to the list of additional languages you can learn for having a high Intelligence modifier.
 
 * * *
 

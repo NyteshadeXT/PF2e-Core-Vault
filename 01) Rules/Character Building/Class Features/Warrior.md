@@ -23,7 +23,7 @@ The battlefield is your stage, the clang of steel, your song. Your muse has seen
 
 As a bard with a warrior muse, you train for battle in addition to performance, and you prepare your allies for the dangers of combat. You might even wade into the thick of things with them.
 
-**Muse Feat** [[Feats/Martial Performance|Martial Performance]]
+**Muse Feat** [[Martial Performance|Martial Performance]]
 
 **Muse Spell** [[Spells/Fear|Fear]]
 

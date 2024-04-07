@@ -24,7 +24,7 @@ During the Reenactment Festival, you likely enjoyed the revelry... perhaps a bit
 
 Choose two ability boosts. One must be to **Dexterity** or **Strength**, and one is a free ability boost.
 
-You're trained in the Athletics skill and the Engineering Lore skill. You gain the [[Feats/Charming Liar|Charming Liar]] feat.
+You're trained in the Athletics skill and the Engineering Lore skill. You gain the [[Charming Liar|Charming Liar]] feat.
 
 [[Adventure-Specific Actions/Seasonal Boon (Willowshore Urchin)|Seasonal Boon (Willowshore Urchin)]]
 
@@ -40,8 +40,8 @@ You can add one of the following two adjustments to any background to further mo
 
 **Foundling:** You aren't a native to Willowshore, but you did grow up in the town. You might have adoptive parents, or you could've grown up on the streets. Choose one of the following to replace the bonus feat you otherwise would've gained from your background.
 
-*   **Bitter:** You appreciate the town of Willowshore but still resent the conditions that resulted in you being abandoned or left in the town. You gain the [[Feats/Intimidating Glare|Intimidating Glare]] skill feat.
-*   **Mysterious:** You keep secrets, and very few in Willowshore (if anyone) know your history before you settled in the town, in part because you've taken to learning about Willowshore by watching rather than engaging in conversation. You gain the [[Feats/Streetwise|Streetwise]] skill feat.
+*   **Bitter:** You appreciate the town of Willowshore but still resent the conditions that resulted in you being abandoned or left in the town. You gain the [[Intimidating Glare|Intimidating Glare]] skill feat.
+*   **Mysterious:** You keep secrets, and very few in Willowshore (if anyone) know your history before you settled in the town, in part because you've taken to learning about Willowshore by watching rather than engaging in conversation. You gain the [[Streetwise|Streetwise]] skill feat.
 *   **Outgoing:** You're grateful for the sense of belonging the townsfolk of Willowshore have extended to you and always do your best to repay that kindness. Once per week when you attempt a skill check to resolve a downtime activity that could benefit Willowshore (several of these activities are detailed in the adventures, and your GM can always make the call if another activity would qualify) and you fail that check, you instead succeed at the check, or if you critically fail at that check, you instead simply fail that check.
 
 *Source: Pathfinder: Season of Ghosts Player's Guide*

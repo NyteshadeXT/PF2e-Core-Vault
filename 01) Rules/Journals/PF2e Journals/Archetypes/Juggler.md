@@ -10,17 +10,17 @@ tags:
 # Juggler
 You're a skilled performer, with impressive balance and coordination that help you greatly in battle.
 
-## [[Feats/Juggler Dedication|Juggler Dedication]] Feat 2
+## [[Juggler Dedication|Juggler Dedication]] Feat 2
 
 **Prerequisites** Dexterity +2
 
 * * *
 
-You become trained in Performance; if you were already trained in Performance, you instead become trained in a skill of your choice. You also gain the [[Feats/Juggle|Juggle]] skill feat, even if you don't meet its prerequisites.
+You become trained in Performance; if you were already trained in Performance, you instead become trained in a skill of your choice. You also gain the [[Juggle|Juggle]] skill feat, even if you don't meet its prerequisites.
 
 **Special** You cannot select another dedication feat until you have gained one other feat from the juggler archetype.
 
-## [[Feats/Focused Juggler|Focused Juggler]] Feat 4
+## [[Focused Juggler|Focused Juggler]] Feat 4
 
 **Prerequisites** Juggler Dedication
 
@@ -30,7 +30,7 @@ You become trained in Performance; if you were already trained in Performance, y
 
 You continue Juggling until the end of your next turn. Increase the maximum number of items you can Juggle by one.
 
-## [[Feats/Quick Juggler|Quick Juggler]] Feat 4
+## [[Quick Juggler|Quick Juggler]] Feat 4
 
 **Prerequisites** expert in Performance, Juggler Dedication
 
@@ -38,7 +38,7 @@ You continue Juggling until the end of your next turn. Increase the maximum numb
 
 When you start to Juggle or add another item to those you are Juggling, you add two items instead of one. Increase the maximum number of items you can Juggle by one.
 
-## [[Feats/Reflexive Catch|Reflexive Catch]] Feat 4
+## [[Reflexive Catch|Reflexive Catch]] Feat 4
 
 **Prerequisites** expert in Acrobatics, Juggler Dedication
 
@@ -50,7 +50,7 @@ When you start to Juggle or add another item to those you are Juggling, you add 
 
 You grab the triggering item. If you are Juggling, you can immediately add the item to the objects you're Juggling as a free action, which has the concentrate and manipulate traits.
 
-## [[Feats/Lobbed Attack|Lobbed Attack]] Feat 8
+## [[Lobbed Attack|Lobbed Attack]] Feat 8
 
 **Prerequisites** master in Performance, Juggler Dedication
 
@@ -60,7 +60,7 @@ You grab the triggering item. If you are Juggling, you can immediately add the i
 
 You make a thrown ranged Strike with the required weapon, using the weapon's normal range increment. This attack doesn't trigger reactions, and if the target has never seen you use this feat before, the target is off-guard against this attack.
 
-## [[Feats/Opportune Throw|Opportune Throw]] Feat 16
+## [[Opportune Throw|Opportune Throw]] Feat 16
 
 **Prerequisites** legendary in Performance, Juggler Dedication
 

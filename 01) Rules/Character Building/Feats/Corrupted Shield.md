@@ -23,7 +23,7 @@ license: OGL
 * * *
 Your shield ally is more than just a spirit of protection-it's a conduit for deadly divine magic.
 
-When you use your shield ally to [[Feats/Shield Block|Shield Block]] a melee unarmed attack or a melee weapon Strike from an adjacent creature, the attacker takes 1d6 void damage.
+When you use your shield ally to [[01) Rules/Character Building/Feats/Shield Block|Shield Block]] a melee unarmed attack or a melee weapon Strike from an adjacent creature, the attacker takes 1d6 void damage.
 
 If the attack or Strike breaks or destroys your shield, double this additional damage.
 

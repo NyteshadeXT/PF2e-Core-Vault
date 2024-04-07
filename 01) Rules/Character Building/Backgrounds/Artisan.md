@@ -21,7 +21,7 @@ As an apprentice, you practiced a particular form of building or crafting, devel
 
 Choose two attribute boosts. One must be to **Strength** or **Intelligence**, and one is a free attribute boost.
 
-You're trained in the Crafting skill and the Guild Lore skill. You gain the [[Feats/Specialty Crafting|Specialty Crafting]] skill feat.
+You're trained in the Crafting skill and the Guild Lore skill. You gain the [[Specialty Crafting|Specialty Crafting]] skill feat.
 
 *Source: Pathfinder Player Core*
 *ORC*

@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted when someone uses [[Feats/Battle Medicine|Battle Medicine]] on you, rendering you temporarily immune to Battle Medicine from that person for the duration.
+Granted when someone uses [[Battle Medicine|Battle Medicine]] on you, rendering you temporarily immune to Battle Medicine from that person for the duration.
 
 *Source: Pathfinder Core Rulebook*
 *OGL*

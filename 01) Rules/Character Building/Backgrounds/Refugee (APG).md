@@ -20,7 +20,7 @@ You come from a land very distant from the one you now find yourself in, driven 
 
 Choose two ability boosts. One must be to **Constitution** or **Wisdom**, and one is a free ability boost.
 
-You're trained in the Society skill and a Lore skill related to the settlement you came from. You gain the [[Feats/Streetwise|Streetwise]] skill feat.
+You're trained in the Society skill and a Lore skill related to the settlement you came from. You gain the [[Streetwise|Streetwise]] skill feat.
 
 *Source: Pathfinder Advanced Player's Guide*
 *OGL*

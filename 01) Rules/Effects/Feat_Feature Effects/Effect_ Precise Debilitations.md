@@ -17,7 +17,7 @@ license: ORC
 
 
 
-Granted by [[Feats/Precise Debilitations|Precise Debilitations]]
+Granted by [[Precise Debilitations|Precise Debilitations]]
 
 The target takes an additional 2d6 precision damage from your attacks.
 

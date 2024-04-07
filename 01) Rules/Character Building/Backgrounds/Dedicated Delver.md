@@ -22,7 +22,7 @@ Clan Tolorr specializes more in studying the past than extracting it from danger
 
 Choose two ability boosts. One must be to **Strength** or **Dexterity**, and one is a free ability boost.
 
-You're trained in either the Athletics skill or the Survival skill, and you're trained in the Cave Lore skill. If you selected Athletics, you gain the [[Feats/Combat Climber|Combat Climber]] skill feat. If you chose Survival, you gain the [[Feats/Terrain Expertise|Terrain Expertise (Underground)]] skill feat.
+You're trained in either the Athletics skill or the Survival skill, and you're trained in the Cave Lore skill. If you selected Athletics, you gain the [[Combat Climber|Combat Climber]] skill feat. If you chose Survival, you gain the [[Terrain Expertise|Terrain Expertise (Underground)]] skill feat.
 
 **Connection:** Ria, an oread gnome curator who studies rivethun traditions
 

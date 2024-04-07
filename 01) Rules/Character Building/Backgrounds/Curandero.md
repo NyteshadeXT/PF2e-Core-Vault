@@ -20,7 +20,7 @@ You learned the healing arts of your community wielding your ceremonial chonta, 
 
 Choose two ability boosts. One must be to **Constitution** or **Wisdom**, and one is a free ability boost.
 
-You're trained in the Medicine skill and the Herbalism Lore skill. You gain the [[Feats/Inoculation|Inoculation]] skill feat.
+You're trained in the Medicine skill and the Herbalism Lore skill. You gain the [[Inoculation|Inoculation]] skill feat.
 
 *Source: Pathfinder Book of the Dead*
 *OGL*

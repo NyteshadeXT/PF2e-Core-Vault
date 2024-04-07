@@ -25,7 +25,7 @@ license: OGL
 
 
 
-The visages of beasts are carved into the painted wood of a _beast staff_, with a large head on top. When used as a weapon, the staff is a _+1 striking staff_. While wielding the staff while you have it prepared, you're affected by [[Spells/Speak with Animals|Speak with Animals]]. If you have [[Feats/Animal Empathy|Animal Empathy]], you gain a +1 circumstance bonus on checks using it.
+The visages of beasts are carved into the painted wood of a _beast staff_, with a large head on top. When used as a weapon, the staff is a _+1 striking staff_. While wielding the staff while you have it prepared, you're affected by [[Spells/Speak with Animals|Speak with Animals]]. If you have [[Animal Empathy|Animal Empathy]], you gain a +1 circumstance bonus on checks using it.
 
 * * *
 

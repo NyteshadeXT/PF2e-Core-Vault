@@ -8,4 +8,4 @@ tags:
 ---
 Due to some mischance (such as wandering off while on a trip or being press-ganged onto a seagoing ship), you had to survive in a distant land for a while.
 
-Add the [[Feats/Multilingual|Multilingual]] skill feat to your background options
+Add the [[Multilingual|Multilingual]] skill feat to your background options

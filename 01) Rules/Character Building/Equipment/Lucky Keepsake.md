@@ -17,7 +17,7 @@ license: OGL
 **Bulk** 0; **Size** med
 **Usage** carried
 
-Obtained from [[Feats/Lucky Keepsake|Lucky Keepsake]]
+Obtained from [[01) Rules/Character Building/Feats/Lucky Keepsake|Lucky Keepsake]]
 
 *Source: Pathfinder Lost Omens: Character Guide*
 *OGL*

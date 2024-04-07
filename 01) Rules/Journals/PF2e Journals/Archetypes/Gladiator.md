@@ -10,7 +10,7 @@ tags:
 # Gladiator
 The roar of the crowd and thrill of competitive combat drive you to become the best-and the fame isn't bad either. If there are sapient creatures observing a combat encounter, and these onlookers are neither engaged in the combat themselves nor allied or affiliated with either side, the combatants have spectators. The GM is the final arbiter.
 
-## [[Feats/Gladiator Dedication|Gladiator Dedication]] Feat 2
+## [[Gladiator Dedication|Gladiator Dedication]] Feat 2
 
 **Prerequisites** Impressive Performance
 
@@ -20,7 +20,7 @@ You know how to turn combat into a form of entertainment. You become trained in 
 
 **Special** You can't select another dedication feat until you have gained two other feats from the Gladiator archetype.
 
-## [[Feats/Fancy Moves|Fancy Moves]] Feat 4
+## [[Fancy Moves|Fancy Moves]] Feat 4
 
 **Prerequisites** Gladiator Dedication, expert in Performance
 
@@ -28,7 +28,7 @@ You know how to turn combat into a form of entertainment. You become trained in 
 
 You show off your fighting style to discourage your foes. You can use Performance to Demoralize.
 
-## [[Feats/Play To The Crowd|Play To The Crowd]] Feat 4
+## [[Play To The Crowd|Play To The Crowd]] Feat 4
 
 **Prerequisites** Gladiator Dedication
 
@@ -42,7 +42,7 @@ You show off for the crowd. Attempt a Performance check; the DC is determined by
 *   A +1 circumstance bonus to AC until the end of your next turn.
 *   A +1 circumstance bonus to your next attack roll before the end of your next turn.
 
-## [[Feats/Stage Fighting|Stage Fighting]] Feat 4
+## [[Stage Fighting|Stage Fighting]] Feat 4
 
 **Prerequisites** Gladiator Dedication
 
@@ -50,7 +50,7 @@ You show off for the crowd. Attempt a Performance check; the DC is determined by
 
 You pull punches to give a better show. You don't take the usual -2 circumstance penalty when making a nonlethal attack with a weapon or unarmed attack that doesn't have the nonlethal trait.
 
-## [[Feats/Performative Weapons Training|Performative Weapons Training]] Feat 6
+## [[Performative Weapons Training|Performative Weapons Training]] Feat 6
 
 **Prerequisites** Gladiator Dedication
 
@@ -58,7 +58,7 @@ You pull punches to give a better show. You don't take the usual -2 circumstance
 
 You're skilled with flashy weapons. You are trained with the bo staff, dueling cape, spiked chain, sword cane, and whip. Whenever you gain a class feature that grants you expert or greater proficiency in a given weapon or weapons, you also gain that proficiency in the weapons listed.
 
-## [[Feats/Call Your Shot|Call Your Shot]] Feat 8
+## [[Call Your Shot|Call Your Shot]] Feat 8
 
 **Prerequisites** Play to the Crowd
 

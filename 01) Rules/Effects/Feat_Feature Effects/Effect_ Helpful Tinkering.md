@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by [[Feats/Helpful Tinkering|Helpful Tinkering]]
+Granted by [[Helpful Tinkering|Helpful Tinkering]]
 
 For 1 minute, the chosen ally's Strikes with the chosen weapon gain the same offensive boost your innovation has.
 

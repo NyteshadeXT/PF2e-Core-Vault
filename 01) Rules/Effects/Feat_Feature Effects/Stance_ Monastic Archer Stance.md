@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by [[Feats/Monastic Archer Stance|Monastic Archer Stance]]
+Granted by [[Monastic Archer Stance|Monastic Archer Stance]]
 
 You enter a specialized stance for a unique martial art centered around the use of a bow. While in this stance, the only Strikes you can make are those using longbows, shortbows, or bows with the monk trait.
 

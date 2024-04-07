@@ -20,7 +20,7 @@ Your life was one of tumult and mayhem, but you don't see this as a bad thing. P
 
 This background is associated with the suit of Crowns.
 
-Choose two ability boosts. One must be to **Charisma**, and one is a free ability boost. You gain the [[Feats/Charming Liar|Charming Liar]] skill feat and are trained in a Lore about a specific terrain, as befits where you spent most of your childhood growing up. You also gain the [[Actions/Chaotic Destiny|Chaotic Destiny]] free action.
+Choose two ability boosts. One must be to **Charisma**, and one is a free ability boost. You gain the [[Charming Liar|Charming Liar]] skill feat and are trained in a Lore about a specific terrain, as befits where you spent most of your childhood growing up. You also gain the [[Actions/Chaotic Destiny|Chaotic Destiny]] free action.
 
 *Source: Pathfinder: Stolen Fate Player's Guide*
 *OGL*

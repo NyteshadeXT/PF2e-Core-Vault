@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by [[Feats/Mental Balm|Mental Balm]]
+Granted by [[Mental Balm|Mental Balm]]
 
 You or one ally within 30 feet gains a +2 status bonus to Will saves against emotion effects for 1 minute.
 

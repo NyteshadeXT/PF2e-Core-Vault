@@ -8,4 +8,4 @@ tags:
 ---
 Information provided by this character-either intentionally or inadvertently given-required you to justify yourself in front of a group of bureaucrats or magistrates.
 
-Add the [[Feats/Group Impression|Group Impression]] skill feat to your background options.
+Add the [[Group Impression|Group Impression]] skill feat to your background options.

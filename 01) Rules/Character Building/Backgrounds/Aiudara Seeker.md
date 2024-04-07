@@ -22,7 +22,7 @@ The aiudara of Alseta's Ring have become more well known, and you are interested
 
 Choose two ability boosts. One must be to **Intelligence** or **Wisdom**, and one is a free ability boost.
 
-You're trained in the Arcana skill and the Portal Lore skill. You gain the [[Feats/Quick Identification|Quick Identification]] skill feat.
+You're trained in the Arcana skill and the Portal Lore skill. You gain the [[Quick Identification|Quick Identification]] skill feat.
 
 *Source: Pathfinder #150: Broken Promises*
 *OGL*

@@ -22,7 +22,7 @@ Choose two ability boosts. One must be to **Intelligence** or **Charisma**, and 
 
 You're trained in Occultism and Fortune-Telling Lore.
 
-You gain the [[Feats/Deceptive Worship|Deceptive Worship]] skill feat.
+You gain the [[Deceptive Worship|Deceptive Worship]] skill feat.
 
 *Source: Pathfinder Secrets of Magic*
 *OGL*

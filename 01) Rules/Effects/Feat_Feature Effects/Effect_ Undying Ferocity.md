@@ -17,7 +17,7 @@ license: ORC
 
 
 
-Granted by [[Feats/Undying Ferocity|Undying Ferocity]]
+Granted by [[Undying Ferocity|Undying Ferocity]]
 
 When you use Orc Ferocity, you gain temporary Hit Points equal to your level.
 

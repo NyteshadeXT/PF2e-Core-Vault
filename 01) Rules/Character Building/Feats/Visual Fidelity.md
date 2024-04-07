@@ -11,7 +11,7 @@ license: OGL
 ---
 # Visual Fidelity
 ## Feat 6
-### [[inventor]]
+### [[01) Rules/Character Building/Feats/Inventor]]
 
 **Category** class; 
 

@@ -20,7 +20,7 @@ license: ORC
 
 **Prerequisites** Premonition of Clarity
 * * *
-You can project your premonitions of clarity to your allies. When you use [[Feats/Premonition of Clarity|Premonition of Clarity]], allies within 15 feet of you who failed the same saving throw against the same mental effect can also spend their reactions to reroll the failed saving throw with a +2 circumstance bonus.
+You can project your premonitions of clarity to your allies. When you use [[Premonition of Clarity|Premonition of Clarity]], allies within 15 feet of you who failed the same saving throw against the same mental effect can also spend their reactions to reroll the failed saving throw with a +2 circumstance bonus.
 
 [[Feat_Feature Effects/Effect_ Shared Clarity|Effect: Shared Clarity]]
 

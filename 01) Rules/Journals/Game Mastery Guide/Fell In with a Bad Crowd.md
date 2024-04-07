@@ -8,4 +8,4 @@ tags:
 ---
 In your youth, you ran with a criminal element: a gang, thieves' guild, or similar organization.
 
-Add the [[Feats/Experienced Smuggler|Experienced Smuggler]] skill feat to your background options.
+Add the [[Experienced Smuggler|Experienced Smuggler]] skill feat to your background options.

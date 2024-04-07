@@ -20,7 +20,7 @@ For more than a century, the Pathfinder Society has clashed with the avaricious 
 
 Choose two ability boosts. One must be to **Intelligence** or **Charisma**, and one is a free ability boost.
 
-You're trained in the Intimidation skill and the Aspis Consortium Lore skill. You gain the [[Feats/Group Coercion|Group Coercion]] skill feat. You gain access to any uncommon options as though you were a member of the Aspis Consortium.
+You're trained in the Intimidation skill and the Aspis Consortium Lore skill. You gain the [[Group Coercion|Group Coercion]] skill feat. You gain access to any uncommon options as though you were a member of the Aspis Consortium.
 
 * * *
 

@@ -20,7 +20,7 @@ license: ORC
 
 **Prerequisites** Dueling Riposte
 * * *
-By shifting your weight and angling your weapon, you guide your opponent to a more favorable position. When you use [[Feats/Dueling Riposte|Dueling Riposte]] to Strike and you hit, you can [[Actions/Reposition|Reposition]] up to 10 feet.
+By shifting your weight and angling your weapon, you guide your opponent to a more favorable position. When you use [[Dueling Riposte|Dueling Riposte]] to Strike and you hit, you can [[Actions/Reposition|Reposition]] up to 10 feet.
 
 *Source: Pathfinder Player Core*
 *ORC*

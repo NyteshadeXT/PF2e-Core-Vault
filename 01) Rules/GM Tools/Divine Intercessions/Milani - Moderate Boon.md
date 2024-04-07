@@ -16,7 +16,7 @@ license: OGL
 
 
 
-**Moderate Boon:** When you use it to protect others, your shield blooms with roses brimming with razor-sharp thorns. You gain the [[Feats/Shield Warden (Fighter)|Shield Warden (Fighter)]] feat, even if you don't meet its prerequisites. If you already had that feat, if your shield takes damage from a melee Strike in defense of your ally, the attacker takes piercing damage equal to half the shield's Hardness.
+**Moderate Boon:** When you use it to protect others, your shield blooms with roses brimming with razor-sharp thorns. You gain the [[Shield Warden (Fighter)|Shield Warden (Fighter)]] feat, even if you don't meet its prerequisites. If you already had that feat, if your shield takes damage from a melee Strike in defense of your ally, the attacker takes piercing damage equal to half the shield's Hardness.
 
 *Source: Pathfinder Lost Omens: Gods & Magic*
 *OGL*

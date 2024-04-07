@@ -20,7 +20,7 @@ Disciples of metallic dragons also feel the pangs of compassion and benevolence.
 
 Instinctual draconic feelings can be constant, yet they seem to intensify when the disciple uses their draconic powers. In the few seconds after using a breath weapon or attacking with claws, or when the disciple sprouts wings, they might have a moment of mental transformation. This can bring on the full mindset of a dragon, or even make the disciple temporarily believe they truly are a dragon, and is often accompanied by a draconic roar, cackle, or majestic display.
 
-[[Feats/Dragon Disciple Dedication|Dragon Disciple Dedication]] Feat 2
+[[Dragon Disciple Dedication|Dragon Disciple Dedication]] Feat 2
 
 **Access** You are a kobold with the dragonscaled or spellscaled heritage, a dragon instinct barbarian, or a draconic bloodline sorcerer.
 
@@ -38,7 +38,7 @@ You also gain a +1 circumstance bonus to saving throws against sleep effects and
 
 **Special** You can't select another dedication feat until you have gained two other feats from the dragon disciple archetype. If you later take the sorcerer archetype, you must choose the draconic bloodline.
 
-## [[Feats/Claws Of The Dragon|Claws Of The Dragon]] Feat 4
+## [[Claws Of The Dragon|Claws Of The Dragon]] Feat 4
 
 **Prerequisites** Dragon Disciple Dedication
 
@@ -48,7 +48,7 @@ Your fingernails grow into razor-sharp claws, and scales speckle your fingers, h
 
 If you're a draconic sorcerer, when you cast dragon claws, increase the spell's slashing damage die from d4 to d6 and increase the resistance to 10 at 1st level, 15 at 5th level, and 20 at 9th level.
 
-## [[Feats/Draconic Scent|Draconic Scent]] Feat 4
+## [[Draconic Scent|Draconic Scent]] Feat 4
 
 **Prerequisites** Dragon Disciple Dedication
 
@@ -56,7 +56,7 @@ If you're a draconic sorcerer, when you cast dragon claws, increase the spell's 
 
 Your sense of smell is uncanny, much like a dragon's. You gain imprecise scent with a range of 30 feet. The GM might double the range if you're downwind from the creature or halve the range if you're upwind, at their discretion.
 
-## [[Feats/Dragon Arcana|Dragon Arcana]] Feat 4
+## [[Dragon Arcana|Dragon Arcana]] Feat 4
 
 **Prerequisites** ability to cast spells from spell slots, Dragon Disciple Dedication
 
@@ -64,7 +64,7 @@ Your sense of smell is uncanny, much like a dragon's. You gain imprecise scent w
 
 You've discovered how to add the magic of dragons to your tradition. Add the draconic bloodline's granted spells to your spell list; you must still learn them or add them to your repertoire as normal. These spells are shield, true strike, resist energy, haste, spell immunity, chromatic wall, dragon form, mask of terror, prismatic wall, and overwhelming presence.
 
-## [[Feats/Scales Of The Dragon|Scales Of The Dragon]] Feat 4
+## [[Scales Of The Dragon|Scales Of The Dragon]] Feat 4
 
 **Prerequisites** Dragon Disciple Dedication
 
@@ -72,7 +72,7 @@ You've discovered how to add the magic of dragons to your tradition. Add the dra
 
 Scales grow across your body, protecting you against physical and magical threats. When you're unarmored, the scales give you a +2 status bonus to AC with a Dexterity cap of +3. Your resistance from Dragon Disciple Dedication increases to 3 + half your level.
 
-## [[Feats/Breath Of The Dragon|Breath Of The Dragon]] Feat 8
+## [[Breath Of The Dragon|Breath Of The Dragon]] Feat 8
 
 **Prerequisites** Dragon Disciple Dedication
 
@@ -80,7 +80,7 @@ Scales grow across your body, protecting you against physical and magical threat
 
 You can use a powerful breath weapon, much like the dragon you emulate. You gain the dragon breath sorcerer bloodline spell and a focus pool of 1 Focus Point. If you already have a focus pool, increase your number of Focus Points by 1.
 
-## [[Feats/Wings Of The Dragon|Wings Of The Dragon]] Feat 12
+## [[Wings Of The Dragon|Wings Of The Dragon]] Feat 12
 
 **Prerequisites** Dragon Disciple Dedication
 
@@ -88,7 +88,7 @@ You can use a powerful breath weapon, much like the dragon you emulate. You gain
 
 You can manifest draconic wings to soar through the air at great speed. You gain the dragon wings sorcerer bloodline spell and a focus pool of 1 Focus Point. If you already have a focus pool, increase your number of Focus Points by 1.
 
-## [[Feats/Shape Of The Dragon|Shape Of The Dragon]] Feat 14
+## [[Shape Of The Dragon|Shape Of The Dragon]] Feat 14
 
 **Prerequisites** Dragon Disciple Dedication
 
@@ -96,7 +96,7 @@ You can manifest draconic wings to soar through the air at great speed. You gain
 
 You've discovered how to transform yourself into a dragon. Once per day, you can cast 7th-rank dragon form as an innate arcane spell, transforming into your chosen type of dragon. The spell automatically heightens to 8th level if you're 16th level and 9th level if you're 18th level. Any time you score a critical hit with an unarmed Strike gained from dragon form, you recharge the spell's breath weapon immediately.
 
-## [[Feats/Disciple's Breath|Disciple's Breath]] Feat 16
+## [[Disciple's Breath|Disciple's Breath]] Feat 16
 
 **Prerequisites** Dragon Disciple Dedication, Dragon Breath sorcerer bloodline spell
 
@@ -104,7 +104,7 @@ You've discovered how to transform yourself into a dragon. Once per day, you can
 
 You unleash your breath weapon without spending focus. This has the effects of your dragon breath sorcerer bloodline spell, though it deals 9d6 damage instead of its usual damage, and you don't have to cast it or spend a Focus Point. You can't use Disciple's Breath again for 1d4 rounds.
 
-## [[Feats/Mighty Dragon Shape|Mighty Dragon Shape]] Feat 18
+## [[Mighty Dragon Shape|Mighty Dragon Shape]] Feat 18
 
 **Prerequisites** Shape of the Dragon
 

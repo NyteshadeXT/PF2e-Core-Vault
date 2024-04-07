@@ -20,7 +20,7 @@ license: OGL
 
 **Prerequisites** Intelligence, Wisdom or Charisma +2; ability to cast focus spells; member of the Pathfinder Society affiliated with the School of Spells
 * * *
-As a Spellmaster, you are adept at identifying magic. You gain a +2 circumstance bonus when you [[Actions/Identify Magic|Identify Magic]] with a skill in which you are trained or better. If you have the [[Feats/Wayfinder Resonance Tinkerer|Wayfinder Resonance Tinkerer]] feat, you can change the cantrip you chose for that feat each day during your daily preparations.
+As a Spellmaster, you are adept at identifying magic. You gain a +2 circumstance bonus when you [[Actions/Identify Magic|Identify Magic]] with a skill in which you are trained or better. If you have the [[Wayfinder Resonance Tinkerer|Wayfinder Resonance Tinkerer]] feat, you can change the cantrip you chose for that feat each day during your daily preparations.
 
 * * *
 

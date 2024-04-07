@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by [[Feats/Guardian's Deflection (Fighter)|Guardian's Deflection (Fighter)]] or [[Feats/Guardian's Deflection (Swashbuckler)|Guardian's Deflection (Swashbuckler)]].
+Granted by [[Guardian's Deflection (Fighter)|Guardian's Deflection (Fighter)]] or [[Guardian's Deflection (Swashbuckler)|Guardian's Deflection (Swashbuckler)]].
 
 You gain a +2 circumstance bonus to AC against the triggering attack.
 
