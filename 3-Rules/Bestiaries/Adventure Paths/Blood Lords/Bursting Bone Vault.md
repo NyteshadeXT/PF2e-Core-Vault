@@ -1,0 +1,57 @@
+---
+title: Bursting Bone Vault
+obsidianUIMode: preview
+noteType: pf2eHazard
+tags:
+  - environmental
+
+source: Pathfinder #181: Zombie Feast
+aliases: "Compendium.pf2e.blood-lords-bestiary.Actor.UsvCc0wceUBOwbdl" 
+level: 3
+license: OGL
+statblock: inline
+---
+
+```statblock
+columns: 2
+forcecolumns: true
+layout: Basic Pathfinder 2e Layout
+source: "Pathfinder #181: Zombie Feast"
+name: "Bursting Bone Vault"
+level: "Hazard 3"
+
+
+trait_01: "environmental"
+modifier: 13
+sourcebook: "_Pathfinder #181: Zombie Feast_"
+ac: 10
+armorclass:
+  - name: AC
+    desc: "10; __Fort__ +0, __Ref__ +0, __Will__ +0"
+hp: 10
+health:
+  - name: ""
+  - name: "HP"
+    desc: "10; __Immunities__  object immunities"
+perception:
+  - name: ""
+  - name: "Stealth DC 23" 
+    desc: "(trained)"
+abilities_top:
+  - name: ""
+  - name: "Description"
+    desc: "This bone-filled vault disgorges its contents the moment the vault door slides open."
+abilities_mid:
+  - name: ""
+  - name: "Disable"
+    desc: "DC 20 Thievery check (trained) or DC 20 Stealth check (trained) to carefully open the vault door without disturbing the bones"
+attacks:
+  - name: ""
+
+  - name: "Collapse"
+    desc: "`pf2:r` **Trigger** A creature opens the door to the vault\n**Effect** The bones spill from the vault and into the adjacent corridor, dealing 2d10 + 13 bludgeoning damage to each creature within 10 feet of the door (DC 20 Reflex check). The area becomes difficult terrain."
+
+
+
+```
+

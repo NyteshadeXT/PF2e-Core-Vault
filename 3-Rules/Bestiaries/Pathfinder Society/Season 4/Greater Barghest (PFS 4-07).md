@@ -1,0 +1,91 @@
+---
+title: "Greater Barghest (PFS 4-07)"
+obsidianUIMode: preview
+noteType: pf2eMonster
+cssClasses: pf2e
+aliases: "Compendium.pf2e.pfs-season-4-bestiary.Actor.mS4CumAcPpkDdjrO" 
+tags:
+  - pf2e/creature/type/chaotic
+  - pf2e/creature/type/evil
+  - pf2e/creature/type/fiend
+  - pf2e/creature/type/mutant
+  - pf2e/creature/type/unholy
+  - pf2e/creature/level/7
+statblock: inline
+name: "Greater Barghest (PFS 4-07)"
+level: 7
+license: OGL
+---
+
+```statblock
+columns: 2
+forcecolumns: true
+layout: Basic Pathfinder 2e Layout
+source: "Pathfinder Society Scenario #4-07: A Most Wondrous Exchange!"
+name: "Greater Barghest (PFS 4-07)"
+level: "Creature 7"
+rare_03: "Uncommon"
+alignment: ""
+size: "Large"
+trait_01: "chaotic"
+trait_02: "evil"
+trait_03: "fiend"
+trait_04: "mutant"
+trait_05: "unholy"
+modifier: 16
+perception:
+  - name: "Perception"
+    desc: "+16; Darkvision, Scent (Imprecise) 30 Feet"
+languages: "Chthonian, Common, Goblin"
+skills:
+  - name: "Skills"
+    desc: "Acrobatics: +15, Athletics: +15, Deception: +18, Diplomacy: +14, Intimidation: +16, Stealth: +15, Survival: +14"
+abilityMods: [6, 2, 4, 3, 3, 5]
+speed: 35 feet,  fly 25 feet
+sourcebook: "_Pathfinder Society Scenario #4-07: A Most Wondrous Exchange!_"
+ac: 25
+armorclass:
+  - name: AC
+    desc: "25; __Fort__ +17, __Ref__ +15, __Will__ +12"
+hp: 105
+health:
+  - name: ""
+  - name: HP
+    desc: "105; __Weaknesses__ holy 5; __Resistances__ fire 10, physical 10 (except magical)"
+abilities_top:
+  - name: ""
+
+abilities_mid:
+  - name: ""
+  - name: "[[Bestiary Ability Glossary/Attack of Opportunity|Attack of Opportunity]]"
+    desc: "`pf2:r`  "
+
+attacks:
+  - name: ""
+
+  - name: "Melee"
+    desc: "`pf2:1` Jaws +17 (unholy)\n__Damage__  2d10 + 6 piercing"
+
+  - name: "Melee"
+    desc: "`pf2:1` Claw +17 (agile, unholy)\n__Damage__  2d8 + 6 slashing"
+
+  - name: "Divine Innate Spells"
+    desc: "DC 25, attack +17; __4th __  _[[Spells/Flicker|Blink (At Will)]]_, _[[Spells/Confusion|Confusion]]_, _[[Spells/Translocate|Dimension Door]]_, _[[Spells/Enlarge|Enlarge]]_; __3rd __  _[[Spells/Levitate|Levitate (At Will)]]_; __2nd __  _[[Spells/Invisibility|Invisibility (At Will)]]_; __1st __  _[[Spells/Charm|Charm]]_"
+
+  - name: "[[Creature Family Ability Glossary/(Greater Barghest) Mutation - Wings|(Greater Barghest) Mutation - Wings]]"
+    desc: "  The barghest has malformed wings extending from its back. It gains a fly Speed of 25 feet."
+
+  - name: "[[Bestiary Ability Glossary/Change Shape|Change Shape]]"
+    desc: "`pf2:1` (concentrate,divine,polymorph) The barghest takes on the shape of a goblinoid (a goblin, hobgoblin, or bugbear) or a wolf, or it transforms back into its true form. When the barghest is a goblinoid, it loses its jaws and claw Strikes, it becomes Small if it is a goblin, and its Speed changes to 20 feet. When the barghest is a wolf, its Speed changes to 40 feet and its jaws gain [[Bestiary Ability Glossary/Knockdown|Knockdown]]. Each individual barghest has only one goblinoid form and one wolf form.\n[[Bestiary Effects/Effect_ Wolf Shape|Effect: Wolf Shape]]\n"
+ 
+```
+
+
+
+Once a barghest has eaten enough to grow into a greater barghest, it typically seeks a method to leave the Material Plane and return to the Abyss, there joining other fiends as yet another of that plane's horrors. As barghests have no innate ability to travel the planes, though, the time it takes for most greater barghests to engineer such a return can usually be measured in years, if not decades. During that time, greater barghests continue to play the roles of gluttons, hunters of humanity, and tyrants of goblinoid tribes. More than a few grow accustomed to such lives on the Material Plane and wholly abandon the end goal of returning to the Abyss, despite the fact that those who do make such a return home often grow even more powerful over time, gaining eerie new abilities and qualities absorbed from the raw chaos of the Abyss itself.
+
+In addition to greater barghests being more powerful than typical barghests, the process of transforming into a greater barghest results in hideous mutations that often grant deadly abilities. Some barghests grow large bat-like wings upon their transformation. Others develop toxic breath or vestigial limbs. The options detailed in the stats below represent only the tip of the proverbial iceberg for barghest mutations-feel free to use these as inspiration for coming up with new mutations of your own design.
+
+* * *
+
+Barghests are lupine fiends with goblinoid faces and humanoid hands. They stalk the Material Plane in search of souls to sate their demonic hunger. Eons ago, barghests dwelled in the pits of Hell and served Asmodeus, but after Lamashtu abducted and adopted the four most powerful of their kind to serve as pets (and in time, as a pantheon of hero-gods worshipped by evil goblins), barghests' loyalties and philosophical nature changed significantly. Today, while barghests retain their connection to goblinoids, they serve none but their own appetites.

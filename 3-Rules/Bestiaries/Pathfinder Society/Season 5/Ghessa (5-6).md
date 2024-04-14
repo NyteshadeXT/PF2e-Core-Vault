@@ -1,0 +1,87 @@
+---
+title: "Ghessa (5-6)"
+obsidianUIMode: preview
+noteType: pf2eMonster
+cssClasses: pf2e
+aliases: "Compendium.pf2e.pfs-season-5-bestiary.Actor.8KnRiKYMkDNYb1mL" 
+tags:
+  - pf2e/creature/type/evil
+  - pf2e/creature/type/lawful
+  - pf2e/creature/type/undead
+  - pf2e/creature/type/unholy
+  - pf2e/creature/level/7
+statblock: inline
+name: "Ghessa (5-6)"
+level: 7
+license: OGL
+---
+
+```statblock
+columns: 2
+forcecolumns: true
+layout: Basic Pathfinder 2e Layout
+source: "Pathfinder Society Scenario #5-05: The Island of the Vibrant Dead"
+name: "Ghessa (5-6)"
+level: "Creature 7"
+rare_03: "Unique"
+alignment: ""
+size: "Medium"
+trait_01: "evil"
+trait_02: "lawful"
+trait_03: "undead"
+trait_04: "unholy"
+modifier: 15
+perception:
+  - name: "Perception"
+    desc: "+15; Darkvision"
+languages: "Azlanti, Common"
+skills:
+  - name: "Skills"
+    desc: "Acrobatics: +16, Athletics: +17, Monastic Lore: +13, Stealth: +16"
+abilityMods: [5, 4, 2, 2, 4, 2]
+speed: 35 feet
+sourcebook: "_Pathfinder Society Scenario #5-05: The Island of the Vibrant Dead_"
+ac: 24
+armorclass:
+  - name: AC
+    desc: "24; __Fort__ +13, __Ref__ +17, __Will__ +15"
+hp: 90
+health:
+  - name: ""
+  - name: HP
+    desc: "90, void healing; __Immunities__  death effects,  disease,  paralyzed,  poison,  unconscious"
+abilities_top:
+  - name: ""
+  - name: "Items"
+    desc: "[[Equipment/Tool (Short)|Tool]], 2x [[Equipment/Oil of Unlife (Lesser)|Oil of Unlife (Lesser)]], [[Equipment/Magic Wand (5th-Rank Spell)|Wand of Animate Dead (Level 5)]]"
+abilities_mid:
+  - name: ""
+attacks:
+  - name: ""
+
+  - name: "Melee"
+    desc: "`pf2:1` Fist +18 (agile, magical)\n__Damage__  1d6 + 10 bludgeoning plus sagebane 1d4 void plus sagebane"
+
+  - name: "Black Apoxia"
+    desc: " (disease) The target can't recover from the fatigued condition caused by black apoxia until the disease is cured\n**Saving Throw** DC 24 Fortitude check\n**Stage 1** carrier with no ill effect (1 day)\n**Stage 2** [[Conditions/Drained 1|Drained 1]] and [[Conditions/Fatigued|Fatigued]] (1 day)\n**Stage 3** [[Conditions/Drained 1|Drained 2]] and fatigued (1 day)\n**Stage 4** dead"
+
+  - name: "Brawling Critical"
+    desc: "  When the kurobozu scores a critical hit with an unarmed attack, the target must succeed at a DC 23 Fortitude check save or be [[Conditions/Slowed 1|Slowed 1]] until the end of its next turn."
+
+  - name: "Sagebane"
+    desc: " (occult) When the kurobozu damages a living creature with an unarmed Strike, the target must succeed at a DC 25 Fortitude check save or become [[Conditions/Stupefied 1|Stupefied 1]] for 1 minute. Further damage dealt by the kurobozu resets the duration to 1 minute and increases the stupefied value by 1 on a failed save, to a maximum of [[Conditions/Stupefied 1|Stupefied 4]]."
+
+  - name: "Steal Breath"
+    desc: "`pf2:2` (incapacitation,occult) **Requirements** The kurobozu is adjacent to a living creature that is [[Conditions/Paralyzed|Paralyzed]], [[Conditions/Slowed 1|Slowed]], [[Conditions/Stunned 1|Stunned]], or [[Conditions/Unconscious|Unconscious]]\n**Effect** The kurobozu leans over and sucks the breath from the target, who must attempt a DC 23 Fortitude check save. Regardless of the result, the creature is exposed to black apoxia and its breath reeks of carrion for 1 minute.\n**Critical Success** The creature is unaffected.\n**Success** The creature can't speak for 1 minute.\n**Failure** The creature becomes [[Conditions/Sickened 1|Sickened 2]] and can't speak for 1 minute.\n**Critical Failure** As failure, plus the creature falls [[Conditions/Unconscious|Unconscious]] and begins suffocating."
+
+  - name: "Stunning Flurry"
+    desc: "`pf2:1`  **Frequency** once per round\n**Effect** The kurobozu makes two unarmed Strikes. If both hit the same creature, combine their damage for the purpose of resistances and weaknesses, and the target must succeed at a DC 23 Fortitude check save or be [[Conditions/Stunned 1|Stunned 1]] (or [[Conditions/Stunned 1|Stunned 3]] on a critical failure); this save has the incapacitation trait."
+ 
+```
+
+
+Variant female kurobozu
+
+A monk who violated their monastic vows in life might arise after death to become an undead horror known as a kurobozu. These predators feast upon the breath of mortals, creeping on twisted limbs into bedrooms to steal the life from sleeping victims. This act of feeding leaves its mark on the victim in the form of a vile scent of rot on the victim's breath and a debilitating disease that eventually results in exhaustion and finally death.
+
+Kurobozus retain echoes of their ascetic training, enabling them to suck the breath from debilitated foes in the midst of battle. Their malevolent cunning combined with ascetic discipline helps them concoct elaborate and lengthy schemes to enact their jealous revenge. Few kurobozus are convincing enough to persuade their onetime allies to break their own oaths, but this doesn't stop them from making the attempt.

@@ -1,0 +1,87 @@
+---
+title: "Catoblepas"
+obsidianUIMode: preview
+noteType: pf2eMonster
+cssClasses: pf2e
+aliases: "Compendium.pf2e.pathfinder-bestiary-2.Actor.BJoM8LAVP8MA5o8v" 
+tags:
+  - pf2e/creature/type/beast
+  - pf2e/creature/type/chaotic
+  - pf2e/creature/type/evil
+  - pf2e/creature/level/12
+statblock: inline
+name: "Catoblepas"
+level: 12
+license: OGL
+---
+
+```statblock
+columns: 2
+forcecolumns: true
+layout: Basic Pathfinder 2e Layout
+token: [[modules/pf2e-tokens-bestiaries/portraits/bestial/mythological/catoblepas.webp| ]]
+source: "Pathfinder Bestiary 2"
+name: "Catoblepas"
+level: "Creature 12"
+
+alignment: ""
+size: "Large"
+trait_01: "beast"
+trait_02: "chaotic"
+trait_03: "evil"
+modifier: 22
+perception:
+  - name: "Perception"
+    desc: "+22; Darkvision"
+languages: "Aklo"
+skills:
+  - name: "Skills"
+    desc: "Athletics: +25, Intimidation: +20, Stealth: +22 (+24 in swamps), Survival: +20"
+abilityMods: [7, 4, 6, -2, 4, 2]
+speed: 35 feet,  swim 20 feet
+sourcebook: "_Pathfinder Bestiary 2_"
+ac: 33
+armorclass:
+  - name: AC
+    desc: "33; __Fort__ +24, __Ref__ +20, __Will__ +22"
+hp: 215
+health:
+  - name: ""
+  - name: HP
+    desc: "215; __Immunities__  disease,  poison,  olfactory"
+abilities_top:
+  - name: ""
+
+  - name: "Stench"
+    desc: " (aura,disease,olfactory) 30 feet. A creature entering the aura or starting its turn in the aura must succeed at a DC 30 Fortitude check save or become [[Conditions/Sickened 1|Sickened 1]] (plus [[Conditions/Slowed 1|Slowed 1]] for as long as itʼs sickened on a critical failure).\nWhile within the aura, affected creatures take a -2 circumstance penalty to saves against disease and to recover from the sickened condition. A creature that succeeds at its save is temporarily immune for 1 minute."
+
+abilities_mid:
+  - name: ""
+  - name: "[[Bestiary Ability Glossary/Ferocity|Ferocity]]"
+    desc: "`pf2:r`  "
+
+attacks:
+  - name: ""
+
+  - name: "Melee"
+    desc: "`pf2:1` Jaws +25 (magical, reach 10 feet)\n__Damage__  3d10 + 13 piercing"
+
+  - name: "Melee"
+    desc: "`pf2:1` Antler +25 (magical, reach 15 feet)\n__Damage__  3d12 + 13 piercing"
+
+  - name: "Melee"
+    desc: "`pf2:1` Hoof +23 (magical)\n__Damage__  3d10 + 11 bludgeoning"
+
+  - name: "Breath Weapon"
+    desc: "`pf2:2` (poison,primal) The catoblepas breathes a 60-foot cone of horrid fumes, dealing 13d6 poison damage (DC 32 Fortitude check save). The area of this cone is reduced to 30 feet underwater. Targets that fail their saving throw also become [[Conditions/Sickened 1|Sickened 1]] ([[Conditions/Sickened 1|Sickened 2]] on a critical failure).\nThe catoblepas can't use its Breath Weapon again for 1d4 rounds."
+
+  - name: "[[Bestiary Ability Glossary/Trample|Trample]]"
+    desc: "`pf2:3`  Medium or smaller, hoof, DC 32 Reflex check\n"
+ 
+```
+
+
+
+The catoblepas is an aggressive beast at the best of times. Though it prefers swamps, the catoblepas has been know to forage in plains and forests for short periods, leaving behind hunting grounds tainted by its foul breath and noxious waste that other predators and prey alike avoid for days or even weeks thereafter. The catoblepas bullies those creatures it believes are a match for it, and eats everything weaker.
+
+A catoblepas is 15 feet long and weighs 2,200 pounds.

@@ -1,0 +1,78 @@
+---
+title: "Tooth Fairy Swarm"
+obsidianUIMode: preview
+noteType: pf2eMonster
+cssClasses: pf2e
+aliases: "Compendium.pf2e.pathfinder-bestiary-3.Actor.NUWL7LHDqmP0c7OB" 
+tags:
+  - pf2e/creature/type/chaotic
+  - pf2e/creature/type/evil
+  - pf2e/creature/type/fey
+  - pf2e/creature/type/swarm
+  - pf2e/creature/level/3
+statblock: inline
+name: "Tooth Fairy Swarm"
+level: 3
+license: OGL
+---
+
+```statblock
+columns: 2
+forcecolumns: true
+layout: Basic Pathfinder 2e Layout
+token: [[modules/pf2e-tokens-bestiaries/portraits/fey/fairy/tooth-fairy-swarm.webp| ]]
+source: "Pathfinder Bestiary 3"
+name: "Tooth Fairy Swarm"
+level: "Creature 3"
+
+alignment: ""
+size: "Large"
+trait_01: "chaotic"
+trait_02: "evil"
+trait_03: "fey"
+trait_04: "swarm"
+modifier: 8
+perception:
+  - name: "Perception"
+    desc: "+8; Darkvision"
+skills:
+  - name: "Skills"
+    desc: "Acrobatics: +10, Stealth: +10, Thievery: +12"
+abilityMods: [-2, 3, 0, -1, 2, 2]
+speed: 10 feet,  fly 40 feet
+sourcebook: "_Pathfinder Bestiary 3_"
+ac: 18
+armorclass:
+  - name: AC
+    desc: "18; __Fort__ +5, __Ref__ +10, __Will__ +7"
+hp: 28
+health:
+  - name: ""
+  - name: HP
+    desc: "28; __Immunities__  precision,  swarm mind,  grabbed,  prone,  restrained; __Weaknesses__ area damage 5, cold iron 5, splash damage 5; __Resistances__ bludgeoning 2, piercing 5, slashing 5"
+abilities_top:
+  - name: ""
+
+abilities_mid:
+  - name: ""
+  - name: "Plaque Burst"
+    desc: "  When killed, a tooth fairy swarm bursts into sticky, foul-smelling white dust. Each creature within 15 feet must succeed at a DC 20 Fortitude check save or become [[Conditions/Sickened 1|Sickened 1]] ([[Conditions/Sickened 1|Sickened 2]] on a critical failure)."
+
+attacks:
+  - name: ""
+
+  - name: "Pinch"
+    desc: "`pf2:1`  Tooth fairies pinch their victims' fingers, noses, ears, or similar protruding body parts. Each enemy in the swarm's space takes 2d6 bludgeoning damage (DC 20 Reflex check save). Creatures that critically fail this save are [[Conditions/Sickened 1|Sickened 1]] from the pain."
+
+  - name: "Pry"
+    desc: "`pf2:3`  The tooth fairies try to pry out one of their target's teeth. One enemy in the swarm's space takes 4d6 bludgeoning damage (DC 20 Reflex check save). On a failed save, the target takes 2 bleed damage and a -1 status penalty to Charisma-based skill checks, and they must succeed at a DC 5 Flat check check to Cast a Spell with a verbal component or the spell is disrupted. The penalty and spellcasting condition last for 1 day, or until the stolen tooth is returned and the target regains at least 1 Hit Point.\n[[Bestiary Effects/Effect_ Pry|Effect: Pry]]"
+ 
+```
+
+
+
+A mob of tooth fairies working together can conduct forced dentistry in seconds.
+
+* * *
+
+Tooth fairies spawn when a child's tooth (or, less commonly, an entire child) is buried in terrain rife with fey energies. Hatching from the buried teeth like larvae from an egg, tooth fairies build crude pliers from whatever they can find, then go hunting for more teeth-regardless of the owners' willingness.

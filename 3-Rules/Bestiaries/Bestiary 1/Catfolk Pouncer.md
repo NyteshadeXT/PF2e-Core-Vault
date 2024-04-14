@@ -1,0 +1,92 @@
+---
+title: "Catfolk Pouncer"
+obsidianUIMode: preview
+noteType: pf2eMonster
+cssClasses: pf2e
+aliases: "Compendium.pf2e.pathfinder-bestiary.Actor.saKs2Qaor8QktboH" 
+tags:
+  - pf2e/creature/type/catfolk
+  - pf2e/creature/type/chaotic
+  - pf2e/creature/type/good
+  - pf2e/creature/type/humanoid
+  - pf2e/creature/level/1
+statblock: inline
+name: "Catfolk Pouncer"
+level: 1
+license: OGL
+---
+
+```statblock
+columns: 2
+forcecolumns: true
+layout: Basic Pathfinder 2e Layout
+token: [[modules/pf2e-tokens-bestiaries/portraits/humanoid/catfolk-pouncer.webp| ]]
+source: "Pathfinder Bestiary"
+name: "Catfolk Pouncer"
+level: "Creature 1"
+
+alignment: ""
+size: "Medium"
+trait_01: "catfolk"
+trait_02: "chaotic"
+trait_03: "good"
+trait_04: "humanoid"
+modifier: 6
+perception:
+  - name: "Perception"
+    desc: "+6; Low-Light Vision"
+languages: "Amurrun, Common"
+skills:
+  - name: "Skills"
+    desc: "Acrobatics: +7, Athletics: +6, Nature: +4, Stealth: +7, Survival: +4"
+abilityMods: [3, 4, 1, -1, 1, 1]
+speed: 30 feet
+sourcebook: "_Pathfinder Bestiary_"
+ac: 17
+armorclass:
+  - name: AC
+    desc: "17; __Fort__ +6, __Ref__ +9, __Will__ +4"
+hp: 19
+health:
+  - name: ""
+  - name: HP
+    desc: "19"
+abilities_top:
+  - name: ""
+  - name: "Items"
+    desc: "[[Equipment/Greataxe|Greataxe]], 3x [[Equipment/Spear|Spear]], [[Equipment/Leather Armor|Leather Armor]]"
+abilities_mid:
+  - name: ""
+  - name: "Cat's Luck"
+    desc: "`pf2:r` (fortune) **Trigger** The catfolk pouncer fails or critically fails a Reflex saving throw.\n**Frequency** Once per day.\n**Effect** Reroll that saving throw and take the better result."
+
+attacks:
+  - name: ""
+
+  - name: "Melee"
+    desc: "`pf2:1` Greataxe +8 (sweep)\n__Damage__  1d12 + 3 slashing"
+
+  - name: "Melee"
+    desc: "`pf2:1` Dagger +9 (agile, finesse, versatile s)\n__Damage__  1d4 + 3 piercing"
+
+  - name: "Ranged"
+    desc: "`pf2:1` Dagger +9 (agile, thrown 10 ft., versatile s)\n__Damage__  1d4 + 3 piercing"
+
+  - name: "Sudden Charge"
+    desc: "`pf2:2`  The catfolk pouncer Strides up to double their Speed. If the catfolk ends their movement within melee reach of at least one enemy, they can make a melee Strike against that enemy."
+ 
+```
+
+
+
+Catfolk pouncers travel the world in search of new experiences.
+
+* * *
+
+Lithe and agile, with catlike features and long tails, the amurruns are wanderers, explorers, and extroverts who share a gregarious nature and an unbridled curiosity. This latter characteristic leads many individual amurruns into trouble, yet this inquisitiveness is paired with a penchant for good fortune that offsets much of their self-induced peril. They accept the term "catfolk" as a name for their people with grace and a hint of amusement.
+
+Ever eager to explore and learn, catfolk have spread to other parts of the world from their native nations in the southern tropics, yet never in large groups. A lone catfolk can be found anywhere in the world, but it's rare to find a settlement beyond their traditional national borders. This is due to their innate wanderlust and insatiable wonder. As many a catfolk might say, "I've lived with my people my whole life, but you? You're new and different! There's so much to learn from you!"
+
+Longstanding amurrun legends claim the catfolk were first created as guardians and were then charged with protecting the world from those sinister forces that exist at its fringes. Often, this charge manifests as a longstanding opposition to cultists of demon lords, archdevils, and other fiendish demigods. Many catfolk worship the spirits of creation, using serendipitous rituals to attract good fortune and banish ill luck in the spirits' name, while others venerate their own small pantheon of divinities. Those who travel often find comfort in the worship of Desna, whose teachings closely match their own predilections.
+
+Catfolk adapt well to adventuring roles, and can be quite diverse in their areas of study and specialization. Those who follow the traditions of rangers and rogues are perhaps the most commonly encountered, but not overwhelmingly so. Their natural curiosity leads some catfolk to take up mystical arts, training as wizards or following a divine path to become clerics.

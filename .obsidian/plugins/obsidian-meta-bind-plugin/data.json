@@ -16,7 +16,25 @@
   "enableSyntaxHighlighting": true,
   "enableEditorRightClickMenu": true,
   "inputFieldTemplates": [],
-  "buttonTemplates": [],
+  "buttonTemplates": [
+    {
+      "label": "New Quest",
+      "hidden": false,
+      "class": "",
+      "tooltip": "Click this to create a quest. ",
+      "id": "button_quest",
+      "style": "primary",
+      "actions": [
+        {
+          "type": "templaterCreateNote",
+          "templateFile": "zz-Templates/TemplateQuest.md",
+          "folderPath": "2-Campaign/Quests",
+          "fileName": "NewQuest",
+          "openNote": true
+        }
+      ]
+    }
+  ],
   "excludedFolders": [
     "templates"
   ]
