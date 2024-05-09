@@ -31,6 +31,7 @@ modifier: 9
 perception:
   - name: "Perception"
     desc: "+9; Motion Sense (Precise) 60 Feet"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Athletics: +18"
@@ -55,7 +56,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Adhesive Mass"
-    desc: "  A weapon that hits the living tar is stuck to the ooze. Removing it requires a successful DC 23 Athletics check check to Break Open. The living tar can have any number of objects or creatures stuck to it at a time.\nIt can release a stuck object with an Interact action, and the adhesive dissolves 1 minute after the ooze dies, releasing all stuck objects and creatures."
+    desc: "  A weapon that hits the living tar is stuck to the ooze. Removing it requires a successful DC 23 Athletics check check to Break Open. The living tar can have any number of objects or creatures stuck to it at a time.\n\nIt can release a stuck object with an Interact action, and the adhesive dissolves 1 minute after the ooze dies, releasing all stuck objects and creatures."
 
 attacks:
   - name: ""
@@ -64,10 +65,10 @@ attacks:
     desc: "`pf2:1` Pseudopod +18 (reach 10 feet)\n__Damage__  2d6 acid plus grab 2d8 + 7 bludgeoning plus grab"
 
   - name: "[[Bestiary Ability Glossary/Constrict|Constrict]]"
-    desc: "`pf2:1`  1d8 + 7 bludgeoning + 1d6 acid, DC 26 Fortitude check\n"
+    desc: "`pf2:1`  1d8 + 7 bludgeoning + 1d6 acid, DC 26 Fortitude check\n\n* * *\n"
 
   - name: "[[Bestiary Ability Glossary/Engulf|Engulf]]"
-    desc: "`pf2:2`  DC 22 Reflex check, 4d6 acid damage, [[/act escape dc=22]], Rupture 15\n"
+    desc: "`pf2:2`  DC 22 Reflex check, 4d6 acid damage, [[/act escape dc=22]], Rupture 15\n\n* * *\n"
 
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
     desc: "`pf2:1`  "

@@ -19,6 +19,7 @@ license: ORC
 columns: 2
 forcecolumns: true
 layout: Basic Pathfinder 2e Layout
+token: [[modules/pf2e-tokens-bestiaries/portraits/monitor/psychopomp/yamaraj.webp| ]]
 source: "Pathfinder Monster Core"
 name: "Yamaraj"
 level: "Creature 20"
@@ -31,7 +32,7 @@ modifier: 37
 perception:
   - name: "Perception"
     desc: "+37; Darkvision, Lifesense 240 Feet, Truesight"
-languages: "Chthonian, Diabolic, Empyrean, Requian"
+languages: "Chthonian, Diabolic, Empyrean, Requian; Telepathy 120 feet, Truespeech"
 skills:
   - name: "Skills"
     desc: "Acrobatics: +33, Athletics: +38, Boneyard Lore: +40, Deception: +34, Diplomacy: +34, Intimidation: +36, Legal Lore: +40, Occultism: +38, Religion: +38, Society: +38"
@@ -53,10 +54,10 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "[[Bestiary Ability Glossary/Frightful Presence|Frightful Presence]]"
-    desc: " (aura,emotion,fear,mental) 60 feet DC 39 Will check\n"
+    desc: " (aura,emotion,fear,mental) 60 feet DC 39 Will check\n\n* * *\n"
 
   - name: "Lightning Drinker"
-    desc: "  Whenever a yamaraj would take electricity damage if not for its immunity, its fast healing increases to 40 on its next turn.\nDuring that turn, if it uses Beetle Breath, the beetles deal 2d12 additional electricity damage."
+    desc: "  Whenever a yamaraj would take electricity damage if not for its immunity, its fast healing increases to 40 on its next turn.\n\nDuring that turn, if it uses Beetle Breath, the beetles deal 2d12 additional electricity damage."
 
 attacks:
   - name: ""
@@ -77,7 +78,7 @@ attacks:
     desc: "_[[Spells/Call Spirit|Call Spirit]]_, _[[Spells/Resurrect|Resurrect]]_"
 
   - name: "Beetle Breath"
-    desc: "`pf2:2` (divine) The yamaraj breathes a blast of beetles in a 50-foot cone that deals 14d8 slashing damage and 4d8 persistent slashing damage to creatures in the area with a DC 42 Reflex check save.\nIt can't use Beetle Breath again for 1d4 rounds.\n**Critical Success** The creature takes unaffected.\n**Success** The creature takes half damage and is [[Conditions/Sickened 1|Sickened 1]].\n**Failure** The creature takes full damage and is [[Conditions/Sickened 1|Sickened 2]].\n**Critical Failure** The creature takes double damage and is [[Conditions/Sickened 1|Sickened 3]]."
+    desc: "`pf2:2` (divine) The yamaraj breathes a blast of beetles in a 50-foot cone that deals 14d8 slashing damage and 4d8 persistent slashing damage to creatures in the area with a DC 42 Reflex check save.\n\nIt can't use Beetle Breath again for 1d4 rounds.\n* * *\n\n**Critical Success** The creature takes unaffected.\n\n**Success** The creature takes half damage and is [[Conditions/Sickened 1|Sickened 1]].\n\n**Failure** The creature takes full damage and is [[Conditions/Sickened 1|Sickened 2]].\n\n**Critical Failure** The creature takes double damage and is [[Conditions/Sickened 1|Sickened 3]]."
 
   - name: "Final Judgment"
     desc: "  A yamaraj's [[Spells/Manifestation|Manifestation]] spells are used only to pronounce judgment, typically either to restore a dead or destroyed creature to life, bind a creature to the Boneyard, or banish a creature from the Boneyard."
@@ -86,7 +87,7 @@ attacks:
     desc: " (incorporeal) A yamaraj's Strikes affect incorporeal creatures with the effects of a _[[Equipment/Ghost Touch|Ghost Touch]]_ property rune and deal 3d6 void damage to living creatures and 3d6 vitality damage to undead."
 
   - name: "Yamaraj Venom"
-    desc: " (poison) While a creature is clumsy from this poison, it is [[Conditions/Doomed 1|Doomed]] with the same value;\n**Saving Throw** DC 42 Fortitude check\n**Maximum Duration** 10 rounds\n**Stage 1** 3d8 poison damage and [[Conditions/Clumsy 1|Clumsy 1]] (1 round)\n**Stage 2** 5d8 poison damage and [[Conditions/Clumsy 1|Clumsy 2]] (1 round)\n**Stage 3** 7d8 poison damage and [[Conditions/Clumsy 1|Clumsy 3]] (1 round)"
+    desc: " (poison) While a creature is clumsy from this poison, it is [[Conditions/Doomed 1|Doomed]] with the same value;\n\n**Saving Throw** DC 42 Fortitude check\n* * *\n\n**Maximum Duration** 10 rounds\n\n**Stage 1** 3d8 poison damage and [[Conditions/Clumsy 1|Clumsy 1]] (1 round)\n\n**Stage 2** 5d8 poison damage and [[Conditions/Clumsy 1|Clumsy 2]] (1 round)\n\n**Stage 3** 7d8 poison damage and [[Conditions/Clumsy 1|Clumsy 3]] (1 round)"
  
 ```
 

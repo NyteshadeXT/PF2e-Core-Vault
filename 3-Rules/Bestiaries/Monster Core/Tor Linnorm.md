@@ -19,6 +19,7 @@ license: ORC
 columns: 2
 forcecolumns: true
 layout: Basic Pathfinder 2e Layout
+token: [[modules/pf2e-tokens-bestiaries/portraits/draconic/linnorms/tor-linnorm.webp| ]]
 source: "Pathfinder Monster Core"
 name: "Tor Linnorm"
 level: "Creature 21"
@@ -53,7 +54,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Curse of Boiling Blood"
-    desc: " (curse,fire,primal) When a creature slays the linnorm, it must succeed at a DC 48 Will check save or gain weakness to fire 20 and [[Conditions/Slowed 1|Slowed 1]] from the agonizing pain it now endures at all times, with an unlimited duration.\nAs long as a character continues to suffer this curse, its slowed condition can never be reduced below slowed 1.\n[[Bestiary Effects/Effect_ Curse of Boiling Blood|Effect: Curse of Boiling Blood]]"
+    desc: " (curse,fire,primal) When a creature slays the linnorm, it must succeed at a DC 48 Will check save or gain weakness to fire 20 and [[Conditions/Slowed 1|Slowed 1]] from the agonizing pain it now endures at all times, with an unlimited duration.\n\nAs long as a character continues to suffer this curse, its slowed condition can never be reduced below slowed 1.\n\n[[Bestiary Effects/Effect_ Curse of Boiling Blood|Effect: Curse of Boiling Blood]]"
 
   - name: "Lava Affinity"
     desc: "  A tor linnorm can breathe and swim freely while submerged in lava and magma."
@@ -77,16 +78,16 @@ attacks:
     desc: "DC 44, attack +36\n__Constant__  __(9th)__ _[[Spells/Unfettered Movement|Unfettered Movement]]_ __(8th)__ _[[Spells/Truesight|Truesight]]_"
 
   - name: "[[Bestiary Ability Glossary/Constrict|Constrict]]"
-    desc: "`pf2:1`  3d6 + 21 bludgeoning, DC 46 Fortitude check\n"
+    desc: "`pf2:1`  3d6 + 21 bludgeoning, DC 46 Fortitude check\n\n* * *\n"
 
   - name: "Pyroclastic Breath"
-    desc: "`pf2:2` (fire,primal) The tor linnorm expels a 60-foot cone of flame and ash dealing 20d6 fire damage to creatures within the area (DC 46 Reflex check save).\nThe linnorm can't use Pyroclastic Breath again for 1d4 rounds.\nAt the start of the tor linnorm's next turn, the area of the Pyroclastic Breath is covered in thick, scorching smoke that burns both the lungs and eyes, dealing an additional 10d6 fire damage to all creatures in the area (DC 46 Reflex check save). A creature that spends an entire round in the smoke with open eyes must succeed at a DC 44 Fortitude check save or be [[Conditions/Blinded|Blinded]] for 1 minute.\nThe smoke dissipates after 1 minute; in strong winds, the smoke dissipates in 5 rounds, and in more powerful winds, it may clear even more quickly."
+    desc: "`pf2:2` (fire,primal) The tor linnorm expels a 60-foot cone of flame and ash dealing 20d6 fire damage to creatures within the area (DC 46 Reflex check save).\n\nThe linnorm can't use Pyroclastic Breath again for 1d4 rounds.\n\nAt the start of the tor linnorm's next turn, the area of the Pyroclastic Breath is covered in thick, scorching smoke that burns both the lungs and eyes, dealing an additional 10d6 fire damage to all creatures in the area (DC 46 Reflex check save). A creature that spends an entire round in the smoke with open eyes must succeed at a DC 44 Fortitude check save or be [[Conditions/Blinded|Blinded]] for 1 minute.\n\nThe smoke dissipates after 1 minute; in strong winds, the smoke dissipates in 5 rounds, and in more powerful winds, it may clear even more quickly."
 
   - name: "Slashing Claws"
     desc: "`pf2:1`  The tor linnorm makes four Strikes with their claws, each against a different target. These attacks count toward the tor linnorm's multiple attack penalty, but the multiple attack penalty doesn't increase until after the tor linnorm makes all their attacks."
 
   - name: "Tor Linnorm Venom"
-    desc: " (fire,injury,poison) **Saving Throw** DC 44 Fortitude check;\n**Maximum Duration** 10 rounds\n**Stage 1** 8d6 fire damage and [[Conditions/Drained 1|Drained 1]] (1 round)\n**Stage 2** 12d6 fire damage and [[Conditions/Drained 1|Drained 2]] (1 round)"
+    desc: " (fire,injury,poison) **Saving Throw** DC 44 Fortitude check;\n* * *\n\n**Maximum Duration** 10 rounds\n\n**Stage 1** 8d6 fire damage and [[Conditions/Drained 1|Drained 1]] (1 round)\n\n**Stage 2** 12d6 fire damage and [[Conditions/Drained 1|Drained 2]] (1 round)"
  
 ```
 

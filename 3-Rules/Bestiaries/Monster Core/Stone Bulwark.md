@@ -19,6 +19,7 @@ license: ORC
 columns: 2
 forcecolumns: true
 layout: Basic Pathfinder 2e Layout
+token: [[modules/pf2e-tokens-bestiaries/portraits/constructed/golem/stone-golem.webp| ]]
 source: "Pathfinder Monster Core"
 name: "Stone Bulwark"
 level: "Creature 11"
@@ -31,6 +32,7 @@ modifier: 17
 perception:
   - name: "Perception"
     desc: "+17; Darkvision"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Athletics: +26"
@@ -52,7 +54,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Statuary Aura"
-    desc: " (arcane,aura,earth) 20 feet.\nRocks of marble magically arise from the ground in the aura. They protect the bulwark's allies, giving each of them standard [[Other Effects/Effect_ Cover|Cover]]. These stones can be used for Throw Rock.\nThis aura automatically activates at the start of the stone bulwark's first turn in combat and deactivates at the end of combat."
+    desc: " (arcane,aura,earth) 20 feet.\n\nRocks of marble magically arise from the ground in the aura. They protect the bulwark's allies, giving each of them standard [[Other Effects/Effect_ Cover|Cover]]. These stones can be used for Throw Rock.\n\nThis aura automatically activates at the start of the stone bulwark's first turn in combat and deactivates at the end of combat."
 
 attacks:
   - name: ""

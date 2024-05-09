@@ -18,6 +18,7 @@ license: ORC
 columns: 2
 forcecolumns: true
 layout: Basic Pathfinder 2e Layout
+token: [[modules/pf2e-tokens-bestiaries/portraits/bestial/mythological/manticore.webp| ]]
 source: "Pathfinder Monster Core"
 name: "Manticore (Quill Tail)"
 level: "Creature 6"
@@ -63,7 +64,7 @@ attacks:
     desc: "`pf2:1` Spike +14 (propulsive, range increment 40 feet)\n__Damage__  1d10 + 5 piercing"
 
   - name: "Spike Volley"
-    desc: "`pf2:1`  The manticore flings up to two spikes from its tail, targeting either two different creatures or a single creature. If the manticore targets two different creatures, these creatures must be within 20 feet of one another, and the manticore makes a separate Strike against each; this counts as only one Strike for the manticore's multiple attack penalty, and the penalty doesn't increase until after both attacks.\nIf the manticore flings both spikes at the same creature, it makes a single Strike. If the attack hits, it deals the damage of a single spike, but the target is pinned in place, rendering it [[Conditions/Immobilized|Immobilized]]. A creature can get free if it Forces Open the spike or Escapes; either option is DC 23.\nA manticore can hurl no more than 12 spikes in 24 hours."
+    desc: "`pf2:1`  The manticore flings up to two spikes from its tail, targeting either two different creatures or a single creature. If the manticore targets two different creatures, these creatures must be within 20 feet of one another, and the manticore makes a separate Strike against each; this counts as only one Strike for the manticore's multiple attack penalty, and the penalty doesn't increase until after both attacks.\n\nIf the manticore flings both spikes at the same creature, it makes a single Strike. If the attack hits, it deals the damage of a single spike, but the target is pinned in place, rendering it [[Conditions/Immobilized|Immobilized]]. A creature can get free if it [[/act force-open dc=23]]{Forces Open} the spike or [[/act escape dc=23]]{Escapes}; either option is DC 23.\n\nA manticore can hurl no more than 12 spikes in 24 hours."
  
 ```
 

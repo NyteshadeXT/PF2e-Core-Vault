@@ -19,6 +19,7 @@ license: ORC
 columns: 2
 forcecolumns: true
 layout: Basic Pathfinder 2e Layout
+token: [[modules/pf2e-tokens-bestiaries/portraits/humanoid/giant/ogre-glutton.webp| ]]
 source: "Pathfinder Monster Core"
 name: "Ogre Glutton"
 level: "Creature 4"
@@ -69,7 +70,7 @@ attacks:
     desc: "`pf2:2`  The ogre glutton Strides twice and makes a jaws Strike. If they damage a living creature with this Strike, the temporary Hit Points they receive from Glutton's Feast is increased to 2d4."
 
   - name: "[[Bestiary Ability Glossary/Swallow Whole|Swallow Whole]]"
-    desc: "`pf2:1` (attack) Small, 2d4 + 4 bludgeoning, Rupture 14\n"
+    desc: "`pf2:1` (attack) Small, 2d4 + 4 bludgeoning, Rupture 14\n\n* * *\n"
 
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
     desc: "`pf2:1`  "

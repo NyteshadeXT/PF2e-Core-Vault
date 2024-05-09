@@ -70,7 +70,7 @@ attacks:
     desc: "DC 18, attack +10; __1st __  _[[Spells/Gentle Landing|Gentle Landing]]_, _[[Spells/Gust of Wind|Gust of Wind]]_, _[[Spells/Illusory Disguise|Illusory Disguise]]_, _[[Spells/Thunderstrike|Thunderstrike]]_\n__Cantrips__  __(1st)__ _[[Spells/Detect Magic|Detect Magic]]_, _[[Spells/Electric Arc|Electric Arc]]_, _[[Spells/Light|Light]]_, _[[Spells/Message|Message]]_, _[[Spells/Shield|Shield]]_"
 
   - name: "Elemental Field"
-    desc: "`pf2:2` (arcane,concentrate,electricity) The elementalist unleashes powerful static electricity in a 20-foot emanation that lasts for 1 minute. All squares in the area become hazardous terrain for other creatures. A creature takes 1 electricity damage each time it moves into one of these squares. While in the area, creatures take a –1 status penalty to saves against electricity spells.\n[[Bestiary Effects/Effect_ Elemental Field|Effect: Elemental Field]]"
+    desc: "`pf2:2` (arcane,concentrate,electricity) The elementalist unleashes powerful static electricity in a 20-foot emanation that lasts for 1 minute. All squares in the area become hazardous terrain for other creatures. A creature takes 1 electricity damage each time it moves into one of these squares. While in the area, creatures take a –1 status penalty to saves against electricity spells.\n\n[[Bestiary Effects/Effect_ Elemental Field|Effect: Elemental Field]]"
 
   - name: "Elf Step"
     desc: "`pf2:1`  The elementalist Steps twice."

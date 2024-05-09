@@ -19,6 +19,7 @@ license: ORC
 columns: 2
 forcecolumns: true
 layout: Basic Pathfinder 2e Layout
+token: [[modules/pf2e-tokens-bestiaries/portraits/undead/skeletal/lich.webp| ]]
 source: "Pathfinder Monster Core"
 name: "Lich"
 level: "Creature 12"
@@ -46,7 +47,7 @@ hp: 190
 health:
   - name: ""
   - name: HP
-    desc: "190, void healing, rejuvenation; __Immunities__  death effects,  disease,  paralyzed,  poison,  unconscious,  bleed; __Resistances__ cold 10, physical 10 (except bludgeoning)"
+    desc: "190, void healing, rejuvenation; __Immunities__  death effects,  disease,  paralyzed,  poison,  unconscious,  bleed; __Resistances__ cold 10, physical 10 (except magical bludgeoning)"
 abilities_top:
   - name: ""
   - name: "Items"
@@ -54,10 +55,10 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Counterspell"
-    desc: "`pf2:r`  **Trigger** A creature casts a spell the lich has prepared.\n**Effect** The lich expends a prepared spell to counter the triggering creature's casting of that same spell. The lich loses its spell slot as if it had cast the triggering spell. The lich then attempts to counteract the triggering spell."
+    desc: "`pf2:r`  **Trigger** A creature casts a spell the lich has prepared.\n* * *\n\n**Effect** The lich expends a prepared spell to counter the triggering creature's casting of that same spell. The lich loses its spell slot as if it had cast the triggering spell. The lich then attempts to counteract the triggering spell."
 
   - name: "[[Bestiary Ability Glossary/Frightful Presence|Frightful Presence]]"
-    desc: " (aura,emotion,fear,mental) 60 feet DC 29 Will check\n"
+    desc: " (aura,emotion,fear,mental) 60 feet DC 29 Will check\n\n* * *\n"
 
   - name: "[[Creature Family Ability Glossary/(Lich) Rejuvenation|Rejuvenation]]"
     desc: " (arcane) When a lich is destroyed, its soul immediately transfers to their _[[Equipment/Lich Soul Cage|Lich Soul Cage]]_. A lich can be permanently destroyed only if their _soul cage_ is found and destroyed."
@@ -72,10 +73,10 @@ attacks:
     desc: "DC 36, attack +26; __6th __  _[[Spells/Chain Lightning|Chain Lightning]]_, _[[Spells/Dominate|Dominate]]_, _[[Spells/Vampiric Exsanguination|Vampiric Exsanguination]]_; __5th __  _[[Spells/Howling Blizzard|Howling Blizzard]]_, _[[Spells/Toxic Cloud|Toxic Cloud]]_, _[[Spells/Wall of Ice|Wall of Ice]]_; __4th __  _[[Spells/Fire Shield|Fire Shield]]_, _[[Spells/Fly|Fly]]_, _[[Spells/Translocate|Translocate]]_; __3rd __  _[[Spells/Blindness|Blindness]]_, _[[Spells/Locate|Locate]]_, _[[Spells/Vampiric Feast|Vampiric Feast]]_; __2nd __  _[[Spells/Blur|Blur]]_, _[[Spells/Dispel Magic|Dispel Magic]]_, _[[Spells/False Vitality|False Vitality]]_, _[[Spells/Resist Energy|Resist Energy]]_, _[[Spells/See the Unseen|See the Unseen]]_; __1st __  _[[Spells/Enfeeble|Enfeeble]]_, _[[Spells/Fleet Step|Fleet Step]]_, _[[Spells/Force Barrage|Force Barrage]]_, _[[Spells/Sure Strike|Sure Strike]]_\n__Cantrips__  __(6th)__ _[[Spells/Detect Magic|Detect Magic]]_, _[[Spells/Frostbite|Frostbite]]_, _[[Spells/Message|Message]]_, _[[Spells/Shield|Shield]]_, _[[Spells/Telekinetic Hand|Telekinetic Hand]]_"
 
   - name: "[[Creature Family Ability Glossary/(Lich) Drain Soul Cage|Drain Soul Cage]]"
-    desc: "  6th rank\n**Frequency** once per day\n**Effect** The lich taps into their _[[Equipment/Soul Cage|Soul Cage]]_'s power to cast any arcane spell up to the highest rank the lich can cast, even if the spell being cast is not one of the lich's prepared spells. The lich's soul cage doesn't need to be present for the lich to use this ability."
+    desc: "  6th rank\n* * *\n\n**Frequency** once per day\n* * *\n\n**Effect** The lich taps into their _[[Equipment/Soul Cage|Soul Cage]]_'s power to cast any arcane spell up to the highest rank the lich can cast, even if the spell being cast is not one of the lich's prepared spells. The lich's soul cage doesn't need to be present for the lich to use this ability."
 
   - name: "[[Creature Family Ability Glossary/(Lich) Siphon Life|Siphon Life]]"
-    desc: "  A lich's form draws forth life from those who come into contact with it. When the lich damages a living creature with an unarmed attack, the lich gains 5 temporary Hit Points and the creature must succeed at a DC 34 Fortitude check save or become [[Conditions/Drained 1|Drained 1]].\nIf the lich is [[Conditions/Grabbed|Grabbed]] or [[Conditions/Restrained|Restrained]] at the start of its turn, each creature grabbing or restraining it must succeed at a Fortitude save or become drained 1. If the lich siphons a creature's life again, the drained value increase by 1, to a maximum of [[Conditions/Drained 1|Drained 4]]."
+    desc: "  A lich's form draws forth life from those who come into contact with it. When the lich damages a living creature with an unarmed attack, the lich gains 5 temporary Hit Points and the creature must succeed at a DC 34 Fortitude check save or become [[Conditions/Drained 1|Drained 1]].\n\nIf the lich is [[Conditions/Grabbed|Grabbed]] or [[Conditions/Restrained|Restrained]] at the start of its turn, each creature grabbing or restraining it must succeed at a Fortitude save or become drained 1. If the lich siphons a creature's life again, the drained value increase by 1, to a maximum of [[Conditions/Drained 1|Drained 4]]."
 
   - name: "Steady Spellcasting"
     desc: "  If a reaction would disrupt the lich's spellcasting action, the lich attempts a DC 15 Flat check check. On a success, the action isn't disrupted."

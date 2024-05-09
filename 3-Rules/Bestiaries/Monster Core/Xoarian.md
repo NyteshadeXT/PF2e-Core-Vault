@@ -29,7 +29,7 @@ modifier: 16
 perception:
   - name: "Perception"
     desc: "+16; Thoughtsense (Precise) 60 Feet, Tremorsense (Imprecise) 60 Feet"
-languages: "Aklo"
+languages: "Aklo; (Can&#x27;t Speak Any Languages), Telepathy 100 feet"
 skills:
   - name: "Skills"
     desc: "Athletics: +14, Deception: +20, Diplomacy: +16, Occultism: +17, Society: +17, Stealth: +18"
@@ -69,7 +69,7 @@ attacks:
     desc: "`pf2:3` (manipulate,occult,possession) The xoarian squeezes itself into the head of a creature dead no longer than a day, consuming and replacing that creature's brain. At the start of the xoarian's next turn, the body revives at its maximum Hit Points, controlled by the xoarian. The xoarian is conscious and can sense everything the possessed body could. Any effect that ends the possession kills the host body with the same effects as Exit Body. The xoarian can't use any of the host creature's spells with Body Thief but can use its own innate spells."
 
   - name: "Exit Body"
-    desc: "`pf2:1` (move) **Requirements** The xoarian is controlling a body with Body Thief\n**Effect** The xoarian bursts out of its host body, which dies instantly and is no longer a suitable host for any Body Thief ability. The xoarian stretches to its full size in an adjacent space."
+    desc: "`pf2:1` (move) **Requirements** The xoarian is controlling a body with Body Thief\n* * *\n\n**Effect** The xoarian bursts out of its host body, which dies instantly and is no longer a suitable host for any Body Thief ability. The xoarian stretches to its full size in an adjacent space."
 
   - name: "Ravage"
     desc: "`pf2:3`  The xoarian makes two tentacle Strikes against a single [[Conditions/Paralyzed|Paralyzed]], [[Conditions/Restrained|Restrained]], or [[Conditions/Unconscious|Unconscious]] creature. If the target has 0 Hit Points after Ravage, the xoarian can use a free action with the death trait to kill the target and occupy it with Body Thief."

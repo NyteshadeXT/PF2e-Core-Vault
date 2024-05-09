@@ -19,6 +19,7 @@ license: ORC
 columns: 2
 forcecolumns: true
 layout: Basic Pathfinder 2e Layout
+token: [[modules/pf2e-tokens-bestiaries/portraits/constructed/golem/clay-golem.webp| ]]
 source: "Pathfinder Monster Core"
 name: "Clay Effigy"
 level: "Creature 10"
@@ -31,6 +32,7 @@ modifier: 16
 perception:
   - name: "Perception"
     desc: "+16; Darkvision"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Athletics: +24"
@@ -55,7 +57,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Effigy's Curse"
-    desc: " (curse,divine) When a creature damages the clay effigy, it must succeed at a DC 27 Will check save or be afflicted with the effigy's curse. The accursed becomes [[Conditions/Fatigued|Fatigued]] when it carries part of the effigy or any item the effigy was assigned to guard.\nThis fatigue can't be removed until the creature has given up such items for at least 24 hours."
+    desc: " (curse,divine) When a creature damages the clay effigy, it must succeed at a DC 27 Will check save or be afflicted with the effigy's curse. The accursed becomes [[Conditions/Fatigued|Fatigued]] when it carries part of the effigy or any item the effigy was assigned to guard.\n\nThis fatigue can't be removed until the creature has given up such items for at least 24 hours."
 
 attacks:
   - name: ""
@@ -64,7 +66,7 @@ attacks:
     desc: "`pf2:1` Fist +24 (magical, reach 10 feet, sanctified)\n__Damage__  2d6 spirit 2d10 + 6 bludgeoning"
 
   - name: "Cast Out"
-    desc: "`pf2:2` (divine,sanctified,spirit) A 20-foot emanation of spiritual energy pushes against intruders, as though trying to drive their souls away. Each creature in the area takes 8d6 spirit damage depending on a DC 29 Will check save.\nThe clay effigy can't Cast Out again for 1d4 rounds.\n**Critical Success** The creature is unaffected.\n**Success** The creature takes half damage.\n**Failure** The creature takes full damage and 3d6 persistent spirit damage. The persistent damage ends if the creature moves over 60 feet from the clay effigy or the effigy is destroyed.\n**Critical Failure** As failure, except the persistent damage is increased to 6d6 persistent spirit."
+    desc: "`pf2:2` (divine,sanctified,spirit) A 20-foot emanation of spiritual energy pushes against intruders, as though trying to drive their souls away. Each creature in the area takes 8d6 spirit damage depending on a DC 29 Will check save.\n\nThe clay effigy can't Cast Out again for 1d4 rounds.\n* * *\n\n**Critical Success** The creature is unaffected.\n\n**Success** The creature takes half damage.\n\n**Failure** The creature takes full damage and 3d6 persistent spirit damage. The persistent damage ends if the creature moves over 60 feet from the clay effigy or the effigy is destroyed.\n\n**Critical Failure** As failure, except the persistent damage is increased to 6d6 persistent spirit."
 
   - name: "Heavy Stride"
     desc: "`pf2:2`  The clay effigy Strides and can move through the spaces of Medium and smaller creatures. Each creature it moves through must succeed at a DC 29 Reflex check save or be knocked [[Conditions/Prone|Prone]]."

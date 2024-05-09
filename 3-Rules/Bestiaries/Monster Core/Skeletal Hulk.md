@@ -21,6 +21,7 @@ license: ORC
 columns: 2
 forcecolumns: true
 layout: Basic Pathfinder 2e Layout
+token: [[modules/pf2e-tokens-bestiaries/portraits/undead/skeletal/skeletal-hulk.webp| ]]
 source: "Pathfinder Monster Core"
 name: "Skeletal Hulk"
 level: "Creature 7"
@@ -35,6 +36,7 @@ modifier: 16
 perception:
   - name: "Perception"
     desc: "+16; Darkvision"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Athletics: +20, Intimidation: +15"

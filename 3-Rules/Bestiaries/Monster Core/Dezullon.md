@@ -18,6 +18,7 @@ license: ORC
 columns: 2
 forcecolumns: true
 layout: Basic Pathfinder 2e Layout
+token: [[modules/pf2e-tokens-bestiaries/portraits/plant/dezullon.webp| ]]
 source: "Pathfinder Monster Core"
 name: "Dezullon"
 level: "Creature 10"
@@ -29,6 +30,7 @@ modifier: 18
 perception:
   - name: "Perception"
     desc: "+18; Low-Light Vision"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Acrobatics: +21, Athletics: +19, Stealth: +21 (+24 in forests or swamps)"
@@ -50,7 +52,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "[[Bestiary Ability Glossary/Stench|Stench]]"
-    desc: " (aura,olfactory) 30 feet, DC 27 Fortitude check\n"
+    desc: " (aura,olfactory) 30 feet, DC 27 Fortitude check\n\n* * *\n"
 
 attacks:
   - name: ""
@@ -62,10 +64,10 @@ attacks:
     desc: "`pf2:1` Acid Glob +23 (acid, range 30 feet)\n__Damage__  4d8 acid plus amnesia-venom"
 
   - name: "Amnesia Venom"
-    desc: " (mental,poison) **Saving Throw** DC 29 Fortitude\n**Maximum Duration** 6 rounds\n**Stage 1** [[Conditions/Off-Guard|Off-Guard]] (1 round)\n**Stage 2** off-guard and [[Conditions/Clumsy 1|Clumsy 1]] (1 round)\n**Stage 3** [[Conditions/Confused|Confused]], off-guard, and [[Conditions/Clumsy 1|Clumsy 2]] (1 round)\n**Stage 4** as Stage 3 and permanently forget the last hour (1 round)"
+    desc: " (mental,poison) **Saving Throw** DC 29 Fortitude\n\n**Maximum Duration** 6 rounds\n\n**Stage 1** [[Conditions/Off-Guard|Off-Guard]] (1 round)\n\n**Stage 2** off-guard and [[Conditions/Clumsy 1|Clumsy 1]] (1 round)\n\n**Stage 3** [[Conditions/Confused|Confused]], off-guard, and [[Conditions/Clumsy 1|Clumsy 2]] (1 round)\n\n**Stage 4** as Stage 3 and permanently forget the last hour (1 round)"
 
   - name: "[[Bestiary Ability Glossary/Constrict|Constrict]]"
-    desc: "`pf2:1`  2d6 + 2 bludgeoning, DC 29 Fortitude check\n"
+    desc: "`pf2:1`  2d6 + 2 bludgeoning, DC 29 Fortitude check\n\n* * *\n"
 
   - name: "Root"
     desc: "`pf2:1` (concentrate) Until the next time it acts, the dezullon appears to be a normal pitcher plant. It has an automatic result of 41 (44 in forests or swamps) on Deception checks and DCs to pass as a non-creature plant."

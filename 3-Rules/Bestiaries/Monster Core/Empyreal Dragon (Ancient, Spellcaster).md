@@ -33,7 +33,7 @@ modifier: 35
 perception:
   - name: "Perception"
     desc: "+35; Darkvision, Lifesense (Imprecise) 30 Feet, Scent (Imprecise) 60 Feet"
-languages: "Chthonian, Common, Diabolic, Draconic, Empyrean, Fey, Necril"
+languages: "Chthonian, Common, Diabolic, Draconic, Empyrean, Fey, Necril; Truespeech"
 skills:
   - name: "Skills"
     desc: "Acrobatics: +31, Athletics: +35, Diplomacy: +31, Heaven Lore: +32, Intimidation: +31, Medicine: +35, Religion: +32, Society: +30"
@@ -55,10 +55,10 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Divine Deflection"
-    desc: "`pf2:r`  **Trigger** The dragon is critically hit by an attack\n**Effect** Divine power intercedes, preventing some of the damage. The dragon gains resistance 10 to all damage against the triggering attack."
+    desc: "`pf2:r`  **Trigger** The dragon is critically hit by an attack\n* * *\n\n**Effect** Divine power intercedes, preventing some of the damage. The dragon gains resistance 10 to all damage against the triggering attack."
 
   - name: "Inspiring Presence"
-    desc: " (aura,emotion,mental) 60 feet.\nThe mere sight of an empyreal dragon motivates other creatures. Creatures within the aura gain a +1 status bonus to saving throws and skill checks. The empyreal dragon can't gain the benefit of their own aura or other actions that use the aura, and they can choose to exclude any creatures from any benefit of the aura or action that uses the aura."
+    desc: " (aura,emotion,mental) 60 feet.\n\nThe mere sight of an empyreal dragon motivates other creatures. Creatures within the aura gain a +1 status bonus to saving throws and skill checks. The empyreal dragon can't gain the benefit of their own aura or other actions that use the aura, and they can choose to exclude any creatures from any benefit of the aura or action that uses the aura."
 
 attacks:
   - name: ""
@@ -85,10 +85,10 @@ attacks:
     desc: "`pf2:1` (concentrate,divine,manipulate) The dragon tosses their halo to a square within 90 feet. While the halo is deployed in this way, the dragon loses their inspiring presence aura, and the aura instead emanates from the halo with the same emanation radius. The dragon can Sustain to recall the halo from any distance. The halo is made of pure light—it doesn't occupy space and can't be targeted or destroyed in any way."
 
   - name: "Halo Pulse"
-    desc: "`pf2:2` (concentrate,divine) The dragon chooses one effect to impose on creatures in their inspiring presence aura.\nThe dragon can't use Halo Pulse again for 1d4 rounds.\n*   **Repulsion** Each creature must succeed at a DC 41 Fortitude check save or be pushed until it's no longer in the aura.\n*   **Restoration** (healing, vitality) Each creature recovers 9d8 Hit Points.\n*   **Restriction** (incapacitation, mental) Creatures must succeed at a DC 41 Will check save or be [[Conditions/Slowed 1|Slowed 1]] ([[Conditions/Slowed 1|Slowed 2]] on a critical failure) while they remain within the aura. Regardless of the result, a creature is then temporarily immune to restriction for 1 minute."
+    desc: "`pf2:2` (concentrate,divine) The dragon chooses one effect to impose on creatures in their inspiring presence aura.\n\nThe dragon can't use Halo Pulse again for 1d4 rounds.\n\n*   **Repulsion** Each creature must succeed at a DC 41 Fortitude check save or be pushed until it's no longer in the aura.\n*   **Restoration** (healing, vitality) Each creature recovers 9d8 Hit Points.\n*   **Restriction** (incapacitation, mental) Creatures must succeed at a DC 41 Will check save or be [[Conditions/Slowed 1|Slowed 1]] ([[Conditions/Slowed 1|Slowed 2]] on a critical failure) while they remain within the aura. Regardless of the result, a creature is then temporarily immune to restriction for 1 minute."
 
   - name: "Spirit Breath"
-    desc: "`pf2:2` (divine,holy,spirit) The dragon unleashes a blast of holy fire that deals 16d8 spirit damage in a 50-foot cone (DC 41 Reflex check save).\nThe dragon can't use Spirit Breath again for 1d4 rounds."
+    desc: "`pf2:2` (divine,holy,spirit) The dragon unleashes a blast of holy fire that deals 16d8 spirit damage in a 50-foot cone (DC 41 Reflex check save).\n\nThe dragon can't use Spirit Breath again for 1d4 rounds."
  
 ```
 

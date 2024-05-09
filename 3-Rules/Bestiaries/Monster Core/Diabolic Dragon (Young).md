@@ -58,10 +58,10 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "[[Bestiary Ability Glossary/Frightful Presence|Frightful Presence]]"
-    desc: " (aura,emotion,fear,mental) 90 feet DC 28 Will check\n"
+    desc: " (aura,emotion,fear,mental) 90 feet DC 28 Will check\n\n* * *\n"
 
   - name: "Hell's Sting"
-    desc: "`pf2:r` (divine,mental,unholy) **Trigger** The dragon is critically hit with a melee attack\n**Effect** The dragon channels the rancor of Hell back through the body of their foe, overwhelming it with an infernal assault on the mind. The triggering creature takes 6d6 mental damage with a DC 30 Will check save. Holy creatures use an outcome one degree of success worse than they roll on their saving throw."
+    desc: "`pf2:r` (divine,mental,unholy) **Trigger** The dragon is critically hit with a melee attack\n* * *\n\n**Effect** The dragon channels the rancor of Hell back through the body of their foe, overwhelming it with an infernal assault on the mind. The triggering creature takes 6d6 mental damage with a DC 30 Will check save. Holy creatures use an outcome one degree of success worse than they roll on their saving throw."
 
   - name: "[[Bestiary Ability Glossary/Reactive Strike|Reactive Strike]]"
     desc: "`pf2:r`  "
@@ -91,7 +91,7 @@ attacks:
     desc: "  The dragon recharges their Hellfire Breath whenever they score a critical hit with a Strike."
 
   - name: "Hellfire Breath"
-    desc: "`pf2:2` (divine,fire,unholy) The dragon unleashes a blast of infernal fire that deals 12d6 fire damage in a 40-foot cone (DC 30 Reflex check save).\nThe dragon can't use Hellfire Breath again for 1d4 rounds."
+    desc: "`pf2:2` (divine,fire,unholy) The dragon unleashes a blast of infernal fire that deals 12d6 fire damage in a 40-foot cone (DC 30 Reflex check save).\n\nThe dragon can't use Hellfire Breath again for 1d4 rounds."
 
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
     desc: "`pf2:1`  "

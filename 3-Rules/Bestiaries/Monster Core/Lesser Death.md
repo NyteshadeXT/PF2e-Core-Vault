@@ -19,6 +19,7 @@ license: ORC
 columns: 2
 forcecolumns: true
 layout: Basic Pathfinder 2e Layout
+token: [[modules/pf2e-tokens-bestiaries/portraits/undead/skeletal/lesser-death.webp| ]]
 source: "Pathfinder Monster Core"
 name: "Lesser Death"
 level: "Creature 16"
@@ -60,13 +61,13 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Aura of Misfortune"
-    desc: " (aura,divine,misfortune) 20 feet.\nLiving creatures in the aura must roll twice on all d20 rolls and use the lower result.\n[[Bestiary Effects/Effect_ Aura of Misfortune|Effect: Aura of Misfortune]]"
+    desc: " (aura,divine,misfortune) 20 feet.\n\nLiving creatures in the aura must roll twice on all d20 rolls and use the lower result.\n\n[[Bestiary Effects/Effect_ Aura of Misfortune|Effect: Aura of Misfortune]]"
 
   - name: "Lurking Death"
-    desc: "`pf2:r` (teleportation) **Trigger** A creature within 60 feet makes a ranged attack or uses an action that has the concentrate, manipulate, or move trait\n**Effect** The lesser death teleports to a square adjacent to the triggering creature and makes a melee Strike against it. If the Strike hits, the lesser death disrupts the triggering action."
+    desc: "`pf2:r` (divine,teleportation) **Trigger** A creature within 60 feet makes a ranged attack or uses an action that has the concentrate, manipulate, or move trait\n* * *\n\n**Effect** The lesser death teleports to a square adjacent to the triggering creature and makes a melee Strike against it. If the Strike hits, the lesser death disrupts the triggering action."
 
   - name: "[[Bestiary Ability Glossary/Void Healing|Void Healing]]"
-    desc: "  A lesser death can choose whether or not it takes vitality damage.\n"
+    desc: "  A lesser death can choose whether or not it takes vitality damage.\n\n* * *\n"
 
 attacks:
   - name: ""

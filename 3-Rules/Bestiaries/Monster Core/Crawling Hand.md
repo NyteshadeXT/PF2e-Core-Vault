@@ -19,6 +19,7 @@ license: ORC
 columns: 2
 forcecolumns: true
 layout: Basic Pathfinder 2e Layout
+token: [[modules/pf2e-tokens-bestiaries/portraits/undead/crawling-hand.webp| ]]
 source: "Pathfinder Monster Core"
 name: "Crawling Hand"
 level: "Creature -1"
@@ -31,7 +32,7 @@ modifier: 5
 perception:
   - name: "Perception"
     desc: "+5; Lifesense 30 Feet, Tremorsense (Imprecise) 30 Feet"
-languages: "Common"
+languages: "Common; (can&#x27;t speak any language)"
 skills:
   - name: "Skills"
     desc: "Athletics: +5, Stealth: +6, Survival: +2"
@@ -62,7 +63,7 @@ attacks:
     desc: "  A crawling hand can be assigned a quarry by anointing the hand with a drop of the intended quarry's blood. If the hand ever has no quarry, it automatically gains the next creature it damages as its quarry. The hand gains a +1 circumstance bonus to Perception checks when it [[Actions/Seek|Seeks]] its quarry, to Survival checks when it [[Actions/Track|Tracks]] its quarry, and damage rolls when it Strikes its quarry."
 
   - name: "Throat Grab"
-    desc: "`pf2:1`  This ability functions as Grab, but the crawling hand grips the throat of a Medium or smaller creature. A creature [[Conditions/Grabbed|Grabbed]] or [[Conditions/Restrained|Restrained]] this way has difficulty speaking and must spend an extra action to perform any action that requires speaking, including casting spells.\n**Requirements** The monster's last action was a successful Strike that lists Grab in its damage entry, or the monster has a creature [[Conditions/Grabbed|Grabbed]] or [[Conditions/Restrained|Restrained]]\n**Effect** If used after a Strike, the monster attempts to [[Actions/Grapple|Grapple]] the creature using the body part it attacked with. This attempt neither applies nor counts toward the creature's multiple attack penalty.\nThe monster can instead use Grab and choose one creature it's grabbing or restraining with an appendage that has Grab to automatically extend that condition to the end of the monster's next turn."
+    desc: "`pf2:1`  This ability functions as Grab, but the crawling hand grips the throat of a Medium or smaller creature. A creature [[Conditions/Grabbed|Grabbed]] or [[Conditions/Restrained|Restrained]] this way has difficulty speaking and must spend an extra action to perform any action that requires speaking, including casting spells.\n* * *\n\n**Requirements** The monster's last action was a successful Strike that lists Grab in its damage entry, or the monster has a creature [[Conditions/Grabbed|Grabbed]] or [[Conditions/Restrained|Restrained]]\n* * *\n\n**Effect** If used after a Strike, the monster attempts to [[Actions/Grapple|Grapple]] the creature using the body part it attacked with. This attempt neither applies nor counts toward the creature's multiple attack penalty.\n\nThe monster can instead use Grab and choose one creature it's grabbing or restraining with an appendage that has Grab to automatically extend that condition to the end of the monster's next turn."
  
 ```
 

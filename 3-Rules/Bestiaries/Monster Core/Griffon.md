@@ -18,6 +18,7 @@ license: ORC
 columns: 2
 forcecolumns: true
 layout: Basic Pathfinder 2e Layout
+token: [[modules/pf2e-tokens-bestiaries/portraits/bestial/mythological/griffon.webp| ]]
 source: "Pathfinder Monster Core"
 name: "Griffon"
 level: "Creature 4"
@@ -29,6 +30,7 @@ modifier: 13
 perception:
   - name: "Perception"
     desc: "+13; Darkvision, Scent (Imprecise) 60 Feet"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Acrobatics: +11, Athletics: +12, Intimidation: +10, Stealth: +11, Survival: +9"
@@ -68,7 +70,7 @@ attacks:
     desc: "`pf2:1`  The griffon Strides and makes a talon Strike at the end of that movement. If the griffon began this action [[Conditions/Hidden|Hidden]], it remains hidden until after the attack."
 
   - name: "Regal Shriek"
-    desc: "`pf2:1` (auditory,emotion,fear,mental) The griffon unleashes a shriek that transitions into a terrifying roar. Each creature in a 60-foot emanation must attempt a DC 20 Will check save. Regardless of the result, creatures are temporarily immune to all griffons' Regal Shrieks for 10 minutes.\n**Critical Success** The creature is unaffected.\n**Success** The creature is [[Conditions/Frightened 1|Frightened 1]].\n**Failure** The creature is [[Conditions/Frightened 1|Frightened 2]]. Animals are [[Conditions/Slowed 1|Slowed 1]] for as long as they're frightened.\n**Critical Failure** The creature is [[Conditions/Frightened 1|Frightened 3]]. Animals are [[Conditions/Paralyzed|Paralyzed]] as long as they're frightened."
+    desc: "`pf2:1` (auditory,emotion,fear,mental) The griffon unleashes a shriek that transitions into a terrifying roar. Each creature in a 60-foot emanation must attempt a DC 20 Will check save. Regardless of the result, creatures are temporarily immune to all griffons' Regal Shrieks for 10 minutes.\n* * *\n\n**Critical Success** The creature is unaffected.\n\n**Success** The creature is [[Conditions/Frightened 1|Frightened 1]].\n\n**Failure** The creature is [[Conditions/Frightened 1|Frightened 2]]. Animals are [[Conditions/Slowed 1|Slowed 1]] for as long as they're frightened.\n\n**Critical Failure** The creature is [[Conditions/Frightened 1|Frightened 3]]. Animals are [[Conditions/Paralyzed|Paralyzed]] as long as they're frightened."
  
 ```
 

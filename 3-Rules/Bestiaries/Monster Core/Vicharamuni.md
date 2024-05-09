@@ -68,16 +68,16 @@ attacks:
     desc: "DC 29, attack +21; __5th __ (4 slots) _[[Spells/Breath of Life|Breath of Life]]_, _[[Spells/Dispel Magic|Dispel Magic]]_, _[[Spells/Divine Immolation|Divine Immolation]]_; __4th __ (4 slots) _[[Spells/Cleanse Affliction|Cleanse Affliction]]_, _[[Spells/Fly|Fly]]_, _[[Spells/Lightning Bolt|Lightning Bolt]]_; __3rd __ (4 slots) _[[Spells/Crisis of Faith|Crisis of Faith]]_, _[[Spells/Holy Light|Holy Light]]_, _[[Spells/Mind Reading|Mind Reading]]_; __2nd __ (4 slots) _[[Spells/Calm|Calm]]_, _[[Spells/Noise Blast|Noise Blast]]_, _[[Spells/See the Unseen|See the Unseen]]_; __1st __ (4 slots) _[[Spells/Heal|Heal]]_, _[[Spells/Protection|Protection]]_, _[[Spells/Spirit Link|Spirit Link]]_\n__Cantrips__  __(5th)__ _[[Spells/Daze|Daze]]_, _[[Spells/Detect Magic|Detect Magic]]_, _[[Spells/Frostbite|Frostbite]]_, _[[Spells/Light|Light]]_, _[[Spells/Read Aura|Read Aura]]_, _[[Spells/Stabilize|Stabilize]]_, _[[Spells/Telekinetic Hand|Telekinetic Hand]]_"
 
   - name: "Coils of Knowledge"
-    desc: " (force,magical) The naga's grip is more spiritual than physical. A creature hit by a vicharamuni's tail must succeed at a DC 29 Will check save or become [[Conditions/Grabbed|Grabbed]] by the tail until they [[Actions/Escape|Escape]], the naga releases them with an Interact action, or the naga dies.\nA captive takes a –4 status penalty to Escape, but can choose to attempt an Occultism or Religion check to Escape instead of the usual options without taking this penalty"
+    desc: " (force,magical) The naga's grip is more spiritual than physical. A creature hit by a vicharamuni's tail must succeed at a DC 29 Will check save or become [[Conditions/Grabbed|Grabbed]] by the tail until they [[Actions/Escape|Escape]], the naga releases them with an Interact action, or the naga dies.\n\nA captive takes a –4 status penalty to Escape, but can choose to attempt an Occultism or Religion check to Escape instead of the usual options without taking this penalty"
 
   - name: "[[Bestiary Ability Glossary/Greater Constrict|Greater Constrict]]"
-    desc: "`pf2:1`  3d8 + 5 bludgeoning, DC 29 Fortitude check\n"
+    desc: "`pf2:1`  3d8 + 5 bludgeoning, DC 29 Fortitude check\n\n* * *\n"
 
   - name: "Spiritual Venom"
     desc: "  A vicharamuni can choose to negate any damage that its venom does to a creature. In addition, the naga can cast any of its divine spells on a creature that is affected by its venom, regardless of range or line of effect."
 
   - name: "Vicharamuni Venom"
-    desc: " (divine,holy,mental,poison,spirit) **Saving Throw** DC 29 Will check\n**Maximum Duration** 6 rounds\n**Stage 1** 3d6 spirit (1 round)\n**Stage 2** 3d6 spirit and [[Conditions/Drained 1|Drained 1]] (1 round)"
+    desc: " (divine,holy,mental,poison,spirit) **Saving Throw** DC 29 Will check\n* * *\n\n**Maximum Duration** 6 rounds\n\n**Stage 1** 3d6 spirit (1 round)\n\n**Stage 2** 3d6 spirit and [[Conditions/Drained 1|Drained 1]] (1 round)"
  
 ```
 

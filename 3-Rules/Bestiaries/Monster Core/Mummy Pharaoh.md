@@ -20,6 +20,7 @@ license: ORC
 columns: 2
 forcecolumns: true
 layout: Basic Pathfinder 2e Layout
+token: [[modules/pf2e-tokens-bestiaries/portraits/undead/mummy-pharaoh.webp| ]]
 source: "Pathfinder Monster Core"
 name: "Mummy Pharaoh"
 level: "Creature 9"
@@ -33,7 +34,7 @@ modifier: 20
 perception:
   - name: "Perception"
     desc: "+20; Darkvision"
-languages: "Necril"
+languages: "Necril; plus any two languages they knew while alive"
 skills:
   - name: "Skills"
     desc: "Deception: +18, Intimidation: +20, Occultism: +15, Religion: +20, Stealth: +13"
@@ -56,16 +57,16 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "[[Bestiary Ability Glossary/Reactive Strike|Reactive Strike (Special)]]"
-    desc: "`pf2:r`  The mummy pharaoh can use Reactive Strike when a creature within its reach uses a concentrate action, in addition to its normal trigger. It can disrupt triggering concentrate actions, and it disrupts actions on any hit, not just a critical hit.\n"
+    desc: "`pf2:r`  The mummy pharaoh can use Reactive Strike when a creature within its reach uses a concentrate action, in addition to its normal trigger. It can disrupt triggering concentrate actions, and it disrupts actions on any hit, not just a critical hit.\n\n* * *\n"
 
   - name: "Rejuvenation"
     desc: " (divine) When a mummy pharaoh is destroyed, necromantic energies rebuild its body in its tomb over 1d10 days. If the body is destroyed during that time, the process starts anew. A reforming mummy pharaoh is destroyed permanently if their tomb is consecrated."
 
   - name: "Sacred Wrappings"
-    desc: " (divine) When a creature deals physical damage to the pharaoh or triggers one of the pharaoh's weaknesses, it must succeed at a DC 28 Will check save or become [[Conditions/Doomed 1|Doomed 1]].\nRegardless of the results of the save, the creature is then immune to that mummy's sacred wrappings for 24 hours."
+    desc: " (divine) When a creature deals physical damage to the pharaoh or triggers one of the pharaoh's weaknesses, it must succeed at a DC 28 Will check save or become [[Conditions/Doomed 1|Doomed 1]].\n\nRegardless of the results of the save, the creature is then immune to that mummy's sacred wrappings for 24 hours."
 
   - name: "Undead Mastery"
-    desc: " (aura,divine) 100 feet.\nCommanded or allied undead in the aura that have a lower level than the mummy pharaoh gain a +1 circumstance bonus to attack rolls, damage rolls, AC, saves, and skill checks.\n[[Bestiary Effects/Effect_ Undead Mastery|Effect: Undead Mastery]]"
+    desc: " (aura,divine) 100 feet.\n\nCommanded or allied undead in the aura that have a lower level than the mummy pharaoh gain a +1 circumstance bonus to attack rolls, damage rolls, AC, saves, and skill checks.\n\n[[Bestiary Effects/Effect_ Undead Mastery|Effect: Undead Mastery]]"
 
 attacks:
   - name: ""
@@ -77,10 +78,10 @@ attacks:
     desc: "`pf2:1` Longspear +21 (magical, reach 10 feet)\n__Damage__  1d6 void 2d8 + 11 piercing"
 
   - name: "Sandstorm Wrath"
-    desc: "`pf2:2` (concentrate,divine,earth,fire) The mummy pharaoh exhales a 60-foot cone of superheated sand that deals 5d6 fire and 5d6 slashing damage (DC 28 Reflex check save).\nThe mummy pharaoh can't use Sandstorm Wrath again for 1d4 rounds."
+    desc: "`pf2:2` (concentrate,divine,earth,fire) The mummy pharaoh exhales a 60-foot cone of superheated sand that deals 5d6 fire and 5d6 slashing damage (DC 28 Reflex check save).\n\nThe mummy pharaoh can't use Sandstorm Wrath again for 1d4 rounds."
 
   - name: "Veil of Sand"
-    desc: "`pf2:1` (aura,divine,earth) Sand whirls around the mummy pharaoh in a 5-foot emanation until the beginning of their next turn. Creatures inside the sand are [[Conditions/Concealed|Concealed]] to those outside it and any living creature ending its turn within the sand takes 4d6 slashing damage with a DC 28 Fortitude check save\nVeil of Sand ends if the mummy takes damage from their water weakness."
+    desc: "`pf2:1` (aura,divine,earth) Sand whirls around the mummy pharaoh in a 5-foot emanation until the beginning of their next turn. Creatures inside the sand are [[Conditions/Concealed|Concealed]] to those outside it and any living creature ending its turn within the sand takes 4d6 slashing damage with a DC 28 Fortitude check save\n\nVeil of Sand ends if the mummy takes damage from their water weakness."
  
 ```
 

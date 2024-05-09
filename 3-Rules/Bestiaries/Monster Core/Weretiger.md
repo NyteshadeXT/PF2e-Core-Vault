@@ -21,6 +21,7 @@ license: ORC
 columns: 2
 forcecolumns: true
 layout: Basic Pathfinder 2e Layout
+token: [[modules/pf2e-tokens-bestiaries/portraits/humanoid/werecreature/weretiger.webp| ]]
 source: "Pathfinder Monster Core"
 name: "Weretiger"
 level: "Creature 4"
@@ -35,7 +36,7 @@ modifier: 11
 perception:
   - name: "Perception"
     desc: "+11; Low-Light Vision, Scent (Imprecise) 30 Feet"
-languages: "Common"
+languages: "Common; Tiger Empathy"
 skills:
   - name: "Skills"
     desc: "Acrobatics: +11, Athletics: +12, Deception: +7, Society: +10, Stealth: +11"
@@ -55,7 +56,7 @@ abilities_top:
   - name: ""
 
   - name: "[[Creature Family Ability Glossary/(Werecreature) Animal Empathy|Tiger Empathy]]"
-    desc: "  The weretiger can communicate with felines.\nThe werecreature can ask questions of, receive answers from, and use the Diplomacy skill with animals of its general kind."
+    desc: "  The weretiger can communicate with felines.\n* * *\n\nThe werecreature can ask questions of, receive answers from, and use the Diplomacy skill with animals of its general kind."
 
 abilities_mid:
   - name: ""
@@ -72,19 +73,19 @@ attacks:
     desc: "`pf2:1` Claw +14 (agile)\n__Damage__  2d4 + 7 slashing"
 
   - name: "[[Creature Family Ability Glossary/(Werecreature) Change Shape|Change Shape]]"
-    desc: "`pf2:1` (concentrate,polymorph,primal) *   **Human**\n    *   **Melee** fist +14 **Damage** 1d4+7\n*   **Animal**\n    *   **Speed** 30 feet\n    *   Wrestle\nThe werecreature changes into its humanoid, hybrid, or animal shape. Each shape has a specific, persistent appearance. A true werecreature's natural form is its hybrid shape.\nIn humanoid shape, the werecreature uses its original humanoid size, loses its jaws and claws Strikes, and gains a melee fist Strike that deals bludgeoning damage equal to the slashing damage dealt by its claw.\nIn animal shape, its Speed and size change to that of the animal, it gains any special Strike effects of the animal that it didn't already have (such as Grab), and it loses its weapon Strikes.\n"
+    desc: "`pf2:1` (concentrate,polymorph,primal) *   **Human**\n    *   **Melee** fist +14 **Damage** 1d4+7\n*   **Animal**\n    *   **Speed** 30 feet\n    *   Wrestle\n* * *\n\nThe werecreature changes into its humanoid, hybrid, or animal shape. Each shape has a specific, persistent appearance. A true werecreature's natural form is its hybrid shape.\n\nIn humanoid shape, the werecreature uses its original humanoid size, loses its jaws and claws Strikes, and gains a melee fist Strike that deals bludgeoning damage equal to the slashing damage dealt by its claw.\n\nIn animal shape, its Speed and size change to that of the animal, it gains any special Strike effects of the animal that it didn't already have (such as Grab), and it loses its weapon Strikes.\n\n* * *\n"
 
   - name: "[[Creature Family Ability Glossary/(Werecreature) Curse of the Werecreature|Curse of the Weretiger]]"
-    desc: " (curse,primal) This curse affects only humanoids.\n**Saving Throw** DC 21 Fortitude check\nOn each full moon, the cursed creature must succeed at another Fortitude save or turn into the same kind of werecreature until dawn.\nThe creature is under the GM's control and goes on a rampage for half the night before falling unconscious until dawn."
+    desc: " (curse,primal) This curse affects only humanoids.\n* * *\n\n**Saving Throw** DC 21 Fortitude check\n\nOn each full moon, the cursed creature must succeed at another Fortitude save or turn into the same kind of werecreature until dawn.\n\nThe creature is under the GM's control and goes on a rampage for half the night before falling unconscious until dawn."
 
   - name: "[[Creature Family Ability Glossary/(Werecreature) Moon Frenzy|Moon Frenzy]]"
-    desc: " (polymorph,primal) When a full moon appears in the night sky, the werecreature must enter hybrid form, can't Change Shape thereafter, becomes one size larger, increases its reach by 5 feet, and increases the damage of its jaws by 2.\nWhen the moon sets or the sun rises, the werecreature returns to humanoid form and is [[Conditions/Fatigued|Fatigued]] for 2d4 hours.\n[[Bestiary Effects/Effect_ Moon Frenzy|Effect: Moon Frenzy]]"
+    desc: " (polymorph,primal) When a full moon appears in the night sky, the werecreature must enter hybrid form, can't Change Shape thereafter, becomes one size larger, increases its reach by 5 feet, and increases the damage of its jaws by 2.\n\nWhen the moon sets or the sun rises, the werecreature returns to humanoid form and is [[Conditions/Fatigued|Fatigued]] for 2d4 hours.\n\n[[Bestiary Effects/Effect_ Moon Frenzy|Effect: Moon Frenzy]]"
 
   - name: "Pounce"
     desc: "`pf2:1`  The weretiger Strides and makes a Strike at the end of that movement. If the weretiger began this action [[Conditions/Hidden|Hidden]], they remain hidden until after this ability's Strike."
 
   - name: "[[Bestiary Ability Glossary/Rend|Rend]]"
-    desc: "`pf2:1`  Claw\n"
+    desc: "`pf2:1`  Claw\n\n* * *\n"
 
   - name: "Wrestle (Animal Shape)"
     desc: "`pf2:1`  The weretiger makes a claw Strike against a creature it is [[Conditions/Grabbed|Grabbing]]. If the attack hits, that creature is knocked [[Conditions/Prone|Prone]]."

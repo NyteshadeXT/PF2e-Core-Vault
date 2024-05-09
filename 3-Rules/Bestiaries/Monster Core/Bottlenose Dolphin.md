@@ -18,6 +18,7 @@ license: ORC
 columns: 2
 forcecolumns: true
 layout: Basic Pathfinder 2e Layout
+token: [[modules/pf2e-tokens-bestiaries/portraits/bestial/aquatic/bottlenose-dolphin.webp| ]]
 source: "Pathfinder Monster Core"
 name: "Bottlenose Dolphin"
 level: "Creature 0"
@@ -29,6 +30,7 @@ modifier: 7
 perception:
   - name: "Perception"
     desc: "+7; Echolocation 120 Feet, Low-Light Vision"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Athletics: +6"
@@ -65,7 +67,7 @@ attacks:
     desc: "`pf2:1` Jaws +6 ()\n__Damage__  1d6 + 2 piercing"
 
   - name: "Ramming Speed"
-    desc: "`pf2:2`  The bottlenose dolphin [[Actions/Swim|Swims]] twice and then makes a snout Strike. As long as it moved at least 20 feet, it gains a +1 circumstance bonus to its attack roll.\nA Large or smaller creature hit by this attack must succeed at a DC 16 Fortitude check save or be [[Conditions/Slowed 1|Slowed 1]] for 1 round."
+    desc: "`pf2:2`  The bottlenose dolphin [[Actions/Swim|Swims]] twice and then makes a snout Strike. As long as it moved at least 20 feet, it gains a +1 circumstance bonus to its attack roll.\n\nA Large or smaller creature hit by this attack must succeed at a DC 16 Fortitude check save or be [[Conditions/Slowed 1|Slowed 1]] for 1 round."
  
 ```
 

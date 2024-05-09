@@ -53,7 +53,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Avenging Bite"
-    desc: "`pf2:r`  **Trigger** A creature within reach of the witchwarg's jaws attacks one of the witchwarg's allies.\n**Effect** The witchwarg makes a jaws Strike against the triggering creature."
+    desc: "`pf2:r`  **Trigger** A creature within reach of the witchwarg's jaws attacks one of the witchwarg's allies.\n* * *\n\n**Effect** The witchwarg makes a jaws Strike against the triggering creature."
 
   - name: "[[Bestiary Ability Glossary/Buck|Buck]]"
     desc: "`pf2:r`  DC 21 Reflex check"
@@ -68,7 +68,7 @@ attacks:
     desc: "  The witchwarg's Strikes deal 1d6 extra damage to creatures within the reach of at least two of the witchwarg's allies."
 
   - name: "Winter Breath"
-    desc: "`pf2:2` (cold,primal) The witchwarg breathes a cloud of frost in a 15-foot cone that deals 5d8 cold damage (DC 23 Reflex check save).\nThe witchwarg can't use Winter Breath again for 1d4 rounds."
+    desc: "`pf2:2` (cold,primal) The witchwarg breathes a cloud of frost in a 15-foot cone that deals 5d8 cold damage (DC 23 Reflex check save).\n\nThe witchwarg can't use Winter Breath again for 1d4 rounds."
 
   - name: "[[Bestiary Ability Glossary/Knockdown|Knockdown]]"
     desc: "`pf2:1`  "

@@ -19,6 +19,7 @@ license: ORC
 columns: 2
 forcecolumns: true
 layout: Basic Pathfinder 2e Layout
+token: [[modules/pf2e-tokens-bestiaries/portraits/fey/fairy/pixie.webp| ]]
 source: "Pathfinder Monster Core"
 name: "Pixie"
 level: "Creature 4"
@@ -66,7 +67,7 @@ attacks:
     desc: "DC 21, attack +13; __4th __  _[[Spells/Invisibility|Invisibility (At Will, Self Only)]]_; __3rd __  _[[Spells/Dispel Magic|Dispel Magic]]_; __2nd __  _[[Spells/Entangling Flora|Entangling Flora]]_, _[[Spells/Revealing Light|Revealing Light]]_; __1st __  _[[Spells/Illusory Disguise|Illusory Disguise]]_\n__Cantrips__  __(2nd)__ _[[Spells/Detect Magic|Detect Magic]]_, _[[Spells/Figment|Figment]]_, _[[Spells/Light|Light]]_, _[[Spells/Shield|Shield]]_"
 
   - name: "Sprinkle Pixie Dust"
-    desc: "`pf2:1` (manipulate,primal) The pixie sprinkles pixie dust onto one of their arrows. If the pixie hits a creature with that arrow before the pixie's next turn, the arrow inflicts one of the following special effects of the pixie's choice instead of dealing damage. Each effect depends on the target's DC 21 Will check save. On a critical hit, the target gets a result one degree worse than it rolled.\n*   **Charm** (emotion, incapacitation, mental) The arrow has the effect of a [[Spells/Charm|Charm]] spell, except the target doesn't gain a bonus to its save if the only hostile act was the pixie firing its bow, and the pixie can choose to direct the target's adoration toward another creature rather than itself.\n*   **Memory Loss** (mental) On a failed Will save, the target loses the last 5 minutes of its memory.\n*   **Sleep** (incapacitation, mental, sleep) The target suffers the effects of a 3rd-rank [[Spells/Sleep|Sleep]] spell.\n*   **Subdual** (mental, nonlethal) The target takes 4d6 mental damage, depending on its basic Will save."
+    desc: "`pf2:1` (manipulate,primal) The pixie sprinkles pixie dust onto one of their arrows. If the pixie hits a creature with that arrow before the pixie's next turn, the arrow inflicts one of the following special effects of the pixie's choice instead of dealing damage. Each effect depends on the target's DC 21 Will check save. On a critical hit, the target gets a result one degree worse than it rolled.\n\n*   **Charm** (emotion, incapacitation, mental) The arrow has the effect of a [[Spells/Charm|Charm]] spell, except the target doesn't gain a bonus to its save if the only hostile act was the pixie firing its bow, and the pixie can choose to direct the target's adoration toward another creature rather than itself.\n*   **Memory Loss** (mental) On a failed Will save, the target loses the last 5 minutes of its memory.\n*   **Sleep** (incapacitation, mental, sleep) The target suffers the effects of a 3rd-rank [[Spells/Sleep|Sleep]] spell.\n*   **Subdual** (mental, nonlethal) The target takes 4d6 mental damage, depending on its basic Will save."
  
 ```
 

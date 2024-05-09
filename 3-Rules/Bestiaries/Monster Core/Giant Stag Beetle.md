@@ -18,6 +18,7 @@ license: ORC
 columns: 2
 forcecolumns: true
 layout: Basic Pathfinder 2e Layout
+token: [[modules/pf2e-tokens-bestiaries/portraits/bestial/invertebrate/stag-beetle-giant.webp| ]]
 source: "Pathfinder Monster Core"
 name: "Giant Stag Beetle"
 level: "Creature 4"
@@ -29,6 +30,7 @@ modifier: 10
 perception:
   - name: "Perception"
     desc: "+10; Darkvision"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Acrobatics: +9, Athletics: +13"
@@ -59,7 +61,7 @@ attacks:
     desc: "`pf2:1` Foot +11 ()\n__Damage__  1d10 + 5 bludgeoning"
 
   - name: "[[Bestiary Ability Glossary/Trample|Trample]]"
-    desc: "`pf2:3`  Medium or smaller, foot, DC 21 Reflex check\n"
+    desc: "`pf2:3`  Medium or smaller, foot, DC 21 Reflex check\n\n* * *\n"
  
 ```
 

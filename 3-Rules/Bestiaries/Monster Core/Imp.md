@@ -19,6 +19,7 @@ license: ORC
 columns: 2
 forcecolumns: true
 layout: Basic Pathfinder 2e Layout
+token: [[modules/pf2e-tokens-bestiaries/portraits/fiendish/devil/imp.webp| ]]
 source: "Pathfinder Monster Core"
 name: "Imp"
 level: "Creature 1"
@@ -31,7 +32,7 @@ modifier: 7
 perception:
   - name: "Perception"
     desc: "+7; Darkvision"
-languages: "Common, Diabolic, Chthonian, Daemonic"
+languages: "Common, Diabolic, Chthonian, Daemonic; Telepathy (Touch)"
 skills:
   - name: "Skills"
     desc: "Acrobatics: +7, Arcana: +6, Deception: +7, Religion: +5"
@@ -56,22 +57,22 @@ attacks:
   - name: ""
 
   - name: "Melee"
-    desc: "`pf2:1` Stinger +9 (agile, finesse, magical, reach 0 feet, unholy)\n__Damage__  1d4 - 1 piercing plus imp-venom 1d4 spirit plus imp-venom"
+    desc: "`pf2:1` Stinger +9 (agile, finesse, magical, reach 0 feet, unholy)\n__Damage__  1d4 - 1 piercing plus imp-venom"
 
   - name: "Divine Innate Spells"
     desc: "DC 17, attack +9; __4th __  _[[Spells/Read Omens|Read Omens]]_; __2nd __  _[[Spells/Invisibility|Invisibility (At Will, Self Only)]]_; __1st __  _[[Spells/Charm|Charm]]_\n__Cantrips__  __(1st)__ _[[Spells/Detect Magic|Detect Magic]]_"
 
   - name: "[[Bestiary Ability Glossary/Change Shape|Change Shape]]"
-    desc: "`pf2:1` (concentrate,polymorph) The imp takes on the appearance of a Medium or smaller animal. While transformed, the imp loses their normal senses, innate spells, and special actions, but doesn't otherwise change their statistics and can still speak and use telepathy. The imp also gains any special senses of the animal and any Speeds the animal has.\nThis doesn't change the attack and damage modifiers of their Strikes but might change the damage type their Strikes deal (depending on what kinds of attacks the animal has) and prevents them from exposing creatures to imp venom.\n"
+    desc: "`pf2:1` (concentrate,polymorph) The imp takes on the appearance of a Medium or smaller animal. While transformed, the imp loses their normal senses, innate spells, and special actions, but doesn't otherwise change their statistics and can still speak and use telepathy. The imp also gains any special senses of the animal and any Speeds the animal has.\n\nThis doesn't change the attack and damage modifiers of their Strikes but might change the damage type their Strikes deal (depending on what kinds of attacks the animal has) and prevents them from exposing creatures to imp venom.\n\n* * *\n"
 
   - name: "Fiendish Healing"
-    desc: "`pf2:1` (concentrate,divine,healing,vitality) **Frequency** once per round.\n**Effect** The imp regains 1d6 Hit Points."
+    desc: "`pf2:1` (concentrate,divine,healing,vitality) **Frequency** once per round.\n* * *\n\n**Effect** The imp regains 1d6 Hit Points."
 
   - name: "Fiendish Temptation"
-    desc: "`pf2:1` (concentrate,divine,fortune,unholy) **Frequency** once per day\n**Effect** The imp offers a nonfiend within 15 feet a bargain, granting a boon of good luck if the creature accepts voluntarily. The boon lasts for 1 hour once accepted.\nOnce during the hour, the creature can roll an attack roll or saving throw twice and use the higher result. If the creature dies while the boon is in place, the imp decides where the creature's soul travels. This typically makes the soul bound for eternity in the imp's home plane, and the creature unable to be raised or resurrected except by the [[Spells/Wish|Wish]] ritual or similar magic."
+    desc: "`pf2:1` (concentrate,divine,fortune,unholy) **Frequency** once per day\n* * *\n\n**Effect** The imp offers a nonfiend within 15 feet a bargain, granting a boon of good luck if the creature accepts voluntarily. The boon lasts for 1 hour once accepted.\n\nOnce during the hour, the creature can roll an attack roll or saving throw twice and use the higher result. If the creature dies while the boon is in place, the imp decides where the creature's soul travels. This typically makes the soul bound for eternity in the imp's home plane, and the creature unable to be raised or resurrected except by the [[Spells/Wish|Wish]] ritual or similar magic."
 
   - name: "Imp Venom"
-    desc: " (poison) **Saving Throw** DC 16 Fortitude check\n**Maximum Duration** 6 rounds\n**Stage 1** 1d6 poison damage and [[Conditions/Clumsy 1|Clumsy 1]] (1 round)\n**Stage 2** 1d6 poison damage, clumsy 1, and [[Conditions/Slowed 1|Slowed 1]] (1 round)"
+    desc: " (poison) **Saving Throw** DC 16 Fortitude check\n* * *\n\n**Maximum Duration** 6 rounds\n\n**Stage 1** 1d6 poison damage and [[Conditions/Clumsy 1|Clumsy 1]] (1 round)\n\n**Stage 2** 1d6 poison damage, clumsy 1, and [[Conditions/Slowed 1|Slowed 1]] (1 round)"
  
 ```
 

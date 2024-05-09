@@ -18,6 +18,7 @@ license: ORC
 columns: 2
 forcecolumns: true
 layout: Basic Pathfinder 2e Layout
+token: [[modules/pf2e-tokens-bestiaries/portraits/aberrant/eldritch/nilith.webp| ]]
 source: "Pathfinder Monster Core"
 name: "Nilith"
 level: "Creature 10"
@@ -29,7 +30,7 @@ modifier: 19
 perception:
   - name: "Perception"
     desc: "+19; Darkvision"
-languages: "Aklo, Common"
+languages: "Aklo, Common; Telepathy 100 feet"
 skills:
   - name: "Skills"
     desc: "Acrobatics: +21, Athletics: +17, Intimidation: +23, Occultism: +19, Stealth: +21, Survival: +17"
@@ -63,7 +64,7 @@ attacks:
     desc: "DC 29, attack +21; __5th __  _[[Spells/Hallucination|Hallucination]]_, _[[Spells/Mind Probe|Mind Probe]]_, _[[Spells/Wave of Despair|Wave of Despair]]_; __4th __  _[[Spells/Confusion|Confusion]]_, _[[Spells/Dream Message|Dream Message]]_, _[[Spells/Flicker|Flicker]]_, _[[Spells/Invisibility|Invisibility (At Will, Self Only)]]_, _[[Spells/Nightmare|Nightmare]]_; __3rd __  _[[Spells/Mind Reading|Mind Reading (At Will)]]_\n__Cantrips__  __(5th)__ _[[Spells/Message|Message]]_, _[[Spells/Read Aura|Read Aura]]_, _[[Spells/Shield|Shield]]_, _[[Spells/Telekinetic Hand|Telekinetic Hand]]_"
 
   - name: "Mind Crush"
-    desc: "`pf2:1` (mental,occult) **Requirements** The nilith has a creature [[Conditions/Grabbed|Grabbed]]\n**Effect** The nilith reaches into the mind of the grabbed creature and implants disjointed images of the victim's worst fears and nightmares. The grabbed creature takes 6d6 mental damage with a DC 31 Will check save. On a critical failure, the target is also affected as though by [[Spells/Never Mind|Never Mind]], and it must attempt a second Will save against that effect."
+    desc: "`pf2:1` (mental,occult) **Requirements** The nilith has a creature [[Conditions/Grabbed|Grabbed]]\n* * *\n\n**Effect** The nilith reaches into the mind of the grabbed creature and implants disjointed images of the victim's worst fears and nightmares. The grabbed creature takes 6d6 mental damage with a DC 31 Will check save. On a critical failure, the target is also affected as though by [[Spells/Never Mind|Never Mind]], and it must attempt a second Will save against that effect."
 
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
     desc: "`pf2:1`  "

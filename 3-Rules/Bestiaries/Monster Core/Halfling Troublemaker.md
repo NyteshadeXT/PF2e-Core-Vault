@@ -66,7 +66,7 @@ attacks:
     desc: "`pf2:1`  The halfling troublemaker throws an egg filled with paint, glitter, and confetti at a creature within 30 feet. The target must succeed a DC 17 Reflex check saving throw or become [[Conditions/Dazzled|Dazzled]] for 1 round (or 1 minute on a critical failure)."
 
   - name: "Keen Eyes"
-    desc: "  The halfling gains a +2 circumstance bonus when using the [[Actions/Seek|Seek]] action to find [[Conditions/Hidden|Hidden]] or undetected creatures within 30 feet of it.\nWhenever the halfling targets a creature that is [[Conditions/Concealed|Concealed]] or hidden from them, reduce the DC of the flat check to 3 for a concealed target or 9 for a hidden one."
+    desc: "  The halfling gains a +2 circumstance bonus when using the [[Actions/Seek|Seek]] action to find [[Conditions/Hidden|Hidden]] or undetected creatures within 30 feet of it.\n\nWhenever the halfling targets a creature that is [[Conditions/Concealed|Concealed]] or hidden from them, reduce the DC of the flat check to 3 for a concealed target or 9 for a hidden one."
 
   - name: "Sneak Attack"
     desc: "  The troublemaker deals an extra 1d6 precision damage to [[Conditions/Off-Guard|Off-Guard]] creatures."

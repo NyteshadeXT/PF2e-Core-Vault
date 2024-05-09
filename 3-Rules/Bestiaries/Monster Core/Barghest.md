@@ -19,6 +19,7 @@ license: ORC
 columns: 2
 forcecolumns: true
 layout: Basic Pathfinder 2e Layout
+token: [[modules/pf2e-tokens-bestiaries/portraits/fiendish/beast/barghest.webp| ]]
 source: "Pathfinder Monster Core"
 name: "Barghest"
 level: "Creature 4"
@@ -53,7 +54,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Primal Hunt"
-    desc: "`pf2:r` (primal,teleportation) **Trigger** A creature within the barghest's reach takes a move or teleportation action\n**Effect** After the triggering action, the barghest can teleport up to 60 feet to a space adjacent to that creature."
+    desc: "`pf2:r` (primal,teleportation) **Trigger** A creature within the barghest's reach takes a move or teleportation action\n* * *\n\n**Effect** After the triggering action, the barghest can teleport up to 60 feet to a space adjacent to that creature."
 
 attacks:
   - name: ""
@@ -65,7 +66,7 @@ attacks:
     desc: "DC 21, attack +13; __2nd __  _[[Spells/Invisibility|Invisibility]]_, _[[Spells/Mist|Mist]]_\n__Cantrips__  __(2nd)__ _[[Spells/Figment|Figment]]_, _[[Spells/Light|Light]]_"
 
   - name: "[[Bestiary Ability Glossary/Change Shape|Change Shape]]"
-    desc: "`pf2:1` (concentrate,polymorph,primal) The barghest takes on the shape of a humanoid, a dog, or its true form. Their size changes to match the new form. When the barghest is a humanoid, their claw Strike deals bludgeoning damage and they lose their jaws Strike. When the barghest is a dog, their Speed changes to 35 feet. Each individual barghest has only one humanoid form and one dog form.\n"
+    desc: "`pf2:1` (concentrate,polymorph,primal) The barghest takes on the shape of a humanoid, a dog, or its true form. Their size changes to match the new form. When the barghest is a humanoid, their claw Strike deals bludgeoning damage and they lose their jaws Strike. When the barghest is a dog, their Speed changes to 35 feet. Each individual barghest has only one humanoid form and one dog form.\n\n* * *\n"
 
   - name: "Unhealing Wound"
     desc: " (curse,primal) A creature damaged by the barghest's claws must succeed at a DC 21 Fortitude check save or be cursed. The cursed creature can't regain Hit Points except via magic until it returns to maximum Hit Points. The creature can attempt a new saving throw against the curse every 24 hours."

@@ -19,6 +19,7 @@ license: ORC
 columns: 2
 forcecolumns: true
 layout: Basic Pathfinder 2e Layout
+token: [[modules/pf2e-tokens-bestiaries/portraits/humanoid/kobold/kobold-warrior.webp| ]]
 source: "Pathfinder Monster Core"
 name: "Kobold Warrior"
 level: "Creature -1"
@@ -31,11 +32,11 @@ modifier: 3
 perception:
   - name: "Perception"
     desc: "+3; Darkvision"
-languages: "Draconic"
+languages: "Common, Sakvroth"
 skills:
   - name: "Skills"
     desc: "Acrobatics: +5, Crafting: +2, Stealth: +5"
-abilityMods: [1, 3, 0, 0, 1, -1]
+abilityMods: [1, 3, -1, 0, 1, 1]
 speed: 25 feet
 sourcebook: "_Pathfinder Monster Core_"
 ac: 16
@@ -66,7 +67,7 @@ attacks:
     desc: "`pf2:1` Spear +5 (thrown 20 ft.)\n__Damage__  1d6 + 1 piercing"
 
   - name: "Scamper"
-    desc: "`pf2:1`  **Requirements** The kobold warrior is adjacent to at least one enemy\n**Effect** The kobold warrior Strides up to their Speed plus 5 feet and gains a +2 circumstance bonus to AC against reactions triggered by this movement. They must end this movement in a space that's not adjacent to any enemy."
+    desc: "`pf2:1`  **Requirements** The kobold warrior is adjacent to at least one enemy\n* * *\n\n**Effect** The kobold warrior Strides up to their Speed plus 5 feet and gains a +2 circumstance bonus to AC against reactions triggered by this movement. They must end this movement in a space that's not adjacent to any enemy."
 
   - name: "Sneak Attack"
     desc: "  The kobold warrior deals an extra 1d4 precision damage to off-guard creatures."

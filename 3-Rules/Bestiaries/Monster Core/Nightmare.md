@@ -20,6 +20,7 @@ license: ORC
 columns: 2
 forcecolumns: true
 layout: Basic Pathfinder 2e Layout
+token: [[modules/pf2e-tokens-bestiaries/portraits/fiendish/beast/nightmare.webp| ]]
 source: "Pathfinder Monster Core"
 name: "Nightmare"
 level: "Creature 6"
@@ -55,7 +56,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Smoke"
-    desc: " (aura) 15 feet.\nThe nightmare continually exhales black smoke. Creatures within the aura are [[Conditions/Concealed|Concealed]] to those outside it, and creatures outside the aura are concealed to creatures within it. Nightmares and their riders can see through this smoke.\nA creature that begins its turn in the area must succeed at a DC 23 Fortitude check save or be [[Conditions/Sickened 1|Sickened 2]]. It's then temporarily immune to being sickened by the smoke for 1 minute. This is an inhaled poison, and the nightmare and its rider are immune to it."
+    desc: " (aura) 15 feet.\n\nThe nightmare continually exhales black smoke. Creatures within the aura are [[Conditions/Concealed|Concealed]] to those outside it, and creatures outside the aura are concealed to creatures within it. Nightmares and their riders can see through this smoke.\n\nA creature that begins its turn in the area must succeed at a DC 23 Fortitude check save or be [[Conditions/Sickened 1|Sickened 2]]. It's then temporarily immune to being sickened by the smoke for 1 minute. This is an inhaled poison, and the nightmare and its rider are immune to it."
 
 attacks:
   - name: ""

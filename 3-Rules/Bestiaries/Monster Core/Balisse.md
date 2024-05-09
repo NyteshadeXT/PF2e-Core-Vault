@@ -20,6 +20,7 @@ license: ORC
 columns: 2
 forcecolumns: true
 layout: Basic Pathfinder 2e Layout
+token: [[modules/pf2e-tokens-bestiaries/portraits/divine/angel/balisse.webp| ]]
 source: "Pathfinder Monster Core"
 name: "Balisse"
 level: "Creature 8"
@@ -33,7 +34,7 @@ modifier: 18
 perception:
   - name: "Perception"
     desc: "+18; Darkvision"
-languages: "Diabolic, Draconic, Empyrean"
+languages: "Diabolic, Draconic, Empyrean; Truespeech"
 skills:
   - name: "Skills"
     desc: "Acrobatics: +14, Diplomacy: +17, Religion: +18"
@@ -56,7 +57,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Confessor's Aura"
-    desc: " (aura,divine,mental) 20 feet.\nCreatures in the balisse's aura are subject to [[Spells/Ring of Truth|Ring of Truth]] (DC 23 Will check). Additionally, if these creatures choose to honestly express their own conflicted feelings, the aura makes it easier for them to put words to those feelings."
+    desc: " (aura,divine,mental) 20 feet.\n\nCreatures in the balisse's aura are subject to [[Spells/Ring of Truth|Ring of Truth]] (DC 23 Will check). Additionally, if these creatures choose to honestly express their own conflicted feelings, the aura makes it easier for them to put words to those feelings."
 
 attacks:
   - name: ""
@@ -71,10 +72,10 @@ attacks:
     desc: "_[[Spells/Angelic Messenger|Angelic Messenger]]_, _[[Spells/Atone|Atone]]_, _[[Spells/Geas|Geas]]_"
 
   - name: "Brand of the Impenitent"
-    desc: "`pf2:2` (curse,divine) **Frequency** once per day\n**Effect** The balisse marks a creature within their confessor's aura as irredeemable. They can do so only after a failed attempt to convince the creature to repent. The touched creature takes a –1 status penalty to AC and saves, reduces all its resistances by 2, and gains weakness 2 to holy. The duration depends on the target's DC 26 Will check save.\n**Critical Success** The creature is unaffected.\n**Success** The duration is 1 round.\n**Failure** The duration is 1 day.\n**Critical Failure** The duration is unlimited.\n[[Bestiary Effects/Effect_ Brand of the Impenitent|Effect: Brand of the Impenitent]]"
+    desc: "`pf2:2` (curse,divine) **Frequency** once per day\n* * *\n\n**Effect** The balisse marks a creature within their confessor's aura as irredeemable. They can do so only after a failed attempt to convince the creature to repent. The touched creature takes a –1 status penalty to AC and saves, reduces all its resistances by 2, and gains weakness 2 to holy. The duration depends on the target's DC 26 Will check save.\n* * *\n\n**Critical Success** The creature is unaffected.\n\n**Success** The duration is 1 round.\n\n**Failure** The duration is 1 day.\n\n**Critical Failure** The duration is unlimited.\n* * *\n\n[[Bestiary Effects/Effect_ Brand of the Impenitent|Effect: Brand of the Impenitent]]"
 
   - name: "Guiding Angel"
-    desc: "`pf2:1` (concentrate,divine) **Requirements** The balisse is [[Conditions/Invisible|Invisible]]\n**Effect** The balisse spiritually attaches themself to an adjacent mortal who doesn't have the unholy trait. They merge with the mortal's body and are unable to use any of their spells and abilities other than to interact with the mortal. They can [[Actions/Dismiss|Dismiss]] the effect to leave the mortal. While merged, the balisse can either communicate using a bodiless voice only the mortal can hear or can take a form of their choice that only the mortal can see, such as a small angel on the mortal's shoulder."
+    desc: "`pf2:1` (concentrate,divine) **Requirements** The balisse is [[Conditions/Invisible|Invisible]]\n* * *\n\n**Effect** The balisse spiritually attaches themself to an adjacent mortal who doesn't have the unholy trait. They merge with the mortal's body and are unable to use any of their spells and abilities other than to interact with the mortal. They can [[Actions/Dismiss|Dismiss]] the effect to leave the mortal. While merged, the balisse can either communicate using a bodiless voice only the mortal can hear or can take a form of their choice that only the mortal can see, such as a small angel on the mortal's shoulder."
  
 ```
 

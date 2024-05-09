@@ -19,6 +19,7 @@ license: ORC
 columns: 2
 forcecolumns: true
 layout: Basic Pathfinder 2e Layout
+token: [[modules/pf2e-tokens-bestiaries/portraits/elemental/earth/elemental-avalanche.webp| ]]
 source: "Pathfinder Monster Core"
 name: "Elemental Avalanche"
 level: "Creature 11"
@@ -56,10 +57,10 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Crumble"
-    desc: "`pf2:r`  **Trigger** The elemental avalanche takes damage from a hostile source while atop rock or earth\n**Effect** The elemental avalanche crumbles into the ground, Burrowing down 20 feet. This Burrowing does not trigger reactions.\nThe elemental avalanche can't Crumble again for 1d4 rounds."
+    desc: "`pf2:r`  **Trigger** The elemental avalanche takes damage from a hostile source while atop rock or earth\n* * *\n\n**Effect** The elemental avalanche crumbles into the ground, Burrowing down 20 feet. This Burrowing does not trigger reactions.\n\nThe elemental avalanche can't Crumble again for 1d4 rounds."
 
   - name: "Spike Stones"
-    desc: " (aura,earth,primal) 10 feet.\nSpikes of rock rise up from all stone surfaces in the emanation, creating difficult terrain. A creature moving in the terrain takes 2d8 piercing damage for each square of spikes it moves into (a Large or larger creature takes damage only once for each square it moves, even if its space covers multiple squares of spikes). Creatures with the earth trait ignore all effects within the area.\nThe elemental avalanche can disable or activate this aura using a single action, which has the concentrate trait."
+    desc: " (aura,earth,primal) 10 feet.\n\nSpikes of rock rise up from all stone surfaces in the emanation, creating difficult terrain. A creature moving in the terrain takes 2d8 piercing damage for each square of spikes it moves into (a Large or larger creature takes damage only once for each square it moves, even if its space covers multiple squares of spikes). Creatures with the earth trait ignore all effects within the area.\n\nThe elemental avalanche can disable or activate this aura using a single action, which has the concentrate trait."
 
 attacks:
   - name: ""
@@ -77,7 +78,7 @@ attacks:
     desc: "`pf2:2`  The elemental avalanche deals 4d12 bludgeoning damage to each [[Conditions/Prone|Prone]] creature within the elemental's melee reach with a DC 30 Reflex check save."
 
   - name: "[[Bestiary Ability Glossary/Trample|Trample]]"
-    desc: "`pf2:3`  Large or smaller, fist, DC 30 Reflex check\n"
+    desc: "`pf2:3`  Large or smaller, fist, DC 30 Reflex check\n\n* * *\n"
 
   - name: "[[Bestiary Ability Glossary/Knockdown|Knockdown]]"
     desc: "`pf2:1`  "

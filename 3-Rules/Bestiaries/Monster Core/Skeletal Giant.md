@@ -21,6 +21,7 @@ license: ORC
 columns: 2
 forcecolumns: true
 layout: Basic Pathfinder 2e Layout
+token: [[modules/pf2e-tokens-bestiaries/portraits/undead/skeletal/skeletal-giant.webp| ]]
 source: "Pathfinder Monster Core"
 name: "Skeletal Giant"
 level: "Creature 3"
@@ -35,6 +36,7 @@ modifier: 7
 perception:
   - name: "Perception"
     desc: "+7; Darkvision"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Athletics: +12, Intimidation: +9"
@@ -69,7 +71,7 @@ attacks:
     desc: "`pf2:2`  The giant makes two Strikes with its glaive against two adjacent foes, both of whom are within its reach. Both attacks count toward the giant's multiple attack penalty, but the penalty doesn't increase until after both attacks."
 
   - name: "Terrifying Charge"
-    desc: "`pf2:2`  The giant Strides and makes a horns Strike with a +4 circumstance bonus to damage.\nIf the strike hits, the giant attempts to [[Actions/Demoralize|Demoralize]] the target."
+    desc: "`pf2:2`  The giant Strides and makes a horns Strike with a +4 circumstance bonus to damage.\n\nIf the strike hits, the giant attempts to [[Actions/Demoralize|Demoralize]] the target."
  
 ```
 

@@ -19,6 +19,7 @@ license: ORC
 columns: 2
 forcecolumns: true
 layout: Basic Pathfinder 2e Layout
+token: [[modules/pf2e-tokens-bestiaries/portraits/plant/arboreal/awakened-tree.webp| ]]
 source: "Pathfinder Monster Core"
 name: "Awakened Tree"
 level: "Creature 6"
@@ -31,7 +32,7 @@ modifier: 13
 perception:
   - name: "Perception"
     desc: "+13; Low-Light Vision"
-languages: "Arboreal"
+languages: "Arboreal; (can&#x27;t speak any language)"
 skills:
   - name: "Skills"
     desc: "Athletics: +14, Stealth: +9 (+14 in forests)"

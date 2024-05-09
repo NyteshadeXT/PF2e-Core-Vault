@@ -65,7 +65,7 @@ attacks:
     desc: "DC 15, attack +7\n__Cantrips__  __(1st)__ _[[Spells/Daze|Daze]]_, _[[Spells/Ignition|Ignition]]_, _[[Spells/Light|Light]]_"
 
   - name: "Flame Breath"
-    desc: "`pf2:1` (arcane,fire) The fire scamp breathes flames in a 15-foot cone that deals 2d4 fire damage to each creature within the area (DC 17 Reflex check save). Creatures that fail the save also take 1d4 persistent fire damage.\nThe fire scamp can't use Flame Breath again for 1d4 rounds."
+    desc: "`pf2:1` (arcane,fire) The fire scamp breathes flames in a 15-foot cone that deals 2d4 fire damage to each creature within the area (DC 17 Reflex check save). Creatures that fail the save also take 1d4 persistent fire damage.\n\nThe fire scamp can't use Flame Breath again for 1d4 rounds."
  
 ```
 

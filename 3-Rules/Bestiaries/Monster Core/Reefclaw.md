@@ -19,6 +19,7 @@ license: ORC
 columns: 2
 forcecolumns: true
 layout: Basic Pathfinder 2e Layout
+token: [[modules/pf2e-tokens-bestiaries/portraits/aberrant/monstrous/reefclaw.webp| ]]
 source: "Pathfinder Monster Core"
 name: "Reefclaw"
 level: "Creature 1"
@@ -31,7 +32,7 @@ modifier: 8
 perception:
   - name: "Perception"
     desc: "+8; Darkvision"
-languages: "Common"
+languages: "Common; (can&#x27;t speak any language)"
 skills:
   - name: "Skills"
     desc: "Acrobatics: +7, Athletics: +4 (+8 to Swim)"
@@ -53,7 +54,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Death Frenzy"
-    desc: "`pf2:r`  **Trigger** The reefclaw is reduced to 0 Hit Points.\n**Effect** The reefclaw makes a claw Strike before dying."
+    desc: "`pf2:r`  **Trigger** The reefclaw is reduced to 0 Hit Points.\n* * *\n\n**Effect** The reefclaw makes a claw Strike before dying."
 
 attacks:
   - name: ""
@@ -62,10 +63,10 @@ attacks:
     desc: "`pf2:1` Claw +9 (finesse)\n__Damage__  1d6 + 1 slashing plus grab,reefclaw-venom"
 
   - name: "[[Bestiary Ability Glossary/Constrict|Constrict]]"
-    desc: "`pf2:1`  1d6 bludgeoning, DC 17 Fortitude check\n"
+    desc: "`pf2:1`  1d6 bludgeoning, DC 17 Fortitude check\n\n* * *\n"
 
   - name: "Reefclaw Venom"
-    desc: " (poison) **Saving Throw** DC 17 Fortitude check\n**Maximum Duration** 4 rounds\n**Stage 1** 1d6 poison damage and [[Conditions/Enfeebled 1|Enfeebled 1]] (1 round)\n**Stage 2** 1d6 poison damage and [[Conditions/Enfeebled 1|Enfeebled 2]] (1 round)"
+    desc: " (poison) **Saving Throw** DC 17 Fortitude check\n* * *\n\n**Maximum Duration** 4 rounds\n\n**Stage 1** 1d6 poison damage and [[Conditions/Enfeebled 1|Enfeebled 1]] (1 round)\n\n**Stage 2** 1d6 poison damage and [[Conditions/Enfeebled 1|Enfeebled 2]] (1 round)"
 
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
     desc: "`pf2:1`  "

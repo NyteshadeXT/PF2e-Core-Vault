@@ -18,6 +18,7 @@ license: ORC
 columns: 2
 forcecolumns: true
 layout: Basic Pathfinder 2e Layout
+token: [[modules/pf2e-tokens-bestiaries/portraits/bestial/mammalian/grizzly-bear.webp| ]]
 source: "Pathfinder Monster Core"
 name: "Grizzly Bear"
 level: "Creature 3"
@@ -29,6 +30,7 @@ modifier: 10
 perception:
   - name: "Perception"
     desc: "+10; Low-Light Vision, Scent (Imprecise) 30 Feet"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Athletics: +11, Survival: +8"

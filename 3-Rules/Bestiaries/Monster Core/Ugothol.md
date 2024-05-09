@@ -18,6 +18,7 @@ license: ORC
 columns: 2
 forcecolumns: true
 layout: Basic Pathfinder 2e Layout
+token: [[modules/pf2e-tokens-bestiaries/portraits/aberrant/eldritch/faceless-stalker.webp| ]]
 source: "Pathfinder Monster Core"
 name: "Ugothol"
 level: "Creature 4"
@@ -29,7 +30,7 @@ modifier: 10
 perception:
   - name: "Perception"
     desc: "+10; Darkvision"
-languages: "Alghollthu, Common, Thalassic"
+languages: "Alghollthu, Common, Thalassic; Truespeech"
 skills:
   - name: "Skills"
     desc: "Acrobatics: +12, Athletics: +12, Deception: +13, Stealth: +13, Thievery: +9"
@@ -73,7 +74,7 @@ attacks:
     desc: "  When the ugothol successfully [[Actions/Squeeze|Squeezes]], it moves through the tight space at full speed. Narrow confines are not difficult terrain for an ugothol."
 
   - name: "Revert Form"
-    desc: "  **Requirements** The ugothol is in an assumed form\n**Effect** The ugothol resumes its true form. Until the start of its next turn, it gains a +2 status bonus to attack rolls, damage rolls, saving throws, and skill checks.\n[[Bestiary Effects/Effect_ Revert Form|Effect: Revert Form]]"
+    desc: "  **Requirements** The ugothol is in an assumed form\n* * *\n\n**Effect** The ugothol resumes its true form. Until the start of its next turn, it gains a +2 status bonus to attack rolls, damage rolls, saving throws, and skill checks.\n\n[[Bestiary Effects/Effect_ Revert Form|Effect: Revert Form]]"
 
   - name: "Sneak Attack"
     desc: "  The ugothol deals 1d6 extra precision damage to [[Conditions/Off-Guard|Off-Guard]] creatures."

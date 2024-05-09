@@ -20,6 +20,7 @@ license: ORC
 columns: 2
 forcecolumns: true
 layout: Basic Pathfinder 2e Layout
+token: [[modules/pf2e-tokens-bestiaries/portraits/divine/archon/legion-archon.webp| ]]
 source: "Pathfinder Monster Core"
 name: "Aesra"
 level: "Creature 7"
@@ -33,7 +34,7 @@ modifier: 15
 perception:
   - name: "Perception"
     desc: "+15; Darkvision"
-languages: "Diabolic, Draconic, Empyrean, Utopian"
+languages: "Diabolic, Draconic, Empyrean, Utopian; Truespeech"
 skills:
   - name: "Skills"
     desc: "Acrobatics: +13, Arcana: +14, Diplomacy: +16, Intimidation: +16, Religion: +13, Survival: +14"
@@ -56,7 +57,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Archon's Protection"
-    desc: "`pf2:r`  **Trigger** An enemy damages the archon's ally and both are within 15 feet of the archon\n**Effect** The ally gains resistance 10 to all damage against the triggering damage and the archon can make a Strike against the enemy."
+    desc: "`pf2:r`  **Trigger** An enemy damages the archon's ally and both are within 15 feet of the archon\n* * *\n\n**Effect** The ally gains resistance 10 to all damage against the triggering damage and the archon can make a Strike against the enemy."
 
 attacks:
   - name: ""

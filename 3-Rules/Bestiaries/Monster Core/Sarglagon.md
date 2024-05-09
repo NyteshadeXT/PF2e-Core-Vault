@@ -21,6 +21,7 @@ license: ORC
 columns: 2
 forcecolumns: true
 layout: Basic Pathfinder 2e Layout
+token: [[modules/pf2e-tokens-bestiaries/portraits/fiendish/devil/sarglagon.webp| ]]
 source: "Pathfinder Monster Core"
 name: "Sarglagon"
 level: "Creature 8"
@@ -35,7 +36,7 @@ modifier: 18
 perception:
   - name: "Perception"
     desc: "+18; Greater Darkvision, See the Unseen"
-languages: "Diabolic, Empyrean"
+languages: "Diabolic, Empyrean; Telepathy 100 feet"
 skills:
   - name: "Skills"
     desc: "Arcana: +14, Athletics: +18, Deception: +15, Diplomacy: +15, Intimidation: +17, Stealth: +15"
@@ -57,10 +58,10 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Heavy Aura"
-    desc: " (aura,divine,incapacitation) 10 feet.\nA creature that enters the heavy aura must attempt a DC 23 Will check save. It is then temporarily immune for 10 minutes.\n**Success** The creature is unaffected.\n**Failure** The creature is encumbered while it remains in the area. If the creature is already encumbered, it is [[Conditions/Immobilized|Immobilized]] while it remains within the aura.\n**Critical Failure** As failure, but the effect persists for 3 rounds after leaving the aura."
+    desc: " (aura,divine,incapacitation) 10 feet.\n\nA creature that enters the heavy aura must attempt a DC 23 Will check save. It is then temporarily immune for 10 minutes.\n* * *\n\n**Success** The creature is unaffected.\n\n**Failure** The creature is encumbered while it remains in the area. If the creature is already encumbered, it is [[Conditions/Immobilized|Immobilized]] while it remains within the aura.\n\n**Critical Failure** As failure, but the effect persists for 3 rounds after leaving the aura."
 
   - name: "Stygian Guardian"
-    desc: "`pf2:r`  **Trigger** A creature or object within the sarglagon's reach is targeted by an attack\n**Effect** The sarglagon interposes themself, giving the creature or object [[Other Effects/Effect_ Cover|Standard Cover]] against the attack (+2 circumstance bonus to AC), or [[Other Effects/Effect_ Cover|Greater Cover]] (+4 circumstance bonus to AC) if the sarglagon was already granting it lesser cover."
+    desc: "`pf2:r`  **Trigger** A creature or object within the sarglagon's reach is targeted by an attack\n* * *\n\n**Effect** The sarglagon interposes themself, giving the creature or object [[Other Effects/Effect_ Cover|Standard Cover]] against the attack (+2 circumstance bonus to AC), or [[Other Effects/Effect_ Cover|Greater Cover]] (+4 circumstance bonus to AC) if the sarglagon was already granting it lesser cover."
 
 attacks:
   - name: ""
@@ -78,10 +79,10 @@ attacks:
     desc: "_[[Spells/Diabolic Pact|Diabolic Pact]]_"
 
   - name: "Drown"
-    desc: "`pf2:2` (divine,incapacitation) The sarglagon conjures murky water to fill the lungs of a creature within 30 feet of it that can't breathe water. The target must attempt a DC 26 Fortitude check save.\n**Critical Success** The target is unaffected.\n**Success** The target coughs up water and is [[Conditions/Sickened 1|Sickened 1]].\n**Failure** The target is holding its breath. The only action it can take is to attempt a Fortitude save against Drown to expel the water, which is a single action.\n**Critical Failure** The target falls [[Conditions/Unconscious|Unconscious]] and begins suffocating. If the target succeeds at its Fortitude save while suffocating, it coughs up the water and can breathe again."
+    desc: "`pf2:2` (divine,incapacitation) The sarglagon conjures murky water to fill the lungs of a creature within 30 feet of it that can't breathe water. The target must attempt a DC 26 Fortitude check save.\n* * *\n\n**Critical Success** The target is unaffected.\n\n**Success** The target coughs up water and is [[Conditions/Sickened 1|Sickened 1]].\n\n**Failure** The target is holding its breath. The only action it can take is to attempt a Fortitude save against Drown to expel the water, which is a single action.\n\n**Critical Failure** The target falls [[Conditions/Unconscious|Unconscious]] and begins suffocating. If the target succeeds at its Fortitude save while suffocating, it coughs up the water and can breathe again."
 
   - name: "Sarglagon Venom"
-    desc: " (poison) **Saving Throw** DC 26 Fortitude check\n**Maximum Duration** 6 rounds\n**Stage 1**2d6 poison damage and [[Conditions/Clumsy 1|Clumsy 1]] (1 round)\n**Stage 2**3d6 poison damage and [[Conditions/Clumsy 1|Clumsy 2]] (1 round)"
+    desc: " (poison) **Saving Throw** DC 26 Fortitude check\n* * *\n\n**Maximum Duration** 6 rounds\n\n**Stage 1**2d6 poison damage and [[Conditions/Clumsy 1|Clumsy 1]] (1 round)\n\n**Stage 2**3d6 poison damage and [[Conditions/Clumsy 1|Clumsy 2]] (1 round)"
  
 ```
 

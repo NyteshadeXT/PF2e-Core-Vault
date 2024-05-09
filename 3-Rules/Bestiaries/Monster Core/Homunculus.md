@@ -18,6 +18,7 @@ license: ORC
 columns: 2
 forcecolumns: true
 layout: Basic Pathfinder 2e Layout
+token: [[modules/pf2e-tokens-bestiaries/portraits/constructed/magical/homunculus.webp| ]]
 source: "Pathfinder Monster Core"
 name: "Homunculus"
 level: "Creature 0"
@@ -29,7 +30,7 @@ modifier: 3
 perception:
   - name: "Perception"
     desc: "+3; Darkvision"
-languages: "Common"
+languages: "Common; (Can&#x27;t Speak Any Language), Master Link"
 skills:
   - name: "Skills"
     desc: "Acrobatics: +5, Stealth: +5"
@@ -49,7 +50,7 @@ abilities_top:
   - name: ""
 
   - name: "Master Link"
-    desc: " (arcane,mental) A homunculus can't speak, but it is telepathically linked to its creator. It can share information back and forth, including its master's knowledge and everything the homunculus hears. The range of this link is 1,500 feet. The homunculus typically has a similar attitude to its creator and is utterly faithful.\nIf the homunculus is destroyed, the master takes 2d10 mental damage. If the master is slain, the homunculus becomes mindless, claims its current location as its lair, and instinctively attacks anyone who comes near."
+    desc: " (arcane,mental) A homunculus can't speak, but it is telepathically linked to its creator. It can share information back and forth, including its master's knowledge and everything the homunculus hears. The range of this link is 1,500 feet. The homunculus typically has a similar attitude to its creator and is utterly faithful.\n\nIf the homunculus is destroyed, the master takes 2d10 mental damage. If the master is slain, the homunculus becomes mindless, claims its current location as its lair, and instinctively attacks anyone who comes near."
 
 abilities_mid:
   - name: ""
@@ -60,7 +61,7 @@ attacks:
     desc: "`pf2:1` Jaws +7 (finesse, magical, reach 0 feet)\n__Damage__  1d4 piercing plus homunculus-poison"
 
   - name: "Homunculus Poison"
-    desc: " (poison) A homunculus has one dose of poison in a reservoir in its head. It can refill this poison from its reserves with an Interact action\n**Saving Throw** DC 15 Fortitude check\n**Maximum Duration** 6 rounds\n**Stage 1** 1d6 poison and [[Conditions/Enfeebled 1|Enfeebled 1]] (1 round)."
+    desc: " (poison) A homunculus has one dose of poison in a reservoir in its head. It can refill this poison from its reserves with an Interact action\n\n**Saving Throw** DC 15 Fortitude check\n* * *\n\n**Maximum Duration** 6 rounds\n\n**Stage 1** 1d6 poison and [[Conditions/Enfeebled 1|Enfeebled 1]] (1 round)."
  
 ```
 

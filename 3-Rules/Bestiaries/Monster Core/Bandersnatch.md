@@ -31,6 +31,7 @@ modifier: 30
 perception:
   - name: "Perception"
     desc: "+30; Darkvision, Scent (Precise) 120 Feet"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Acrobatics: +30, Athletics: +33, Intimidation: +32, Stealth: +32, Survival: +28"
@@ -55,7 +56,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Confusing Gaze"
-    desc: " (aura,emotion,mental,primal,visual) 20 feet.\nWhen a creature ends its turn in the aura, it must succeed at a DC 35 Will check save or become [[Conditions/Confused|Confused]] for 1 round."
+    desc: " (aura,emotion,mental,primal,visual) 20 feet.\n\nWhen a creature ends its turn in the aura, it must succeed at a DC 35 Will check save or become [[Conditions/Confused|Confused]] for 1 round."
 
   - name: "Quick Recovery"
     desc: "  The bandersnatch recovers with frightening speed. At the end of its turn, it reduces the value of one debilitating condition it suffers (with the exception of dying) by 1. If it's [[Conditions/Blinded|Blinded]], [[Conditions/Dazzled|Dazzled]], [[Conditions/Deafened|Deafened]], [[Conditions/Fatigued|Fatigued]], [[Conditions/Fleeing|Fleeing]], or petrified, it can instead succeed at a DC 16 Flat check to end one of these conditions of its choice; it can't use quick recovery on other conditions that lack values."

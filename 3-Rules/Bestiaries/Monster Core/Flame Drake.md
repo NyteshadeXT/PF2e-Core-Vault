@@ -19,6 +19,7 @@ license: ORC
 columns: 2
 forcecolumns: true
 layout: Basic Pathfinder 2e Layout
+token: [[modules/pf2e-tokens-bestiaries/portraits/draconic/drakes/flame-drake.webp| ]]
 source: "Pathfinder Monster Core"
 name: "Flame Drake"
 level: "Creature 5"
@@ -71,10 +72,10 @@ attacks:
     desc: "`pf2:2`  The flame drake makes two Fangs Strikes and one Tail Strike in any order."
 
   - name: "Fireball Breath"
-    desc: "`pf2:2` (fire,primal) The flame drake expels a ball of flame to a range of 180 feet that explodes in a 20-foot burst. Creatures in the burst take 6d6 fire damage (DC 22 Reflex check save).\nThe flame drake can't use Fireball Breath again for 1d6 rounds."
+    desc: "`pf2:2` (fire,primal) The flame drake expels a ball of flame to a range of 180 feet that explodes in a 20-foot burst. Creatures in the burst take 6d6 fire damage (DC 22 Reflex check save).\n\nThe flame drake can't use Fireball Breath again for 1d6 rounds."
 
   - name: "Speed Surge"
-    desc: "`pf2:1` (move) **Frequency** three times per day\n**Effect** The flame drake Strides or Flies twice."
+    desc: "`pf2:1` (move) **Frequency** three times per day\n* * *\n\n**Effect** The flame drake Strides or Flies twice."
  
 ```
 

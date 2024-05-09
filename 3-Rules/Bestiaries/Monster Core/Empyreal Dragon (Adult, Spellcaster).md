@@ -33,7 +33,7 @@ modifier: 27
 perception:
   - name: "Perception"
     desc: "+27; Darkvision, Lifesense (Imprecise) 30 Feet, Scent (Imprecise) 60 Feet"
-languages: "Common, Draconic, Empyrean, Chthonian, Diabolic"
+languages: "Common, Draconic, Empyrean, Chthonian, Diabolic; Truespeech"
 skills:
   - name: "Skills"
     desc: "Acrobatics: +26, Athletics: +28, Diplomacy: +25, Heaven Lore: +26, Intimidation: +25, Medicine: +28, Religion: +28, Society: +24"
@@ -55,10 +55,10 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Divine Deflection"
-    desc: "`pf2:r`  **Trigger** The dragon is critically hit by an attack\n**Effect** Divine power intercedes, preventing some of the damage. The dragon gains resistance 10 to all damage against the triggering attack."
+    desc: "`pf2:r`  **Trigger** The dragon is critically hit by an attack\n* * *\n\n**Effect** Divine power intercedes, preventing some of the damage. The dragon gains resistance 10 to all damage against the triggering attack."
 
   - name: "Inspiring Presence"
-    desc: " (aura,emotion,mental) 40 feet.\nThe mere sight of an empyreal dragon motivates other creatures. Creatures within the aura gain a +1 status bonus to saving throws and skill checks. The empyreal dragon can't gain the benefit of their own aura or other actions that use the aura, and they can choose to exclude any creatures from any benefit of the aura or action that uses the aura."
+    desc: " (aura,emotion,mental) 40 feet.\n\nThe mere sight of an empyreal dragon motivates other creatures. Creatures within the aura gain a +1 status bonus to saving throws and skill checks. The empyreal dragon can't gain the benefit of their own aura or other actions that use the aura, and they can choose to exclude any creatures from any benefit of the aura or action that uses the aura."
 
 attacks:
   - name: ""
@@ -85,10 +85,10 @@ attacks:
     desc: "`pf2:1` (concentrate,divine,manipulate) The dragon tosses their halo to a square within 90 feet. While the halo is deployed in this way, the dragon loses their inspiring presence aura, and the aura instead emanates from the halo with the same emanation radius. The dragon can Sustain to recall the halo from any distance. The halo is made of pure light—it doesn't occupy space and can't be targeted or destroyed in any way."
 
   - name: "Halo Pulse"
-    desc: "`pf2:2` (concentrate,divine) The dragon chooses one effect to impose on creatures in their inspiring presence aura.\nThe dragon can't use Halo Pulse again for 1d4 rounds.\n*   **Repulsion** Each creature must succeed at a DC 34 Fortitude check save or be pushed until it's no longer in the aura.\n*   **Restoration** (healing, vitality) Each creature recovers 7d8 Hit Points."
+    desc: "`pf2:2` (concentrate,divine) The dragon chooses one effect to impose on creatures in their inspiring presence aura.\n\nThe dragon can't use Halo Pulse again for 1d4 rounds.\n\n*   **Repulsion** Each creature must succeed at a DC 34 Fortitude check save or be pushed until it's no longer in the aura.\n*   **Restoration** (healing, vitality) Each creature recovers 7d8 Hit Points."
 
   - name: "Spirit Breath"
-    desc: "`pf2:2` (divine,holy,spirit) The dragon unleashes a blast of holy fire that deals 12d8 spirit damage in a 50-foot cone (DC 34 Reflex check save).\nThe dragon can't use Spirit Breath again for 1d4 rounds."
+    desc: "`pf2:2` (divine,holy,spirit) The dragon unleashes a blast of holy fire that deals 12d8 spirit damage in a 50-foot cone (DC 34 Reflex check save).\n\nThe dragon can't use Spirit Breath again for 1d4 rounds."
  
 ```
 

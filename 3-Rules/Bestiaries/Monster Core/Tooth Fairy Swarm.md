@@ -19,6 +19,7 @@ license: ORC
 columns: 2
 forcecolumns: true
 layout: Basic Pathfinder 2e Layout
+token: [[modules/pf2e-tokens-bestiaries/portraits/fey/fairy/tooth-fairy-swarm.webp| ]]
 source: "Pathfinder Monster Core"
 name: "Tooth Fairy Swarm"
 level: "Creature 3"
@@ -31,6 +32,7 @@ modifier: 8
 perception:
   - name: "Perception"
     desc: "+8; Darkvision"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Acrobatics: +10, Stealth: +10, Thievery: +12"
@@ -61,7 +63,7 @@ attacks:
     desc: "`pf2:1`  Tooth fairies pinch their victims' fingers, noses, ears, or similar protruding body parts. Each enemy in the swarm's space takes 2d6 bludgeoning damage (DC 20 Reflex check save). Creatures that critically fail this save are [[Conditions/Sickened 1|Sickened 1]] from the pain."
 
   - name: "Pry"
-    desc: "`pf2:3`  The tooth fairies try to pry out one of their target's teeth. One enemy in the swarm's space takes 4d6 bludgeoning damage with a DC 20 Reflex check save. On a failed save, the target takes 2 bleed damage and loses a tooth.\nIf the creature loses a tooth, it takes a –1 status penalty to Charisma-based skill checks and must succeed at a DC 5 Flat check to Cast a Spell unless that spell has the subtle trait. These effects last for 1 day, or until the stolen tooth is returned and the target regains at least 1 Hit Point."
+    desc: "`pf2:3`  The tooth fairies try to pry out one of their target's teeth. One enemy in the swarm's space takes 4d6 bludgeoning damage with a DC 20 Reflex check save. On a failed save, the target takes 2 bleed damage and loses a tooth.\n\nIf the creature loses a tooth, it takes a –1 status penalty to Charisma-based skill checks and must succeed at a DC 5 Flat check to Cast a Spell unless that spell has the subtle trait. These effects last for 1 day, or until the stolen tooth is returned and the target regains at least 1 Hit Point."
  
 ```
 

@@ -58,13 +58,13 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "[[Bestiary Ability Glossary/Frightful Presence|Frightful Presence]]"
-    desc: " (aura,emotion,fear,mental) 90 feet DC 37 Will check\n"
+    desc: " (aura,emotion,fear,mental) 90 feet DC 37 Will check\n\n* * *\n"
 
   - name: "Miasma"
-    desc: " (aura,poison) 20 feet.\nAfter the dragon uses their Poison Breath, a cloud of poison gas continues to emanate from their body for 1 round. Any creature that ends its turn in the miasma takes 4d6 poison damage (DC 37 Fortitude check save).\nAny creature in the miasma is [[Conditions/Concealed|Concealed]] and treats other creatures as concealed. The dragon can see through this concealment."
+    desc: " (aura,poison) 20 feet.\n\nAfter the dragon uses their Poison Breath, a cloud of poison gas continues to emanate from their body for 1 round. Any creature that ends its turn in the miasma takes 4d6 poison damage (DC 37 Fortitude check save).\n\nAny creature in the miasma is [[Conditions/Concealed|Concealed]] and treats other creatures as concealed. The dragon can see through this concealment."
 
   - name: "Twisting Tail"
-    desc: "`pf2:r`  **Trigger** A creature within reach of the dragon's tail uses a move action or leaves a square during a move action it's using\n**Effect** The dragon makes a tail Strike at the creature with a –2 penalty. If the Strike hits, the dragon disrupts the creature's action."
+    desc: "`pf2:r`  **Trigger** A creature within reach of the dragon's tail uses a move action or leaves a square during a move action it's using\n* * *\n\n**Effect** The dragon makes a tail Strike at the creature with a –2 penalty. If the Strike hits, the dragon disrupts the creature's action."
 
 attacks:
   - name: ""
@@ -91,10 +91,10 @@ attacks:
     desc: "  The horned dragon ignores any difficult terrain caused by plants, such as bushes, vines, and undergrowth. Even plants manipulated by magic don’t impede their progress."
 
   - name: "Impaling Charge"
-    desc: "`pf2:2`  **Requirements** The dragon doesn't have a creature impaled on their horn\n**Effect** The dragon attempts to gore a foe. They Stride, then attempt a horn Strike. On a hit, the target becomes impaled on the dragon's horn. The creature is [[Conditions/Grabbed|Grabbed]] while on the horn (and can attempt to [[Actions/Escape|Escape]] as normal). The dragon doesn't need to use additional actions to keep the impaled creature grabbed. If the dragon moves, they bring the grabbed creature along with them."
+    desc: "`pf2:2`  **Requirements** The dragon doesn't have a creature impaled on their horn\n* * *\n\n**Effect** The dragon attempts to gore a foe. They Stride, then attempt a horn Strike. On a hit, the target becomes impaled on the dragon's horn. The creature is [[Conditions/Grabbed|Grabbed]] while on the horn (and can attempt to [[Actions/Escape|Escape]] as normal). The dragon doesn't need to use additional actions to keep the impaled creature grabbed. If the dragon moves, they bring the grabbed creature along with them."
 
   - name: "Poison Breath"
-    desc: "`pf2:2` (poison,primal) The dragon breathes a toxic cloud that deals 18d6 poison damage in a 60-foot cone (DC 37 Fortitude check save).\nThey can't use Poison Breath again for 1d4 rounds."
+    desc: "`pf2:2` (poison,primal) The dragon breathes a toxic cloud that deals 18d6 poison damage in a 60-foot cone (DC 37 Fortitude check save).\n\nThey can't use Poison Breath again for 1d4 rounds."
 
   - name: "Trackless Journey"
     desc: "  The horned dragon always gains the benefits of Cover Tracks in natural surroundings, even while moving at full speed."

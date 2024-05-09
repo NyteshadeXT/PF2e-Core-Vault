@@ -31,6 +31,7 @@ modifier: 8
 perception:
   - name: "Perception"
     desc: "+8; Darkvision"
+languages: "One Spoken by its Creator (typically Common)"
 skills:
   - name: "Skills"
     desc: "Acrobatics: +8, Occultism: +4, Stealth: +8"

@@ -52,7 +52,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Preserve Prey"
-    desc: "`pf2:r` (healing,manipulate,occult,vitality) **Trigger** A living creature within 30 feet is reduced to 0 Hit Points\n**Effect** The zecui channels corrupt vitality into the triggering creature, which still goes [[Conditions/Unconscious|Unconscious]] but does not gain the dying condition. While that creature is unconscious, the residual energy attempts to counteract any vitality spell healing that creature with a +15 counteract modifier."
+    desc: "`pf2:r` (healing,manipulate,occult,vitality) **Trigger** A living creature within 30 feet is reduced to 0 Hit Points\n* * *\n\n**Effect** The zecui channels corrupt vitality into the triggering creature, which still goes [[Conditions/Unconscious|Unconscious]] but does not gain the dying condition. While that creature is unconscious, the residual energy attempts to counteract any vitality spell healing that creature with a +15 counteract modifier."
 
 attacks:
   - name: ""
@@ -70,7 +70,7 @@ attacks:
     desc: "`pf2:1` Spit +17 (range 30 feet)\n__Damage__ "
 
   - name: "Dual Stab"
-    desc: "`pf2:1`  **Frequency** once per round\n**Effect** The zecui makes two shortsword Strikes against an [[Conditions/Immobilized|Immobilized]] or [[Conditions/Off-Guard|Off-Guard]] target. These strikes count towards the zecui's multiple attack penalty, but it doesn't increase until after the second attack."
+    desc: "`pf2:1`  **Frequency** once per round\n* * *\n\n**Effect** The zecui makes two shortsword Strikes against an [[Conditions/Immobilized|Immobilized]] or [[Conditions/Off-Guard|Off-Guard]] target. These strikes count towards the zecui's multiple attack penalty, but it doesn't increase until after the second attack."
 
   - name: "Harden Chitin"
     desc: "`pf2:1`  The zecui fuses much of their chitin into a black metallic shell. They gain resistance 5 to all damage (except mental and spirit) until they next take a move action."
@@ -79,7 +79,7 @@ attacks:
     desc: "  A creature hit by the zecui's spit attack is [[Conditions/Immobilized|Immobilized]] by the larva-infested mucus and stuck to the nearest surface until it [[/act escape dc=25]]{Escapes (DC 25)}. While that creature is immobilized, it is exposed to zecui larvae at the end of each of its turns."
 
   - name: "Zecui Larvae"
-    desc: " (disease) **Saving Throw** DC 25 Fortitude check\n**Stage 1** visible lumps as the larvae move but no ill effect (1 day)\n**Stage 2** [[Conditions/Drained 1|Drained 1]] (1 day)\n**Stage 3** [[Conditions/Drained 1|Drained 2]] (1 day)\n**Stage 4** [[Conditions/Drained 1|Drained 3]] and controlled by the zecui larva (1 day)\n**Stage 5** the creature dies and the adult zecui can emerge from the corpse as an Interact action"
+    desc: " (disease) **Saving Throw** DC 25 Fortitude check\n* * *\n\n**Stage 1** visible lumps as the larvae move but no ill effect (1 day)\n\n**Stage 2** [[Conditions/Drained 1|Drained 1]] (1 day)\n\n**Stage 3** [[Conditions/Drained 1|Drained 2]] (1 day)\n\n**Stage 4** [[Conditions/Drained 1|Drained 3]] and controlled by the zecui larva (1 day)\n\n**Stage 5** the creature dies and the adult zecui can emerge from the corpse as an Interact action"
  
 ```
 

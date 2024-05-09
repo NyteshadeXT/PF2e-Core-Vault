@@ -21,6 +21,7 @@ license: ORC
 columns: 2
 forcecolumns: true
 layout: Basic Pathfinder 2e Layout
+token: [[modules/pf2e-tokens-bestiaries/portraits/fiendish/beast/hell-hound.webp| ]]
 source: "Pathfinder Monster Core"
 name: "Hell Hound"
 level: "Creature 3"
@@ -35,7 +36,7 @@ modifier: 9
 perception:
   - name: "Perception"
     desc: "+9; Darkvision, Scent (Imprecise) 60 Feet"
-languages: "Diabolic"
+languages: "Diabolic; (Can&#x27;t Speak Any Language)"
 skills:
   - name: "Skills"
     desc: "Acrobatics: +8, Athletics: +9, Stealth: +8, Survival: +9 (+11 to Track)"
@@ -63,7 +64,7 @@ attacks:
     desc: "`pf2:1` Jaws +13 (magical, unholy)\n__Damage__  1d8 + 4 piercing 1d6 fire"
 
   - name: "Hellfire Breath"
-    desc: "`pf2:1` (divine,fire,unholy) The hell hound breathes flames that deal 4d6 fire damage to all creatures in a 15-foot cone (DC 19 Reflex check save).\nThe hell hound can't use Hellfire Breath again for 1d4 rounds. If the hell hound would take fire damage or be targeted by a fire effect, their Hellfire Breath recharges."
+    desc: "`pf2:1` (divine,fire,unholy) The hell hound breathes flames that deal 4d6 fire damage to all creatures in a 15-foot cone (DC 19 Reflex check save).\n\nThe hell hound can't use Hellfire Breath again for 1d4 rounds. If the hell hound would take fire damage or be targeted by a fire effect, their Hellfire Breath recharges."
 
   - name: "Pack Attack"
     desc: "  The hell hound's Strikes deal 1d4 extra damage to creatures within the reach of at least two of the hell hounds' allies."

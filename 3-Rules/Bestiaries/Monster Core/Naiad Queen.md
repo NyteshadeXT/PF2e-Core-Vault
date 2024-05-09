@@ -21,6 +21,7 @@ license: ORC
 columns: 2
 forcecolumns: true
 layout: Basic Pathfinder 2e Layout
+token: [[modules/pf2e-tokens-bestiaries/portraits/fey/nymph/naiad-queen.webp| ]]
 source: "Pathfinder Monster Core"
 name: "Naiad Queen"
 level: "Creature 7"
@@ -58,12 +59,12 @@ abilities_top:
     desc: "  The naiad can ask questions of, receive answers from, and use the Diplomacy skill with animals."
 
   - name: "[[Creature Family Ability Glossary/(Nymph Queen) Tied to the Land|Tied to the Land]]"
-    desc: "  The queen is tied to a body of water or area with a great deal of water features.\nA nymph queen is intrinsically tied to a specific region. As long as the queen is healthy, the environment is exceptionally resilient, allowing the nymph queen to automatically attempt to counteract any spell that would harm the environment (such as the [[Spells/Blight|Blight]] ritual), using her spell DC with a counteract rank equal to the highest-rank druid spell she can cast.\nWhen the nymph queen becomes physically or psychologically unhealthy, however, her warded region eventually becomes twisted or unhealthy as well. In that case, restoring the nymph queen swiftly heals the entire region."
+    desc: "  The queen is tied to a body of water or area with a great deal of water features.\n* * *\n\nA nymph queen is intrinsically tied to a specific region. As long as the queen is healthy, the environment is exceptionally resilient, allowing the nymph queen to automatically attempt to counteract any spell that would harm the environment (such as the [[Spells/Blight|Blight]] ritual), using her spell DC with a counteract rank equal to the highest-rank druid spell she can cast.\n\nWhen the nymph queen becomes physically or psychologically unhealthy, however, her warded region eventually becomes twisted or unhealthy as well. In that case, restoring the nymph queen swiftly heals the entire region."
 
 abilities_mid:
   - name: ""
   - name: "[[Creature Family Ability Glossary/(Nymph Queen) Nymph's Beauty|Nymph's Beauty]]"
-    desc: " (aura,emotion,mental,primal,visual) 30 feet.\nA creature that fails its save is [[Conditions/Stunned 1|Stunned 1]] and becomes stunned 1 each time it starts its turn within the aura for the next 24 hours, even if it can't see the naiad queen.\nCreatures that start their turn in the aura must succeed at a DC 23 Will check save or suffer an effect described in the nymph queen's entry."
+    desc: " (aura,emotion,mental,primal,visual) 30 feet.\n* * *\n\nA creature that fails its save is [[Conditions/Stunned 1|Stunned 1]] and becomes stunned 1 each time it starts its turn within the aura for the next 24 hours, even if it can't see the naiad queen.\n* * *\n\nCreatures that start their turn in the aura must succeed at a DC 23 Will check save or suffer an effect described in the nymph queen's entry."
 
 attacks:
   - name: ""
@@ -81,13 +82,13 @@ attacks:
     desc: "DC 28, attack +20; __4th __  _[[Spells/Charm|Charm]]_, _[[Spells/Create Water|Create Water]]_, _[[Spells/Hydraulic Push|Hydraulic Push]]_, _[[Spells/Tidal Surge|Tidal Surge]]_"
 
   - name: "[[Creature Family Ability Glossary/(Nymph Queen) Change Shape|Change Shape]]"
-    desc: "`pf2:1` (polymorph,primal) Nymph queens can transform between their original form, which looks much like a typical nymph of their kind, and any Small or Medium humanoid form, typically choosing a more humanoid-looking version of their natural form.\n"
+    desc: "`pf2:1` (polymorph,primal) Nymph queens can transform between their original form, which looks much like a typical nymph of their kind, and any Small or Medium humanoid form, typically choosing a more humanoid-looking version of their natural form.\n\n* * *\n"
 
   - name: "[[Creature Family Ability Glossary/(Nymph Queen) Focus Beauty|Focus Beauty]]"
-    desc: "`pf2:1` (emotion,mental,primal,visual) If a target already affected by nymph's beauty fails its save, the image of the queen sears into the creature's mind, effectively blinding the creature until its vision is restored with sound body or a similar effect.\nThe naiad queen can Dismiss the effect.\nThe nymph queen focuses her beauty upon a target, who must attempt a save against her nymph's beauty aura (DC 23 Will check save). If the creature fails and was already affected by the aura, it takes a greater effect described in the nymph queen's entry.\nA nymph queen can Focus Beauty on a given creature only once per turn."
+    desc: "`pf2:1` (emotion,mental,primal,visual) If a target already affected by nymph's beauty fails its save, the image of the queen sears into the creature's mind, effectively blinding the creature until its vision is restored with sound body or a similar effect.\n\nThe naiad queen can Dismiss the effect.\n* * *\n\nThe nymph queen focuses her beauty upon a target, who must attempt a save against her nymph's beauty aura (DC 23 Will check save). If the creature fails and was already affected by the aura, it takes a greater effect described in the nymph queen's entry.\n\nA nymph queen can Focus Beauty on a given creature only once per turn."
 
   - name: "[[Creature Family Ability Glossary/(Nymph Queen) Inspiration|Inspiration]]"
-    desc: "`pf2:3` (emotion,mental,primal) The nymph queen inspires a single intelligent creature by giving that creature a token of her favor, typically a lock of her hair, though it can be some other significant object as well. As long as the creature carries her token and remains in good standing with her, the creature gains a +1 status bonus to all Crafting checks, Performance checks, and Will saves.\nIf the nymph grants her token to a bard, and she's the bard's muse, the queen chooses one additional benefit granted by her token: a +1 status bonus to all Lore checks, a +2 status bonus to Performance checks when determining the effects of compositions, a +4 status bonus to untrained skill checks, or a +2 status bonus to Will saves against fey.\n[[Bestiary Effects/Effect_ Nymph Queen's Inspiration|Effect: Nymph Queen's Inspiration]]"
+    desc: "`pf2:3` (emotion,mental,primal) The nymph queen inspires a single intelligent creature by giving that creature a token of her favor, typically a lock of her hair, though it can be some other significant object as well. As long as the creature carries her token and remains in good standing with her, the creature gains a +1 status bonus to all Crafting checks, Performance checks, and Will saves.\n\nIf the nymph grants her token to a bard, and she's the bard's muse, the queen chooses one additional benefit granted by her token: a +1 status bonus to all Lore checks, a +2 status bonus to Performance checks when determining the effects of compositions, a +4 status bonus to untrained skill checks, or a +2 status bonus to Will saves against fey.\n\n[[Bestiary Effects/Effect_ Nymph Queen's Inspiration|Effect: Nymph Queen's Inspiration]]"
 
   - name: "Water Healing"
     desc: "`pf2:2` (healing,primal,vitality) For every 10 minutes a naiad spends soaking in any body of water in her domain, she regains 30 Hit Points."

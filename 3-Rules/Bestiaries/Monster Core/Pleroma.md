@@ -19,6 +19,7 @@ license: ORC
 columns: 2
 forcecolumns: true
 layout: Basic Pathfinder 2e Layout
+token: [[modules/pf2e-tokens-bestiaries/portraits/monitor/aeon/pleroma.webp| ]]
 source: "Pathfinder Monster Core"
 name: "Pleroma"
 level: "Creature 20"
@@ -31,6 +32,7 @@ modifier: 37
 perception:
   - name: "Perception"
     desc: "+37; Darkvision, Lifesense (Imprecise) 120 Feet, Truesight"
+languages: "Envisioning"
 skills:
   - name: "Skills"
     desc: "Acrobatics: +33, Arcana: +38, Deception: +34, Diplomacy: +34, Occultism: +38, Religion: +39, Stealth: +35"
@@ -50,12 +52,12 @@ abilities_top:
   - name: ""
 
   - name: "[[Monster Core/Akhana/Envisioning|Envisioning]]"
-    desc: " (aura,divine,mental) 100 feet\nA pleroma can communicate mentally with any creatures in the aura using wordless psychic projections. They don't need to share a language, though the aeon's meaning to non-aeons can be vague and is often mysterious. An aeon can use this ability to communicate flawlessly with any other aeon on the same plane as itself."
+    desc: " (aura,divine,mental) 100 feet\n* * *\n\nA pleroma can communicate mentally with any creatures in the aura using wordless psychic projections. They don't need to share a language, though the aeon's meaning to non-aeons can be vague and is often mysterious. An aeon can use this ability to communicate flawlessly with any other aeon on the same plane as itself."
 
 abilities_mid:
   - name: ""
   - name: "Reality Twist"
-    desc: "`pf2:r`  **Trigger** The pleroma critically fails a saving throw\n**Effect** The critical failure becomes a normal failure."
+    desc: "`pf2:r`  **Trigger** The pleroma critically fails a saving throw\n* * *\n\n**Effect** The critical failure becomes a normal failure."
 
 attacks:
   - name: ""
@@ -73,7 +75,7 @@ attacks:
     desc: "`pf2:2` (concentrate,divine) The pleroma manifests a 2-foot-diameter sphere of energy—either a white sphere of creation that hovers above their left hand or a black sphere of oblivion above their right. This action has the vitality trait for a sphere of creation or the void trait for a sphere of oblivion. A sphere vanishes after 1 minute, when it is more than 300 feet from the pleroma, or when the pleroma Generates a Sphere of that type again. A sphere of oblivion winks out of existence when it vanishes, but a sphere of creation explodes in blinding light—each creature in a 30-foot emanation must succeed at a DC 43 Fortitude check save or be permanently [[Conditions/Blinded|Blinded]]. This is a light effect."
 
   - name: "Propel Sphere"
-    desc: "`pf2:1` (concentrate,divine) **Requirements** The pleroma has a sphere of creation or sphere of oblivion active\n**Effect** The pleroma makes one of its spheres fly 10 feet in any direction, ignoring difficult terrain and greater difficult terrain. A sphere of creation creates new matter in its path, which the pleroma can have manifest as normal terrain, difficult terrain, greater difficult terrain, or a cube of solid mater (such as clay, wood, or stone). A sphere of oblivion destroys unattended objects it touches, though larger objects are destroyed at a rate of one 10-foot cube per round of contact. The sphere can enter the space of a creature; when it does, the creature takes 20d6 damage with a DC 43 Fortitude check save.\nThis is an incapacitation effect.\n**Success** The creature takes no damage and is pushed out of the sphere to the nearest open space of the GM's choice.\n**Failure** The creature takes full damage; this is vitality damage for a sphere of creation or void damage for a sphere of oblivion, but it can damage any type of creature regardless of its normal immunities. The creature is then pushed out of the sphere as on a success. A creature reduced to 0 HP is slain instead of being pushed out, either merged with new matter for a sphere of creation or completely destroyed for a void of oblivion; the creature can be restored only via a [[Spells/Wish|Wish]] ritual or similarly powerful effect. This is a death effect.\n**Critical Failure** As failure, but the creature takes double damage."
+    desc: "`pf2:1` (concentrate,divine) **Requirements** The pleroma has a sphere of creation or sphere of oblivion active\n* * *\n\n**Effect** The pleroma makes one of its spheres fly 10 feet in any direction, ignoring difficult terrain and greater difficult terrain. A sphere of creation creates new matter in its path, which the pleroma can have manifest as normal terrain, difficult terrain, greater difficult terrain, or a cube of solid mater (such as clay, wood, or stone). A sphere of oblivion destroys unattended objects it touches, though larger objects are destroyed at a rate of one 10-foot cube per round of contact. The sphere can enter the space of a creature; when it does, the creature takes 20d6 damage with a DC 43 Fortitude check save.\n\nThis is an incapacitation effect.\n\n**Success** The creature takes no damage and is pushed out of the sphere to the nearest open space of the GM's choice.\n\n**Failure** The creature takes full damage; this is vitality damage for a sphere of creation or void damage for a sphere of oblivion, but it can damage any type of creature regardless of its normal immunities. The creature is then pushed out of the sphere as on a success. A creature reduced to 0 HP is slain instead of being pushed out, either merged with new matter for a sphere of creation or completely destroyed for a void of oblivion; the creature can be restored only via a [[Spells/Wish|Wish]] ritual or similarly powerful effect. This is a death effect.\n\n**Critical Failure** As failure, but the creature takes double damage."
  
 ```
 

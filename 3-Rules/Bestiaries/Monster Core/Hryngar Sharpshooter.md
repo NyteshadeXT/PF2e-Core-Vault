@@ -20,6 +20,7 @@ license: ORC
 columns: 2
 forcecolumns: true
 layout: Basic Pathfinder 2e Layout
+token: [[modules/pf2e-tokens-bestiaries/portraits/humanoid/darklands/duergar-sharpshooter.webp| ]]
 source: "Pathfinder Monster Core"
 name: "Hryngar Sharpshooter"
 level: "Creature 0"
@@ -68,7 +69,7 @@ attacks:
     desc: "DC 12, attack +4; __2nd __  _[[Spells/Blood Vendetta|Blood Vendetta]]_, _[[Spells/Paranoia|Paranoia]]_\n__Cantrips__  __(1st)__ _[[Spells/Sigil|Sigil]]_"
 
   - name: "Bola Bolt"
-    desc: "  This shot deals no damage, but on a hit, the target must succeed at a DC 16 Reflex check save or be knocked [[Conditions/Prone|Prone]] and [[Conditions/Immobilized|Immobilized]] until it is freed with a successful DC 15 check to [[Actions/Escape|Escape]]. This check can be attempted either by the target or a creature adjacent to the target."
+    desc: "  This shot deals no damage, but on a hit, the target must succeed at a DC 16 Reflex check save or be knocked [[Conditions/Prone|Prone]] and [[Conditions/Immobilized|Immobilized]] until it is freed with a successful DC 15 check to [[/act escape dc=15]]. This check can be attempted either by the target or a creature adjacent to the target."
  
 ```
 

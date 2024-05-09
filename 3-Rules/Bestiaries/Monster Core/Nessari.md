@@ -20,6 +20,7 @@ license: ORC
 columns: 2
 forcecolumns: true
 layout: Basic Pathfinder 2e Layout
+token: [[modules/pf2e-tokens-bestiaries/portraits/fiendish/devil/pit-fiend.webp| ]]
 source: "Pathfinder Monster Core"
 name: "Nessari"
 level: "Creature 20"
@@ -33,7 +34,7 @@ modifier: 37
 perception:
   - name: "Perception"
     desc: "+37; Greater Darkvision, Truesight"
-languages: "Common, Diabolic, Draconic, Empyrean"
+languages: "Common, Diabolic, Draconic, Empyrean; telepathy 100 feet"
 skills:
   - name: "Skills"
     desc: "Acrobatics: +34, Arcana: +32, Athletics: +33, Deception: +39, Diplomacy: +34, Intimidation: +39, Religion: +37, Society: +36, Stealth: +34"
@@ -55,13 +56,13 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Commander's Aura"
-    desc: " (aura,divine) 100 feet.\nCommanded or allied unholy creatures in the aura of lower level than the nessari gain a +1 circumstance bonus to attack rolls, damage rolls, AC, saves, and skill checks.\n[[Bestiary Effects/Effect_ Commander's Aura|Effect: Commander's Aura]]"
+    desc: " (aura,divine) 100 feet.\n\nCommanded or allied unholy creatures in the aura of lower level than the nessari gain a +1 circumstance bonus to attack rolls, damage rolls, AC, saves, and skill checks.\n\n[[Bestiary Effects/Effect_ Commander's Aura|Effect: Commander's Aura]]"
 
   - name: "[[Bestiary Ability Glossary/Frightful Presence|Frightful Presence]]"
-    desc: " (aura,divine,emotion,fear,mental) 20 feet DC 42 Will check\n"
+    desc: " (aura,divine,emotion,fear,mental) 20 feet DC 42 Will check\n\n* * *\n"
 
   - name: "[[Bestiary Ability Glossary/Reactive Strike|Reactive Strike (Special)]]"
-    desc: "`pf2:r`  The nessari can make a Reactive Strike when a creature within reach uses a concentrate action, in addition to the usual trigger. The devil can disrupt triggering concentrate actions, and they disrupt actions on any hit, not only a critical hit.\n"
+    desc: "`pf2:r`  The nessari can make a Reactive Strike when a creature within reach uses a concentrate action, in addition to the usual trigger. The devil can disrupt triggering concentrate actions, and they disrupt actions on any hit, not only a critical hit.\n\n* * *\n"
 
 attacks:
   - name: ""
@@ -85,19 +86,19 @@ attacks:
     desc: "_[[Spells/Diabolic Pact|Diabolic Pact]]_"
 
   - name: "[[Bestiary Ability Glossary/Constrict|Constrict]]"
-    desc: "`pf2:1` (unholy) 2d10 + 17 bludgeoning, DC 43 Fortitude check\n"
+    desc: "`pf2:1` (unholy) 2d10 + 17 bludgeoning, DC 43 Fortitude check\n\n* * *\n"
 
   - name: "Fast Swoop"
     desc: "`pf2:1`  The nessari Flies and makes a wing Strike at any point during its movement."
 
   - name: "Masterful Quickened Casting"
-    desc: " (concentrate) **Frequency** once per round\n**Effect** If the nessari's next action is to cast an 8th-rank or lower innate spell, reduce the number of actions to cast it by 1 (minimum 1 action)."
+    desc: " (concentrate) **Frequency** once per round\n* * *\n\n**Effect** If the nessari's next action is to cast an 8th-rank or lower innate spell, reduce the number of actions to cast it by 1 (minimum 1 action)."
 
   - name: "Nessari Venom"
-    desc: " (poison) **Saving Throw** DC 43 Fortitude check\n**Maximum Duration** 10 rounds\n**Stage 1** 6d6 poison damage and [[Conditions/Drained 1|Drained 1]] (1 round)\n**Stage 2** 7d6 poison damage and [[Conditions/Drained 1|Drained 2]] (1 round)\n**Stage 3** 8d6 poison damage and [[Conditions/Drained 1|Drained 3]] (1 round)"
+    desc: " (poison) **Saving Throw** DC 43 Fortitude check\n\n**Maximum Duration** 10 rounds\n\n**Stage 1** 6d6 poison damage and [[Conditions/Drained 1|Drained 1]] (1 round)\n\n**Stage 2** 7d6 poison damage and [[Conditions/Drained 1|Drained 2]] (1 round)\n\n**Stage 3** 8d6 poison damage and [[Conditions/Drained 1|Drained 3]] (1 round)"
 
   - name: "Shape Devils"
-    desc: " (divine,downtime) The nessari reshapes a large number of orts within a 600-foot emanation into more powerful devils to swell Hell's legions. The nessari must have available the number of orts listed on the table below.\n  \n| Devil Level | Number of Orts |\n| --- | --- |\n| 4 or below | 4 |\n| 5-6 | 8 |\n| 7-8 | 16 |\n| 9-10 | 32 |\n| 11-12 | 64 |\n| 13-14 | 128 |\n| 15-16 | 256 |\n| 17-18 | 512 |\n| 19-20 | 1.024 |\nThe nessari can shape 100 orts per day, to a maximum of 1,100 orts in 11 days. Devils created in this way are in thrall to the nessari and follow its orders, with the exception of created nessaris or other devils of similar power, which are always independent. As a result, few nessaris choose to create peers. At the end of the Shape Devils activity, the nessari attempts an incredibly hard Religion check check of the desired devil's level, with results as follows.\n**Critical Success** The nessari shapes two devils from the massed orts instead of one.\n**Success** The nessari shapes a devil of the desired type and level.\n**Failure** The devil shaped from the orts is 2 levels lower than the intended devil.\n**Critical Failure** The nessari fails to shape any devils and draws the ire of an archdevil for its waste of resources."
+    desc: " (divine,downtime) The nessari reshapes a large number of orts within a 600-foot emanation into more powerful devils to swell Hell's legions. The nessari must have available the number of orts listed on the table below.\n\n  \n\n| Devil Level | Number of Orts |\n| --- | --- |\n| 4 or below | 4 |\n| 5-6 | 8 |\n| 7-8 | 16 |\n| 9-10 | 32 |\n| 11-12 | 64 |\n| 13-14 | 128 |\n| 15-16 | 256 |\n| 17-18 | 512 |\n| 19-20 | 1.024 |\n\nThe nessari can shape 100 orts per day, to a maximum of 1,100 orts in 11 days. Devils created in this way are in thrall to the nessari and follow its orders, with the exception of created nessaris or other devils of similar power, which are always independent. As a result, few nessaris choose to create peers. At the end of the Shape Devils activity, the nessari attempts an incredibly hard Religion check check of the desired devil's level, with results as follows.\n* * *\n\n**Critical Success** The nessari shapes two devils from the massed orts instead of one.\n\n**Success** The nessari shapes a devil of the desired type and level.\n\n**Failure** The devil shaped from the orts is 2 levels lower than the intended devil.\n\n**Critical Failure** The nessari fails to shape any devils and draws the ire of an archdevil for its waste of resources."
  
 ```
 

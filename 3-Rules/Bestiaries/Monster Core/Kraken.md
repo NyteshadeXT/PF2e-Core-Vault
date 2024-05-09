@@ -19,6 +19,7 @@ license: ORC
 columns: 2
 forcecolumns: true
 layout: Basic Pathfinder 2e Layout
+token: [[modules/pf2e-tokens-bestiaries/portraits/bestial/aquatic/kraken.webp| ]]
 source: "Pathfinder Monster Core"
 name: "Kraken"
 level: "Creature 18"
@@ -71,19 +72,19 @@ attacks:
     desc: "DC 40, attack +32; __10th __  _[[Spells/Dominate|Dominate (Animals Only)]]_; __8th __  _[[Spells/Punishing Winds|Punishing Winds]]_; __7th __  _[[Spells/Resist Energy|Resist Energy]]_"
 
   - name: "[[Bestiary Ability Glossary/Constrict|Constrict]]"
-    desc: "`pf2:1`  2d10 + 17 bludgeoning, DC 40 Fortitude check\n"
+    desc: "`pf2:1`  2d10 + 17 bludgeoning, DC 40 Fortitude check. On a failed save, a creature that is holding its breath loses 1d4 rounds worth of air.\n\n* * *\n"
 
   - name: "Double Attack"
-    desc: "`pf2:1`  The kraken makes two Strikes with two different arms or tentacles, each limb targeting a different creature. Double Attack counts as two attacks toward the kraken's multiple attack penalty, but the penalty doesn't increase until after both attacks are made.\nIf the kraken subsequently uses the Grab action, it Grabs any number of creatures it hit with Double Attack."
+    desc: "`pf2:1`  The kraken makes two Strikes with two different arms or tentacles, each limb targeting a different creature. Double Attack counts as two attacks toward the kraken's multiple attack penalty, but the penalty doesn't increase until after both attacks are made.\n\nIf the kraken subsequently uses the Grab action, it Grabs any number of creatures it hit with Double Attack."
 
   - name: "Ink Cloud"
-    desc: "`pf2:1`  The kraken releases a cloud of black, venomous ink in an 80-foot emanation. This cloud has no effect outside water.\nCreatures inside the ink cloud are exposed to kraken ink poison and are [[Conditions/Undetected|Undetected]] while inside the cloud.\nThe kraken can't use Ink Cloud again for 2d6 rounds, and the cloud dissipates after 1 minute."
+    desc: "`pf2:1`  The kraken releases a cloud of black, venomous ink in an 80-foot emanation. This cloud has no effect outside water.\n\nCreatures inside the ink cloud are exposed to kraken ink poison and are [[Conditions/Undetected|Undetected]] while inside the cloud.\n\nThe kraken can't use Ink Cloud again for 2d6 rounds, and the cloud dissipates after 1 minute."
 
   - name: "Jet"
     desc: "`pf2:1` (move) The kraken moves through the water up to 280 feet in a straight line without triggering reactions."
 
   - name: "Kraken Ink"
-    desc: " (poison) Krakens are immune to this poison\n**Saving Throw** DC 39 Fortitude check;\n**Maximum Duration** 10 rounds\n**Stage 1** 4d6 poison damage and [[Conditions/Sickened 1|Sickened 1]] (1 round)\n**Stage 2** 5d6 poison damage and [[Conditions/Sickened 1|Sickened 2]] (1 round)"
+    desc: " (poison) Krakens are immune to this poison\n\n**Saving Throw** DC 39 Fortitude check;\n* * *\n\n**Maximum Duration** 10 rounds\n\n**Stage 1** 4d6 poison damage and [[Conditions/Sickened 1|Sickened 1]] (1 round)\n\n**Stage 2** 5d6 poison damage and [[Conditions/Sickened 1|Sickened 2]] (1 round)"
 
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
     desc: "`pf2:1`  "

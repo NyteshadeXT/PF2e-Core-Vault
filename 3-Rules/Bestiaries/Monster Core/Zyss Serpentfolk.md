@@ -19,6 +19,7 @@ license: ORC
 columns: 2
 forcecolumns: true
 layout: Basic Pathfinder 2e Layout
+token: [[modules/pf2e-tokens-bestiaries/portraits/humanoid/darklands/zyss-serpentfolk.webp| ]]
 source: "Pathfinder Monster Core"
 name: "Zyss Serpentfolk"
 level: "Creature 2"
@@ -31,7 +32,7 @@ modifier: 8
 perception:
   - name: "Perception"
     desc: "+8; Darkvision, Scent (Imprecise) 30 Feet"
-languages: "Aklo, Common, Sakvroth"
+languages: "Aklo, Common, Sakvroth; Telepathy 100 feet"
 skills:
   - name: "Skills"
     desc: "Acrobatics: +8, Arcana: +8, Deception: +9, Occultism: +8, Society: +8"
@@ -72,7 +73,7 @@ attacks:
     desc: "DC 18, attack +10; __4th __  _[[Spells/Suggestion|Suggestion]]_; __2nd __  _[[Spells/Blur|Blur (Self Only, At Will)]]_; __1st __  _[[Spells/Illusory Disguise|Illusory Disguise (At Will)]]_, _[[Spells/Ventriloquism|Ventriloquism (At Will)]]_"
 
   - name: "Serpentfolk Venom"
-    desc: " (poison) **Saving Throw** DC 16 Fortitude check\n**Maximum Duration** 6 rounds\n**Stage 1** 1d4 poison damage and [[Conditions/Enfeebled 1|Enfeebled 1]] (1 round)\n**Stage 2** 2d4 poison damage and enfeebled 1 (1 round)"
+    desc: " (poison) **Saving Throw** DC 16 Fortitude check\n* * *\n\n**Maximum Duration** 6 rounds\n\n**Stage 1** 1d4 poison damage and [[Conditions/Enfeebled 1|Enfeebled 1]] (1 round)\n\n**Stage 2** 2d4 poison damage and enfeebled 1 (1 round)"
  
 ```
 

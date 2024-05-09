@@ -59,7 +59,7 @@ abilities_mid:
     desc: "  A creature that fails a Recall Knowledge check or a Perception check to [[Actions/Sense Motive|Sense Motive]] on a raja-krodha is [[Conditions/Off-Guard|Off-Guard]] until the end of its next turn."
 
   - name: "Reassert Fate"
-    desc: "`pf2:r` (divine) **Trigger** A creature within 30 feet uses a fortune or misfortune effect\n**Effect** The raja-krodha reasserts the ebb and flow of fate, instilling a deep dread in those who would attempt to cheat their written role. They disrupt the triggering effect, and the triggering creature becomes [[Conditions/Frightened 1|Frightened 2]] and is [[Conditions/Off-Guard|Off-Guard]] to the raja-krodha until the end of its next turn."
+    desc: "`pf2:r` (divine) **Trigger** A creature within 30 feet uses a fortune or misfortune effect\n* * *\n\n**Effect** The raja-krodha reasserts the ebb and flow of fate, instilling a deep dread in those who would attempt to cheat their written role. They disrupt the triggering effect, and the triggering creature becomes [[Conditions/Frightened 1|Frightened 2]] and is [[Conditions/Off-Guard|Off-Guard]] to the raja-krodha until the end of its next turn."
 
 attacks:
   - name: ""
@@ -80,16 +80,16 @@ attacks:
     desc: "2 Focus Points, DC 29, attack +21; __5th __  _[[Spells/Ignite Ambition|Ignite Ambition]]_, _[[Spells/Savor the Sting|Savor the Sting]]_"
 
   - name: "[[Bestiary Ability Glossary/Change Shape|Change Shape]]"
-    desc: "`pf2:1` (concentrate,polymorph) The raja-krodha takes on the appearance of any Medium humanoid. This doesn't change the raja-krodha's Speed or their attack and damage modifiers with their Strikes but might change the damage type their Strikes deal (typically to bludgeoning). They lose their fangs Strike unless the humanoid form has fangs or a similar unarmed attack.\n"
+    desc: "`pf2:1` (concentrate,polymorph) The raja-krodha takes on the appearance of any Medium humanoid. This doesn't change the raja-krodha's Speed or their attack and damage modifiers with their Strikes but might change the damage type their Strikes deal (typically to bludgeoning). They lose their fangs Strike unless the humanoid form has fangs or a similar unarmed attack.\n\n* * *\n"
 
   - name: "Cruel Majesty"
-    desc: "`pf2:1` (emotion,mental,visual) **Requirements** The rakshasa is not in its true form\n**Effect** The rakshasa Changes Shape into its true form in a display that is equal parts terrifying and majestic. Creatures within 30 feet of the rakshasa must succeed at a DC 29 Will check save or be [[Conditions/Off-Guard|Off-Guard]] to the rakshasa until the beginning of the rakshasa's next turn as they are awestruck."
+    desc: "`pf2:1` (emotion,mental,visual) **Requirements** The rakshasa is not in its true form\n* * *\n\n**Effect** The rakshasa Changes Shape into its true form in a display that is equal parts terrifying and majestic. Creatures within 30 feet of the rakshasa must succeed at a DC 29 Will check save or be [[Conditions/Off-Guard|Off-Guard]] to the rakshasa until the beginning of the rakshasa's next turn as they are awestruck."
 
   - name: "Sneak Attack"
     desc: "  The raja-krodha deals 2d6 extra precision damage to [[Conditions/Off-Guard|Off-Guard]] creatures."
 
   - name: "[[Bestiary Ability Glossary/Swallow Whole|Swallow Whole]]"
-    desc: "`pf2:1` (attack) Medium, 2d12 + 6 bludgeoning, Rupture 15\n"
+    desc: "`pf2:1` (attack) Medium, 2d12 + 6 bludgeoning, Rupture 15\n\n* * *\n"
  
 ```
 

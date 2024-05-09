@@ -19,6 +19,7 @@ license: ORC
 columns: 2
 forcecolumns: true
 layout: Basic Pathfinder 2e Layout
+token: [[modules/pf2e-tokens-bestiaries/portraits/humanoid/catfolk-pouncer.webp| ]]
 source: "Pathfinder Monster Core"
 name: "Catfolk Pouncer"
 level: "Creature 1"
@@ -54,7 +55,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Cat's Luck"
-    desc: "`pf2:r` (fortune) **Trigger** The catfolk pouncer fails or critically fails a Reflex saving throw.\n**Frequency** Once per day.\n**Effect** Reroll that saving throw and take the better result."
+    desc: "`pf2:r` (fortune) **Trigger** The catfolk pouncer fails or critically fails a Reflex saving throw.\n\n**Frequency** Once per day.\n* * *\n\n**Effect** Reroll that saving throw and take the better result."
 
 attacks:
   - name: ""

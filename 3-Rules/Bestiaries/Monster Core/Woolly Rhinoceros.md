@@ -18,6 +18,7 @@ license: ORC
 columns: 2
 forcecolumns: true
 layout: Basic Pathfinder 2e Layout
+token: [[modules/pf2e-tokens-bestiaries/portraits/bestial/mammalian/wooly-rhinoceros.webp| ]]
 source: "Pathfinder Monster Core"
 name: "Woolly Rhinoceros"
 level: "Creature 6"
@@ -29,6 +30,7 @@ modifier: 11
 perception:
   - name: "Perception"
     desc: "+11; Scent (Imprecise) 30 Feet"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Athletics: +16, Survival: +13"
@@ -68,7 +70,7 @@ attacks:
     desc: "`pf2:2`  The woolly rhinoceros Strides twice, then makes a horn Strike. As long as the woolly rhinoceros moved at least 20 feet, the Strike's damage increases to 3d12 + 6 piercing damage. A Medium or smaller creature struck by this attack must succeed at a DC 24 Reflex check save or be automatically [[Actions/Shove|Shoved]] back 5 feet and knocked [[Conditions/Prone|Prone]] by the force of the blow."
 
   - name: "[[Bestiary Ability Glossary/Trample|Trample]]"
-    desc: "`pf2:3`  Medium or smaller, DC 21 Reflex check\n"
+    desc: "`pf2:3`  Medium or smaller, DC 21 Reflex check\n\n* * *\n"
  
 ```
 

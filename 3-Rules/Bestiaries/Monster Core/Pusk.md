@@ -33,7 +33,7 @@ modifier: 6
 perception:
   - name: "Perception"
     desc: "+6; Darkvision"
-languages: "Chthonian"
+languages: "Chthonian; Telepathy 100 feet"
 skills:
   - name: "Skills"
     desc: "Acrobatics: +6, Athletics: +8, Deception: +6, Stealth: +6"
@@ -53,7 +53,7 @@ abilities_top:
   - name: ""
 
   - name: "Sloth"
-    desc: "  When a pusk regains their actions, roll 1d4. The pusk regains that many actions for the turn (to a maximum of 3, or 2 if the pusk is a minion).\nEffects like the slowed condition can further reduce their number of actions."
+    desc: "  When a pusk regains their actions, roll 1d4. The pusk regains that many actions for the turn (to a maximum of 3, or 2 if the pusk is a minion).\n* * *\n\nEffects like the slowed condition can further reduce their number of actions."
 
 abilities_mid:
   - name: ""

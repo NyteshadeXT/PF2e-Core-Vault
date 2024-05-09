@@ -21,6 +21,7 @@ license: ORC
 columns: 2
 forcecolumns: true
 layout: Basic Pathfinder 2e Layout
+token: [[modules/pf2e-tokens-bestiaries/portraits/undead/ghostly/dybbuk.webp| ]]
 source: "Pathfinder Monster Core"
 name: "Dybbuk"
 level: "Creature 15"
@@ -35,7 +36,7 @@ modifier: 27
 perception:
   - name: "Perception"
     desc: "+27; Darkvision"
-languages: "Aklo, Chthonian, Common"
+languages: "Aklo, Chthonian, Common; Telepathy 100 feet"
 skills:
   - name: "Skills"
     desc: "Acrobatics: +28, Deception: +31, Diplomacy: +27, Intimidation: +29, Stealth: +28"
@@ -57,7 +58,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "[[Bestiary Ability Glossary/Frightful Presence|Frightful Presence]]"
-    desc: " (aura,emotion,fear,mental) 30 feet. DC 33 Will check\n"
+    desc: " (aura,emotion,fear,mental) 30 feet. DC 33 Will check\n\n* * *\n"
 
 attacks:
   - name: ""
@@ -69,7 +70,7 @@ attacks:
     desc: "DC 36, attack +30; __6th __  _[[Spells/Dominate|Dominate]]_, _[[Spells/Never Mind|Never Mind]]_, _[[Spells/Telekinetic Maneuver|Telekinetic Maneuver (At Will)]]_; __5th __  _[[Spells/Chilling Darkness|Chilling Darkness (x2)]]_, _[[Spells/Fear|Fear]]_; __4th __  _[[Spells/Rewrite Memory|Rewrite Memory]]_; __3rd __  _[[Spells/Fear|Fear (At Will)]]_\n__Cantrips__  __(6th)__ _[[Spells/Telekinetic Projectile|Telekinetic Projectile]]_"
 
   - name: "Malevolent Possession"
-    desc: "`pf2:2` (incapacitation,mental,occult,possession) The dybbuk attempts to possess an adjacent corporeal creature. This has the same effect as the [[Spells/Possession|Possession]] spell (DC 34 Will check) with an unlimited duration, except since the dybbuk doesn't have a physical body, they aren't [[Conditions/Unconscious|Unconscious]], and aren't [[Conditions/Paralyzed|Paralyzed]] when the effect ends, though they take 5d6 spirit damage if the body is knocked unconscious or killed.\nIf the dybbuk took control of the target with Malevolent Possession, when the dybbuk departs, the target has only incoherent memories of the interval it was possessed."
+    desc: "`pf2:2` (incapacitation,mental,occult,possession) The dybbuk attempts to possess an adjacent corporeal creature. This has the same effect as the [[Spells/Possession|Possession]] spell (DC 34 Will check) with an unlimited duration, except since the dybbuk doesn't have a physical body, they aren't [[Conditions/Unconscious|Unconscious]], and aren't [[Conditions/Paralyzed|Paralyzed]] when the effect ends, though they take 5d6 spirit damage if the body is knocked unconscious or killed.\n\nIf the dybbuk took control of the target with Malevolent Possession, when the dybbuk departs, the target has only incoherent memories of the interval it was possessed."
  
 ```
 

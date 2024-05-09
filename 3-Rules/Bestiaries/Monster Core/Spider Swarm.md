@@ -19,6 +19,7 @@ license: ORC
 columns: 2
 forcecolumns: true
 layout: Basic Pathfinder 2e Layout
+token: [[modules/pf2e-tokens-bestiaries/portraits/bestial/invertebrate/spider-swarm.webp| ]]
 source: "Pathfinder Monster Core"
 name: "Spider Swarm"
 level: "Creature 0"
@@ -31,6 +32,7 @@ modifier: 4
 perception:
   - name: "Perception"
     desc: "+4; Darkvision"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Acrobatics: +5, Athletics: +2, Stealth: +5"
@@ -50,7 +52,7 @@ abilities_top:
   - name: ""
 
   - name: "Web Sense"
-    desc: "  The spider swarm has imprecise tremorsense to detect the vibrations of creatures touching its web.\nTremorsense allows a monster to feel the vibrations through a solid surface caused by movement. It is an imprecise sense with a limited range (listed in the ability). Tremorsense functions only if the monster is on the same surface as the subject, and only if the subject is moving along (or burrowing through) the surface."
+    desc: "  The spider swarm has imprecise tremorsense to detect the vibrations of creatures touching its web.\n* * *\n\nTremorsense allows a monster to feel the vibrations through a solid surface caused by movement. It is an imprecise sense with a limited range (listed in the ability). Tremorsense functions only if the monster is on the same surface as the subject, and only if the subject is moving along (or burrowing through) the surface."
 
 abilities_mid:
   - name: ""
@@ -58,10 +60,10 @@ attacks:
   - name: ""
 
   - name: "Spider Swarm Venom"
-    desc: " (poison) **Saving Throw** DC 14 Fortitude check\n**Maximum Duration** 4 rounds\n**Stage 1** 1 poison and [[Conditions/Enfeebled 1|Enfeebled 1]] (1 round)\n**Stage 2** 1d4 poison and enfeebled 1 (1 round)"
+    desc: " (poison) **Saving Throw** DC 14 Fortitude check\n* * *\n\n**Maximum Duration** 4 rounds\n\n**Stage 1** 1 poison and [[Conditions/Enfeebled 1|Enfeebled 1]] (1 round)\n\n**Stage 2** 1d4 poison and enfeebled 1 (1 round)"
 
   - name: "Swarming Bites"
-    desc: "`pf2:1`  Each enemy in the spider swarm's space takes 1d4 piercing damage with a DC 14 Reflex check save.\nA creature that fails its save is exposed to spider swarm venom."
+    desc: "`pf2:1`  Each enemy in the spider swarm's space takes 1d4 piercing damage with a DC 14 Reflex check save.\n\nA creature that fails its save is exposed to spider swarm venom."
  
 ```
 

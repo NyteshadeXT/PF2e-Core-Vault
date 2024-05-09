@@ -18,6 +18,7 @@ license: ORC
 columns: 2
 forcecolumns: true
 layout: Basic Pathfinder 2e Layout
+token: [[modules/pf2e-tokens-bestiaries/portraits/bestial/reptilian/crocodile.webp| ]]
 source: "Pathfinder Monster Core"
 name: "Crocodile"
 level: "Creature 2"
@@ -29,6 +30,7 @@ modifier: 7
 perception:
   - name: "Perception"
     desc: "+7; Low-Light Vision"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Athletics: +8, Stealth: +7 (+11 in water)"
@@ -65,7 +67,7 @@ attacks:
     desc: "`pf2:1`  35 feet"
 
   - name: "Death Roll"
-    desc: "`pf2:1` (attack) **Requirements** The crocodile must have a creature [[Conditions/Grabbed|Grabbed]];\n**Effect** The crocodile tucks its legs and rolls rapidly, twisting its victim. It makes a jaws Strike with a +2 circumstance bonus to the attack roll against the grabbed creature. If it hits, it also knocks the creature [[Conditions/Prone|Prone]]. If it fails, it releases the creature."
+    desc: "`pf2:1` (attack) **Requirements** The crocodile must have a creature [[Conditions/Grabbed|Grabbed]];\n* * *\n\n**Effect** The crocodile tucks its legs and rolls rapidly, twisting its victim. It makes a jaws Strike with a +2 circumstance bonus to the attack roll against the grabbed creature. If it hits, it also knocks the creature [[Conditions/Prone|Prone]]. If it fails, it releases the creature."
 
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
     desc: "`pf2:1`  "

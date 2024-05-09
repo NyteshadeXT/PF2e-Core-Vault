@@ -19,6 +19,7 @@ license: ORC
 columns: 2
 forcecolumns: true
 layout: Basic Pathfinder 2e Layout
+token: [[modules/pf2e-tokens-bestiaries/portraits/bestial/invertebrate/worm-crimson.webp| ]]
 source: "Pathfinder Monster Core"
 name: "Magma Worm"
 level: "Creature 18"
@@ -31,6 +32,7 @@ modifier: 25
 perception:
   - name: "Perception"
     desc: "+25; Darkvision, Tremorsense (Imprecise) 100 Feet"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Athletics: +38"
@@ -58,7 +60,7 @@ abilities_mid:
     desc: "  The magma worm recovers from the [[Conditions/Paralyzed|Paralyzed]], [[Conditions/Slowed 1|Slowed]], and [[Conditions/Stunned 1|Stunned]] conditions at the end of its turn. It's also immune to penalties to its Speeds and the [[Conditions/Immobilized|Immobilized]] condition, and it ignores difficult terrain and greater difficult terrain."
 
   - name: "Slough Skin"
-    desc: "`pf2:r`  **Frequency** once per day\n**Trigger** The magma worm would be affected by a condition or adverse effect (such as [[Spells/Cursed Metamorphosis|Cursed Metamorphosis]])\n**Effect** The magma worm negates the triggering condition or effect by sloughing an outer layer of its skin. Effects from artifacts, deities, or a similarly powerful source can't be avoided in this way."
+    desc: "`pf2:r`  **Frequency** once per day\n\n**Trigger** The magma worm would be affected by a condition or adverse effect (such as [[Spells/Cursed Metamorphosis|Cursed Metamorphosis]])\n* * *\n\n**Effect** The magma worm negates the triggering condition or effect by sloughing an outer layer of its skin. Effects from artifacts, deities, or a similarly powerful source can't be avoided in this way."
 
 attacks:
   - name: ""
@@ -73,19 +75,19 @@ attacks:
     desc: "`pf2:1` Body +34 (fire, reach 15 feet)\n__Damage__  2d10 + 16 bludgeoning 2d6 fire"
 
   - name: "Fast Swallow"
-    desc: "`pf2:r`  **Trigger** The worm [[Conditions/Grabbed|Grabs]] a creature\n**Effect** The worm uses Swallow Whole."
+    desc: "`pf2:r`  **Trigger** The worm [[Conditions/Grabbed|Grabs]] a creature\n* * *\n\n**Effect** The worm uses Swallow Whole."
 
   - name: "Fire Breath"
-    desc: "`pf2:2` (fire,primal) The magma worm breathes a blast of flame in a 60-foot cone that deals 18d6 fire damage to all creatures in the area (DC 41 Reflex check save).\nIt can't use Fire Breath again for 1d4 rounds."
+    desc: "`pf2:2` (fire,primal) The magma worm breathes a blast of flame in a 60-foot cone that deals 18d6 fire damage to all creatures in the area (DC 41 Reflex check save).\n\nIt can't use Fire Breath again for 1d4 rounds."
 
   - name: "Magma Worm Venom"
-    desc: " (poison) **Saving Throw** DC 41 Fortitude check\n**Maximum Duration** 6 rounds\n**Stage 1** 1d6 poison damage and [[Conditions/Drained 1|Drained 1]] (1 round)\n**Stage 2** 2d6 poison damage and drained 1 (1 round)\n**Stage 3** 2d6 poison damage and [[Conditions/Drained 1|Drained 2]] (1 round)."
+    desc: " (poison) **Saving Throw** DC 41 Fortitude check\n* * *\n\n**Maximum Duration** 6 rounds\n\n**Stage 1** 1d6 poison damage and [[Conditions/Drained 1|Drained 1]] (1 round)\n\n**Stage 2** 2d6 poison damage and drained 1 (1 round)\n\n**Stage 3** 2d6 poison damage and [[Conditions/Drained 1|Drained 2]] (1 round)."
 
   - name: "Rock Tunneler"
     desc: "  A magma worm can burrow through solid stone at a Speed of 20 feet. It can leave a tunnel if it desires, and it usually does."
 
   - name: "[[Bestiary Ability Glossary/Swallow Whole|Swallow Whole]]"
-    desc: "`pf2:1` (attack) Huge, 3d10 + 10 bludgeoning + 2d6 fire, Rupture 36\n"
+    desc: "`pf2:1` (attack) Huge, 3d10 + 10 bludgeoning + 2d6 fire, Rupture 36\n\n* * *\n"
 
   - name: "Thrash"
     desc: "`pf2:2`  The worm makes a Strike once against each creature in its reach. It can Strike up to once with its jaws, up to once with its stinger, and any number of times with its body. Each attack counts toward the worm's multiple attack penalty, but the multiple attack penalty doesn't increase until after it makes all the attacks."

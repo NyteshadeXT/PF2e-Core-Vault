@@ -18,6 +18,7 @@ license: ORC
 columns: 2
 forcecolumns: true
 layout: Basic Pathfinder 2e Layout
+token: [[modules/pf2e-tokens-bestiaries/portraits/bestial/avian/eagle-giant.webp| ]]
 source: "Pathfinder Monster Core"
 name: "Giant Eagle"
 level: "Creature 3"
@@ -29,7 +30,7 @@ modifier: 11
 perception:
   - name: "Perception"
     desc: "+11; Low-Light Vision"
-languages: "Fey, Sussuran"
+languages: "Fey, Sussuran; (Can&#x27;t Speak Any Language)"
 skills:
   - name: "Skills"
     desc: "Acrobatics: +11, Athletics: +8"

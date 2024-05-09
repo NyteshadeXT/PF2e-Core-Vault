@@ -19,6 +19,7 @@ license: ORC
 columns: 2
 forcecolumns: true
 layout: Basic Pathfinder 2e Layout
+token: [[modules/pf2e-tokens-bestiaries/portraits/plant/arboreal/arboreal-regent.webp| ]]
 source: "Pathfinder Monster Core"
 name: "Arboreal Regent"
 level: "Creature 8"
@@ -31,7 +32,7 @@ modifier: 18
 perception:
   - name: "Perception"
     desc: "+18; Low-Light Vision"
-languages: "Arboreal, Common, Fey"
+languages: "Arboreal, Common, Fey; Speak with Plants"
 skills:
   - name: "Skills"
     desc: "Athletics: +19, Diplomacy: +16, Intimidation: +16, Nature: +18, Stealth: +11 (+21 in forests)"

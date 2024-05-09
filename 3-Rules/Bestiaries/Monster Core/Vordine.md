@@ -33,7 +33,7 @@ modifier: 12
 perception:
   - name: "Perception"
     desc: "+12; Greater Darkvision"
-languages: "Common, Diabolic"
+languages: "Common, Diabolic; Telepathy 100 feet"
 skills:
   - name: "Skills"
     desc: "Acrobatics: +13, Athletics: +15, Intimidation: +13, Religion: +12, Warfare Lore: +13"

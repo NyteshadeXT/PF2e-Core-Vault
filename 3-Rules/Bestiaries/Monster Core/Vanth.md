@@ -19,6 +19,7 @@ license: ORC
 columns: 2
 forcecolumns: true
 layout: Basic Pathfinder 2e Layout
+token: [[modules/pf2e-tokens-bestiaries/portraits/monitor/psychopomp/vanth.webp| ]]
 source: "Pathfinder Monster Core"
 name: "Vanth"
 level: "Creature 7"
@@ -54,7 +55,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "[[Bestiary Ability Glossary/Frightful Presence|Frightful Presence]]"
-    desc: " (aura,emotion,fear,mental) 20 feet DC 22 Will check\n"
+    desc: " (aura,emotion,fear,mental) 20 feet DC 22 Will check\n\n* * *\n"
 
   - name: "[[Bestiary Ability Glossary/Reactive Strike|Reactive Strike]]"
     desc: "`pf2:r`  "
@@ -78,7 +79,7 @@ attacks:
     desc: "  A vanth's Strikes affect incorporeal creatures with the effects of a _[[Equipment/Ghost Touch|Ghost Touch]]_ property rune and deal 2d6 void damage to living creatures and 2d6 vitality damage to undead."
 
   - name: "Vanth's Curse"
-    desc: "`pf2:2` (curse,divine,misfortune) **Frequency** three times per day\n**Effect** The vanth bestows a curse on a creature by touching it with its scythe. The creature must attempt a DC 25 Will check save.\n**Critical Success** The target is unaffected and is temporarily immune to Vanth's Curse for 24 hours.\n**Success** The target feels a momentary shudder of doom and is [[Conditions/Stupefied 1|Stupefied 1]] for 1 minute by the distracting sensation.\n**Failure** The target becomes morose and glum as it accepts its own inevitable fate. For 1 hour, the target is [[Conditions/Stupefied 1|Stupefied 2]]. Each time the target gains the dying condition, the stupefied condition value increases by 1, to a maximum value of [[Conditions/Stupefied 1|Stupefied 4]].\n**Critical Failure** As failure, but the effect is permanent."
+    desc: "`pf2:2` (curse,divine,misfortune) **Frequency** three times per day\n* * *\n\n**Effect** The vanth bestows a curse on a creature by touching it with its scythe. The creature must attempt a DC 25 Will check save.\n* * *\n\n**Critical Success** The target is unaffected and is temporarily immune to Vanth's Curse for 24 hours.\n\n**Success** The target feels a momentary shudder of doom and is [[Conditions/Stupefied 1|Stupefied 1]] for 1 minute by the distracting sensation.\n\n**Failure** The target becomes morose and glum as it accepts its own inevitable fate. For 1 hour, the target is [[Conditions/Stupefied 1|Stupefied 2]]. Each time the target gains the dying condition, the stupefied condition value increases by 1, to a maximum value of [[Conditions/Stupefied 1|Stupefied 4]].\n\n**Critical Failure** As failure, but the effect is permanent."
  
 ```
 

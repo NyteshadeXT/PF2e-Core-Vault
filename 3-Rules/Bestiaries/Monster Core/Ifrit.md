@@ -33,7 +33,7 @@ modifier: 17
 perception:
   - name: "Perception"
     desc: "+17; Darkvision"
-languages: "Common, Pyric"
+languages: "Common, Pyric; Truespeech"
 skills:
   - name: "Skills"
     desc: "Arcana: +14, Athletics: +22, Crafting: +14, Deception: +19, Diplomacy: +17, Intimidation: +19, Society: +14"
@@ -71,10 +71,10 @@ attacks:
     desc: " (fire) When the ifrit [[Conditions/Grabbed|Grabs]] or [[Conditions/Restrained|Restrains]] a creature, that creature takes 2d6 fire damage, and takes 2d6 fire damage at the end of each of its turns until freed."
 
   - name: "Combat Grab"
-    desc: "`pf2:1`  **Requirements** The ifrit has a hand free\n**Effect** The ifrit makes a melee Strike. If the Strike hits, the target is [[Conditions/Grabbed|Grabbed]] in the ifrit's free hand."
+    desc: "`pf2:1`  **Requirements** The ifrit has a hand free\n* * *\n\n**Effect** The ifrit makes a melee Strike. If the Strike hits, the target is [[Conditions/Grabbed|Grabbed]] in the ifrit's free hand."
 
   - name: "Wings of Flame"
-    desc: "`pf2:1` (arcane,fire) The ifrit grows flaming wings from their back. They gain a fly Speed of 35 feet for 1 minute. The flames also create an aura in a 5-foot emanation around the ifrit.\nAny creature that ends its turn in the aura takes 2d6 fire damage with a DC 25 Reflex check save."
+    desc: "`pf2:1` (arcane,fire) The ifrit grows flaming wings from their back. They gain a fly Speed of 35 feet for 1 minute. The flames also create an aura in a 5-foot emanation around the ifrit.\n\nAny creature that ends its turn in the aura takes 2d6 fire damage with a DC 25 Reflex check save."
  
 ```
 

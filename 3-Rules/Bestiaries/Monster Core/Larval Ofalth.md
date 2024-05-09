@@ -58,7 +58,7 @@ abilities_mid:
     desc: "`pf2:r`  "
 
   - name: "[[Bestiary Ability Glossary/Stench|Stench]]"
-    desc: " (aura,olfactory) 30 feet DC 19 Fortitude check\n"
+    desc: " (aura,olfactory) 30 feet DC 19 Fortitude check\n\n* * *\n"
 
 attacks:
   - name: ""
@@ -70,7 +70,7 @@ attacks:
     desc: "`pf2:1` Leachate +11 (range 20 feet)\n__Damage__  3d8 acid plus wretched-weeps"
 
   - name: "Wretched Weeps"
-    desc: "  **Saving Throw** DC 19 Fortitude check\n**Stage 1** carrier with no ill effect (1 day)\n**Stage 2** 2d4 persistent bleed every hour and [[Conditions/Enfeebled 1|Enfeebled 1]] (1 day);\n**Stage 3** 2d6 persistent bleed every hour and [[Conditions/Enfeebled 1|Enfeebled 2]] (1 day)"
+    desc: "  **Saving Throw** DC 19 Fortitude check\n* * *\n\n**Stage 1** carrier with no ill effect (1 day)\n\n**Stage 2** 2d4 persistent bleed every hour and [[Conditions/Enfeebled 1|Enfeebled 1]] (1 day);\n\n**Stage 3** 2d6 persistent bleed every hour and [[Conditions/Enfeebled 1|Enfeebled 2]] (1 day)"
  
 ```
 

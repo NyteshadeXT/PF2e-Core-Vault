@@ -18,6 +18,7 @@ license: ORC
 columns: 2
 forcecolumns: true
 layout: Basic Pathfinder 2e Layout
+token: [[modules/pf2e-tokens-bestiaries/portraits/bestial/invertebrate/scorpion-giant.webp| ]]
 source: "Pathfinder Monster Core"
 name: "Giant Scorpion"
 level: "Creature 3"
@@ -29,6 +30,7 @@ modifier: 9
 perception:
   - name: "Perception"
     desc: "+9; Darkvision, Tremorsense (Imprecise) 60 Feet"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Athletics: +11, Stealth: +7"
@@ -62,10 +64,10 @@ attacks:
     desc: "`pf2:1` Stinger +11 (reach 10 feet)\n__Damage__  1d6 + 6 piercing plus giant-scorpion-venom"
 
   - name: "[[Bestiary Ability Glossary/Constrict|Constrict]]"
-    desc: "`pf2:1`  1d6 + 4 bludgeoning, DC 20 Fortitude check\n"
+    desc: "`pf2:1`  1d6 + 4 bludgeoning, DC 20 Fortitude check\n\n* * *\n"
 
   - name: "Giant Scorpion Venom"
-    desc: " (poison) **Saving Throw** DC 18 Fortitude check\n**Maximum Duration** 6 rounds\n**Stage 1** 1d10 poison damage and [[Conditions/Enfeebled 1|Enfeebled 1]] (1 round)\n**Stage 2** 2d10 poison damage and enfeebled 1 (1 round)\n**Stage 3** 2d10 poison damage and [[Conditions/Enfeebled 1|Enfeebled 2]] (1 round)"
+    desc: " (poison) **Saving Throw** DC 18 Fortitude check\n* * *\n\n**Maximum Duration** 6 rounds\n\n**Stage 1** 1d10 poison damage and [[Conditions/Enfeebled 1|Enfeebled 1]] (1 round)\n\n**Stage 2** 2d10 poison damage and enfeebled 1 (1 round)\n\n**Stage 3** 2d10 poison damage and [[Conditions/Enfeebled 1|Enfeebled 2]] (1 round)"
 
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
     desc: "`pf2:1`  "

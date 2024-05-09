@@ -19,6 +19,7 @@ license: ORC
 columns: 2
 forcecolumns: true
 layout: Basic Pathfinder 2e Layout
+token: [[modules/pf2e-tokens-bestiaries/portraits/bestial/invertebrate/scorpion-swarm.webp| ]]
 source: "Pathfinder Monster Core"
 name: "Scorpion Swarm"
 level: "Creature 4"
@@ -31,6 +32,7 @@ modifier: 11
 perception:
   - name: "Perception"
     desc: "+11; Darkvision"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Acrobatics: +11, Athletics: +6, Stealth: +11"
@@ -55,7 +57,7 @@ attacks:
   - name: ""
 
   - name: "Scorpion Venom"
-    desc: " (poison) **Saving Throw** DC 18 Fortitude check\n**Maximum Duration** 6 rounds\n**Stage 1** 1d6 poison damage (1 round)\n**Stage 2** 1d6 poison damage and [[Conditions/Enfeebled 1|Enfeebled 1]] (1 round)"
+    desc: " (poison) **Saving Throw** DC 18 Fortitude check\n* * *\n\n**Maximum Duration** 6 rounds\n\n**Stage 1** 1d6 poison damage (1 round)\n\n**Stage 2** 1d6 poison damage and [[Conditions/Enfeebled 1|Enfeebled 1]] (1 round)"
 
   - name: "Swarming Stings"
     desc: "`pf2:1`  Each enemy in the swarm's space takes 2d8 piercing damage (DC 21 Reflex check save) and is exposed to scorpion venom."

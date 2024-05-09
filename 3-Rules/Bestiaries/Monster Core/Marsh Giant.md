@@ -21,6 +21,7 @@ license: ORC
 columns: 2
 forcecolumns: true
 layout: Basic Pathfinder 2e Layout
+token: [[modules/pf2e-tokens-bestiaries/portraits/humanoid/giant/marsh-giant.webp| ]]
 source: "Pathfinder Monster Core"
 name: "Marsh Giant"
 level: "Creature 8"
@@ -73,7 +74,7 @@ attacks:
     desc: "DC 23, attack +13; __5th __  _[[Spells/Mariner's Curse|Mariner's Curse]]_; __2nd __  _[[Spells/Augury|Augury]]_, _[[Spells/Mist|Mist]]_"
 
   - name: "Drowning Hook"
-    desc: "`pf2:1` (primal,water) **Requirements** A creature is [[Conditions/Prone|Prone]] within the marsh giant's reach\n**Effect** The marsh giant uses its gaff to push the creature down as water bubbles up below it. The target becomes submerged in water until they are no longer prone and must hold their breath if they cannot breathe water. They take 4d6 bludgeoning damage (DC 23 Fortitude check save) and lose 3 rounds worth of air if they fail the save."
+    desc: "`pf2:1` (primal,water) **Requirements** A creature is [[Conditions/Prone|Prone]] within the marsh giant's reach\n* * *\n\n**Effect** The marsh giant uses its gaff to push the creature down as water bubbles up below it. The target becomes submerged in water until they are no longer prone and must hold their breath if they cannot breathe water. They take 4d6 bludgeoning damage (DC 23 Fortitude check save) and lose 3 rounds worth of air if they fail the save."
 
   - name: "Twist the Hook"
     desc: "`pf2:2`  The marsh giant makes a melee Strike with its gaff. If it hits, it twists and yanks the gaff to knock the target [[Conditions/Prone|Prone]] and create an awful wound, dealing 2d6 persistent bleed damage to the creature."

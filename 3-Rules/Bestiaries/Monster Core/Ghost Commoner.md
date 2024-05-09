@@ -22,6 +22,7 @@ license: ORC
 columns: 2
 forcecolumns: true
 layout: Basic Pathfinder 2e Layout
+token: [[modules/pf2e-tokens-bestiaries/portraits/undead/ghostly/ghost-commoner.webp| ]]
 source: "Pathfinder Monster Core"
 name: "Ghost Commoner"
 level: "Creature 4"
@@ -52,7 +53,7 @@ hp: 30
 health:
   - name: ""
   - name: HP
-    desc: "30, rejuvenation, void healing; __Immunities__  death effects,  disease,  paralyzed,  poison,  precision,  unconscious,  bleed; __Resistances__ all damage 5 (except force, ghost touch, or vitality; double resistance vs. non-magical)"
+    desc: "30, rejuvenation, void healing; __Immunities__  death effects,  disease,  paralyzed,  poison,  precision,  unconscious,  bleed; __Resistances__ all damage 5 (except force, ghost touch, spirit, or vitality; double resistance vs. non-magical)"
 abilities_top:
   - name: ""
 
@@ -62,7 +63,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "[[Creature Family Ability Glossary/(Ghost) Rejuvenation|Rejuvenation]]"
-    desc: " (divine) Setting right the injustice that led to the commoner’s death allows it to move on to the afterlife.\nWhen a ghost is destroyed, it re-forms after 2d4 days within the location it's bound to, fully healed. A ghost can be permanently destroyed only if someone determines the reason for its existence and sets right whatever prevents the spirit from resting."
+    desc: " (divine) Setting right the injustice that led to the commoner’s death allows it to move on to the afterlife.\n* * *\n\nWhen a ghost is destroyed, it re-forms after 2d4 days within the location it's bound to, fully healed. A ghost can be permanently destroyed only if someone determines the reason for its existence and sets right whatever prevents the spirit from resting."
 
 attacks:
   - name: ""

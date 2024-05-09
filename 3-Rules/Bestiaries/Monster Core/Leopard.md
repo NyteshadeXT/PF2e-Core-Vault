@@ -18,6 +18,7 @@ license: ORC
 columns: 2
 forcecolumns: true
 layout: Basic Pathfinder 2e Layout
+token: [[modules/pf2e-tokens-bestiaries/portraits/bestial/mammalian/leopard.webp| ]]
 source: "Pathfinder Monster Core"
 name: "Leopard"
 level: "Creature 2"
@@ -29,6 +30,7 @@ modifier: 7
 perception:
   - name: "Perception"
     desc: "+7; Low-Light Vision, Scent (Imprecise) 30 Feet"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Acrobatics: +8, Athletics: +7, Stealth: +8 (+11 in undergrowth)"

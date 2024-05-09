@@ -29,6 +29,7 @@ modifier: 16
 perception:
   - name: "Perception"
     desc: "+16; Darkvision, Tremorsense (Imprecise) 90 Feet"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Acrobatics: +13, Athletics: +20, Stealth: +11, Survival: +16"
@@ -65,10 +66,10 @@ attacks:
     desc: "`pf2:2`  The hive mother makes a mandibles Strike; if the Strike hits, the target's armor takes the damage and the acid damage bypasses the armor's Hardness."
 
   - name: "Frenzy Pheromone"
-    desc: "`pf2:2`  The hive mother unleashes a pheromone that causes all other ankhravs within a 100-foot emanation to become [[Conditions/Quickened|Quickened 1]] until the start of the hive mother's next turn, and they can use the extra action only for Burrow, Stride, or Strike actions.\nThe hive mother can't unleash the pheromone again for 1d4 rounds."
+    desc: "`pf2:2`  The hive mother unleashes a pheromone that causes all other ankhravs within a 100-foot emanation to become [[Conditions/Quickened|Quickened 1]] until the start of the hive mother's next turn, and they can use the extra action only for Burrow, Stride, or Strike actions.\n\nThe hive mother can't unleash the pheromone again for 1d4 rounds."
 
   - name: "Spray Acid"
-    desc: "`pf2:2` (acid) The hive mother spews acid in a 60-foot cone, dealing 8d6 acid damage and 1d6 persistent acid damage (DC 26 Reflex check save).\nIt can't spew acid again for 1d4 rounds."
+    desc: "`pf2:2` (acid) The hive mother spews acid in a 60-foot cone, dealing 8d6 acid damage and 1d6 persistent acid damage (DC 26 Reflex check save).\n\nIt can't spew acid again for 1d4 rounds."
  
 ```
 

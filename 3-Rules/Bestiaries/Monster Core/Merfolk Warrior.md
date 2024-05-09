@@ -20,6 +20,7 @@ license: ORC
 columns: 2
 forcecolumns: true
 layout: Basic Pathfinder 2e Layout
+token: [[modules/pf2e-tokens-bestiaries/portraits/humanoid/aquatic/merfolk-warrior.webp| ]]
 source: "Pathfinder Monster Core"
 name: "Merfolk Warrior"
 level: "Creature 1"
@@ -37,7 +38,7 @@ languages: "Common, Thalassic"
 skills:
   - name: "Skills"
     desc: "Athletics: +5 (+7 to Swim), Medicine: +4"
-abilityMods: [2, 4, 1, 0, 1, 1]
+abilityMods: [2, 4, 1, 1, 1, 0]
 speed: 5 feet,  swim 30 feet
 sourcebook: "_Pathfinder Monster Core_"
 ac: 18

@@ -33,7 +33,7 @@ modifier: 21
 perception:
   - name: "Perception"
     desc: "+21; Darkvision, Lifesense (Imprecise) 30 Feet, Scent (Imprecise) 60 Feet"
-languages: "Common, Draconic, Empyrean"
+languages: "Common, Draconic, Empyrean; Truespeech"
 skills:
   - name: "Skills"
     desc: "Acrobatics: +19, Athletics: +22, Diplomacy: +20, Heaven Lore: +21, Intimidation: +20, Medicine: +21, Religion: +21, Society: +19"
@@ -55,10 +55,10 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Divine Deflection"
-    desc: "`pf2:r`  **Trigger** The dragon is critically hit by an attack\n**Effect** Divine power intercedes, preventing some of the damage. The dragon gains resistance 10 to all damage against the triggering attack."
+    desc: "`pf2:r`  **Trigger** The dragon is critically hit by an attack\n* * *\n\n**Effect** Divine power intercedes, preventing some of the damage. The dragon gains resistance 10 to all damage against the triggering attack."
 
   - name: "Inspiring Presence"
-    desc: " (aura,emotion,mental) 20 feet.\nThe mere sight of an empyreal dragon motivates other creatures. Creatures within the aura gain a +1 status bonus to saving throws and skill checks. The empyreal dragon can't gain the benefit of their own aura or other actions that use the aura, and they can choose to exclude any creatures from any benefit of the aura or action that uses the aura."
+    desc: " (aura,emotion,mental) 20 feet.\n\nThe mere sight of an empyreal dragon motivates other creatures. Creatures within the aura gain a +1 status bonus to saving throws and skill checks. The empyreal dragon can't gain the benefit of their own aura or other actions that use the aura, and they can choose to exclude any creatures from any benefit of the aura or action that uses the aura."
 
 attacks:
   - name: ""
@@ -88,10 +88,10 @@ attacks:
     desc: "  The dragon recharges their Spirit Breath whenever they score a critical hit with a Strike."
 
   - name: "Halo Pulse"
-    desc: "`pf2:2` (concentrate,divine) The dragon chooses one effect to impose on creatures in their inspiring presence aura.\nThe dragon can't use Halo Pulse again for 1d4 rounds.\n*   **Repulsion** Each creature must succeed at a DC 29 Fortitude check save or be pushed until it's no longer in the aura.\n*   **Restoration** (healing, vitality) Each creature recovers 5d8 Hit Points."
+    desc: "`pf2:2` (concentrate,divine) The dragon chooses one effect to impose on creatures in their inspiring presence aura.\n\nThe dragon can't use Halo Pulse again for 1d4 rounds.\n\n*   **Repulsion** Each creature must succeed at a DC 29 Fortitude check save or be pushed until it's no longer in the aura.\n*   **Restoration** (healing, vitality) Each creature recovers 5d8 Hit Points."
 
   - name: "Spirit Breath"
-    desc: "`pf2:2` (divine,holy,spirit) The dragon unleashes a blast of holy fire that deals 9d8 spirit damage in a 40-foot cone (DC 29 Reflex check save).\nThe dragon can't use Spirit Breath again for 1d4 rounds."
+    desc: "`pf2:2` (divine,holy,spirit) The dragon unleashes a blast of holy fire that deals 9d8 spirit damage in a 40-foot cone (DC 29 Reflex check save).\n\nThe dragon can't use Spirit Breath again for 1d4 rounds."
  
 ```
 

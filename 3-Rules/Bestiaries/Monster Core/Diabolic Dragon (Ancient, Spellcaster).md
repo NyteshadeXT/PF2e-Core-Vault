@@ -58,10 +58,10 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "[[Bestiary Ability Glossary/Frightful Presence|Frightful Presence]]"
-    desc: " (aura,emotion,fear,mental) 90 feet DC 40 Will check\n"
+    desc: " (aura,emotion,fear,mental) 90 feet DC 40 Will check\n\n* * *\n"
 
   - name: "Hell's Sting"
-    desc: "`pf2:r` (divine,mental,unholy) **Trigger** The dragon is critically hit with a melee attack\n**Effect** The dragon channels the rancor of Hell back through the body of their foe, overwhelming it with an infernal assault on the mind. The triggering creature takes 10d6 mental damage with a DC 42 Will check save. Holy creatures use an outcome one degree of success worse than they roll on their saving throw."
+    desc: "`pf2:r` (divine,mental,unholy) **Trigger** The dragon is critically hit with a melee attack\n* * *\n\n**Effect** The dragon channels the rancor of Hell back through the body of their foe, overwhelming it with an infernal assault on the mind. The triggering creature takes 10d6 mental damage with a DC 42 Will check save. Holy creatures use an outcome one degree of success worse than they roll on their saving throw."
 
   - name: "[[Bestiary Ability Glossary/Reactive Strike|Reactive Strike]]"
     desc: "`pf2:r`  "
@@ -88,7 +88,7 @@ attacks:
     desc: "  Any fire damage that a diabolic dragon deals, including fire damage from spells, is imbued with the unholy power of Hell to scorch the spirit as well. A creature takes spirit damage instead of fire damage if that would be more detrimental to the creature (as determined by the GM). A diabolic dragon is immune to the diabolic fire of other diabolic dragons, the fire from divine immolation, and similar effects."
 
   - name: "Hellfire Breath"
-    desc: "`pf2:2` (divine,fire,unholy) The dragon unleashes a blast of infernal fire that deals 21d6 fire damage in a 60-foot cone (DC 42 Reflex check save).\nThe dragon can't use Hellfire Breath again for 1d4 rounds."
+    desc: "`pf2:2` (divine,fire,unholy) The dragon unleashes a blast of infernal fire that deals 21d6 fire damage in a 60-foot cone (DC 42 Reflex check save).\n\nThe dragon can't use Hellfire Breath again for 1d4 rounds."
  
 ```
 

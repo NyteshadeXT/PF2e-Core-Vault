@@ -18,6 +18,7 @@ license: ORC
 columns: 2
 forcecolumns: true
 layout: Basic Pathfinder 2e Layout
+token: [[modules/pf2e-tokens-bestiaries/portraits/bestial/mythological/chimera-red.webp| ]]
 source: "Pathfinder Monster Core"
 name: "Chimera"
 level: "Creature 8"
@@ -78,7 +79,7 @@ attacks:
     desc: "  A chimera's dragon head deals an extra 2d6 untyped damage of a type matching the damage dealt by its Dragon Breath."
 
   - name: "Dragon Breath"
-    desc: "`pf2:2` (arcane) The chimera breathes a cone or line that deals 9d6 damage to all creatures in the area (DC 26 basic save of a type indicated below). The chimera's dragon head is linked to one of the traditions of magic, which determines the area of its Dragon Breath, the type of damage it deals, and the type of save to avoid it. This ability gains the related traits.\nThe chimera can't use Dragon Breath again for 1d4 rounds.\n*   **Arcane** 60-foot line of force (DC 26 Reflex check)\n*   **Divine** 60-foot line of spirit (DC 26 Reflex check); this ability can also have the holy or unholy trait\n*   **Occult** 30-foot cone of mental (DC 26 Will check)\n*   **Primal** 30-foot cone of acid, cold, electricity, fire, or sonic (DC 26 Reflex check); or poison (DC 26 Fortitude check)"
+    desc: "`pf2:2` (arcane) The chimera breathes a cone or line that deals 9d6 damage to all creatures in the area (DC 26 basic save of a type indicated below). The chimera's dragon head is linked to one of the traditions of magic, which determines the area of its Dragon Breath, the type of damage it deals, and the type of save to avoid it. This ability gains the related traits.\n\nThe chimera can't use Dragon Breath again for 1d4 rounds.\n\n*   **Arcane** 60-foot line of force (DC 26 Reflex check)\n*   **Divine** 60-foot line of spirit (DC 26 Reflex check); this ability can also have the holy or unholy trait\n*   **Occult** 30-foot cone of mental (DC 26 Will check)\n*   **Primal** 30-foot cone of acid, cold, electricity, fire, or sonic (DC 26 Reflex check); or poison (DC 26 Fortitude check)"
 
   - name: "Three-Headed Strike"
     desc: "`pf2:2`  The chimera makes a Strike with its dragon jaws, lion jaws, and goat horns, each at a -2 penalty and targeting a different creature. These Strikes count as only one attack for the chimera's multiple attack penalty, and the penalty doesn't increase until after it has made all three attacks."

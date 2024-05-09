@@ -20,6 +20,7 @@ license: ORC
 columns: 2
 forcecolumns: true
 layout: Basic Pathfinder 2e Layout
+token: [[modules/pf2e-tokens-bestiaries/portraits/draconic/linnorms/tarn-linnorm.webp| ]]
 source: "Pathfinder Monster Core"
 name: "Tarn Linnorm"
 level: "Creature 20"
@@ -76,19 +77,19 @@ attacks:
     desc: "DC 42, attack +34\n__Constant__  __(9th)__ _[[Spells/Unfettered Movement|Unfettered Movement]]_ __(8th)__ _[[Spells/Truesight|Truesight]]_"
 
   - name: "[[Bestiary Ability Glossary/Constrict|Constrict]]"
-    desc: "`pf2:1`  3d6 + 18 bludgeoning, DC 44 Fortitude check\n"
+    desc: "`pf2:1`  3d6 + 18 bludgeoning, DC 44 Fortitude check\n\n* * *\n"
 
   - name: "Corrosive Breath"
-    desc: "`pf2:2` (acid,poison,primal) The tarn linnorm can expel either a 120-foot line or a 60-foot cone of acid, dealing 20d6 acid damage to creatures within the area (DC 44 Reflex check save).\nThe linnorm can't use Corrosive Breath or Double Breath again for 1d4 rounds.\nThe acid creates toxic fumes. At the beginning of the linnorm's next turn, those who failed the breath weapon's Reflex save must succeed at a DC 42 Fortitude check or gain [[Conditions/Sickened 1|Sickened 4]] from the poisonous fumes."
+    desc: "`pf2:2` (acid,poison,primal) The tarn linnorm can expel either a 120-foot line or a 60-foot cone of acid, dealing 20d6 acid damage to creatures within the area (DC 44 Reflex check save).\n\nThe linnorm can't use Corrosive Breath or Double Breath again for 1d4 rounds.\n\nThe acid creates toxic fumes. At the beginning of the linnorm's next turn, those who failed the breath weapon's Reflex save must succeed at a DC 42 Fortitude check or gain [[Conditions/Sickened 1|Sickened 4]] from the poisonous fumes."
 
   - name: "Double Bite"
     desc: "`pf2:1`  The tarn linnorm Strides and then makes a jaws Strike with each of their heads, each against a different target. Both attacks count toward the tarn linnorm's multiple attack penalty, but the multiple attack penalty doesn't increase until after the tarn linnorm makes all of these attacks."
 
   - name: "Double Breath"
-    desc: "`pf2:3`  The tarn linnorm uses Corrosive Breath twice. A creature attempts only one save and can take damage only once.\nThe linnorm can't use Corrosive Breath or Double Breath again for 2d4 rounds."
+    desc: "`pf2:3`  The tarn linnorm uses Corrosive Breath twice. A creature attempts only one save and can take damage only once.\n\nThe linnorm can't use Corrosive Breath or Double Breath again for 2d4 rounds."
 
   - name: "Tarn Linnorm Venom"
-    desc: " (acid,injury,poison) **Saving Throw** DC 44 Fortitude check\n**Maximum Duration** 10 rounds\n**Stage 1** 7d6 acid damage and [[Conditions/Drained 1|Drained 1]] (1 round)\n**Stage 2** 11d6 acid damage and [[Conditions/Drained 1|Drained 2]] (1 round)"
+    desc: " (acid,injury,poison) **Saving Throw** DC 44 Fortitude check\n* * *\n\n**Maximum Duration** 10 rounds\n\n**Stage 1** 7d6 acid damage and [[Conditions/Drained 1|Drained 1]] (1 round)\n\n**Stage 2** 11d6 acid damage and [[Conditions/Drained 1|Drained 2]] (1 round)"
  
 ```
 

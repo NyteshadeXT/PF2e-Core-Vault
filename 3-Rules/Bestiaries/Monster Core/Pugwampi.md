@@ -19,6 +19,7 @@ license: ORC
 columns: 2
 forcecolumns: true
 layout: Basic Pathfinder 2e Layout
+token: [[modules/pf2e-tokens-bestiaries/portraits/fey/gremlin/pugwampi.webp| ]]
 source: "Pathfinder Monster Core"
 name: "Pugwampi"
 level: "Creature 0"
@@ -54,7 +55,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Unluck Aura"
-    desc: " (aura,mental,misfortune,primal) 20 feet.\nWhen a creature that isn't an animal, gremlin, or kholo enters the aura, it might become unlucky. It attempts a DC 16 Will check save; it must roll twice and take the worse result. On a success, the creature is temporarily immune to pugwampi unluck auras for 24 hours. On a failure, the creature must roll twice and take the worse result on all checks as long as it's within the aura.\n[[Bestiary Effects/Effect_ Unluck Aura|Effect: Unluck Aura]]"
+    desc: " (aura,mental,misfortune,primal) 20 feet.\n\nWhen a creature that isn't an animal, gremlin, or kholo enters the aura, it might become unlucky. It attempts a DC 16 Will check save; it must roll twice and take the worse result. On a success, the creature is temporarily immune to pugwampi unluck auras for 24 hours. On a failure, the creature must roll twice and take the worse result on all checks as long as it's within the aura.\n\n[[Bestiary Effects/Effect_ Unluck Aura|Effect: Unluck Aura]]"
 
 attacks:
   - name: ""

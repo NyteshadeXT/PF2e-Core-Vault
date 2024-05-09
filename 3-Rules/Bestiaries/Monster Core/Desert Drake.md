@@ -19,6 +19,7 @@ license: ORC
 columns: 2
 forcecolumns: true
 layout: Basic Pathfinder 2e Layout
+token: [[modules/pf2e-tokens-bestiaries/portraits/draconic/drakes/desert-drake.webp| ]]
 source: "Pathfinder Monster Core"
 name: "Desert Drake"
 level: "Creature 8"
@@ -56,7 +57,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Wing Deflection"
-    desc: "`pf2:r`  **Trigger** The desert drake is targeted with an attack\n**Effect** The desert drake raises their wing, gaining a +2 circumstance bonus to AC against the triggering attack. If the desert drake is flying at the time they're attacked, they descend 10 feet after the attack is complete."
+    desc: "`pf2:r`  **Trigger** The desert drake is targeted with an attack\n* * *\n\n**Effect** The desert drake raises their wing, gaining a +2 circumstance bonus to AC against the triggering attack. If the desert drake is flying at the time they're attacked, they descend 10 feet after the attack is complete."
 
 attacks:
   - name: ""
@@ -71,10 +72,10 @@ attacks:
     desc: "`pf2:2`  The desert drake makes two Fangs Strikes and one Tail Strike in any order."
 
   - name: "Sandstorm Breath"
-    desc: "`pf2:2` (earth,primal) The desert drake spits a ball of abrasive sand with a range of 60 feet that explodes into a cloud with a 15-foot burst. Creatures in the area take 9d6 slashing damage (DC 27 Reflex check save).\nThe desert drake can't use Sandstorm Breath again for 1d6 rounds, during which the sandstorm lingers in the area. This lingering sandstorm grants [[Conditions/Concealed|Concealment]] to everything within it and conceals everything outside from them."
+    desc: "`pf2:2` (earth,primal) The desert drake spits a ball of abrasive sand with a range of 60 feet that explodes into a cloud with a 15-foot burst. Creatures in the area take 9d6 slashing damage (DC 27 Reflex check save).\n\nThe desert drake can't use Sandstorm Breath again for 1d6 rounds, during which the sandstorm lingers in the area. This lingering sandstorm grants [[Conditions/Concealed|Concealment]] to everything within it and conceals everything outside from them."
 
   - name: "Speed Surge"
-    desc: "`pf2:1` (move) **Frequency** three times per day\n**Effect** The desert drake Strides or Flies twice."
+    desc: "`pf2:1` (move) **Frequency** three times per day\n* * *\n\n**Effect** The desert drake Strides or Flies twice."
 
   - name: "Surprise Attacker"
     desc: "  On the first round of combat, creatures that haven't acted yet are [[Conditions/Off-Guard|Off-Guard]] to the desert drake."

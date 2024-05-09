@@ -18,6 +18,7 @@ license: ORC
 columns: 2
 forcecolumns: true
 layout: Basic Pathfinder 2e Layout
+token: [[modules/pf2e-tokens-bestiaries/portraits/bestial/invertebrate/centipede-giant.webp| ]]
 source: "Pathfinder Monster Core"
 name: "Giant Centipede"
 level: "Creature -1"
@@ -29,6 +30,7 @@ modifier: 6
 perception:
   - name: "Perception"
     desc: "+6; Darkvision"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Acrobatics: +6, Athletics: +2, Stealth: +6"
@@ -56,7 +58,7 @@ attacks:
     desc: "`pf2:1` Mandibles +6 (finesse)\n__Damage__  1d4 - 1 piercing plus giant-centipede-venom"
 
   - name: "Giant Centipede Venom"
-    desc: " (poison) **Saving Throw** DC 14 Fortitude check\n**Maximum Duration** 6 rounds\n**Stage 1** 1d4 poison damage (1 round)\n**Stage 2** 1d4 poison damage and [[Conditions/Off-Guard|Off-Guard]] (1 round)\n**Stage 3** 1d4 poison damage, [[Conditions/Clumsy 1|Clumsy 1]], and [[Conditions/Fatigued|Fatigued]] (1 round)"
+    desc: " (poison) **Saving Throw** DC 14 Fortitude check\n* * *\n\n**Maximum Duration** 6 rounds\n\n**Stage 1** 1d4 poison damage (1 round)\n\n**Stage 2** 1d4 poison damage and [[Conditions/Off-Guard|Off-Guard]] (1 round)\n\n**Stage 3** 1d4 poison damage, [[Conditions/Clumsy 1|Clumsy 1]], and [[Conditions/Fatigued|Fatigued]] (1 round)"
  
 ```
 

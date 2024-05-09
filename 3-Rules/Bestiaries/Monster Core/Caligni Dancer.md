@@ -19,6 +19,7 @@ license: ORC
 columns: 2
 forcecolumns: true
 layout: Basic Pathfinder 2e Layout
+token: [[modules/pf2e-tokens-bestiaries/portraits/humanoid/darklands/caligni-dancer.webp| ]]
 source: "Pathfinder Monster Core"
 name: "Caligni Dancer"
 level: "Creature 1"
@@ -54,10 +55,10 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Distracting Frolic"
-    desc: "`pf2:r` (fortune,manipulate) **Trigger** An ally within 10 feet of the dancer rolls a saving throw against a mental or illusion effect\n**Effect** The target ally can roll the save twice and take the better result.\n[[Bestiary Effects/Effect_ Distracting Frolic|Effect: Distracting Frolic]]"
+    desc: "`pf2:r` (fortune,manipulate) **Trigger** An ally within 10 feet of the dancer rolls a saving throw against a mental or illusion effect\n* * *\n\n**Effect** The target ally can roll the save twice and take the better result.\n\n[[Bestiary Effects/Effect_ Distracting Frolic|Effect: Distracting Frolic]]"
 
   - name: "Final Dance"
-    desc: " (occult,shadow,visual) When the dancer dies, their body dissolves into a swirling mass of darkness and light. All creatures in a 10-foot emanation must succeed at a DC 17 Will check save or be [[Conditions/Dazzled|Dazzled]] for 1d4 rounds.\nThe dancer's possessions are left in a pile where they died."
+    desc: " (occult,shadow,visual) When the dancer dies, their body dissolves into a swirling mass of darkness and light. All creatures in a 10-foot emanation must succeed at a DC 17 Will check save or be [[Conditions/Dazzled|Dazzled]] for 1d4 rounds.\n\nThe dancer's possessions are left in a pile where they died."
 
 attacks:
   - name: ""
@@ -75,7 +76,7 @@ attacks:
     desc: "DC 16, attack +8; __1st __  _[[Spells/Counter Performance|Counter Performance (Visual Only)]]_\n__Cantrips__  __(1st)__ _[[Spells/Courageous Anthem|Courageous Anthem]]_"
 
   - name: "Dancer's Curse"
-    desc: "`pf2:1` (curse,mental,occult) The caligni dancer touches a foe and curses it.\nIf the target fails a DC 18 Will check save, it gains [[Conditions/Clumsy 1|Clumsy 1]] and [[Conditions/Stupefied 1|Stupefied 1]].\nThe target is then temporarily immune for 24 hours.\nThese conditions persist until the curse is removed. The victim can attempt a new DC 18 Will check save once per hour to end the curse."
+    desc: "`pf2:1` (curse,mental,occult) The caligni dancer touches a foe and curses it.\n\nIf the target fails a DC 18 Will check save, it gains [[Conditions/Clumsy 1|Clumsy 1]] and [[Conditions/Stupefied 1|Stupefied 1]].\n\nThe target is then temporarily immune for 24 hours.\n\nThese conditions persist until the curse is removed. The victim can attempt a new DC 18 Will check save once per hour to end the curse."
 
   - name: "Sneak Attack"
     desc: "  The caligni dancer deals 1d6 extra precision damage to [[Conditions/Off-Guard|Off-Guard]] creatures."

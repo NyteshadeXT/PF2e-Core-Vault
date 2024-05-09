@@ -18,6 +18,7 @@ license: ORC
 columns: 2
 forcecolumns: true
 layout: Basic Pathfinder 2e Layout
+token: [[modules/pf2e-tokens-bestiaries/portraits/bestial/invertebrate/mantis-giant.webp| ]]
 source: "Pathfinder Monster Core"
 name: "Giant Mantis"
 level: "Creature 3"
@@ -29,6 +30,7 @@ modifier: 9
 perception:
   - name: "Perception"
     desc: "+9; Darkvision"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Acrobatics: +8, Athletics: +10, Stealth: +12"

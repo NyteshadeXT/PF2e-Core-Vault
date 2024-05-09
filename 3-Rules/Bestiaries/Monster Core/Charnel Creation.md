@@ -19,6 +19,7 @@ license: ORC
 columns: 2
 forcecolumns: true
 layout: Basic Pathfinder 2e Layout
+token: [[modules/pf2e-tokens-bestiaries/portraits/constructed/golem/flesh-golem.webp| ]]
 source: "Pathfinder Monster Core"
 name: "Charnel Creation"
 level: "Creature 8"
@@ -31,6 +32,7 @@ modifier: 12
 perception:
   - name: "Perception"
     desc: "+12; Darkvision"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Athletics: +19"
@@ -58,7 +60,7 @@ abilities_mid:
     desc: "  Any time a charnel creation would be affected by an effect with the electricity trait, it loses any [[Conditions/Slowed 1|Slowed]] condition it has and gains HP equal to half the damage the spell would have dealt. If the creation starts its turn in an area that deals electricity damage, it gains 2d4 HP."
 
   - name: "Electric Reflexes"
-    desc: "`pf2:r`  **Trigger** The creation would be affected by an effect with the electricity trait and a creature is in its reach\n**Effect** The creation lashes out and tries to grab a nearby creature. The creation attempts an Athletics check to [[Actions/Grapple|Grapple]] a creature within reach. The creature also takes 3d6 electricity damage on a success, or 6d6 electricity damage on a critical success."
+    desc: "`pf2:r`  **Trigger** The creation would be affected by an effect with the electricity trait and a creature is in its reach\n* * *\n\n**Effect** The creation lashes out and tries to grab a nearby creature. The creation attempts an Athletics check to [[Actions/Grapple|Grapple]] a creature within reach. The creature also takes 3d6 electricity damage on a success, or 6d6 electricity damage on a critical success."
 
 attacks:
   - name: ""
@@ -67,7 +69,7 @@ attacks:
     desc: "`pf2:1` Fist +20 (magical, reach 10 feet)\n__Damage__  2d10 + 7 bludgeoning"
 
   - name: "Berserk Slam"
-    desc: "`pf2:1`  **Requirements** The charnel creation is berserk\n**Effect** The charnel creation Strikes with its fist at a –1 circumstance penalty. If it hits, it deals 1d6 extra damage and knocks the target [[Conditions/Prone|Prone]]."
+    desc: "`pf2:1`  **Requirements** The charnel creation is berserk\n* * *\n\n**Effect** The charnel creation Strikes with its fist at a –1 circumstance penalty. If it hits, it deals 1d6 extra damage and knocks the target [[Conditions/Prone|Prone]]."
  
 ```
 

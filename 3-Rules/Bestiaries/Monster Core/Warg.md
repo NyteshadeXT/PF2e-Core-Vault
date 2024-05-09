@@ -18,6 +18,7 @@ license: ORC
 columns: 2
 forcecolumns: true
 layout: Basic Pathfinder 2e Layout
+token: [[modules/pf2e-tokens-bestiaries/portraits/bestial/mammalian/warg.webp| ]]
 source: "Pathfinder Monster Core"
 name: "Warg"
 level: "Creature 2"
@@ -51,7 +52,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Avenging Bite"
-    desc: "`pf2:r`  **Trigger** A creature within reach of the warg's jaws attacks one of the warg's allies.\n**Effect** The warg makes a jaws Strike against the triggering creature."
+    desc: "`pf2:r`  **Trigger** A creature within reach of the warg's jaws attacks one of the warg's allies.\n* * *\n\n**Effect** The warg makes a jaws Strike against the triggering creature."
 
 attacks:
   - name: ""
@@ -63,7 +64,7 @@ attacks:
     desc: "  The warg's Strikes deals an extra 1d4 damage to any creature within reach of at least two of the warg's allies."
 
   - name: "[[Bestiary Ability Glossary/Swallow Whole|Swallow Whole]]"
-    desc: "`pf2:1` (attack) Small, 1d6 + 2 bludgeoning, Rupture 9\n"
+    desc: "`pf2:1` (attack) Small, 1d6 + 2 bludgeoning, Rupture 9\n\n* * *\n"
 
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
     desc: "`pf2:1`  "

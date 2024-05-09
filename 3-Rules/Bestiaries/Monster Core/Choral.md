@@ -20,6 +20,7 @@ license: ORC
 columns: 2
 forcecolumns: true
 layout: Basic Pathfinder 2e Layout
+token: [[modules/pf2e-tokens-bestiaries/portraits/divine/angel/choral.webp| ]]
 source: "Pathfinder Monster Core"
 name: "Choral"
 level: "Creature 6"
@@ -33,7 +34,7 @@ modifier: 14
 perception:
   - name: "Perception"
     desc: "+14; Darkvision"
-languages: "Diabolic, Draconic, Empyrean"
+languages: "Diabolic, Draconic, Empyrean; Truespeech"
 skills:
   - name: "Skills"
     desc: "Acrobatics: +12, Diplomacy: +15, Performance: +17, Religion: +14"
@@ -55,7 +56,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Harmonizing Aura"
-    desc: " (aura,divine,sonic) 20 feet.\nAllies in the aura gain a +2 status bonus to sonic damage rolls and a +1 status bonus to AC and all saves against effects with the auditory or sonic trait. Enemies in the aura take a –2 status penalty to sonic damage rolls and a –1 status penalty to AC and all saves against sonic and auditory effects."
+    desc: " (aura,divine,sonic) 20 feet.\n\nAllies in the aura gain a +2 status bonus to sonic damage rolls and a +1 status bonus to AC and all saves against effects with the auditory or sonic trait. Enemies in the aura take a –2 status penalty to sonic damage rolls and a –1 status penalty to AC and all saves against sonic and auditory effects."
 
 attacks:
   - name: ""
@@ -76,7 +77,7 @@ attacks:
     desc: "  On a critical hit with piercing hymn, the target is [[Conditions/Deafened|Deafened]] for one minute."
 
   - name: "Harmonize"
-    desc: "`pf2:1` (concentrate,divine,sonic) The choral angel lends their harmony to a choral angel ally within their harmonizing aura.\nThe ally can, on their next turn, expend their 3rd-rank [[Spells/Noise Blast|Noise Blast]] to instead cast [[Spells/Calm|Calm]], [[Spells/Heroism|Heroism]], or 4th-rank _noise blast_.\nIf the ally is benefiting from 5 or more chorals' Harmonize actions, they can instead choose [[Spells/Divine Decree|Divine Decree]]."
+    desc: "`pf2:1` (concentrate,divine,sonic) The choral angel lends their harmony to a choral angel ally within their harmonizing aura.\n\nThe ally can, on their next turn, expend their 3rd-rank [[Spells/Noise Blast|Noise Blast]] to instead cast [[Spells/Calm|Calm]], [[Spells/Heroism|Heroism]], or 4th-rank _noise blast_.\n\nIf the ally is benefiting from 5 or more chorals' Harmonize actions, they can instead choose [[Spells/Divine Decree|Divine Decree]]."
  
 ```
 

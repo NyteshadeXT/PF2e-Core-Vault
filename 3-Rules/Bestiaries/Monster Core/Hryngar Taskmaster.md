@@ -20,6 +20,7 @@ license: ORC
 columns: 2
 forcecolumns: true
 layout: Basic Pathfinder 2e Layout
+token: [[modules/pf2e-tokens-bestiaries/portraits/humanoid/darklands/duergar-taskmaster.webp| ]]
 source: "Pathfinder Monster Core"
 name: "Hryngar Taskmaster"
 level: "Creature 2"
@@ -71,7 +72,7 @@ attacks:
     desc: "DC 18, attack +10; __2nd __  _[[Spells/Blood Vendetta|Blood Vendetta]]_, _[[Spells/Paranoia|Paranoia]]_\n__Cantrips__  __(1st)__ _[[Spells/Sigil|Sigil]]_"
 
   - name: "Take Them Down!"
-    desc: "`pf2:1`  The hryngar taskmaster smashes their maul into the ground and invokes Droskar's name to rally their allies to action. All allied hryngars of equal or lower level that are within 20 feet of the hryngar taskmaster gain a +1 status bonus to attack rolls and damage rolls until the end of the hryngar taskmaster's next turn.\n[[Bestiary Effects/Effect_ Take Them Down!|Effect: Take Them Down!]]"
+    desc: "`pf2:1`  The hryngar taskmaster smashes their maul into the ground and invokes Droskar's name to rally their allies to action. All allied hryngars of equal or lower level that are within 20 feet of the hryngar taskmaster gain a +1 status bonus to attack rolls and damage rolls until the end of the hryngar taskmaster's next turn.\n\n[[Bestiary Effects/Effect_ Take Them Down!|Effect: Take Them Down!]]"
  
 ```
 

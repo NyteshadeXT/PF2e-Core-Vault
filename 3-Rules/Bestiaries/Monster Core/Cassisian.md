@@ -20,6 +20,7 @@ license: ORC
 columns: 2
 forcecolumns: true
 layout: Basic Pathfinder 2e Layout
+token: [[modules/pf2e-tokens-bestiaries/portraits/divine/angel/cassisian.webp| ]]
 source: "Pathfinder Monster Core"
 name: "Cassisian"
 level: "Creature 1"
@@ -55,7 +56,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Transfer Protection"
-    desc: " (holy) A creature can wear a willing cassisian as a helmet. While it does, the cassisian can't act, but the cassisian extends their +1 status bonus to AC and saves against unholy creatures to their wearer. At any time, the cassisian can detach themself from their wearer as a single action.\n[[Bestiary Effects/Effect_ Transfer Protection|Effect: Transfer Protection]]"
+    desc: " (holy) A creature can wear a willing cassisian as a helmet. While it does, the cassisian can't act, but the cassisian extends their +1 status bonus to AC and saves against unholy creatures to their wearer. At any time, the cassisian can detach themself from their wearer as a single action.\n\n[[Bestiary Effects/Effect_ Transfer Protection|Effect: Transfer Protection]]"
 
 attacks:
   - name: ""
@@ -67,7 +68,7 @@ attacks:
     desc: "DC 16, attack +8; __4th __  _[[Spells/Read Omens|Read Omens]]_; __1st __  _[[Spells/Heal|Heal]]_\n__Cantrips__  __(1st)__ _[[Spells/Know the Way|Know the Way]]_, _[[Spells/Light|Light]]_"
 
   - name: "[[Bestiary Ability Glossary/Change Shape|Change Shape]]"
-    desc: "`pf2:1` (concentrate,divine,polymorph) A cassisian can take the appearance of a dove, a winged humanoid, a dog, or a fish. Normally, this doesn't change their Speed or the attack and damage bonuses for their Strikes, but it might change the damage type Strikes deal (typically to bludgeoning). Any further changes for specific forms are noted below.\n*   **Dog**\n    *   **Size** Small;\n    *   [[Bestiary Ability Glossary/Scent|Scent (Imprecise) 30 feet]],\n    *   **Speed** 40 feet;\n    *   **Skills** Athletics +6;\n    *   **Melee** jaws +7, **Damage** 1d6+2 piercing plus [[Bestiary Ability Glossary/Knockdown|Knockdown]]\n*   **Fish**\n    *   **Speed** Swim 30 feet\n"
+    desc: "`pf2:1` (concentrate,divine,polymorph) A cassisian can take the appearance of a dove, a winged humanoid, a dog, or a fish. Normally, this doesn't change their Speed or the attack and damage bonuses for their Strikes, but it might change the damage type Strikes deal (typically to bludgeoning). Any further changes for specific forms are noted below.\n\n*   **Dog**\n    *   **Size** Small;\n    *   [[Bestiary Ability Glossary/Scent|Scent (Imprecise) 30 feet]],\n    *   **Speed** 40 feet;\n    *   **Skills** Athletics +6;\n    *   **Melee** jaws +7, **Damage** 1d6+2 piercing plus [[Bestiary Ability Glossary/Knockdown|Knockdown]]\n*   **Fish**\n    *   **Speed** Swim 30 feet\n\n* * *\n"
 
   - name: "Eye Beams"
     desc: "`pf2:2` (concentrate,divine,holy) The cassisian releases beams of heat or cold from their eyes, dealing 2d6 cold or fire damage (DC 17 Reflex check save) to all creatures in a 15-foot line. They can't use Eye Beams again for 1d4 rounds."

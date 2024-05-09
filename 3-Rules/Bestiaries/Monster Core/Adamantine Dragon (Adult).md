@@ -56,10 +56,10 @@ abilities_mid:
     desc: "  Once the adamantine dragon is reduced to fewer than half their Hit Points, their resistance is reduced by 10 and they gain a +10 circumstance bonus to their Speeds."
 
   - name: "[[Bestiary Ability Glossary/Frightful Presence|Frightful Presence]]"
-    desc: " (aura,emotion,fear,mental) 90 feet DC 30 Will check\n"
+    desc: " (aura,emotion,fear,mental) 90 feet DC 30 Will check\n\n* * *\n"
 
   - name: "Resilient Form"
-    desc: "`pf2:r`  **Trigger** The dragon is critically hit with a weapon or unarmed attack;\n**Effect** The dragon's tough scales ward off deadly attacks. The dragon attempts a DC 17 Flat check. On a success, the triggering attack becomes a normal hit."
+    desc: "`pf2:r`  **Trigger** The dragon is critically hit with a weapon or unarmed attack;\n* * *\n\n**Effect** The dragon's tough scales ward off deadly attacks. The dragon attempts a DC 17 Flat check. On a success, the triggering attack becomes a normal hit."
 
 attacks:
   - name: ""
@@ -80,10 +80,10 @@ attacks:
     desc: "  The dragon’s unarmed melee Strikes are adamantine."
 
   - name: "Avalanche Breath"
-    desc: "`pf2:2` (primal) The dragon belches a mass of boulders that deals 11d8 bludgeoning damage in a 40-foot cone (DC 33 Reflex check save).\nThey can't use Avalanche Breath again for 1d4 rounds."
+    desc: "`pf2:2` (primal) The dragon belches a mass of boulders that deals 11d8 bludgeoning damage in a 40-foot cone (DC 33 Reflex check save).\n\nThey can't use Avalanche Breath again for 1d4 rounds."
 
   - name: "Burrowing Pounce"
-    desc: "`pf2:3`  **Requirements** The dragon is burrowed\n**Effect** The dragon Burrows, then Leaps out of the ground, landing at a point within 25 feet. The dragon makes a melee Strike against a creature within reach when they land. If the Strike is a critical hit, the target is knocked [[Conditions/Prone|Prone]]."
+    desc: "`pf2:3`  **Requirements** The dragon is burrowed\n* * *\n\n**Effect** The dragon Burrows, then Leaps out of the ground, landing at a point within 25 feet. The dragon makes a melee Strike against a creature within reach when they land. If the Strike is a critical hit, the target is knocked [[Conditions/Prone|Prone]]."
 
   - name: "Draconic Frenzy"
     desc: "`pf2:2`  The dragon makes two claw Strikes and one tail Strike in any order."
@@ -95,7 +95,7 @@ attacks:
     desc: "  The dragon can burrow through solid stone at a Speed of 20 feet. They can leave a tunnel if they desire, and they usually don’t."
 
   - name: "[[Bestiary Ability Glossary/Swallow Whole|Swallow Whole]]"
-    desc: "`pf2:1` (attack) Large, 3d12 + 7 bludgeoning, Rupture 29\n"
+    desc: "`pf2:1` (attack) Large, 3d12 + 7 bludgeoning, Rupture 29\n\n* * *\n"
 
   - name: "[[Bestiary Ability Glossary/Throw Rock|Throw Rock]]"
     desc: "`pf2:1`  "

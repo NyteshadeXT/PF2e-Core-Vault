@@ -21,6 +21,7 @@ license: ORC
 columns: 2
 forcecolumns: true
 layout: Basic Pathfinder 2e Layout
+token: [[modules/pf2e-tokens-bestiaries/portraits/humanoid/troll/troll.webp| ]]
 source: "Pathfinder Monster Core"
 name: "Forest Troll"
 level: "Creature 5"
@@ -60,7 +61,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Furious Flailing"
-    desc: "`pf2:r`  **Trigger** The forest troll takes electricity or fire damage\n**Effect** The troll makes a claw Strike against a random creature within its reach. If the troll has persistent fire damage, they attempt a DC 15 Flat check to remove it."
+    desc: "`pf2:r`  **Trigger** The forest troll takes electricity or fire damage\n* * *\n\n**Effect** The troll makes a claw Strike against a random creature within its reach. If the troll has persistent fire damage, they attempt a DC 15 Flat check to remove it."
 
 attacks:
   - name: ""
@@ -75,7 +76,7 @@ attacks:
     desc: "`pf2:2`  The forest troll rushes forward on all fours, Striding and then making two claw Strikes."
 
   - name: "[[Bestiary Ability Glossary/Rend|Rend]]"
-    desc: "`pf2:1`  Claw\n"
+    desc: "`pf2:1`  Claw\n\n* * *\n"
  
 ```
 

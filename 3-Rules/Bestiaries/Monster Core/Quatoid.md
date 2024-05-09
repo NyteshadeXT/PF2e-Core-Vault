@@ -20,6 +20,7 @@ license: ORC
 columns: 2
 forcecolumns: true
 layout: Basic Pathfinder 2e Layout
+token: [[modules/pf2e-tokens-bestiaries/portraits/elemental/water/quatoid.webp| ]]
 source: "Pathfinder Monster Core"
 name: "Quatoid"
 level: "Creature 7"
@@ -55,7 +56,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Calming Bioluminescence"
-    desc: " (aura,emotion,mental,visual) 30 feet.\nThe aura sheds dim light. Creatures in the emanation gain a +2 circumstance bonus to saving throws against emotion effects. The quatoid can activate or deactivate its calming bioluminescence as a single action, which has the concentrate trait.\n[[Bestiary Effects/Effect_ Calming Bioluminescence|Effect: Calming Bioluminescence]]"
+    desc: " (aura,emotion,mental,visual) 30 feet.\n\nThe aura sheds dim light. Creatures in the emanation gain a +2 circumstance bonus to saving throws against emotion effects. The quatoid can activate or deactivate its calming bioluminescence as a single action, which has the concentrate trait.\n\n[[Bestiary Effects/Effect_ Calming Bioluminescence|Effect: Calming Bioluminescence]]"
 
 attacks:
   - name: ""
@@ -67,7 +68,7 @@ attacks:
     desc: "DC 27, attack +17; __2nd __  _[[Spells/Hydraulic Push|Hydraulic Push (At Will)]]_"
 
   - name: "[[Bestiary Ability Glossary/Constrict|Constrict]]"
-    desc: "`pf2:1`  1d12 + 6 bludgeoning, DC 25 Fortitude check\n"
+    desc: "`pf2:1`  1d12 + 6 bludgeoning, DC 25 Fortitude check\n\n* * *\n"
 
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
     desc: "`pf2:1`  "

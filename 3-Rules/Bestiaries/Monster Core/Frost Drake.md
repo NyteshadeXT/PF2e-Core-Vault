@@ -19,6 +19,7 @@ license: ORC
 columns: 2
 forcecolumns: true
 layout: Basic Pathfinder 2e Layout
+token: [[modules/pf2e-tokens-bestiaries/portraits/draconic/drakes/frost-drake.webp| ]]
 source: "Pathfinder Monster Core"
 name: "Frost Drake"
 level: "Creature 7"
@@ -56,7 +57,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Retaliatory Strike"
-    desc: "`pf2:r`  **Trigger** A creature within reach of the frost drake's tail successfully damages the frost drake with a Strike\n**Effect** The frost drake attempts to Strike with their tail. If the Strike hits, it deals an additional 1d6 damage."
+    desc: "`pf2:r`  **Trigger** A creature within reach of the frost drake's tail successfully damages the frost drake with a Strike\n* * *\n\n**Effect** The frost drake attempts to Strike with their tail. If the Strike hits, it deals an additional 1d6 damage."
 
 attacks:
   - name: ""
@@ -71,13 +72,13 @@ attacks:
     desc: "`pf2:2`  The frost drake makes two Fangs Strikes and one Tail Strike in any order."
 
   - name: "Freezing Mist Breath"
-    desc: "`pf2:2` (cold,primal) The frost drake spits a ball of liquid up to 60 feet that explodes into a 20-foot burst cloud of freezing mist. Those in the burst take 8d6 cold damage (DC 25 Reflex check save).\nThe frost drake can't use Freezing Mist Breath again for 1d6 rounds, during which the mist cakes all surfaces in the area with a sheet of slippery ice that turns the area into difficult terrain."
+    desc: "`pf2:2` (cold,primal) The frost drake spits a ball of liquid up to 60 feet that explodes into a 20-foot burst cloud of freezing mist. Those in the burst take 8d6 cold damage (DC 25 Reflex check save).\n\nThe frost drake can't use Freezing Mist Breath again for 1d6 rounds, during which the mist cakes all surfaces in the area with a sheet of slippery ice that turns the area into difficult terrain."
 
   - name: "Ice Climb"
     desc: "  A frost drake isn't impeded by difficult terrain caused by snow or ice, nor do they need to attempt Acrobatics checks to keep from falling on slippery ice."
 
   - name: "Speed Surge"
-    desc: "`pf2:1` (move) **Frequency** three times per day;\n**Effect** The frost drake Strides or Flies twice."
+    desc: "`pf2:1` (move) **Frequency** three times per day;\n* * *\n\n**Effect** The frost drake Strides or Flies twice."
  
 ```
 

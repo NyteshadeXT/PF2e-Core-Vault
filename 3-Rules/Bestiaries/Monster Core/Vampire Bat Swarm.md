@@ -19,6 +19,7 @@ license: ORC
 columns: 2
 forcecolumns: true
 layout: Basic Pathfinder 2e Layout
+token: [[modules/pf2e-tokens-bestiaries/portraits/bestial/mammalian/vampire-bat-swarm.webp| ]]
 source: "Pathfinder Monster Core"
 name: "Vampire Bat Swarm"
 level: "Creature 1"
@@ -31,6 +32,7 @@ modifier: 10
 perception:
   - name: "Perception"
     desc: "+10; Echolocation 20 Feet, Low-Light Vision"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Acrobatics: +7, Athletics: +4 (+7 to Climb), Stealth: +7"

@@ -64,7 +64,7 @@ attacks:
     desc: "`pf2:1` Splinter +7 (range increment 30 feet)\n__Damage__  1d4 piercing"
 
   - name: "Bramble Jump"
-    desc: "`pf2:3` (plant,primal,teleportation,wood) **Requirements** The twigjack is in undergrowth\n**Effect** The twigjack scrambles into the undergrowth and instantly teleports to a square of undergrowth within 60 feet. This movement doesn't trigger reactions."
+    desc: "`pf2:3` (plant,primal,teleportation,wood) **Requirements** The twigjack is in undergrowth\n* * *\n\n**Effect** The twigjack scrambles into the undergrowth and instantly teleports to a square of undergrowth within 60 feet. This movement doesn't trigger reactions."
  
 ```
 

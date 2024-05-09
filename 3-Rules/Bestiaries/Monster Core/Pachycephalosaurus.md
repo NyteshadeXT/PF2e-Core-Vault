@@ -19,6 +19,7 @@ license: ORC
 columns: 2
 forcecolumns: true
 layout: Basic Pathfinder 2e Layout
+token: [[modules/pf2e-tokens-bestiaries/portraits/bestial/reptilian/pachycephalosaurus.webp| ]]
 source: "Pathfinder Monster Core"
 name: "Pachycephalosaurus"
 level: "Creature 3"
@@ -31,6 +32,7 @@ modifier: 10
 perception:
   - name: "Perception"
     desc: "+10; Low-Light Vision, Scent (Imprecise) 30 Feet"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Athletics: +11, Intimidation: +7"
@@ -61,7 +63,7 @@ attacks:
     desc: "`pf2:2`  The pachycephalosaurus Strides up to its Speed. If it ends its movement within melee reach of a target, it can make a skull Strike against that target. If the pachycephalosaurus critically hits with this Strike, the creature hit is [[Conditions/Stunned 1|Stunned 1]]."
 
   - name: "Sudden Shove"
-    desc: "`pf2:r` (attack) **Trigger** The pachycephalosaurus damages a Medium or smaller foe with its skull Strike\n**Effect** The pachycephalosaurus digs in and flings its head up, shoving its foe away. It attempts an Athletics check check against the target's Fortitude DC.\n**Critical Success** The pachycephalosaurus pushes the opponent up to 10 feet away from itself and knocks the target [[Conditions/Prone|Prone]].\n**Success** The pachycephalosaurus pushes the opponent back 5 feet.\n**Failure** The pachycephalosaurus fails to push the opponent.\n**Critical Failure** As failure, but the failed attempt leaves the pachycephalosaurus [[Conditions/Off-Guard|Off-Guard]] for 1 round."
+    desc: "`pf2:r` (attack) **Trigger** The pachycephalosaurus damages a Medium or smaller foe with its skull Strike\n* * *\n\n**Effect** The pachycephalosaurus digs in and flings its head up, shoving its foe away. It attempts an Athletics check check against the target's Fortitude DC.\n* * *\n\n**Critical Success** The pachycephalosaurus pushes the opponent up to 10 feet away from itself and knocks the target [[Conditions/Prone|Prone]].\n\n**Success** The pachycephalosaurus pushes the opponent back 5 feet.\n\n**Failure** The pachycephalosaurus fails to push the opponent.\n\n**Critical Failure** As failure, but the failed attempt leaves the pachycephalosaurus [[Conditions/Off-Guard|Off-Guard]] for 1 round."
  
 ```
 

@@ -18,6 +18,7 @@ license: ORC
 columns: 2
 forcecolumns: true
 layout: Basic Pathfinder 2e Layout
+token: [[modules/pf2e-tokens-bestiaries/portraits/bestial/mammalian/dire-wolf.webp| ]]
 source: "Pathfinder Monster Core"
 name: "Dire Wolf"
 level: "Creature 3"
@@ -29,6 +30,7 @@ modifier: 10
 perception:
   - name: "Perception"
     desc: "+10; Low-Light Vision, Scent (Imprecise) 30 Feet"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Acrobatics: +8, Athletics: +10, Stealth: +8, Survival: +10"
@@ -62,7 +64,7 @@ attacks:
     desc: "  The dire wolf's Strikes deal 1d6 extra damage to creatures within reach of at least two of the wolf's allies."
 
   - name: "Worry"
-    desc: "`pf2:1` (attack) **Requirements** The dire wolf has a creature [[Conditions/Grabbed|Grabbed]] or [[Conditions/Restrained|Restrained]] in its jaws\n**Effect** The dire wolf fiercely shakes the creature with its teeth, dealing 1d10 + 2 piercing damage with a DC 20 Fortitude check save."
+    desc: "`pf2:1` (attack) **Requirements** The dire wolf has a creature [[Conditions/Grabbed|Grabbed]] or [[Conditions/Restrained|Restrained]] in its jaws\n* * *\n\n**Effect** The dire wolf fiercely shakes the creature with its teeth, dealing 1d10 + 2 piercing damage with a DC 20 Fortitude check save."
 
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
     desc: "`pf2:1`  "

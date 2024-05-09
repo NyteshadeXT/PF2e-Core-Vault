@@ -19,6 +19,7 @@ license: ORC
 columns: 2
 forcecolumns: true
 layout: Basic Pathfinder 2e Layout
+token: [[modules/pf2e-tokens-bestiaries/portraits/plant/leshy/gourd-leshy.webp| ]]
 source: "Pathfinder Monster Core"
 name: "Gourd Leshy"
 level: "Creature 1"
@@ -31,7 +32,7 @@ modifier: 5
 perception:
   - name: "Perception"
     desc: "+5; Low-Light Vision"
-languages: "Common, Fey"
+languages: "Common, Fey; Speak with Plants (Gourds Only)"
 skills:
   - name: "Skills"
     desc: "Nature: +5, Stealth: +7"
@@ -56,7 +57,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Verdant Burst"
-    desc: " (healing,primal,vitality) When a gourd leshy dies, a burst of primal energy explodes from their body, restoring 1d8 Hit Points to each plant creature in a 30-foot emanation. This area is filled with gourds, becoming difficult terrain.\nIf the terrain is not a viable environment for these gourds, they wither after 24 hours."
+    desc: " (healing,primal,vitality) When a gourd leshy dies, a burst of primal energy explodes from their body, restoring 1d8 Hit Points to each plant creature in a 30-foot emanation. This area is filled with gourds, becoming difficult terrain.\n\nIf the terrain is not a viable environment for these gourds, they wither after 24 hours."
 
 attacks:
   - name: ""
@@ -71,10 +72,10 @@ attacks:
     desc: "DC 15, attack +7; __3rd __  _[[Spells/Speak with Plants|Speak with Plants (Constant, Gourds Only)]]_"
 
   - name: "[[Bestiary Ability Glossary/Change Shape|Change Shape]]"
-    desc: "`pf2:1` (concentrate,polymorph,primal) The leaf leshy transforms into a Small gourd-bearing plant. This ability otherwise uses the effects of [[Spells/One with Plants|One with Plants]].\n"
+    desc: "`pf2:1` (concentrate,polymorph,primal) The leaf leshy transforms into a Small gourd-bearing plant. This ability otherwise uses the effects of [[Spells/One with Plants|One with Plants]].\n\n* * *\n"
 
   - name: "Ensnare"
-    desc: "  When the gourd leshy damages a creature with a fist or seed Strike, vines lash out from the leshy (or seed) and wrap around the target's limbs.\nThe target must attempt a DC 17 Reflex check save. On a failure, the target takes a –10-foot status penalty to its Speed for 1 round; on a critical failure, the target is [[Conditions/Immobilized|Immobilized]] for 1 round and the penalty to Speed lasts for 1 minute.\n[[Bestiary Effects/Effect_ Ensnare|Effect: Ensnare]]"
+    desc: "  When the gourd leshy damages a creature with a fist or seed Strike, vines lash out from the leshy (or seed) and wrap around the target's limbs.\n\nThe target must attempt a DC 17 Reflex check save. On a failure, the target takes a –10-foot status penalty to its Speed for 1 round; on a critical failure, the target is [[Conditions/Immobilized|Immobilized]] for 1 round and the penalty to Speed lasts for 1 minute.\n\n[[Bestiary Effects/Effect_ Ensnare|Effect: Ensnare]]"
  
 ```
 

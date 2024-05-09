@@ -63,7 +63,7 @@ attacks:
     desc: "`pf2:1` Stinger +17 (reach 10 feet)\n__Damage__  1d8 + 8 piercing plus manticore-venom"
 
   - name: "Manticore Venom"
-    desc: " (poison) **Saving Throw** DC 22 Fortitude check\n**Maximum Duration** 6 rounds\n**Stage 1** 1d10 poison damage and [[Conditions/Enfeebled 1|Enfeebled 1]] (1 round)\n**Stage 2** 2d10 poison damage and enfeebled 1 (1 round)\n**Stage 3** 2d10 poison damage and [[Conditions/Enfeebled 1|Enfeebled 2]] (1 round)"
+    desc: " (poison) **Saving Throw** DC 22 Fortitude check\n* * *\n\n**Maximum Duration** 6 rounds\n\n**Stage 1** 1d10 poison damage and [[Conditions/Enfeebled 1|Enfeebled 1]] (1 round)\n\n**Stage 2** 2d10 poison damage and enfeebled 1 (1 round)\n\n**Stage 3** 2d10 poison damage and [[Conditions/Enfeebled 1|Enfeebled 2]] (1 round)"
  
 ```
 

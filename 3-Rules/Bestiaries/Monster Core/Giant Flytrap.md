@@ -19,6 +19,7 @@ license: ORC
 columns: 2
 forcecolumns: true
 layout: Basic Pathfinder 2e Layout
+token: [[modules/pf2e-tokens-bestiaries/portraits/plant/flytrap-giant.webp| ]]
 source: "Pathfinder Monster Core"
 name: "Giant Flytrap"
 level: "Creature 10"
@@ -31,6 +32,7 @@ modifier: 17
 perception:
   - name: "Perception"
     desc: "+17; Tremorsense (Imprecise) 60 Feet"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Athletics: +23, Stealth: +21 (+24 in undergrowth)"
@@ -52,7 +54,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Quick Capture"
-    desc: "`pf2:r`  **Trigger** A creature hits or touches the flytrap.\n**Effect** The flytrap makes a leaf Strike against the triggering creature. If it hits, the creature is [[Conditions/Grabbed|Grabbed]] in that leaf."
+    desc: "`pf2:r`  **Trigger** A creature hits or touches the flytrap.\n* * *\n\n**Effect** The flytrap makes a leaf Strike against the triggering creature. If it hits, the creature is [[Conditions/Grabbed|Grabbed]] in that leaf."
 
 attacks:
   - name: ""
@@ -67,7 +69,7 @@ attacks:
     desc: "`pf2:2`  The flytrap makes four leaf Strikes at a -2 penalty, each against a different target. These attacks count toward the flytrap's multiple attack penalty, but the multiple attack penalty doesn't increase until after it makes all its attacks."
 
   - name: "[[Bestiary Ability Glossary/Swallow Whole|Swallow Whole]]"
-    desc: "`pf2:1` (attack) Large, 2d8 + 3 bludgeoning + 2d6 acid, Rupture 17\n"
+    desc: "`pf2:1` (attack) Large, 2d8 + 3 bludgeoning + 2d6 acid, Rupture 17\n\n* * *\n"
  
 ```
 

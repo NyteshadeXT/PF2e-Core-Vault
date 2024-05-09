@@ -18,6 +18,7 @@ license: ORC
 columns: 2
 forcecolumns: true
 layout: Basic Pathfinder 2e Layout
+token: [[modules/pf2e-tokens-bestiaries/portraits/aberrant/eldritch/rhu-chalik.webp| ]]
 source: "Pathfinder Monster Core"
 name: "Rhu-Chalik"
 level: "Creature 6"
@@ -29,7 +30,7 @@ modifier: 17
 perception:
   - name: "Perception"
     desc: "+17; Greater Darkvision, Tremorsense (Precise) 60 Feet"
-languages: "Aklo"
+languages: "Aklo; Telepathy 100 feet"
 skills:
   - name: "Skills"
     desc: "Athletics: +13, Deception: +13, Diplomacy: +13, Intimidation: +13, Stealth: +15"
@@ -69,10 +70,10 @@ attacks:
     desc: " (occult,poison) A rhu-chalik's tendrils secrete an enzyme that causes intense pain. A living creature hit by a tendril Strike must succeed at a DC 24 Fortitude check save or become [[Conditions/Sickened 1|Sickened 1]] from the pain."
 
   - name: "Label Memories"
-    desc: "`pf2:2` (mental,occult) The rhu-chalik invades the mind of a target within 100 feet, sorting the memories into alien structures for transmission. The target must attempt a DC 24 Will check save.\n**Critical Success** The target creature is unaffected and temporarily immune to Label Memories for 1 minute.\n**Success** The target is unaffected.\n**Failure** The target becomes [[Conditions/Stupefied 1|Stupefied 2]] for 1 minute as its mind is reorganized to fit the rhu-chalik's needs. If it's already stupefied by this effect, the target instead becomes [[Conditions/Confused|Confused]] for 1 minute or until it recovers due to taking damage.\n**Critical Failure** As failure, but if the target is already stupefied by Label Memories, they become [[Conditions/Paralyzed|Paralyzed]] for 1 minute instead of confused."
+    desc: "`pf2:2` (mental,occult) The rhu-chalik invades the mind of a target within 100 feet, sorting the memories into alien structures for transmission. The target must attempt a DC 24 Will check save.\n* * *\n\n**Critical Success** The target creature is unaffected and temporarily immune to Label Memories for 1 minute.\n\n**Success** The target is unaffected.\n\n**Failure** The target becomes [[Conditions/Stupefied 1|Stupefied 2]] for 1 minute as its mind is reorganized to fit the rhu-chalik's needs. If it's already stupefied by this effect, the target instead becomes [[Conditions/Confused|Confused]] for 1 minute or until it recovers due to taking damage.\n\n**Critical Failure** As failure, but if the target is already stupefied by Label Memories, they become [[Conditions/Paralyzed|Paralyzed]] for 1 minute instead of confused."
 
   - name: "Transmit Memories"
-    desc: "`pf2:3` (concentrate,mental,occult) **Requirements** The rhu-chalik is adjacent to a creature [[Conditions/Paralyzed|Paralyzed]] due to Label Memories\n**Effect** The rhu-chalik copies the creature's consciousness and mentally sends this copied consciousness through the void of space to their waiting masters. The target creature is deeply disoriented by this procedure, becoming [[Conditions/Stupefied 1|Stupefied 2]] for 1 day afterward."
+    desc: "`pf2:3` (concentrate,mental,occult) **Requirements** The rhu-chalik is adjacent to a creature [[Conditions/Paralyzed|Paralyzed]] due to Label Memories\n* * *\n\n**Effect** The rhu-chalik copies the creature's consciousness and mentally sends this copied consciousness through the void of space to their waiting masters. The target creature is deeply disoriented by this procedure, becoming [[Conditions/Stupefied 1|Stupefied 2]] for 1 day afterward."
  
 ```
 

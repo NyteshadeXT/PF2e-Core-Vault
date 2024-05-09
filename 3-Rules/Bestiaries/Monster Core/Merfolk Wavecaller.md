@@ -20,6 +20,7 @@ license: ORC
 columns: 2
 forcecolumns: true
 layout: Basic Pathfinder 2e Layout
+token: [[modules/pf2e-tokens-bestiaries/portraits/humanoid/aquatic/merfolk-wavecaller.webp| ]]
 source: "Pathfinder Monster Core"
 name: "Merfolk Wavecaller"
 level: "Creature 2"
@@ -68,7 +69,7 @@ attacks:
     desc: "DC 18, attack +10; __1st __  _[[Spells/Charm|Charm]]_, _[[Spells/Heal|Heal]]_, _[[Spells/Hydraulic Push|Hydraulic Push]]_\n__Cantrips__  __(1st)__ _[[Spells/Detect Magic|Detect Magic]]_, _[[Spells/Electric Arc|Electric Arc]]_, _[[Spells/Frostbite|Frostbite]]_, _[[Spells/Light|Light]]_, _[[Spells/Stabilize|Stabilize]]_"
 
   - name: "Hydraulic Asphyxiation"
-    desc: "`pf2:1` (divine,water) **Requirements** The target is fully submerged in water, within 30 feet of the merfolk wavecaller, and holding its breath\n**Effect** The merfolk wavecaller commands the tides to crush their foe's throat, rooting the target in place and forcing it to choke up precious air. The target must succeed at a DC 18 Fortitude check save or become [[Conditions/Immobilized|Immobilized]] for 1 round and immediately lose 1d4 rounds' worth of air (or twice that on a critical failure)."
+    desc: "`pf2:1` (divine,water) **Requirements** The target is fully submerged in water, within 30 feet of the merfolk wavecaller, and holding its breath\n* * *\n\n**Effect** The merfolk wavecaller commands the tides to crush their foe's throat, rooting the target in place and forcing it to choke up precious air. The target must succeed at a DC 18 Fortitude check save or become [[Conditions/Immobilized|Immobilized]] for 1 round and immediately lose 1d4 rounds' worth of air (or twice that on a critical failure)."
  
 ```
 

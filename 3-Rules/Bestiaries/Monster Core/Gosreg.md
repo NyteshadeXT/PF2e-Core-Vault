@@ -18,6 +18,7 @@ license: ORC
 columns: 2
 forcecolumns: true
 layout: Basic Pathfinder 2e Layout
+token: [[modules/pf2e-tokens-bestiaries/portraits/aberrant/eldritch/gosreg.webp| ]]
 source: "Pathfinder Monster Core"
 name: "Gosreg"
 level: "Creature 11"
@@ -29,7 +30,7 @@ modifier: 21
 perception:
   - name: "Perception"
     desc: "+21; Darkvision, Thoughtsense (Precise) 60 Feet"
-languages: "Aklo, Sakvroth"
+languages: "Aklo, Sakvroth; Telepathy 100 feet"
 skills:
   - name: "Skills"
     desc: "Deception: +24, Diplomacy: +22, Occultism: +23, Society: +19, Stealth: +23"
@@ -57,7 +58,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Unsettled Aura"
-    desc: " (aura,mental,occult) 30 feet.\nGosregs project a field of discordant energy that unsettles the minds of thinking creatures. Any non-mindless creature within 30 feet of a gosreg takes a –1 status penalty to Will saves.\n[[Bestiary Effects/Effect_ Unsettled Aura|Effect: Unsettled Aura]]"
+    desc: " (aura,mental,occult) 30 feet.\n\nGosregs project a field of discordant energy that unsettles the minds of thinking creatures. Any non-mindless creature within 30 feet of a gosreg takes a –1 status penalty to Will saves.\n\n[[Bestiary Effects/Effect_ Unsettled Aura|Effect: Unsettled Aura]]"
 
 attacks:
   - name: ""
@@ -72,10 +73,10 @@ attacks:
     desc: "DC 30, attack +22; __6th __  _[[Spells/Phantasmal Calamity|Phantasmal Calamity]]_, _[[Spells/Phantom Pain|Phantom Pain]]_; __5th __  _[[Spells/Mind Probe|Mind Probe]]_, _[[Spells/Sending|Sending]]_, _[[Spells/Subconscious Suggestion|Subconscious Suggestion]]_, _[[Spells/Synaptic Pulse|Synaptic Pulse]]_; __4th __  _[[Spells/Nightmare|Nightmare]]_, _[[Spells/Suggestion|Suggestion (x3)]]_\n__Cantrips__  __(6th)__ _[[Spells/Telekinetic Hand|Telekinetic Hand]]_, _[[Spells/Telekinetic Projectile|Telekinetic Projectile]]_"
 
   - name: "Broadcast Stance"
-    desc: "`pf2:1` (mental,occult,stance) **Requirements** the gosreg is in its natural form\n**Effect** The gosreg secures its limbs into the ground as its brain-like head crackles with psychic energy. The gosreg's unsettled aura extends to 60 feet, and it blocks all other creatures' telepathy in the aura. Its Mind Bolt can also affect any number of targets in 60 feet. These effects end when the gosreg uses its claw Strike, leaves its space, or is knocked [[Conditions/Prone|Prone]]."
+    desc: "`pf2:1` (mental,occult,stance) **Requirements** the gosreg is in its natural form\n* * *\n\n**Effect** The gosreg secures its limbs into the ground as its brain-like head crackles with psychic energy. The gosreg's unsettled aura extends to 60 feet, and it blocks all other creatures' telepathy in the aura. Its Mind Bolt can also affect any number of targets in 60 feet. These effects end when the gosreg uses its claw Strike, leaves its space, or is knocked [[Conditions/Prone|Prone]]."
 
   - name: "[[Bestiary Ability Glossary/Change Shape|Change Shape]]"
-    desc: "`pf2:1` (concentrate,occult,polymorph) The gosreg takes on the appearance of any Small or Medium humanoid. This doesn't change its Speed or attack and damage modifiers with its claw, but it might change the damage type it deals (typically to bludgeoning). It cannot use its jaws Strike while in humanoid form.\n"
+    desc: "`pf2:1` (concentrate,occult,polymorph) The gosreg takes on the appearance of any Small or Medium humanoid. This doesn't change its Speed or attack and damage modifiers with its claw, but it might change the damage type it deals (typically to bludgeoning). It cannot use its jaws Strike while in humanoid form.\n\n* * *\n"
 
   - name: "Mind Bolt"
     desc: "`pf2:2` (mental,occult) A gosreg concentrates its field of discordant mental energy and projects it into the mind of one creature within 60 feet. The target takes 6d6 mental damage (DC 30 Will check save). On a critical failure, the creature is also [[Conditions/Confused|Confused]] for 1 minute or until it takes damage."

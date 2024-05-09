@@ -19,6 +19,7 @@ license: ORC
 columns: 2
 forcecolumns: true
 layout: Basic Pathfinder 2e Layout
+token: [[modules/pf2e-tokens-bestiaries/portraits/humanoid/tengu-sneak.webp| ]]
 source: "Pathfinder Monster Core"
 name: "Tengu Sneak"
 level: "Creature 2"
@@ -31,7 +32,7 @@ modifier: 6
 perception:
   - name: "Perception"
     desc: "+6; Low-Light Vision"
-languages: "Common, Tengu"
+languages: "Common, Tengu; plus two others"
 skills:
   - name: "Skills"
     desc: "Acrobatics: +8, Athletics: +6, Deception: +7, Diplomacy: +5, Society: +5, Stealth: +8, Thievery: +8"
@@ -54,7 +55,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Eat Fortune"
-    desc: "`pf2:r` (concentrate,divine) **Frequency** once per day\n**Trigger** A creature within 60 feet uses a fortune or misfortune effect\n**Effect** The tengu negates the attempt to manipulate fate and fortune. Eat Fortune gains the opposing trait, and the triggering effect is disrupted."
+    desc: "`pf2:r` (concentrate,divine) **Frequency** once per day\n\n**Trigger** A creature within 60 feet uses a fortune or misfortune effect\n* * *\n\n**Effect** The tengu negates the attempt to manipulate fate and fortune. Eat Fortune gains the opposing trait, and the triggering effect is disrupted."
 
 attacks:
   - name: ""
@@ -69,7 +70,7 @@ attacks:
     desc: "`pf2:1` Shortbow +10 (deadly d10, range increment 60 feet, reload 0)\n__Damage__  1d6 piercing"
 
   - name: "Feather Fan Dustup"
-    desc: "`pf2:1` (air,divine) **Frequency** once per 10 minutes;\n**Effect** The tengu waves their feather fan, summoning a small magical breeze that kicks up dust in a 5-foot burst centered on a corner of their space, which lasts for 1d4 rounds. All creatures within that area are [[Conditions/Concealed|Concealed]], and all other creatures are concealed to them."
+    desc: "`pf2:1` (air,divine) **Frequency** once per 10 minutes;\n* * *\n\n**Effect** The tengu waves their feather fan, summoning a small magical breeze that kicks up dust in a 5-foot burst centered on a corner of their space, which lasts for 1d4 rounds. All creatures within that area are [[Conditions/Concealed|Concealed]], and all other creatures are concealed to them."
 
   - name: "Sneak Attack"
     desc: "  The tengu deals an additional 1d6 precision damage to [[Conditions/Off-Guard|Off-Guard]] creatures."

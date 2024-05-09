@@ -21,6 +21,7 @@ license: ORC
 columns: 2
 forcecolumns: true
 layout: Basic Pathfinder 2e Layout
+token: [[modules/pf2e-tokens-bestiaries/portraits/humanoid/werecreature/wererat.webp| ]]
 source: "Pathfinder Monster Core"
 name: "Wererat"
 level: "Creature 2"
@@ -35,7 +36,7 @@ modifier: 8
 perception:
   - name: "Perception"
     desc: "+8; Low-Light Vision, Scent (Imprecise) 30 Feet"
-languages: "Common"
+languages: "Common; Rat Empathy"
 skills:
   - name: "Skills"
     desc: "Acrobatics: +8, Athletics: +6 (+8 to Climb or Swim), Deception: +5, Society: +4, Stealth: +8"
@@ -56,12 +57,12 @@ abilities_top:
   - name: "Items"
     desc: "[[Equipment/Hand Crossbow|Hand Crossbow]], [[Equipment/Shortsword|Shortsword]], [[Equipment/Leather Armor|Leather Armor]], 20x [[Equipment/Bolts|Bolts]]"
   - name: "[[Creature Family Ability Glossary/(Werecreature) Animal Empathy|Rat Empathy]]"
-    desc: "  The wererat can communicate with rodents.\nThe werecreature can ask questions of, receive answers from, and use the Diplomacy skill with animals of its general kind."
+    desc: "  The wererat can communicate with rodents.\n* * *\n\nThe werecreature can ask questions of, receive answers from, and use the Diplomacy skill with animals of its general kind."
 
 abilities_mid:
   - name: ""
   - name: "Nimble Dodge"
-    desc: "`pf2:r`  **Trigger** A creature targets the wererat with an attack and the wererat can see the attacker;\n**Effect** The wererat gains a +2 circumstance bonus to AC against the triggering attack."
+    desc: "`pf2:r`  **Trigger** A creature targets the wererat with an attack and the wererat can see the attacker;\n* * *\n\n**Effect** The wererat gains a +2 circumstance bonus to AC against the triggering attack."
 
 attacks:
   - name: ""
@@ -79,13 +80,13 @@ attacks:
     desc: "`pf2:1` Hand Crossbow +10 (range increment 60 feet, reload 1)\n__Damage__  1d6 piercing"
 
   - name: "[[Creature Family Ability Glossary/(Werecreature) Change Shape|Change Shape]]"
-    desc: "`pf2:1` (concentrate,polymorph,primal) *   **Human**\n    *   **Melee** fist +10 **Damage** 1d4+2 bludgeoning\n*   **Rat**\n    *   **Size** small\n    *   **Speed** 30 feet, climb 10 feet\nThe werecreature changes into its humanoid, hybrid, or animal shape. Each shape has a specific, persistent appearance. A true werecreature's natural form is its hybrid shape.\nIn humanoid shape, the werecreature uses its original humanoid size, loses its jaws and claws Strikes, and gains a melee fist Strike that deals bludgeoning damage equal to the slashing damage dealt by its claw.\nIn animal shape, its Speed and size change to that of the animal, it gains any special Strike effects of the animal that it didn't already have (such as Grab), and it loses its weapon Strikes.\n"
+    desc: "`pf2:1` (concentrate,polymorph,primal) *   **Human**\n    *   **Melee** fist +10 **Damage** 1d4+2 bludgeoning\n*   **Rat**\n    *   **Size** small\n    *   **Speed** 30 feet, climb 10 feet\n* * *\n\nThe werecreature changes into its humanoid, hybrid, or animal shape. Each shape has a specific, persistent appearance. A true werecreature's natural form is its hybrid shape.\n\nIn humanoid shape, the werecreature uses its original humanoid size, loses its jaws and claws Strikes, and gains a melee fist Strike that deals bludgeoning damage equal to the slashing damage dealt by its claw.\n\nIn animal shape, its Speed and size change to that of the animal, it gains any special Strike effects of the animal that it didn't already have (such as Grab), and it loses its weapon Strikes.\n\n* * *\n"
 
   - name: "[[Creature Family Ability Glossary/(Werecreature) Curse of the Werecreature|Curse of the Wererat]]"
-    desc: " (curse,primal) This curse affects only humanoids.\n**Saving Throw** DC 15 Fortitude check\nOn each full moon, the cursed creature must succeed at another Fortitude save or turn into the same kind of werecreature until dawn.\nThe creature is under the GM's control and goes on a rampage for half the night before falling unconscious until dawn."
+    desc: " (curse,primal) This curse affects only humanoids.\n* * *\n\n**Saving Throw** DC 15 Fortitude check\n\nOn each full moon, the cursed creature must succeed at another Fortitude save or turn into the same kind of werecreature until dawn.\n\nThe creature is under the GM's control and goes on a rampage for half the night before falling unconscious until dawn."
 
   - name: "[[Creature Family Ability Glossary/(Werecreature) Moon Frenzy|Moon Frenzy]]"
-    desc: " (polymorph,primal) When a full moon appears in the night sky, the werecreature must enter hybrid form, can't Change Shape thereafter, becomes one size larger, increases its reach by 5 feet, and increases the damage of its jaws by 2.\nWhen the moon sets or the sun rises, the werecreature returns to humanoid form and is [[Conditions/Fatigued|Fatigued]] for 2d4 hours.\n[[Bestiary Effects/Effect_ Moon Frenzy|Effect: Moon Frenzy]]"
+    desc: " (polymorph,primal) When a full moon appears in the night sky, the werecreature must enter hybrid form, can't Change Shape thereafter, becomes one size larger, increases its reach by 5 feet, and increases the damage of its jaws by 2.\n\nWhen the moon sets or the sun rises, the werecreature returns to humanoid form and is [[Conditions/Fatigued|Fatigued]] for 2d4 hours.\n\n[[Bestiary Effects/Effect_ Moon Frenzy|Effect: Moon Frenzy]]"
 
   - name: "Sneak Attack"
     desc: "  The wererat deals 1d6 extra precision damage to [[Conditions/Off-Guard|Off-Guard]] creatures."

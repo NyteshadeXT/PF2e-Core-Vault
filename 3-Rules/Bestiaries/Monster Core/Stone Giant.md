@@ -20,6 +20,7 @@ license: ORC
 columns: 2
 forcecolumns: true
 layout: Basic Pathfinder 2e Layout
+token: [[modules/pf2e-tokens-bestiaries/portraits/humanoid/giant/stone-giant.webp| ]]
 source: "Pathfinder Monster Core"
 name: "Stone Giant"
 level: "Creature 8"
@@ -56,7 +57,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Swat Projectile"
-    desc: "`pf2:r`  **Requirements** The stone giant must have a free hand but can Release anything as part of this reaction\n**Trigger** The giant is targeted by a physical ranged attack\n**Effect** The stone giant gains a +4 circumstance bonus to AC against the triggering attack. If the attack misses and the projectile was made of stone, the giant can throw it back at the attacker as a rock ranged Strike."
+    desc: "`pf2:r`  **Requirements** The stone giant must have a free hand but can Release anything as part of this reaction\n\n**Trigger** The giant is targeted by a physical ranged attack\n* * *\n\n**Effect** The stone giant gains a +4 circumstance bonus to AC against the triggering attack. If the attack misses and the projectile was made of stone, the giant can throw it back at the attacker as a rock ranged Strike."
 
 attacks:
   - name: ""
@@ -71,7 +72,7 @@ attacks:
     desc: "`pf2:1` Rock +18 (brutal, range increment 120 feet)\n__Damage__  2d6 + 12 bludgeoning"
 
   - name: "Big Swing"
-    desc: "`pf2:2`  The stone giant makes a greatclub Strike. The target is Pushed up to 10 feet on a hit or up to 20 feet on a critical hit.\nIf the target collides with a solid object, it takes bludgeoning damage as though it had fallen the distance it moved."
+    desc: "`pf2:2`  The stone giant makes a greatclub Strike. The target is Pushed up to 10 feet on a hit or up to 20 feet on a critical hit.\n\nIf the target collides with a solid object, it takes bludgeoning damage as though it had fallen the distance it moved."
 
   - name: "Create Boulder"
     desc: "`pf2:1` (earth,primal) The stone giant molds a boulder from primal earth and throws it as a rock Strike. A creature hit by the Strike must succeed at a DC 26 Reflex check save or be knocked [[Conditions/Prone|Prone]]."

@@ -31,6 +31,7 @@ modifier: 5
 perception:
   - name: "Perception"
     desc: "+5; Motion Sense (Precise) 60 Feet"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Athletics: +11 (+13 to Shove)"
@@ -64,7 +65,7 @@ attacks:
     desc: "`pf2:1` Pseudopod +11 ()\n__Damage__  1d8 + 4 bludgeoning 1d6 acid"
 
   - name: "Tag Team"
-    desc: "`pf2:2`  **Requirements** another string slime is within 30 feet\n**Effect** The slime arcs protoplasm to the other string slime. Creatures in that line take 3d6 acid damage with a DC 16 Reflex check save. A creature that fails its save is also knocked [[Conditions/Prone|Prone]]."
+    desc: "`pf2:2`  **Requirements** another string slime is within 30 feet\n* * *\n\n**Effect** The slime arcs protoplasm to the other string slime. Creatures in that line take 3d6 acid damage with a DC 16 Reflex check save. A creature that fails its save is also knocked [[Conditions/Prone|Prone]]."
 
   - name: "Weak Acid"
     desc: "  A string slime's acid damages only organic material—not metal, stone, or other inorganic substances."

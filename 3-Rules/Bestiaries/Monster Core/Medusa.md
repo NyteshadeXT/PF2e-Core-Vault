@@ -18,6 +18,7 @@ license: ORC
 columns: 2
 forcecolumns: true
 layout: Basic Pathfinder 2e Layout
+token: [[modules/pf2e-tokens-bestiaries/portraits/humanoid/medusa.webp| ]]
 source: "Pathfinder Monster Core"
 name: "Medusa"
 level: "Creature 7"
@@ -52,10 +53,10 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Biting Snakes"
-    desc: "`pf2:r`  **Trigger** A creature ends its turn adjacent to the medusa.\n**Effect** The medusa makes a snake fangs Strike against the creature."
+    desc: "`pf2:r`  **Trigger** A creature ends its turn adjacent to the medusa.\n* * *\n\n**Effect** The medusa makes a snake fangs Strike against the creature."
 
   - name: "Petrifying Gaze"
-    desc: " (arcane,aura,visual) 30 feet.\nWhen a creature ends its turn in the aura, it must attempt a DC 25 Fortitude check save. If the creature fails, it becomes [[Conditions/Slowed 1|Slowed 1]] for 1 minute.\nThe medusa can deactivate or activate this aura by using a single action, which has the concentrate trait."
+    desc: " (arcane,aura,visual) 30 feet.\n\nWhen a creature ends its turn in the aura, it must attempt a DC 25 Fortitude check save. If the creature fails, it becomes [[Conditions/Slowed 1|Slowed 1]] for 1 minute.\n\nThe medusa can deactivate or activate this aura by using a single action, which has the concentrate trait."
 
 attacks:
   - name: ""
@@ -70,10 +71,10 @@ attacks:
     desc: "`pf2:1` Composite Shortbow +19 (deadly d10, magical, propulsive, range increment 60 feet, reload 0)\n__Damage__  1d6 + 7 piercing plus serpent-venom"
 
   - name: "Focus Gaze"
-    desc: "`pf2:1` (arcane,concentrate,incapacitation,visual) The medusa fixes their glare at a creature they can see within 30 feet. The target must immediately attempt a DC 25 Fortitude check save against the medusa's petrifying gaze.\nIf the creature was already slowed by petrifying gaze before attempting its save, a failed save causes it to be petrified permanently. After attempting its save, the creature is then temporarily immune until the start of the medusa's next turn."
+    desc: "`pf2:1` (arcane,concentrate,incapacitation,visual) The medusa fixes their glare at a creature they can see within 30 feet. The target must immediately attempt a DC 25 Fortitude check save against the medusa's petrifying gaze.\n\nIf the creature was already slowed by petrifying gaze before attempting its save, a failed save causes it to be petrified permanently. After attempting its save, the creature is then temporarily immune until the start of the medusa's next turn."
 
   - name: "Serpent Venom"
-    desc: " (poison) **Saving Throw** DC 25 Fortitude check\n**Maximum Duration** 6 rounds\n**Stage 1** 1d6 poison damage and [[Conditions/Enfeebled 1|Enfeebled 1]] (1 round)\n**Stage 2** 2d6 poison damage and [[Conditions/Enfeebled 1|Enfeebled 2]] (1 round)"
+    desc: " (poison) **Saving Throw** DC 25 Fortitude check\n* * *\n\n**Maximum Duration** 6 rounds\n\n**Stage 1** 1d6 poison damage and [[Conditions/Enfeebled 1|Enfeebled 1]] (1 round)\n\n**Stage 2** 2d6 poison damage and [[Conditions/Enfeebled 1|Enfeebled 2]] (1 round)"
  
 ```
 

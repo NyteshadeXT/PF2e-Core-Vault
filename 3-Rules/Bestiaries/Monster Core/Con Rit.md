@@ -31,6 +31,7 @@ modifier: 15
 perception:
   - name: "Perception"
     desc: "+15; Darkvision"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Acrobatics: +13, Athletics: +18, Stealth: +13"
@@ -58,10 +59,10 @@ attacks:
     desc: "`pf2:1` Mandible +18 (reach 15 feet)\n__Damage__  2d10 + 8 piercing plus con-rit-venom"
 
   - name: "Con Rit Venom"
-    desc: " (poison) **Saving Throw** DC 25 Fortitude check;\n**Maximum Duration** 6 rounds\n**Stage 1** 1d10 poison (1 round)\n**Stage 2** 2d10 poison and [[Conditions/Off-Guard|Off-Guard]] (1 round);\n**Stage 3** 2d10 poison, off-guard, and [[Conditions/Slowed 1|Slowed 1]] (1 round)"
+    desc: " (poison) **Saving Throw** DC 25 Fortitude check;\n* * *\n\n**Maximum Duration** 6 rounds\n\n**Stage 1** 1d10 poison (1 round)\n\n**Stage 2** 2d10 poison and [[Conditions/Off-Guard|Off-Guard]] (1 round);\n\n**Stage 3** 2d10 poison, off-guard, and [[Conditions/Slowed 1|Slowed 1]] (1 round)"
 
   - name: "Spit Venom"
-    desc: "`pf2:1` (poison) The con rit spits a propulsive blast of venom that deals 2d10 poison + 2d10 bludgeoning damage in a 30-foot line (DC 25 Fortitude check save). Creatures who fail their save are also pushed 10 feet.\nThe con rit cannot use Spit Venom again for 1d4 rounds."
+    desc: "`pf2:1` (poison) The con rit spits a propulsive blast of venom that deals 2d10 poison + 2d10 bludgeoning damage in a 30-foot line (DC 25 Fortitude check save). Creatures who fail their save are also pushed 10 feet.\n\nThe con rit cannot use Spit Venom again for 1d4 rounds."
 
   - name: "Undulate"
     desc: "`pf2:1`  The con rit Swims. During this movement, it can pass through spaces as narrow as 5 feet without Squeezing."

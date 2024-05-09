@@ -18,6 +18,7 @@ license: ORC
 columns: 2
 forcecolumns: true
 layout: Basic Pathfinder 2e Layout
+token: [[modules/pf2e-tokens-bestiaries/portraits/constructed/magical/scarecrow.webp| ]]
 source: "Pathfinder Monster Core"
 name: "Scarecrow"
 level: "Creature 4"
@@ -29,6 +30,7 @@ modifier: 11
 perception:
   - name: "Perception"
     desc: "+11; Darkvision"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Athletics: +12"
@@ -50,7 +52,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Scarecrow's Leer"
-    desc: " (aura,emotion,fear,mental,occult,visual) 40 feet.\nThe scarecrow's eyes flicker with an unnerving glow. A creature can't reduce its [[Conditions/Frightened 1|Frightened]] condition below 1 as long as it is in the aura's emanation. When a creature enters or starts its turn in the aura, it must attempt a DC 18 Will check save. Birds and other avian creatures take a -2 circumstance penalty to this save.\n**Critical Success** The creature is unaffected and is then temporarily immune for 24 hours.\n**Success** The creature is [[Conditions/Frightened 1|Frightened 1]].\n**Failure** The creature is [[Conditions/Frightened 1|Frightened 2]] and is [[Conditions/Fascinated|Fascinated]] by the scarecrow until the end of its next turn.\n**Critical Failure** As failure, but [[Conditions/Frightened 1|Frightened 3]]."
+    desc: " (aura,emotion,fear,mental,occult,visual) 40 feet.\n\nThe scarecrow's eyes flicker with an unnerving glow. A creature can't reduce its [[Conditions/Frightened 1|Frightened]] condition below 1 as long as it is in the aura's emanation. When a creature enters or starts its turn in the aura, it must attempt a DC 18 Will check save. Birds and other avian creatures take a -2 circumstance penalty to this save.\n* * *\n\n**Critical Success** The creature is unaffected and is then temporarily immune for 24 hours.\n\n**Success** The creature is [[Conditions/Frightened 1|Frightened 1]].\n\n**Failure** The creature is [[Conditions/Frightened 1|Frightened 2]] and is [[Conditions/Fascinated|Fascinated]] by the scarecrow until the end of its next turn.\n\n**Critical Failure** As failure, but [[Conditions/Frightened 1|Frightened 3]]."
 
 attacks:
   - name: ""

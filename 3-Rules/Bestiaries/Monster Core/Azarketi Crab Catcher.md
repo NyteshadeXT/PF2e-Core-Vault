@@ -59,7 +59,7 @@ abilities_mid:
     desc: "  Azarketi must regularly submerge themselves in water to rehydrate their water-acclimated skin. After the first 24 hours outside of water, they gain a –1 status penalty to Fortitude saves as their skin cracks and their gills become painful. After 48 hours, they begin to suffocate until returned to water."
 
   - name: "Swim Away"
-    desc: "`pf2:r`  **Requirements** The azarketi crab catcher is swimming\n**Trigger** The azarketi crab catcher is targeted with an attack and can see the attacker\n**Effect** The azarketi crab catcher gains a +2 circumstance bonus to AC against the triggering attack. After the attack, they Swim 5 feet."
+    desc: "`pf2:r`  **Requirements** The azarketi crab catcher is swimming\n\n**Trigger** The azarketi crab catcher is targeted with an attack and can see the attacker\n* * *\n\n**Effect** The azarketi crab catcher gains a +2 circumstance bonus to AC against the triggering attack. After the attack, they Swim 5 feet."
 
 attacks:
   - name: ""

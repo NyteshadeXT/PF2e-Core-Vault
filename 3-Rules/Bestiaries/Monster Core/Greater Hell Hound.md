@@ -35,7 +35,7 @@ modifier: 19
 perception:
   - name: "Perception"
     desc: "+19; Darkvision, Scent (Imprecise) 120 Feet"
-languages: "Diabolic"
+languages: "Diabolic; (Can&#x27;t Speak Any Language)"
 skills:
   - name: "Skills"
     desc: "Acrobatics: +18, Athletics: +19, Stealth: +18, Survival: +20 (+22 to Track)"
@@ -57,7 +57,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Hellish Revenge"
-    desc: "`pf2:r`  **Trigger** The greater hell hound is critically hit by any Strike\n**Effect** The greater hell hound's Hellfire Breath recharges. They can immediately use it as part of this reaction."
+    desc: "`pf2:r`  **Trigger** The greater hell hound is critically hit by any Strike\n* * *\n\n**Effect** The greater hell hound's Hellfire Breath recharges. They can immediately use it as part of this reaction."
 
 attacks:
   - name: ""
@@ -66,7 +66,7 @@ attacks:
     desc: "`pf2:1` Jaws +21 (magical, unholy)\n__Damage__  2d8 + 6 piercing 2d6 fire"
 
   - name: "Hellfire Breath"
-    desc: "`pf2:1` (divine,fire) The hell hound breathes flames that deal 10d6 fire damage to all creatures in a 15-foot cone (DC 28 Reflex check save.)\nThe hell hound can't use Hellfire Breath again for 1d4 rounds. If the greater hell hound would take fire damage or be targeted by a fire effect, their Hellfire Breath recharges."
+    desc: "`pf2:1` (divine,fire) The hell hound breathes flames that deal 10d6 fire damage to all creatures in a 15-foot cone (DC 28 Reflex check save.)\n\nThe hell hound can't use Hellfire Breath again for 1d4 rounds. If the greater hell hound would take fire damage or be targeted by a fire effect, their Hellfire Breath recharges."
 
   - name: "Pack Attack"
     desc: "  The greater hell hound's Strikes deal 1d8 extra damage to creatures within the reach of at least two of their allies."

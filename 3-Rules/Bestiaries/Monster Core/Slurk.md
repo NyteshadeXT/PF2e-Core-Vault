@@ -18,6 +18,7 @@ license: ORC
 columns: 2
 forcecolumns: true
 layout: Basic Pathfinder 2e Layout
+token: [[modules/pf2e-tokens-bestiaries/portraits/bestial/amphibian/slurk.webp| ]]
 source: "Pathfinder Monster Core"
 name: "Slurk"
 level: "Creature 2"
@@ -29,6 +30,7 @@ modifier: 6
 perception:
   - name: "Perception"
     desc: "+6; Darkvision"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Acrobatics: +6 (+8 to Escape), Athletics: +8, Stealth: +5"
@@ -62,7 +64,7 @@ attacks:
     desc: "`pf2:3`  The slurk extrudes a slippery grease from its ventral glands to coat the floor under it and in a 5-foot emanation, turning the affected area into uneven ground for 10 minutes, after which it dries to a putrid crust. The DC to [[Actions/Balance|Balance]] across the slime is 18."
 
   - name: "Entangling Slime"
-    desc: "  A creature struck by a slurk's slime squirt becomes [[Conditions/Clumsy 1|Clumsy 1]] and takes a –5-foot penalty to Speed for 1 hour or until the slime is removed.\nThe slime can be removed with a total of three Interact actions by the entangled creature or creatures adjacent to the creature. These actions don't need to be consecutive or made by the same creature.\n[[Bestiary Effects/Effect_ Entangling Slime|Effect: Entangling Slime]]"
+    desc: "  A creature struck by a slurk's slime squirt becomes [[Conditions/Clumsy 1|Clumsy 1]] and takes a –5-foot penalty to Speed for 1 hour or until the slime is removed.\n\nThe slime can be removed with a total of three Interact actions by the entangled creature or creatures adjacent to the creature. These actions don't need to be consecutive or made by the same creature.\n\n[[Bestiary Effects/Effect_ Entangling Slime|Effect: Entangling Slime]]"
  
 ```
 

@@ -20,6 +20,7 @@ license: ORC
 columns: 2
 forcecolumns: true
 layout: Basic Pathfinder 2e Layout
+token: [[modules/pf2e-tokens-bestiaries/portraits/fiendish/demon/brimorak.webp| ]]
 source: "Pathfinder Monster Core"
 name: "Brimorak"
 level: "Creature 5"
@@ -33,7 +34,7 @@ modifier: 12
 perception:
   - name: "Perception"
     desc: "+12; Darkvision"
-languages: "Chthonian, Draconic, Empyrean, Pyric"
+languages: "Chthonian, Draconic, Empyrean, Pyric; Telepathy 60 feet"
 skills:
   - name: "Skills"
     desc: "Acrobatics: +12, Deception: +11, Religion: +10, Stealth: +12"
@@ -82,10 +83,10 @@ attacks:
     desc: " (divine,fire) A brimorak's hooves and any weapon they wield burst into flame. They can also Interact to create a sword of fire and steel, which dissolves if it leaves their grip."
 
   - name: "Frothing Spew"
-    desc: "`pf2:2` (divine,fire,unholy) The brimorak spits their boiling blood in a 20-foot line that deals 6d6 fire damage (DC 21 basic Reflex save). Creatures that fail the save also fall [[Conditions/Prone|Prone]] as they slip in the greasy blood.\nThe brimorak can't use Frothing Spew again for 1d4 rounds."
+    desc: "`pf2:2` (divine,fire,unholy) The brimorak spits their boiling blood in a 20-foot line that deals 6d6 fire damage (DC 21 basic Reflex save). Creatures that fail the save also fall [[Conditions/Prone|Prone]] as they slip in the greasy blood.\n\nThe brimorak can't use Frothing Spew again for 1d4 rounds."
 
   - name: "Fume"
-    desc: "`pf2:2` (divine,fire) **Frequency** once per minute\n**Effect** The brimorak emits a cloud of thick black smoke in a 10-foot burst adjacent to them. The cloud remains for 1 minute. All creatures within the smoke become [[Conditions/Concealed|Concealed]], and all creatures outside the smoke become concealed to creatures within it.\nA creature that enters or begins its turn within the smoke it must succeed at a DC 21 Fortitude check save or become [[Conditions/Sickened 1|Sickened 1]] ([[Conditions/Sickened 1|Sickened 2]] on a critical failure)."
+    desc: "`pf2:2` (divine,fire) **Frequency** once per minute\n* * *\n\n**Effect** The brimorak emits a cloud of thick black smoke in a 10-foot burst adjacent to them. The cloud remains for 1 minute. All creatures within the smoke become [[Conditions/Concealed|Concealed]], and all creatures outside the smoke become concealed to creatures within it.\n\nA creature that enters or begins its turn within the smoke it must succeed at a DC 21 Fortitude check save or become [[Conditions/Sickened 1|Sickened 1]] ([[Conditions/Sickened 1|Sickened 2]] on a critical failure)."
  
 ```
 

@@ -18,6 +18,7 @@ license: ORC
 columns: 2
 forcecolumns: true
 layout: Basic Pathfinder 2e Layout
+token: [[modules/pf2e-tokens-bestiaries/portraits/bestial/reptilian/gecko-giant.webp| ]]
 source: "Pathfinder Monster Core"
 name: "Giant Gecko"
 level: "Creature 1"
@@ -29,6 +30,7 @@ modifier: 7
 perception:
   - name: "Perception"
     desc: "+7; Low-Light Vision"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Acrobatics: +8, Athletics: +5 (+9 to Climb), Stealth: +6"

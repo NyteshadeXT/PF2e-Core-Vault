@@ -19,6 +19,7 @@ license: ORC
 columns: 2
 forcecolumns: true
 layout: Basic Pathfinder 2e Layout
+token: [[modules/pf2e-tokens-bestiaries/portraits/bestial/reptilian/brontosaurus.webp| ]]
 source: "Pathfinder Monster Core"
 name: "Brontosaurus"
 level: "Creature 10"
@@ -31,6 +32,7 @@ modifier: 16
 perception:
   - name: "Perception"
     desc: "+16; Low-Light Vision, Scent (Imprecise) 30 Feet"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Athletics: +23"
@@ -61,10 +63,10 @@ attacks:
     desc: "`pf2:1` Foot +23 (reach 15 feet)\n__Damage__  2d8 + 13 bludgeoning"
 
   - name: "Tail Sweep"
-    desc: "`pf2:2`  The brontosaurus makes a tail Strike and compares the attack roll to the AC of up to three foes, each of whom must be within its tail's melee reach and adjacent to at least one other target. It rolls damage only once and applies it to each creature hit.\nA Tail Sweep counts as two attacks for its multiple attack penalty."
+    desc: "`pf2:2`  The brontosaurus makes a tail Strike and compares the attack roll to the AC of up to three foes, each of whom must be within its tail's melee reach and adjacent to at least one other target. It rolls damage only once and applies it to each creature hit.\n\nA Tail Sweep counts as two attacks for its multiple attack penalty."
 
   - name: "[[Bestiary Ability Glossary/Trample|Trample]]"
-    desc: "`pf2:3`  Huge or smaller, foot, DC 29 Reflex check\n"
+    desc: "`pf2:3`  Huge or smaller, foot, DC 29 Reflex check\n\n* * *\n"
  
 ```
 

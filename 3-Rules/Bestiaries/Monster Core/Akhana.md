@@ -31,6 +31,7 @@ modifier: 27
 perception:
   - name: "Perception"
     desc: "+27; Darkvision, Lifesense 120 Feet"
+languages: "Envisioning"
 skills:
   - name: "Skills"
     desc: "Acrobatics: +25, Athletics: +24, Axis Lore: +23, Medicine: +23, Occultism: +21, Religion: +23"
@@ -50,12 +51,12 @@ abilities_top:
   - name: ""
 
   - name: "Envisioning"
-    desc: " (aura,divine,mental) 100 feet\nAn akhana can communicate mentally with any creatures in the aura using wordless psychic projections. They don't need to share a language, though the aeon's meaning to non-aeons can be vague and is often mysterious. An aeon can use this ability to communicate flawlessly with any other aeon on the same plane as itself."
+    desc: " (aura,divine,mental) 100 feet\n* * *\n\nAn akhana can communicate mentally with any creatures in the aura using wordless psychic projections. They don't need to share a language, though the aeon's meaning to non-aeons can be vague and is often mysterious. An aeon can use this ability to communicate flawlessly with any other aeon on the same plane as itself."
 
 abilities_mid:
   - name: ""
   - name: "Balance Life"
-    desc: "`pf2:r` (divine) **Trigger** A creature within 100 feet is about to attempt a recovery check\n**Effect** The akhana chooses to make the result a success or failure (but not a critical success or failure). This effect gains the fortune trait if the akhana chooses success or misfortune for failure."
+    desc: "`pf2:r` (divine) **Trigger** A creature within 100 feet is about to attempt a recovery check\n* * *\n\n**Effect** The akhana chooses to make the result a success or failure (but not a critical success or failure). This effect gains the fortune trait if the akhana chooses success or misfortune for failure."
 
 attacks:
   - name: ""
@@ -73,7 +74,7 @@ attacks:
     desc: "`pf2:2`  The akhana Flies and makes up to four fist Strikes against different targets at any points during this movement. The attacks count toward its multiple attack penalty normally, but the penalty does not increase until after Flying Fists is complete."
 
   - name: "Reclaim Life"
-    desc: "`pf2:1` (divine,void) **Requirements** The akhana has a living creature [[Conditions/Grabbed|Grabbed]] or [[Conditions/Restrained|Restrained]] with its tail\n**Effect** The creature takes 4d10 void damage with a DC 32 Fortitude check save. On a failed save, it's also [[Conditions/Doomed 1|Doomed 1]]. If the creature dies while doomed and held in the akhana's tail, its soul is trapped in the akhana (as [[Spells/Seize Soul|Seize Soul]]), and its remains are preserved as peaceful rest. The soul returns to the body with 1 Hit Point if the akhana [[Actions/Dismiss|Dismisses]] the effect, if the akhana is slain, or if a [[Spells/Wish|Wish]] ritual or similarly powerful magic frees it."
+    desc: "`pf2:1` (divine,void) **Requirements** The akhana has a living creature [[Conditions/Grabbed|Grabbed]] or [[Conditions/Restrained|Restrained]] with its tail\n* * *\n\n**Effect** The creature takes 4d10 void damage with a DC 32 Fortitude check save. On a failed save, it's also [[Conditions/Doomed 1|Doomed 1]]. If the creature dies while doomed and held in the akhana's tail, its soul is trapped in the akhana (as [[Spells/Seize Soul|Seize Soul]]), and its remains are preserved as peaceful rest. The soul returns to the body with 1 Hit Point if the akhana [[Actions/Dismiss|Dismisses]] the effect, if the akhana is slain, or if a [[Spells/Wish|Wish]] ritual or similarly powerful magic frees it."
 
   - name: "Sprout Life"
     desc: "`pf2:2` (concentrate,divine,plant,vitality) A 5-foot burst within 100 feet fills with simple life appropriate to the environment. The newly forged animals bite those in the area for 7d6 piercing damage with a DC 32 Reflex check save. The akhana can also have fungus or plants choke the area, even floating ones in the sky, creating difficult terrain. The created life lives or dies normally after its creation."

@@ -19,6 +19,7 @@ license: ORC
 columns: 2
 forcecolumns: true
 layout: Basic Pathfinder 2e Layout
+token: [[modules/pf2e-tokens-bestiaries/portraits/fey/fairy/draxie.webp| ]]
 source: "Pathfinder Monster Core"
 name: "Draxie"
 level: "Creature 3"
@@ -31,7 +32,7 @@ modifier: 8
 perception:
   - name: "Perception"
     desc: "+8; Low-Light Vision"
-languages: "Common, Fey"
+languages: "Common, Fey; Telepathy (Touch)"
 skills:
   - name: "Skills"
     desc: "Acrobatics: +9, Deception: +10, Diplomacy: +8, Nature: +6, Stealth: +11"
@@ -65,7 +66,7 @@ attacks:
     desc: "DC 20, attack +12; __2nd __  _[[Spells/Invisibility|Invisibility]]_, _[[Spells/Revealing Light|Revealing Light]]_; __1st __  _[[Spells/Illusory Disguise|Illusory Disguise]]_\n__Cantrips__  __(2nd)__ _[[Spells/Figment|Figment]]_, _[[Spells/Light|Light]]_, _[[Spells/Prestidigitation|Prestidigitation]]_"
 
   - name: "Draxie Dust"
-    desc: "`pf2:2` (emotion,incapacitation,mental,primal) The draxie breathes magical dust in a 15-foot cone. Roll 1d4 to determine the effect. Each creature in the area must succeed at a DC 17 Will check save or be affected.\nThe draxie can't use Draxie Dust again for 1d4 rounds.\n1.  The target takes the effects of the [[Spells/Charm|Charm]] spell.\n2.  The target loses its last 5 minutes of memory.\n3.  The target takes the effects of a [[Spells/Sleep|Sleep]] spell.\n4.  For 1 minute, the target is in a state of euphoria that makes it [[Conditions/Stupefied 1|Stupefied 2]] and [[Conditions/Slowed 1|Slowed 1]]."
+    desc: "`pf2:2` (emotion,incapacitation,mental,primal) The draxie breathes magical dust in a 15-foot cone. Roll 1d4 to determine the effect. Each creature in the area must succeed at a DC 17 Will check save or be affected.\n\nThe draxie can't use Draxie Dust again for 1d4 rounds.\n\n1.  The target takes the effects of the [[Spells/Charm|Charm]] spell.\n2.  The target loses its last 5 minutes of memory.\n3.  The target takes the effects of a [[Spells/Sleep|Sleep]] spell.\n4.  For 1 minute, the target is in a state of euphoria that makes it [[Conditions/Stupefied 1|Stupefied 2]] and [[Conditions/Slowed 1|Slowed 1]]."
  
 ```
 

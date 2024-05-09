@@ -19,6 +19,7 @@ license: ORC
 columns: 2
 forcecolumns: true
 layout: Basic Pathfinder 2e Layout
+token: [[modules/pf2e-tokens-bestiaries/portraits/bestial/reptilian/ankylosaurus.webp| ]]
 source: "Pathfinder Monster Core"
 name: "Ankylosaurus"
 level: "Creature 6"
@@ -31,6 +32,7 @@ modifier: 12
 perception:
   - name: "Perception"
     desc: "+12; Low-Light Vision, Scent (Imprecise) 30 Feet"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Athletics: +17"
@@ -61,10 +63,10 @@ attacks:
     desc: "`pf2:1` Foot +17 (reach 10 feet)\n__Damage__  2d6 + 7 bludgeoning"
 
   - name: "Punishing Tail"
-    desc: "  A creature struck by the ankylosaurus's tail must attempt a DC 24 Fortitude check save.\nOn a failure, it's [[Conditions/Stunned 1|Stunned 1]]; on a critical failure, it's [[Conditions/Stunned 1|Stunned 3]]."
+    desc: "  A creature struck by the ankylosaurus's tail must attempt a DC 24 Fortitude check save.\n\nOn a failure, it's [[Conditions/Stunned 1|Stunned 1]]; on a critical failure, it's [[Conditions/Stunned 1|Stunned 3]]."
 
   - name: "[[Bestiary Ability Glossary/Trample|Trample]]"
-    desc: "`pf2:3`  Medium or smaller, foot, DC 24 Reflex check\n"
+    desc: "`pf2:3`  Medium or smaller, foot, DC 24 Reflex check\n\n* * *\n"
  
 ```
 

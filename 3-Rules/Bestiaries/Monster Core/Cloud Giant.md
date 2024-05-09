@@ -20,6 +20,7 @@ license: ORC
 columns: 2
 forcecolumns: true
 layout: Basic Pathfinder 2e Layout
+token: [[modules/pf2e-tokens-bestiaries/portraits/humanoid/giant/cloud-giant.webp| ]]
 source: "Pathfinder Monster Core"
 name: "Cloud Giant"
 level: "Creature 11"
@@ -77,7 +78,7 @@ attacks:
     desc: "`pf2:1` (air,primal) The cloud giant solidifies some clouds, including fog or mist, around a creature that's already in a cloud up to 120 feet away. The target takes 3d8 bludgeoning damage (DC 30 Fortitude check save). If it fails its save, it treats clouds as difficult terrain for 1 round."
 
   - name: "Wind Strike"
-    desc: "`pf2:2` (air,primal) The cloud giant Strikes a creature with their ranseur, surrounded in a roar of rushing air. On a hit, the target takes an additional 4d8 bludgeoning damage and is [[Conditions/Deafened|Deafened]] for 1 minute. Whether or not the Strike hits, each non-cloud giant within a 20-foot emanation, including the target of the Strike, is buffeted by roaring winds and must attempt a DC 30 Fortitude check saving throw.\n**Critical Success** The creature is unaffected.\n**Success** The creature takes 2d8 sonic damage.\n**Failure** The creature takes 4d8 sonic damage and is deafened until the end of its next turn.\n**Critical Failure** As failure, but double damage and also knocked [[Conditions/Prone|Prone]]."
+    desc: "`pf2:2` (air,primal) The cloud giant Strikes a creature with their ranseur, surrounded in a roar of rushing air. On a hit, the target takes an additional 4d8 bludgeoning damage and is [[Conditions/Deafened|Deafened]] for 1 minute. Whether or not the Strike hits, each non-cloud giant within a 20-foot emanation, including the target of the Strike, is buffeted by roaring winds and must attempt a DC 30 Fortitude check saving throw.\n* * *\n\n**Critical Success** The creature is unaffected.\n\n**Success** The creature takes 2d8 sonic damage.\n\n**Failure** The creature takes 4d8 sonic damage and is deafened until the end of its next turn.\n\n**Critical Failure** As failure, but double damage and also knocked [[Conditions/Prone|Prone]]."
  
 ```
 

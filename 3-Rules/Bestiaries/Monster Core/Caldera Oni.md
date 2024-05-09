@@ -21,6 +21,7 @@ license: ORC
 columns: 2
 forcecolumns: true
 layout: Basic Pathfinder 2e Layout
+token: [[modules/pf2e-tokens-bestiaries/portraits/fiendish/yai-fire.webp| ]]
 source: "Pathfinder Monster Core"
 name: "Caldera Oni"
 level: "Creature 14"
@@ -79,13 +80,13 @@ attacks:
     desc: "DC 34, attack +26; __2nd __  _[[Spells/Invisibility|Invisibility (At Will, Self Only)]]_"
 
   - name: "Ash Form"
-    desc: "`pf2:2` (polymorph,primal) **Frequency** once per minute\n**Effect** The caldera oni transforms into a cloud of sparking volcanic ash and then Flies. This movement doesn't trigger reactions, and the caldera oni can move through small gaps and spaces occupied by other creatures.\nThe caldera oni then returns to its physical form, affected by a 4th-rank [[Spells/Enlarge|Enlarge]] spell with a duration of 1d4 rounds."
+    desc: "`pf2:2` (polymorph,primal) **Frequency** once per minute\n* * *\n\n**Effect** The caldera oni transforms into a cloud of sparking volcanic ash and then Flies. This movement doesn't trigger reactions, and the caldera oni can move through small gaps and spaces occupied by other creatures.\n\nThe caldera oni then returns to its physical form, affected by a 4th-rank [[Spells/Enlarge|Enlarge]] spell with a duration of 1d4 rounds."
 
   - name: "[[Bestiary Ability Glossary/Change Shape|Change Shape]]"
-    desc: "`pf2:1` (concentrate,polymorph) The caldera oni can take on the appearance of any Medium or Large humanoid creature. This doesn't change their Speed or their attack and damage bonuses with their Strikes but might change the damage type their Strikes deal (typically to bludgeoning).\n"
+    desc: "`pf2:1` (concentrate,polymorph) The caldera oni can take on the appearance of any Medium or Large humanoid creature. This doesn't change their Speed or their attack and damage bonuses with their Strikes but might change the damage type their Strikes deal (typically to bludgeoning).\n\n* * *\n"
 
   - name: "Dance of Burning War"
-    desc: "`pf2:3`  **Frequency** once per minute\n**Effect** The oni's heat becomes overwhelming, causing them to breathe out superheated ash and dance across the battlefield. The caldera oni Strides, then makes a melee Strike. If the Strike hits, the oni can Stride again and Strike again, repeating this until they have either missed with a Strike or made three Strikes total.\nThe oni then finishes the dance by calling down volcanic lightning through the cloud of ash. Each creature hit by a Strike during the dance takes 3d6 fire damage and 3d6 electricity damage with a DC 34 Reflex check save."
+    desc: "`pf2:3`  **Frequency** once per minute\n* * *\n\n**Effect** The oni's heat becomes overwhelming, causing them to breathe out superheated ash and dance across the battlefield. The caldera oni Strides, then makes a melee Strike. If the Strike hits, the oni can Stride again and Strike again, repeating this until they have either missed with a Strike or made three Strikes total.\n\nThe oni then finishes the dance by calling down volcanic lightning through the cloud of ash. Each creature hit by a Strike during the dance takes 3d6 fire damage and 3d6 electricity damage with a DC 34 Reflex check save."
  
 ```
 

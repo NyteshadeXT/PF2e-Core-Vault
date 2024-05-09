@@ -18,6 +18,7 @@ license: ORC
 columns: 2
 forcecolumns: true
 layout: Basic Pathfinder 2e Layout
+token: [[modules/pf2e-tokens-bestiaries/portraits/aberrant/humanoid/sinspawn-sloth.webp| ]]
 source: "Pathfinder Monster Core"
 name: "Slothspawn"
 level: "Creature 2"
@@ -50,7 +51,7 @@ abilities_top:
   - name: "Items"
     desc: "[[Equipment/Longspear|Longspear]]"
   - name: "Sin Scent (Imprecise) 30 feet"
-    desc: "  A sinspawn can smell creatures that reflect its sin as the scent ability. The GM determines which creatures are appropriately sinful.\nScent involves sensing creatures or objects by smell, and is usually a vague sense. The range is listed in the ability, and it functions only if the creature or object being detected emits an aroma (for instance, incorporeal creatures usually do not exude an aroma).\nIf a creature emits a heavy aroma or is upwind, the GM can double or even triple the range of scent abilities used to detect that creature, and the GM can reduce the range if a creature is downwind."
+    desc: "  A sinspawn can smell creatures that reflect its sin as the scent ability. The GM determines which creatures are appropriately sinful.\n* * *\n\nScent involves sensing creatures or objects by smell, and is usually a vague sense. The range is listed in the ability, and it functions only if the creature or object being detected emits an aroma (for instance, incorporeal creatures usually do not exude an aroma).\n\nIf a creature emits a heavy aroma or is upwind, the GM can double or even triple the range of scent abilities used to detect that creature, and the GM can reduce the range if a creature is downwind."
 
 abilities_mid:
   - name: ""
@@ -70,7 +71,7 @@ attacks:
     desc: "`pf2:1` Longspear +10 (reach 10 feet)\n__Damage__  1d8 + 4 piercing"
 
   - name: "Sinful Bite"
-    desc: " (arcane,emotion,mental) A creature hit by the jaws of a sinspawn must attempt a DC 18 Will check save as it is assailed by sinful thoughts.\n**Critical Success** Unaffected\n**Success** [[Conditions/Sickened 1|Sickened 1]]\n**Failure** [[Conditions/Sickened 1|Sickened 2]]\n**Critical Failure** sickened 2 plus -10-foot status penalty to their Speeds for 1 minute"
+    desc: " (arcane,emotion,mental) A creature hit by the jaws of a sinspawn must attempt a DC 18 Will check save as it is assailed by sinful thoughts.\n* * *\n\n**Critical Success** Unaffected\n\n**Success** [[Conditions/Sickened 1|Sickened 1]]\n\n**Failure** [[Conditions/Sickened 1|Sickened 2]]\n\n**Critical Failure** sickened 2 plus -10-foot status penalty to their Speeds for 1 minute"
  
 ```
 

@@ -18,6 +18,7 @@ license: ORC
 columns: 2
 forcecolumns: true
 layout: Basic Pathfinder 2e Layout
+token: [[modules/pf2e-tokens-bestiaries/portraits/bestial/reptilian/anaconda-giant.webp| ]]
 source: "Pathfinder Monster Core"
 name: "Giant Anaconda"
 level: "Creature 8"
@@ -29,6 +30,7 @@ modifier: 17
 perception:
   - name: "Perception"
     desc: "+17; Low-Light Vision, Scent (Imprecise) 60 Feet"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Acrobatics: +15, Athletics: +21, Stealth: +15, Survival: +15"
@@ -50,7 +52,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Tighten Coils"
-    desc: "`pf2:r`  **Trigger** A creature [[Conditions/Grabbed|Grabbed]] or [[Conditions/Restrained|Restrained]] by the giant anaconda attempts to [[Actions/Escape|Escape]].\n**Effect** The DC of the Escape check is increased by 2."
+    desc: "`pf2:r`  **Trigger** A creature [[Conditions/Grabbed|Grabbed]] or [[Conditions/Restrained|Restrained]] by the giant anaconda attempts to [[Actions/Escape|Escape]].\n* * *\n\n**Effect** The DC of the Escape check is increased by 2."
 
 attacks:
   - name: ""
@@ -62,16 +64,16 @@ attacks:
     desc: "`pf2:1` Tail +19 (agile, reach 15 feet)\n__Damage__  2d8 + 7 bludgeoning plus push"
 
   - name: "[[Bestiary Ability Glossary/Greater Constrict|Greater Constrict]]"
-    desc: "`pf2:1`  1d10 + 7 bludgeoning, DC 26 Fortitude check\n"
+    desc: "`pf2:1`  1d10 + 7 bludgeoning, DC 26 Fortitude check\n\n* * *\n"
 
   - name: "Slither"
     desc: "`pf2:1`  The giant anaconda Strides, Climbs, or Swims up to half its Speed, pulling any creatures it has [[Conditions/Grabbed|Grabbed]] with it."
 
   - name: "[[Bestiary Ability Glossary/Swallow Whole|Swallow Whole]]"
-    desc: "`pf2:1` (attack) Large, 1d10 + 7 bludgeoning, Rupture 21\n"
+    desc: "`pf2:1` (attack) Large, 1d10 + 7 bludgeoning, Rupture 21\n\n* * *\n"
 
   - name: "Wrap in Coils"
-    desc: "`pf2:1` (attack) **Requirements** A Large or smaller creature is [[Conditions/Grabbed|Grabbed]] or [[Conditions/Restrained|Restrained]] in the giant anaconda's jaws.\n**Effect** The giant anaconda moves the creature into its coils, freeing its jaws to make attacks, then uses Greater Constrict against the creature. The giant anaconda's coils can hold as many creatures as will fit in its space."
+    desc: "`pf2:1` (attack) **Requirements** A Large or smaller creature is [[Conditions/Grabbed|Grabbed]] or [[Conditions/Restrained|Restrained]] in the giant anaconda's jaws.\n* * *\n\n**Effect** The giant anaconda moves the creature into its coils, freeing its jaws to make attacks, then uses Greater Constrict against the creature. The giant anaconda's coils can hold as many creatures as will fit in its space."
 
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
     desc: "`pf2:1`  "

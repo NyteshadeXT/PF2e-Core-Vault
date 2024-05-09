@@ -29,7 +29,7 @@ modifier: 18
 perception:
   - name: "Perception"
     desc: "+18; Darkvision, Thoughtsense (Precise) 60 Feet"
-languages: "Aklo, Chthonian, Draconic, Protean, Sakvroth"
+languages: "Aklo, Chthonian, Draconic, Protean, Sakvroth; Telepathy 100 feet"
 skills:
   - name: "Skills"
     desc: "Acrobatics: +17, Arcana: +18, Athletics: +16, Lore (all subcategories): +18, Occultism: +21, Stealth: +17"
@@ -75,7 +75,7 @@ attacks:
     desc: "`pf2:1` (manipulate) The jahtohl extracts the brain of a creature within its reach that has been dead for no more than 1 minute. It can then use an Interact action to secure the brain in one of its empty brain blisters and heal 20 Hit Points."
 
   - name: "Mind Snatcher Venom"
-    desc: " (poison) **Saving Throw** DC 26 Fortitude check\n**Maximum Duration** 6 rounds\n**Stage 1** 1d6 poison and [[Conditions/Enfeebled 1|Enfeebled 1]] (1 round)\n**Stage 2** 1d6 poison, enfeebled 1, and [[Conditions/Slowed 1|Slowed 1]] (1 round)\n**Stage 3** 2d6 poison, [[Conditions/Enfeebled 1|Enfeebled 2]], and slowed 1 (1 round)"
+    desc: " (poison) **Saving Throw** DC 26 Fortitude check\n* * *\n\n**Maximum Duration** 6 rounds\n\n**Stage 1** 1d6 poison and [[Conditions/Enfeebled 1|Enfeebled 1]] (1 round)\n\n**Stage 2** 1d6 poison, enfeebled 1, and [[Conditions/Slowed 1|Slowed 1]] (1 round)\n\n**Stage 3** 2d6 poison, [[Conditions/Enfeebled 1|Enfeebled 2]], and slowed 1 (1 round)"
  
 ```
 

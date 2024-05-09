@@ -18,6 +18,7 @@ license: ORC
 columns: 2
 forcecolumns: true
 layout: Basic Pathfinder 2e Layout
+token: [[modules/pf2e-tokens-bestiaries/portraits/bestial/invertebrate/ant-giant.webp| ]]
 source: "Pathfinder Monster Core"
 name: "Giant Ant"
 level: "Creature 2"
@@ -29,6 +30,7 @@ modifier: 7
 perception:
   - name: "Perception"
     desc: "+7; Darkvision, Scent (Imprecise) 30 Feet"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Athletics: +8, Survival: +7"
@@ -59,10 +61,10 @@ attacks:
     desc: "`pf2:1` Stinger +9 (agile)\n__Damage__  1d6 + 4 piercing plus giant-ant-venom"
 
   - name: "Giant Ant Venom"
-    desc: " (poison) **Saving Throw** DC 18 Fortitude check\n**Maximum Duration** 4 rounds\n**Stage 1** 1d8 poison and [[Conditions/Enfeebled 1|Enfeebled 1]] (1 round)\n**Stage 2** 1d10 poison and [[Conditions/Enfeebled 1|Enfeebled 2]] (1 round)\n**Stage 3** 1d12 poison and [[Conditions/Enfeebled 1|Enfeebled 3]] (1 round)"
+    desc: " (poison) **Saving Throw** DC 18 Fortitude check\n\n**Maximum Duration** 4 rounds\n\n**Stage 1** 1d8 poison and [[Conditions/Enfeebled 1|Enfeebled 1]] (1 round)\n\n**Stage 2** 1d10 poison and [[Conditions/Enfeebled 1|Enfeebled 2]] (1 round)\n\n**Stage 3** 1d12 poison and [[Conditions/Enfeebled 1|Enfeebled 3]] (1 round)"
 
   - name: "Haul Away"
-    desc: "`pf2:1`  **Requirements** The giant ant has a Large or smaller creature grabbed\n**Effect** The giant ant Strides up to its full Speed, carrying the grabbed creature with it. It is [[Conditions/Encumbered|Encumbered]] if the grabbed creature is Medium or larger."
+    desc: "`pf2:1`  **Requirements** The giant ant has a Large or smaller creature grabbed\n* * *\n\n**Effect** The giant ant Strides up to its full Speed, carrying the grabbed creature with it. It is [[Conditions/Encumbered|Encumbered]] if the grabbed creature is Medium or larger."
 
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
     desc: "`pf2:1`  "

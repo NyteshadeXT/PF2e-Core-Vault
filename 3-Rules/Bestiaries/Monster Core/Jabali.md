@@ -33,7 +33,7 @@ modifier: 15
 perception:
   - name: "Perception"
     desc: "+15; Darkvision, Tremorsense (Imprecise) 60 Feet"
-languages: "Common, Petran"
+languages: "Common, Petran; Truespeech"
 skills:
   - name: "Skills"
     desc: "Athletics: +19, Crafting: +14, Deception: +16, Nature: +15, Society: +14"
@@ -71,7 +71,7 @@ attacks:
     desc: "  The jabali can [[Actions/Burrow|Burrow]] through dirt and stone at its full burrow Speed, leaving no tunnels or signs of its passing."
 
   - name: "Stone Clutch"
-    desc: " (arcane,earth) When the jabali Pushes a creature into a stone barrier, the surface grips it with fingers of stone. The target must succeed at a DC 22 Reflex check save or become [[Conditions/Grabbed|Grabbed]] by the surface ([[Actions/Escape|Escape]] DC 28)."
+    desc: " (arcane,earth) When the jabali Pushes a creature into a stone barrier, the surface grips it with fingers of stone. The target must succeed at a DC 22 Reflex check save or become [[Conditions/Grabbed|Grabbed]] by the surface ([[/act escape dc=28]])."
 
   - name: "[[Bestiary Ability Glossary/Push|Push 10 feet]]"
     desc: "`pf2:1`  "

@@ -21,6 +21,7 @@ license: ORC
 columns: 2
 forcecolumns: true
 layout: Basic Pathfinder 2e Layout
+token: [[modules/pf2e-tokens-bestiaries/portraits/undead/ghostly/phantom-knight.webp| ]]
 source: "Pathfinder Monster Core"
 name: "Phantom Knight"
 level: "Creature 4"
@@ -55,12 +56,12 @@ abilities_top:
   - name: ""
 
   - name: "Walk the Ethereal Line"
-    desc: "`pf2:2`  The phantom walks the thin line between the Ethereal Plane and the Universe in order to exist on both planes simultaneously.\nThey can shift back to solely the Ethereal Plane by using this ability again."
+    desc: "`pf2:2`  The phantom walks the thin line between the Ethereal Plane and the Universe in order to exist on both planes simultaneously.\n\nThey can shift back to solely the Ethereal Plane by using this ability again."
 
 abilities_mid:
   - name: ""
   - name: "Susceptible to Death"
-    desc: "  Though phantoms aren't alive, neither are they undead, and they are uniquely vulnerable to the effects of death.\nA phantom whose Hit Points are reduced to 0 as a result of a death effect (such as from a spell like [[Spells/Execute|Execute]]) is immediately whisked away to the River of Souls, where their soul resumes the usual path to the afterlife."
+    desc: "  Though phantoms aren't alive, neither are they undead, and they are uniquely vulnerable to the effects of death.\n\nA phantom whose Hit Points are reduced to 0 as a result of a death effect (such as from a spell like [[Spells/Execute|Execute]]) is immediately whisked away to the River of Souls, where their soul resumes the usual path to the afterlife."
 
 attacks:
   - name: ""

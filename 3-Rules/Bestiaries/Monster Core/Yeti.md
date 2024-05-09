@@ -18,6 +18,7 @@ license: ORC
 columns: 2
 forcecolumns: true
 layout: Basic Pathfinder 2e Layout
+token: [[modules/pf2e-tokens-bestiaries/portraits/bestial/mammalian/yeti.webp| ]]
 source: "Pathfinder Monster Core"
 name: "Yeti"
 level: "Creature 5"
@@ -57,7 +58,7 @@ abilities_mid:
     desc: "  Yetis gain a +4 status bonus to saves against fear and against spells and abilities that affect dreams. A yeti that falls prey to a supernatural nightmare loses this ability and becomes permanently enraged, gaining a +1 status bonus to attack and damage rolls and a -1 status penalty to AC."
 
   - name: "Vanish"
-    desc: "`pf2:r`  **Trigger** The yeti is [[Conditions/Hidden|Hidden]] or [[Conditions/Undetected|Undetected]] while not in combat, and a creature would observe it.\n**Effect** The yeti Strides or Climbs up to half its Speed to a location where it can [[Actions/Hide|Hide]], then Hides. If its new Stealth check result meets or exceeds the triggering creature's Perception DC, the yeti remains hidden."
+    desc: "`pf2:r`  **Trigger** The yeti is [[Conditions/Hidden|Hidden]] or [[Conditions/Undetected|Undetected]] while not in combat, and a creature would observe it.\n* * *\n\n**Effect** The yeti Strides or Climbs up to half its Speed to a location where it can [[Actions/Hide|Hide]], then Hides. If its new Stealth check result meets or exceeds the triggering creature's Perception DC, the yeti remains hidden."
 
 attacks:
   - name: ""
@@ -69,10 +70,10 @@ attacks:
     desc: "  The yeti ignores difficult terrain caused by ice or snow."
 
   - name: "Grizzly Arrival"
-    desc: " (emotion,fear,mental) **Trigger** The yeti hits a creature in the first round of combat and the yeti was [[Conditions/Hidden|Hidden]] from that creature at the start of combat.\n**Effect** Each enemy within 30 feet that witnesses the attack (including the target of the attack) must attempt a DC 23 Will check save. On a failure, the creature is [[Conditions/Frightened 1|Frightened 2]]; on a critical failure, it's [[Conditions/Frightened 1|Frightened 4]]."
+    desc: " (emotion,fear,mental) **Trigger** The yeti hits a creature in the first round of combat and the yeti was [[Conditions/Hidden|Hidden]] from that creature at the start of combat.\n* * *\n\n**Effect** Each enemy within 30 feet that witnesses the attack (including the target of the attack) must attempt a DC 23 Will check save. On a failure, the creature is [[Conditions/Frightened 1|Frightened 2]]; on a critical failure, it's [[Conditions/Frightened 1|Frightened 4]]."
 
   - name: "[[Bestiary Ability Glossary/Rend|Rend]]"
-    desc: "`pf2:1`  Claw\n"
+    desc: "`pf2:1`  Claw\n\n* * *\n"
  
 ```
 

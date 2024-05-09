@@ -29,6 +29,7 @@ modifier: 10
 perception:
   - name: "Perception"
     desc: "+10; Low-Light Vision, Scent (Imprecise) 30 Feet"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Acrobatics: +11, Athletics: +13, Stealth: +9"
@@ -59,7 +60,7 @@ attacks:
     desc: "`pf2:1` Jaws +13 ()\n__Damage__  1d8 + 6 piercing"
 
   - name: "Frightening Display"
-    desc: "`pf2:2` (auditory,emotion,fear,mental) The gorilla beats its chest in a terrifying display. Creatures within 30 feet must attempt a DC 22 Will check save.\nWhile a creature is [[Conditions/Frightened 1|Frightened]] by this ability, it is [[Conditions/Off-Guard|Off-Guard]] to the gigantopithecus.\n**Critical Success** No effect and temporarily immune for 1 minute.\n**Success** The creature is unaffected.\n**Failure** The creature is [[Conditions/Frightened 1|Frightened 1]].\n**Critical Failure** The creature is [[Conditions/Frightened 1|Frightened 2]]."
+    desc: "`pf2:2` (auditory,emotion,fear,mental) The gorilla beats its chest in a terrifying display. Creatures within 30 feet must attempt a DC 22 Will check save.\n\nWhile a creature is [[Conditions/Frightened 1|Frightened]] by this ability, it is [[Conditions/Off-Guard|Off-Guard]] to the gigantopithecus.\n* * *\n\n**Critical Success** No effect and temporarily immune for 1 minute.\n\n**Success** The creature is unaffected.\n\n**Failure** The creature is [[Conditions/Frightened 1|Frightened 1]].\n\n**Critical Failure** The creature is [[Conditions/Frightened 1|Frightened 2]]."
  
 ```
 

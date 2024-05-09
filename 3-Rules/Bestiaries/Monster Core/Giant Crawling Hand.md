@@ -19,6 +19,7 @@ license: ORC
 columns: 2
 forcecolumns: true
 layout: Basic Pathfinder 2e Layout
+token: [[modules/pf2e-tokens-bestiaries/portraits/undead/crawling-hand-giant.webp| ]]
 source: "Pathfinder Monster Core"
 name: "Giant Crawling Hand"
 level: "Creature 5"
@@ -31,7 +32,7 @@ modifier: 12
 perception:
   - name: "Perception"
     desc: "+12; Lifesense 30 Feet, Tremorsense (Imprecise) 30 Feet"
-languages: "Common"
+languages: "Common; (can&#x27;t speak any language)"
 skills:
   - name: "Skills"
     desc: "Athletics: +13, Stealth: +11, Survival: +12"
@@ -53,7 +54,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Pus Burst"
-    desc: "`pf2:r`  **Trigger** The giant crawling hand takes piercing or slashing damage\n**Effect** A random creature adjacent to the giant crawling hand is sprayed with vile pus that deals 4d6 void damage. The affected creature must attempt a DC 21 Reflex check save.\n**Critical Success** The creature takes no damage.\n**Success** The creature takes half damage and becomes [[Conditions/Sickened 1|Sickened 1]].\n**Failure** The creature takes full damage and becomes [[Conditions/Sickened 1|Sickened 2]].\n**Critical Failure** The creature takes double damage and becomes [[Conditions/Sickened 1|Sickened 3]]."
+    desc: "`pf2:r`  **Trigger** The giant crawling hand takes piercing or slashing damage\n* * *\n\n**Effect** A random creature adjacent to the giant crawling hand is sprayed with vile pus that deals 4d6 void damage. The affected creature must attempt a DC 21 Reflex check save.\n\n**Critical Success** The creature takes no damage.\n\n**Success** The creature takes half damage and becomes [[Conditions/Sickened 1|Sickened 1]].\n\n**Failure** The creature takes full damage and becomes [[Conditions/Sickened 1|Sickened 2]].\n\n**Critical Failure** The creature takes double damage and becomes [[Conditions/Sickened 1|Sickened 3]]."
 
 attacks:
   - name: ""

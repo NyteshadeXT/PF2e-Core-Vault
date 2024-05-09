@@ -19,6 +19,7 @@ license: ORC
 columns: 2
 forcecolumns: true
 layout: Basic Pathfinder 2e Layout
+token: [[modules/pf2e-tokens-bestiaries/portraits/draconic/linnorms/crag-linnorm.webp| ]]
 source: "Pathfinder Monster Core"
 name: "Crag Linnorm"
 level: "Creature 14"
@@ -53,7 +54,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Curse of Fire"
-    desc: " (curse,fire,primal) When a creature slays the crag linnorm, it must succeed at a DC 35 Will check save or gain weakness to fire 15 with an unlimited duration.\n[[Bestiary Effects/Effect_ Curse of Fire|Effect: Curse of Fire]]"
+    desc: " (curse,fire,primal) When a creature slays the crag linnorm, it must succeed at a DC 35 Will check save or gain weakness to fire 15 with an unlimited duration.\n\n[[Bestiary Effects/Effect_ Curse of Fire|Effect: Curse of Fire]]"
 
   - name: "[[Bestiary Ability Glossary/Reactive Strike|Reactive Strike (Tail Only)]]"
     desc: "`pf2:r`  "
@@ -74,13 +75,13 @@ attacks:
     desc: "DC 33, attack +25\n__Constant__  __(6th)__ _[[Spells/Truesight|Truesight]]_, _[[Spells/Unfettered Movement|Unfettered Movement]]_"
 
   - name: "[[Bestiary Ability Glossary/Constrict|Constrict]]"
-    desc: "`pf2:1`  2d6 + 14 bludgeoning, DC 34 Fortitude check\n"
+    desc: "`pf2:1`  2d6 + 14 bludgeoning, DC 34 Fortitude check\n\n* * *\n"
 
   - name: "Crag Linnorm Venom"
-    desc: " (fire,injury,poison) **Saving Throw** DC 34 Fortitude check;\n**Maximum Duration** 10 rounds\n**Stage 1** 4d6 fire damage and [[Conditions/Drained 1|Drained 1]] (1 round)\n**Stage 2** 6d6 fire damage and [[Conditions/Drained 1|Drained 2]] (1 round)"
+    desc: " (fire,injury,poison) **Saving Throw** DC 34 Fortitude check;\n* * *\n\n**Maximum Duration** 10 rounds\n\n**Stage 1** 4d6 fire damage and [[Conditions/Drained 1|Drained 1]] (1 round)\n\n**Stage 2** 6d6 fire damage and [[Conditions/Drained 1|Drained 2]] (1 round)"
 
   - name: "Magma Breath"
-    desc: "`pf2:2` (fire,primal) The crag linnorm breathes out a stream of magma in a 120-foot line that deals 12d6 fire damage to creatures within the area (DC 34 Reflex check save). Any creature that fails its save also takes 4d6 persistent fire damage.\nThe linnorm can't use Magma Breath again for 1d4 rounds.\nThe magma remains until the start of the linnorm's next turn. If the linnorm was on the ground, the magma remains as a burning line on the ground directly under the line of the Magma Breath; if the linnorm was airborne, the magma rains down in a sheet 60 feet high. Any creature that moves across or through the magma takes 6d6 fire damage (DC 34 Reflex check save).\nAt the start of the linnorm's next turn, the magma cools to a thin layer of brittle stone, or the magma rain finishes falling and turns to harmless pebbles. The cooled magma quickly degrades to powder and sand over the course of several hours."
+    desc: "`pf2:2` (fire,primal) The crag linnorm breathes out a stream of magma in a 120-foot line that deals 12d6 fire damage to creatures within the area (DC 34 Reflex check save). Any creature that fails its save also takes 4d6 persistent fire damage.\n\nThe linnorm can't use Magma Breath again for 1d4 rounds.\n\nThe magma remains until the start of the linnorm's next turn. If the linnorm was on the ground, the magma remains as a burning line on the ground directly under the line of the Magma Breath; if the linnorm was airborne, the magma rains down in a sheet 60 feet high. Any creature that moves across or through the magma takes 6d6 fire damage (DC 34 Reflex check save).\n\nAt the start of the linnorm's next turn, the magma cools to a thin layer of brittle stone, or the magma rain finishes falling and turns to harmless pebbles. The cooled magma quickly degrades to powder and sand over the course of several hours."
  
 ```
 

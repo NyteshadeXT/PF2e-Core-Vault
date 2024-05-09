@@ -20,6 +20,7 @@ license: ORC
 columns: 2
 forcecolumns: true
 layout: Basic Pathfinder 2e Layout
+token: [[modules/pf2e-tokens-bestiaries/portraits/divine/azata/lillend.webp| ]]
 source: "Pathfinder Monster Core"
 name: "Kanya"
 level: "Creature 7"
@@ -33,7 +34,7 @@ modifier: 16
 perception:
   - name: "Perception"
     desc: "+16; Darkvision"
-languages: "Diabolic, Draconic, Empyrean"
+languages: "Diabolic, Draconic, Empyrean; Truespeech"
 skills:
   - name: "Skills"
     desc: "Acrobatics: +14, Athletics: +17, Deception: +16, Diplomacy: +18, Nature: +14, Performance: +20, Religion: +14, Survival: +12"
@@ -71,7 +72,7 @@ attacks:
     desc: "DC 26, attack +18; __4th __  _[[Spells/Charm|Charm]]_, _[[Spells/Clear Mind|Clear Mind]]_, _[[Spells/Counter Performance|Counter Performance]]_, _[[Spells/Noise Blast|Noise Blast]]_, _[[Spells/Soothe|Soothe]]_, _[[Spells/Suggestion|Suggestion]]_; __2nd __  _[[Spells/Invisibility|Invisibility]]_\n__Cantrips__  __(4th)__ _[[Spells/Courageous Anthem|Courageous Anthem]]_, _[[Spells/Daze|Daze]]_, _[[Spells/Detect Magic|Detect Magic]]_, _[[Spells/Figment|Figment]]_, _[[Spells/Light|Light]]_, _[[Spells/Summon Instrument|Summon Instrument]]_, _[[Spells/Uplifting Overture|Uplifting Overture]]_\n__Constant__  __(5th)__ _[[Spells/Truespeech|Truespeech]]_"
 
   - name: "Muse’s Courage"
-    desc: "  Any [[Spells/Courageous Anthem|Courageous Anthem]] the kanya casts grants a +2 status bonus instead of +1.\n[[Bestiary Effects/Spell Effect_ Courageous Anthem (Kanya)|Spell Effect: Courageous Anthem (Kanya)]]"
+    desc: "  Any [[Spells/Courageous Anthem|Courageous Anthem]] the kanya casts grants a +2 status bonus instead of +1.\n* * *\n\n[[Bestiary Effects/Spell Effect_ Courageous Anthem (Kanya)|Spell Effect: Courageous Anthem (Kanya)]]"
 
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
     desc: "`pf2:1`  "

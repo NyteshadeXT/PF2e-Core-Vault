@@ -18,6 +18,7 @@ license: ORC
 columns: 2
 forcecolumns: true
 layout: Basic Pathfinder 2e Layout
+token: [[modules/pf2e-tokens-bestiaries/portraits/bestial/mythological/pegasus.webp| ]]
 source: "Pathfinder Monster Core"
 name: "Pegasus"
 level: "Creature 3"
@@ -29,7 +30,7 @@ modifier: 12
 perception:
   - name: "Perception"
     desc: "+12; Darkvision, Scent (Imprecise) 30 Feet"
-languages: "Common"
+languages: "Common; (Can&#x27;t Speak Any Language)"
 skills:
   - name: "Skills"
     desc: "Acrobatics: +11, Athletics: +10"
@@ -63,7 +64,7 @@ attacks:
     desc: "`pf2:1` Wing +10 (agile)\n__Damage__  1d6 + 5 bludgeoning"
 
   - name: "Assisted Mount"
-    desc: "`pf2:1`  **Requirements** The pegasus is Flying without a rider.\n**Effect** The pegasus Flies. At any point during the movement, it can allow a willing adjacent creature to [[Actions/Mount|Mount]] it. That creature must use a reaction to do so."
+    desc: "`pf2:1`  **Requirements** The pegasus is Flying without a rider.\n* * *\n\n**Effect** The pegasus Flies. At any point during the movement, it can allow a willing adjacent creature to [[Actions/Mount|Mount]] it. That creature must use a reaction to do so."
 
   - name: "Gallop"
     desc: "`pf2:2`  The pegasus uses 2 move actions, each of which can be either Stride or Fly. It gains a +20-foot circumstance bonus to its Speeds during a Gallop."

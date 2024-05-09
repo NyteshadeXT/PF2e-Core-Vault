@@ -18,6 +18,7 @@ license: ORC
 columns: 2
 forcecolumns: true
 layout: Basic Pathfinder 2e Layout
+token: [[modules/pf2e-tokens-bestiaries/portraits/bestial/invertebrate/deadly-mantis.webp| ]]
 source: "Pathfinder Monster Core"
 name: "Deadly Mantis"
 level: "Creature 11"
@@ -29,6 +30,7 @@ modifier: 20
 perception:
   - name: "Perception"
     desc: "+20; Darkvision"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Acrobatics: +18, Athletics: +25, Stealth: +22"

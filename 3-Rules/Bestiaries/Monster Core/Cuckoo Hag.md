@@ -51,7 +51,7 @@ abilities_top:
   - name: ""
 
   - name: "[[Bestiary Ability Glossary/Coven|Coven]]"
-    desc: " (mental,occult) A cuckoo hag adds [[Spells/Dominate|Dominate]], [[Spells/Nightmare|Nightmare]], [[Spells/Outcast's Curse|Outcast's Curse]], and scrying to their coven's spells.\n"
+    desc: " (mental,occult) A cuckoo hag adds [[Spells/Dominate|Dominate]], [[Spells/Nightmare|Nightmare]], [[Spells/Outcast's Curse|Outcast's Curse]], and scrying to their coven's spells.\n\n* * *\n"
 
 abilities_mid:
   - name: ""
@@ -74,13 +74,13 @@ attacks:
     desc: "_[[Spells/Animate Object|Animate Object]]_, _[[Spells/Control Weather|Control Weather]]_"
 
   - name: "[[Bestiary Ability Glossary/Change Shape|Change Shape]]"
-    desc: "`pf2:1` (concentrate,occult,polymorph) The cuckoo hag can take on the appearance of any Medium female humanoid. This doesn't change their Speed or their attack and damage bonuses with their Strikes but might change the damage type their Strikes deal (typically to bludgeoning).\n"
+    desc: "`pf2:1` (concentrate,occult,polymorph) The cuckoo hag can take on the appearance of any Medium female humanoid. This doesn't change their Speed or their attack and damage bonuses with their Strikes but might change the damage type their Strikes deal (typically to bludgeoning).\n\n* * *\n"
 
   - name: "Cuckoo’s Lair"
-    desc: "  A cuckoo hag is intrinsically connected to a pocket dimension that serves as their home domain. The lair is an extradimensional space that is 40 feet wide, 40 feet deep, and 30 feet tall. It contains whatever mundane food, buildings, landscapes, and objects that the cuckoo hag desires, though anything removed from the cuckoo's lair dissolves into nothingness instantly.\nIn order to enter or leave the plane, the cuckoo hag must create a door in the physical world as a single action, which has the concentrate and manipulate traits. The door is [[Conditions/Invisible|Invisible]] by default, though the cuckoo hag can choose a target creature that can perceive the door normally. The cuckoo hag can [[Actions/Dismiss|Dismiss]] this door from reality, but only if they (and no other creature) are inside of their lair and alone."
+    desc: "  A cuckoo hag is intrinsically connected to a pocket dimension that serves as their home domain. The lair is an extradimensional space that is 40 feet wide, 40 feet deep, and 30 feet tall. It contains whatever mundane food, buildings, landscapes, and objects that the cuckoo hag desires, though anything removed from the cuckoo's lair dissolves into nothingness instantly.\n\nIn order to enter or leave the plane, the cuckoo hag must create a door in the physical world as a single action, which has the concentrate and manipulate traits. The door is [[Conditions/Invisible|Invisible]] by default, though the cuckoo hag can choose a target creature that can perceive the door normally. The cuckoo hag can [[Actions/Dismiss|Dismiss]] this door from reality, but only if they (and no other creature) are inside of their lair and alone."
 
   - name: "Soul Covenant"
-    desc: " (occult) **Requirements** The cuckoo hag can cast [[Spells/Seize Soul|Seize Soul]] at will, but only to target a creature who has agreed to stay with them forever. They typically do so as soon as the agreement is made but might hold off to gain leverage over a situation.\nThey typically place the soul into a construct, typically a soulbound doll if they want a companion or a more powerful construct if they want a guardian."
+    desc: " (occult) **Requirements** The cuckoo hag can cast [[Spells/Seize Soul|Seize Soul]] at will, but only to target a creature who has agreed to stay with them forever. They typically do so as soon as the agreement is made but might hold off to gain leverage over a situation.\n\nThey typically place the soul into a construct, typically a soulbound doll if they want a companion or a more powerful construct if they want a guardian."
  
 ```
 

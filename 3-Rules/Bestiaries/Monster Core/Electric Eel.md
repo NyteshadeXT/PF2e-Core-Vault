@@ -19,6 +19,7 @@ license: ORC
 columns: 2
 forcecolumns: true
 layout: Basic Pathfinder 2e Layout
+token: [[modules/pf2e-tokens-bestiaries/portraits/bestial/aquatic/electric-eel.webp| ]]
 source: "Pathfinder Monster Core"
 name: "Electric Eel"
 level: "Creature 1"
@@ -31,6 +32,7 @@ modifier: 4
 perception:
   - name: "Perception"
     desc: "+4; Low-Light Vision"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Athletics: +6, Stealth: +7"
@@ -61,7 +63,7 @@ attacks:
     desc: "`pf2:1` Tail +6 (agile)\n__Damage__  1d4 + 1 bludgeoning plus stunning-shock 1d4 electricity plus stunning-shock"
 
   - name: "Stunning Shock"
-    desc: " (incapacitation) A creature critically hit by the electric eel's tail must attempt a DC 17 Fortitude check save.\n**Critical Success** The creature is unaffected.\n**Success** The creature is [[Conditions/Stunned 1|Stunned 1]].\n**Failure** The creature is [[Conditions/Stunned 1|Stunned 2]].\n**Critical Failure** The creature is [[Conditions/Stunned 1|Stunned 3]]."
+    desc: " (incapacitation) A creature critically hit by the electric eel's tail must attempt a DC 17 Fortitude check save.\n* * *\n\n**Critical Success** The creature is unaffected.\n\n**Success** The creature is [[Conditions/Stunned 1|Stunned 1]].\n\n**Failure** The creature is [[Conditions/Stunned 1|Stunned 2]].\n\n**Critical Failure** The creature is [[Conditions/Stunned 1|Stunned 3]]."
  
 ```
 

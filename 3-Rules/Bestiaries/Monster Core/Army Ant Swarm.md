@@ -19,6 +19,7 @@ license: ORC
 columns: 2
 forcecolumns: true
 layout: Basic Pathfinder 2e Layout
+token: [[modules/pf2e-tokens-bestiaries/portraits/bestial/invertebrate/army-ant-swarm.webp| ]]
 source: "Pathfinder Monster Core"
 name: "Army Ant Swarm"
 level: "Creature 5"
@@ -31,6 +32,7 @@ modifier: 11
 perception:
   - name: "Perception"
     desc: "+11; Darkvision, Scent (Imprecise) 30 Feet"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Athletics: +7"
@@ -52,13 +54,13 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Cling"
-    desc: "`pf2:r`  **Trigger** A creature leaves the swarm's space\n**Effect** The swarm takes 1d6 untyped damage as ants cling to the creature and continue biting, dealing 3d6 persistent piercing damage. High winds or immersion in water reduces the DC of the flat check to end this persistent damage to 5. Any area damage dealt to the creature destroys these clinging ants."
+    desc: "`pf2:r`  **Trigger** A creature leaves the swarm's space\n* * *\n\n**Effect** The swarm takes 1d6 untyped damage as ants cling to the creature and continue biting, dealing 3d6 persistent piercing damage. High winds or immersion in water reduces the DC of the flat check to end this persistent damage to 5. Any area damage dealt to the creature destroys these clinging ants."
 
 attacks:
   - name: ""
 
   - name: "Swarming Bites"
-    desc: "`pf2:1`  Each enemy in the swarm's space takes 3d6 piercing damage (DC 21 Fortitude check save). A creature that fails its save against Swarming Bites becomes [[Conditions/Clumsy 1|Clumsy 1]] for 1 round. If the creature attempts a concentrate or manipulate action while affected, it must succeed at a DC 5 Flat check or the action is lost; roll the check after spending the action, but before any effects are applied.\n[[Bestiary Effects/Effect_ Swarming Bites|Effect: Swarming Bites]]"
+    desc: "`pf2:1`  Each enemy in the swarm's space takes 3d6 piercing damage (DC 21 Fortitude check save). A creature that fails its save against Swarming Bites becomes [[Conditions/Clumsy 1|Clumsy 1]] for 1 round. If the creature attempts a concentrate or manipulate action while affected, it must succeed at a DC 5 Flat check or the action is lost; roll the check after spending the action, but before any effects are applied.\n* * *\n\n[[Bestiary Effects/Effect_ Swarming Bites|Effect: Swarming Bites]]"
  
 ```
 

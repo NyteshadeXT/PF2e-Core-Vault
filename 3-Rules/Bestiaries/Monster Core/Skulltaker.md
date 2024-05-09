@@ -19,6 +19,7 @@ license: ORC
 columns: 2
 forcecolumns: true
 layout: Basic Pathfinder 2e Layout
+token: [[modules/pf2e-tokens-bestiaries/portraits/undead/skulltaker.webp| ]]
 source: "Pathfinder Monster Core"
 name: "Skulltaker"
 level: "Creature 18"
@@ -31,7 +32,7 @@ modifier: 33
 perception:
   - name: "Perception"
     desc: "+33; Darkvision, Truesight"
-languages: "Necril"
+languages: "Necril; Skeletal Lore languages"
 skills:
   - name: "Skills"
     desc: "Acrobatics: +34, Intimidation: +35, Religion: +30, Skeletal Lore: +30, Stealth: +32"
@@ -51,12 +52,12 @@ abilities_top:
   - name: ""
 
   - name: "Skeletal Lore"
-    desc: " (divine) A skulltaker taps into the memories of the creatures whose bones make up its body. This gives it the Skeletal Lore skill, which it can use to Recall Knowledge of any kind. In addition, it can speak and understand all the languages known by the creatures whose bones make up its body (typically including Common and the regional language of the skulltaker's home region).\nThe skulltaker can use Skeletal Lore as the primary skill check for the [[Spells/Collective Memories|Collective Memories]] ritual, and it can cast _collective memories_ without secondary casters."
+    desc: " (divine) A skulltaker taps into the memories of the creatures whose bones make up its body. This gives it the Skeletal Lore skill, which it can use to Recall Knowledge of any kind. In addition, it can speak and understand all the languages known by the creatures whose bones make up its body (typically including Common and the regional language of the skulltaker's home region).\n\nThe skulltaker can use Skeletal Lore as the primary skill check for the [[Spells/Collective Memories|Collective Memories]] ritual, and it can cast _collective memories_ without secondary casters."
 
 abilities_mid:
   - name: ""
   - name: "Shard Storm"
-    desc: " (air,aura,divine) 10 feet.\nA cloud of bone shards surrounds the skulltaker. When a creature moves into the emanation or begins its turn there, shard storm deals 4d6 slashing damage and 4d6 void damage to the creature, with a DC 40 Reflex check save.\nIf the creature has resistance or immunity to void damage, or an effect that protects it against death effects, or an effect that protects it against the doomed or drained condition, the creature must first succeed at a DC 40 Will check save or have all such benefits suppressed for 1 minute."
+    desc: " (air,aura,divine) 10 feet.\n\nA cloud of bone shards surrounds the skulltaker. When a creature moves into the emanation or begins its turn there, shard storm deals 4d6 slashing damage and 4d6 void damage to the creature, with a DC 40 Reflex check save.\n\nIf the creature has resistance or immunity to void damage, or an effect that protects it against death effects, or an effect that protects it against the doomed or drained condition, the creature must first succeed at a DC 40 Will check save or have all such benefits suppressed for 1 minute."
 
 attacks:
   - name: ""
@@ -77,10 +78,10 @@ attacks:
     desc: "_[[Spells/Collective Memories|Collective Memories]]_"
 
   - name: "Bonetaker"
-    desc: " (divine) Whenever a creature dies within 60 feet of a skulltaker, the skulltaker draws a portion of the creature's bones into its shard storm.\nThe creature must succeed at a DC 40 Will check save or rise as a [[Monster Core/Skeletal Champion|Skeletal Champion]] in 1d4 rounds. These skeletal champions are controlled by the skulltaker."
+    desc: " (divine) Whenever a creature dies within 60 feet of a skulltaker, the skulltaker draws a portion of the creature's bones into its shard storm.\n\nThe creature must succeed at a DC 40 Will check save or rise as a [[Monster Core/Skeletal Champion|Skeletal Champion]] in 1d4 rounds. These skeletal champions are controlled by the skulltaker."
 
   - name: "Splintered Ground"
-    desc: "`pf2:1`  The skulltaker causes splintered bones to erupt from all solid surfaces in a 100-foot emanation, except for surfaces of worked stone. A creature moving through the bones takes 10 piercing damage and 10 void damage for every 5 feet of movement.\nThe first time each round a creature takes piercing damage from these splintered bones, it must succeed at a DC 40 Reflex check save or take a –10-foot circumstance penalty to all Speeds for 10 minutes, or a –15-foot circumstance penalty for 24 hours on a critical failure.\nThe bones remain in place until the skulltaker uses this action again or the bones are manually removed, which takes 10 minutes for each 5-foot square.\n[[Bestiary Effects/Effect_ Splintered Ground|Effect: Splintered Ground]]\n[[Bestiary Effects/Effect_ Splintered Ground (Critical Failure)|Effect: Splintered Ground (Critical Failure)]]"
+    desc: "`pf2:1`  The skulltaker causes splintered bones to erupt from all solid surfaces in a 100-foot emanation, except for surfaces of worked stone. A creature moving through the bones takes 10 piercing damage and 10 void damage for every 5 feet of movement.\n\nThe first time each round a creature takes piercing damage from these splintered bones, it must succeed at a DC 40 Reflex check save or take a –10-foot circumstance penalty to all Speeds for 10 minutes, or a –15-foot circumstance penalty for 24 hours on a critical failure.\n\nThe bones remain in place until the skulltaker uses this action again or the bones are manually removed, which takes 10 minutes for each 5-foot square.\n\n[[Bestiary Effects/Effect_ Splintered Ground|Effect: Splintered Ground]]\n\n[[Bestiary Effects/Effect_ Splintered Ground (Critical Failure)|Effect: Splintered Ground (Critical Failure)]]"
 
   - name: "Vitality Drain"
     desc: " (divine) When a skulltaker hits with a melee Strike, the target must succeed at a DC 40 Fortitude check save or become [[Conditions/Drained 1|Drained 2]] and [[Conditions/Doomed 1|Doomed 1]]."

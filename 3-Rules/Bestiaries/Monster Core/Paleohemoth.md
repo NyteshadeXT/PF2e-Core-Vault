@@ -19,6 +19,7 @@ license: ORC
 columns: 2
 forcecolumns: true
 layout: Basic Pathfinder 2e Layout
+token: [[modules/pf2e-tokens-bestiaries/portraits/constructed/golem/fossil-golem.webp| ]]
 source: "Pathfinder Monster Core"
 name: "Paleohemoth"
 level: "Creature 12"
@@ -31,6 +32,7 @@ modifier: 20
 perception:
   - name: "Perception"
     desc: "+20; Darkvision"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Athletics: +20"
@@ -58,7 +60,7 @@ attacks:
     desc: "`pf2:1` Jaws +26 (deadly d10, magical, reach 15 feet)\n__Damage__  3d10 + 13 piercing plus fossilization"
 
   - name: "Fossilization"
-    desc: " (arcane,incapacitation) The first time each round a creature takes damage from the paleohemoth's jaws, the target must attempt a DC 32 Fortitude check save. If it fails and has not already been slowed by this ability, it becomes [[Conditions/Slowed 1|Slowed 1]] for 1 minute.\nIf the creature was already slowed by this ability, a failed save causes it to be [[Conditions/Petrified|Petrified]] permanently."
+    desc: " (arcane,incapacitation) The first time each round a creature takes damage from the paleohemoth's jaws, the target must attempt a DC 32 Fortitude check save. If it fails and has not already been slowed by this ability, it becomes [[Conditions/Slowed 1|Slowed 1]] for 1 minute.\n\nIf the creature was already slowed by this ability, a failed save causes it to be [[Conditions/Petrified|Petrified]] permanently."
 
   - name: "Reassemble"
     desc: "`pf2:1`  The paleohemoth reorganizes its bones, increasing its reach to 25 feet and reducing its Speed to 15 feet. It can revert to its original form by taking this action again."

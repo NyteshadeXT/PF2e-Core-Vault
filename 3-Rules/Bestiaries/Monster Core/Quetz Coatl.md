@@ -20,6 +20,7 @@ license: ORC
 columns: 2
 forcecolumns: true
 layout: Basic Pathfinder 2e Layout
+token: [[modules/pf2e-tokens-bestiaries/portraits/bestial/mythological/quetz-couatl.webp| ]]
 source: "Pathfinder Monster Core"
 name: "Quetz Coatl"
 level: "Creature 10"
@@ -33,7 +34,7 @@ modifier: 21
 perception:
   - name: "Perception"
     desc: "+21; Darkvision"
-languages: "Common, Empyrean, Sussuran, Utopian"
+languages: "Common, Empyrean, Sussuran, Utopian; Telepathy 100 feet"
 skills:
   - name: "Skills"
     desc: "Acrobatics: +16, Arcana: +19, Athletics: +19, Diplomacy: +22, Nature: +22, Occultism: +19, Religion: +22, Survival: +16"
@@ -64,16 +65,16 @@ attacks:
     desc: "DC 29, attack +21; __7th __  _[[Spells/Interplanar Teleport|Interplanar Teleport (Self Only)]]_; __5th __  _[[Spells/Breath of Life|Breath of Life]]_, _[[Spells/Cleanse Affliction|Cleanse Affliction]]_, _[[Spells/Divine Wrath|Divine Wrath]]_; __4th __  _[[Spells/Charm|Charm]]_, _[[Spells/Vapor Form|Vapor Form]]_; __3rd __  _[[Spells/Mind Reading|Mind Reading (At Will)]]_\n__Cantrips__  __(5th)__ _[[Spells/Light|Light]]_, _[[Spells/Telekinetic Hand|Telekinetic Hand]]_, _[[Spells/Vitality Lash|Vitality Lash]]_"
 
   - name: "[[Bestiary Ability Glossary/Greater Constrict|Greater Constrict]]"
-    desc: "`pf2:1`  2d10 + 7 bludgeoning, DC 29 Fortitude check\n"
+    desc: "`pf2:1`  2d10 + 7 bludgeoning, DC 29 Fortitude check\n\n* * *\n"
 
   - name: "Quetz Couatl Venom"
-    desc: " (holy,poison) To unholy creatures, this is a curse instead of a poison and deals spirit damage instead of poison damage\n**Saving Throw** DC 29 Fortitude check;\n**Maximum Duration** 6 rounds\n**Stage 1** 2d6 poison damage and [[Conditions/Enfeebled 1|Enfeebled 1]] (1 round)\n**Stage 2** 2d8 poison damage, enfeebled 1, and [[Conditions/Off-Guard|Off-Guard]] (1 round)\n**Stage 3** 2d10 poison damage, [[Conditions/Enfeebled 1|Enfeebled 2]], and off-guard (1 round)"
+    desc: " (holy,poison) To unholy creatures, this is a curse instead of a poison and deals spirit damage instead of poison damage\n* * *\n\n**Saving Throw** DC 29 Fortitude check;\n\n**Maximum Duration** 6 rounds\n\n**Stage 1** 2d6 poison damage and [[Conditions/Enfeebled 1|Enfeebled 1]] (1 round)\n\n**Stage 2** 2d8 poison damage, enfeebled 1, and [[Conditions/Off-Guard|Off-Guard]] (1 round)\n\n**Stage 3** 2d10 poison damage, [[Conditions/Enfeebled 1|Enfeebled 2]], and off-guard (1 round)"
 
   - name: "Radiant Wings"
-    desc: "`pf2:2` (divine,incapacitation,light,mental,visual) The quetz coatl spreads their multicolored wings and radiant plumage. Each enemy in a 30-foot emanation must attempt a DC 29 Will check save.\n**Critical Success** The creature is unaffected and is temporarily immune to Radiant Wings for 24 hours.\n**Success** The creature is [[Conditions/Dazzled|Dazzled]] for 1 round.\n**Failure** The creature is dazzled for 1 minute.\n**Critical Failure** As failure, plus if the creature is unholy, it is also [[Conditions/Stunned 1|Stunned 3]]."
+    desc: "`pf2:2` (divine,incapacitation,light,mental,visual) The quetz coatl spreads their multicolored wings and radiant plumage. Each enemy in a 30-foot emanation must attempt a DC 29 Will check save.\n* * *\n\n**Critical Success** The creature is unaffected and is temporarily immune to Radiant Wings for 24 hours.\n\n**Success** The creature is [[Conditions/Dazzled|Dazzled]] for 1 round.\n\n**Failure** The creature is dazzled for 1 minute.\n\n**Critical Failure** As failure, plus if the creature is unholy, it is also [[Conditions/Stunned 1|Stunned 3]]."
 
   - name: "Wrap in Coils"
-    desc: "`pf2:1`  **Requirements** The quetz couatl has a Medium or smaller creature [[Conditions/Grabbed|Grabbed]] or [[Conditions/Restrained|Restrained]] in its jaws\n**Effect** The quetz couatl moves the creature into its coils, freeing its fangs to make attacks, then uses [[Bestiary Ability Glossary/Greater Constrict|Greater Constrict]] against the creature. The quetz couatl can hold as many creatures in its coils as will fit in its space."
+    desc: "`pf2:1`  **Requirements** The quetz couatl has a Medium or smaller creature [[Conditions/Grabbed|Grabbed]] or [[Conditions/Restrained|Restrained]] in its jaws\n* * *\n\n**Effect** The quetz couatl moves the creature into its coils, freeing its fangs to make attacks, then uses [[Bestiary Ability Glossary/Greater Constrict|Greater Constrict]] against the creature. The quetz couatl can hold as many creatures in its coils as will fit in its space."
 
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
     desc: "`pf2:1`  "

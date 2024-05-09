@@ -18,6 +18,7 @@ license: ORC
 columns: 2
 forcecolumns: true
 layout: Basic Pathfinder 2e Layout
+token: [[modules/pf2e-tokens-bestiaries/portraits/constructed/magical/guthallath.webp| ]]
 source: "Pathfinder Monster Core"
 name: "Guthallath"
 level: "Creature 19"
@@ -29,6 +30,7 @@ modifier: 30
 perception:
   - name: "Perception"
     desc: "+30; Darkvision, Truesight"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Acrobatics: +25, Athletics: +40"
@@ -50,7 +52,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Erosion Aura"
-    desc: " (aura,primal) 120 feet.\nThe guthallath erodes away the physical integrity of all around it. Creatures and objects in the emanation other than the guthallath have their Hardness and resistances reduced by 10.\nAt the start of their turn, a creature in the erosion aura's area takes 6d6 bludgeoning damage with a DC 39 Fortitude check save."
+    desc: " (aura,primal) 120 feet.\n\nThe guthallath erodes away the physical integrity of all around it. Creatures and objects in the emanation other than the guthallath have their Hardness and resistances reduced by 10.\n\nAt the start of their turn, a creature in the erosion aura's area takes 6d6 bludgeoning damage with a DC 39 Fortitude check save."
 
   - name: "Immunity to Magic"
     desc: "  The guthallath is immune to spells of 6th rank or lower and activations of magic items of 13th level or lower."
@@ -68,16 +70,16 @@ attacks:
     desc: "DC 37, attack +29\n__Constant__  __(8th)__ _[[Spells/Truesight|Truesight]]_ __(3rd)__ _[[Spells/Haste|Haste]]_"
 
   - name: "Annihilation Beams"
-    desc: "`pf2:2`  A guthallath releases two beams of destruction from its eyes. Each beam is a 120-foot line. Everything in either line takes 13d10 untyped damage with a DC 41 Fortitude check save.\nA creature reduced to 0 HP is reduced to a fine powder as the [[Spells/Disintegrate|Disintegrate]] spell. There is no additional effect on creatures in any area where the beams overlap.\nThe guthallath can't use this ability again for 1d4 rounds."
+    desc: "`pf2:2`  A guthallath releases two beams of destruction from its eyes. Each beam is a 120-foot line. Everything in either line takes 13d10 untyped damage with a DC 41 Fortitude check save.\n\nA creature reduced to 0 HP is reduced to a fine powder as the [[Spells/Disintegrate|Disintegrate]] spell. There is no additional effect on creatures in any area where the beams overlap.\n\nThe guthallath can't use this ability again for 1d4 rounds."
 
   - name: "Deadly Throw"
-    desc: "`pf2:1`  **Requirements** The guthallath has a creature [[Conditions/Grabbed|Grabbed]] or [[Conditions/Restrained|Restrained]]\n**Effect** The guthallath throws the creature into the air, 100 feet high and 50 feet away. If the flung creature lands on another creature, the creature it lands on takes the same amount of bludgeoning damage.\nThe creature being landed on can attempt a DC 41 Reflex check save."
+    desc: "`pf2:1`  **Requirements** The guthallath has a creature [[Conditions/Grabbed|Grabbed]] or [[Conditions/Restrained|Restrained]]\n* * *\n\n**Effect** The guthallath throws the creature into the air, 100 feet high and 50 feet away. If the flung creature lands on another creature, the creature it lands on takes the same amount of bludgeoning damage.\n\nThe creature being landed on can attempt a DC 41 Reflex check save."
 
   - name: "Powerful Blows"
     desc: "  If a guthallath hits with an attack and rolls a natural 19 on the d20 roll, the attack is a critical hit. This has no effect if the 19 would be a failure."
 
   - name: "[[Bestiary Ability Glossary/Trample|Trample]]"
-    desc: "`pf2:3`  Huge or smaller, foot, DC 45 Reflex check\n"
+    desc: "`pf2:3`  Huge or smaller, foot, DC 45 Reflex check\n\n* * *\n"
  
 ```
 

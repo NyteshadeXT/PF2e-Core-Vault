@@ -20,6 +20,7 @@ license: ORC
 columns: 2
 forcecolumns: true
 layout: Basic Pathfinder 2e Layout
+token: [[modules/pf2e-tokens-bestiaries/portraits/humanoid/duskwalker-ghost-hunter.webp| ]]
 source: "Pathfinder Monster Core"
 name: "Duskwalker Ghost Hunter"
 level: "Creature 4"
@@ -56,7 +57,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Ghost Dodge"
-    desc: "`pf2:r`  **Trigger** The duskwalker is targeted by a Strike or spell\n**Effect** The duskwalker gains a +2 circumstance bonus to AC, resistance 5 to spirit damage, and increases their resistance to void damage to 5, all against the triggering attack."
+    desc: "`pf2:r`  **Trigger** The duskwalker is targeted by a Strike or spell\n* * *\n\n**Effect** The duskwalker gains a +2 circumstance bonus to AC, resistance 5 to spirit damage, and increases their resistance to void damage to 5, all against the triggering attack."
 
 attacks:
   - name: ""
@@ -74,10 +75,10 @@ attacks:
     desc: "  The duskwalker's weapons have the benefits of the _[[Equipment/Ghost Touch|Ghost Touch]]_ property rune on attacks against incorporeal undead."
 
   - name: "Spirit Hunter"
-    desc: "`pf2:1`  The duskwalker designates a single creature they can observe as their prey.\nThe duskwalker gains a +2 circumstance bonus to Deception checks, Intimidation checks, and Stealth checks against their prey and to any check to Recall Knowledge about it, and deal an additional 2 spirit damage with all weapon Strikes against their prey.\nThese effects last until the duskwalker uses Spirit Hunter again."
+    desc: "`pf2:1`  The duskwalker designates a single creature they can observe as their prey.\n\nThe duskwalker gains a +2 circumstance bonus to Deception checks, Intimidation checks, and Stealth checks against their prey and to any check to Recall Knowledge about it, and deal an additional 2 spirit damage with all weapon Strikes against their prey.\n\nThese effects last until the duskwalker uses Spirit Hunter again."
 
   - name: "Spirit Shot"
-    desc: "`pf2:1`  **Frequency** once per round\n**Requirements** The duskwalker has designated a creature as their prey using Spirit Hunter\n**Effect** The duskwalker makes two ranged Strikes against their prey. If both Strikes hit, combine their damage for the purpose of resistances and weaknesses."
+    desc: "`pf2:1`  **Frequency** once per round\n\n**Requirements** The duskwalker has designated a creature as their prey using Spirit Hunter\n* * *\n\n**Effect** The duskwalker makes two ranged Strikes against their prey. If both Strikes hit, combine their damage for the purpose of resistances and weaknesses."
  
 ```
 

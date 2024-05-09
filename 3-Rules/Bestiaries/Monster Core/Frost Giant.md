@@ -20,6 +20,7 @@ license: ORC
 columns: 2
 forcecolumns: true
 layout: Basic Pathfinder 2e Layout
+token: [[modules/pf2e-tokens-bestiaries/portraits/humanoid/giant/frost-giant.webp| ]]
 source: "Pathfinder Monster Core"
 name: "Frost Giant"
 level: "Creature 9"
@@ -68,7 +69,7 @@ attacks:
     desc: "`pf2:1` Icicle +21 (cold, primal, range 120 feet)\n__Damage__  3d6 cold 2d8 piercing"
 
   - name: "Chill Breath"
-    desc: "`pf2:1` (cold,primal) The frost giant breathes out a 15-foot cone of freezing moisture that quickly condenses into ice, dealing 4d6 cold damage. Each creature in the cone must attempt a DC 28 Reflex check save. A creature that fails its save is also [[Conditions/Immobilized|Immobilized]] and takes 2d6 cold damage at the end of each of its turns until it gets free ([[Actions/Escape|Escape]] DC 28).\nThe giant can't use Chill Breath again for 1d4 rounds."
+    desc: "`pf2:1` (cold,primal) The frost giant breathes out a 15-foot cone of freezing moisture that quickly condenses into ice, dealing 4d6 cold damage. Each creature in the cone must attempt a DC 28 Reflex check save. A creature that fails its save is also [[Conditions/Immobilized|Immobilized]] and takes 2d6 cold damage at the end of each of its turns until it gets free ([[Actions/Escape|Escape]] DC 28).\n\nThe giant can't use Chill Breath again for 1d4 rounds."
 
   - name: "Ice Stride"
     desc: "  A frost giant isn’t impeded by difficult terrain caused by snow or ice, nor do they need to attempt Acrobatics checks to keep from falling on slippery ice."

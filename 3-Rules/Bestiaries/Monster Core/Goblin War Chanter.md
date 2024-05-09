@@ -19,6 +19,7 @@ license: ORC
 columns: 2
 forcecolumns: true
 layout: Basic Pathfinder 2e Layout
+token: [[modules/pf2e-tokens-bestiaries/portraits/humanoid/goblinoid/goblin-war-chanter.webp| ]]
 source: "Pathfinder Monster Core"
 name: "Goblin War Chanter"
 level: "Creature 1"
@@ -54,7 +55,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Goblin Scuttle"
-    desc: "`pf2:r`  **Trigger** A goblin ally ends a move action adjacent to the goblin.\n**Effect** The goblin war chanter [[Actions/Step|Steps]]."
+    desc: "`pf2:r`  **Trigger** A goblin ally ends a move action adjacent to the goblin.\n* * *\n\n**Effect** The goblin war chanter [[Actions/Step|Steps]]."
 
 attacks:
   - name: ""
@@ -69,7 +70,7 @@ attacks:
     desc: "DC 17, attack +7; __1st __ (2 slots) _[[Spells/Bless|Bless]]_, _[[Spells/Soothe|Soothe]]_\n__Cantrips__  __(1st)__ _[[Spells/Courageous Anthem|Courageous Anthem]]_, _[[Spells/Figment|Figment]]_, _[[Spells/Message|Message]]_, _[[Spells/Telekinetic Hand|Telekinetic Hand]]_, _[[Spells/Telekinetic Projectile|Telekinetic Projectile]]_"
 
   - name: "Goblin Song"
-    desc: "`pf2:1`  The war chanter sings annoying goblin songs, distracting foes with silly and repetitive lyrics. The chanter attempts a Performance check check against the Will DCs of up to two enemies within 30 feet. This has the usual traits and restrictions for a Performance check.\n**Critical Success** The target takes a -1 status penalty to Perception checks and Will saves for 1 minute. [[Feat_Feature Effects/Effect_ Goblin Song (Critical Success)|Effect: Goblin Song (Critical Success)]]\n**Success** As critical success, but the target is affected for only one round. [[Feat_Feature Effects/Effect_ Goblin Song (Success)|Effect: Goblin Song (Success)]]\n**Critical Failure** The target is temporarily immune to Goblin Song for 1 hour."
+    desc: "`pf2:1`  The war chanter sings annoying goblin songs, distracting foes with silly and repetitive lyrics. The chanter attempts a Performance check check against the Will DCs of up to two enemies within 30 feet. This has the usual traits and restrictions for a Performance check.\n* * *\n\n**Critical Success** The target takes a -1 status penalty to Perception checks and Will saves for 1 minute. [[Feat_Feature Effects/Effect_ Goblin Song (Critical Success)|Effect: Goblin Song (Critical Success)]]\n\n**Success** As critical success, but the target is affected for only one round. [[Feat_Feature Effects/Effect_ Goblin Song (Success)|Effect: Goblin Song (Success)]]\n\n**Critical Failure** The target is temporarily immune to Goblin Song for 1 hour."
  
 ```
 

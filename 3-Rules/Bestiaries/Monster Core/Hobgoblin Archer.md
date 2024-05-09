@@ -5,7 +5,7 @@ noteType: pf2eMonster
 cssClasses: pf2e
 aliases: "Compendium.pf2e.pathfinder-monster-core.Actor.JwOlSrHk1pkAKMRn" 
 tags:
-  - pf2e/creature/type/goblin
+  - pf2e/creature/type/hobgoblin
   - pf2e/creature/type/humanoid
   - pf2e/creature/level/4
   - remaster
@@ -19,13 +19,14 @@ license: ORC
 columns: 2
 forcecolumns: true
 layout: Basic Pathfinder 2e Layout
+token: [[modules/pf2e-tokens-bestiaries/portraits/humanoid/goblinoid/hobgoblin-archer.webp| ]]
 source: "Pathfinder Monster Core"
 name: "Hobgoblin Archer"
 level: "Creature 4"
 
 alignment: ""
 size: "Medium"
-trait_01: "goblin"
+trait_01: "hobgoblin"
 trait_02: "humanoid"
 modifier: 10
 perception:
@@ -69,7 +70,7 @@ attacks:
     desc: "  The first time the archer hits with a crossbow attack in a round, it deals 1d8 extra precision damage."
 
   - name: "Perfect Aim"
-    desc: "  The hobgoblin archer ignores the [[Conditions/Concealed|Concealed]] condition.\nTheir targets don't benefit from lesser cover, and they reduce the AC bonus from standard cover by 2 against the hobgoblin archer's attack."
+    desc: "  The hobgoblin archer ignores the [[Conditions/Concealed|Concealed]] condition.\n\nTheir targets don't benefit from lesser cover, and they reduce the AC bonus from standard cover by 2 against the hobgoblin archer's attack."
 
   - name: "Running Reload"
     desc: "`pf2:1`  The archer Strides, Steps, or [[Actions/Sneak|Sneaks]], then Interacts to reload."

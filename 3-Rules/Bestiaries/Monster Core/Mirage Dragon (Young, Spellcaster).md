@@ -56,7 +56,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Scintillating Defense"
-    desc: "`pf2:r` (visual) **Trigger** The dragon is targeted with an attack\n**Effect** The dragon flashes their iridescent scales at the triggering creature to throw off the attack. The dragon gains [[Conditions/Concealed|Concealment]] against the triggering attack."
+    desc: "`pf2:r` (visual) **Trigger** The dragon is targeted with an attack\n* * *\n\n**Effect** The dragon flashes their iridescent scales at the triggering creature to throw off the attack. The dragon gains [[Conditions/Concealed|Concealment]] against the triggering attack."
 
 attacks:
   - name: ""
@@ -74,10 +74,10 @@ attacks:
     desc: "DC 27, attack +20; __4th __  _[[Spells/Confusion|Confusion]]_, _[[Spells/Vision of Death|Vision of Death]]_; __3rd __  _[[Spells/Enthrall|Enthrall]]_, _[[Spells/Hypnotize|Hypnotize]]_; __2nd __  _[[Spells/Embed Message|Embed Message]]_, _[[Spells/Revealing Light|Revealing Light]]_, _[[Spells/See the Unseen|See the Unseen]]_; __1st __  _[[Spells/Disguise Magic|Disguise Magic]]_, _[[Spells/Item Facade|Item Facade]]_, _[[Spells/Phantasmal Minion|Phantasmal Minion]]_, _[[Spells/Ventriloquism|Ventriloquism]]_\n__Cantrips__  __(4th)__ _[[Spells/Daze|Daze]]_, _[[Spells/Detect Magic|Detect Magic]]_, _[[Spells/Light|Light]]_, _[[Spells/Prestidigitation|Prestidigitation]]_, _[[Spells/Read Aura|Read Aura]]_"
 
   - name: "Arcane Innate Spells"
-    desc: "DC 27, attack +19; __5th __  _[[Spells/Illusory Scene|Illusory Scene]]_; __4th __  _[[Spells/Illusory Creature|Illusory Creature (At Will)]]_; __2nd __  _[[Spells/Invisibility|Invisibility]]_\n__Cantrips__  __(5th)__ _[[Spells/Figment|Figment]]_, _[[Spells/Message|Message]]_"
+    desc: "DC 27, attack +19; __5th __  _[[Spells/Illusory Scene|Illusory Scene]]_; __4th __  _[[Spells/Illusory Creature|Illusory Creature]]_, _[[Spells/Illusory Object|Illusory Object (At Will)]]_, _[[Spells/Mirage|Mirage]]_; __2nd __  _[[Spells/Invisibility|Invisibility]]_\n__Cantrips__  __(5th)__ _[[Spells/Figment|Figment]]_, _[[Spells/Message|Message]]_"
 
   - name: "Hallucinatory Breath"
-    desc: "`pf2:2` (arcane,emotion,mental) The dragon breathes a cloud that assaults the senses and deals 7d6 mental damage in a 30-foot cone (DC 27 Will check save). A creature that fails its save is also [[Conditions/Confused|Confused]] for 1 round (1 minute on a critical failure) and is then temporarily immune to being confused by Hallucinatory Breath for 1 hour.\nThe dragon can't use Hallucinatory Breath again for 1d4 rounds."
+    desc: "`pf2:2` (arcane,emotion,mental) The dragon breathes a cloud that assaults the senses and deals 7d6 mental damage in a 30-foot cone (DC 27 Will check save). A creature that fails its save is also [[Conditions/Confused|Confused]] for 1 round (1 minute on a critical failure) and is then temporarily immune to being confused by Hallucinatory Breath for 1 hour.\n\nThe dragon can't use Hallucinatory Breath again for 1d4 rounds."
 
   - name: "Lunging Bite"
     desc: "`pf2:2`  The dragon lunges their head forward, making a jaws Strike with an extended reach of 20 feet."

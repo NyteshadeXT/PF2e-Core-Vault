@@ -18,6 +18,7 @@ license: ORC
 columns: 2
 forcecolumns: true
 layout: Basic Pathfinder 2e Layout
+token: [[modules/pf2e-tokens-bestiaries/portraits/aberrant/eldritch/quelaunt.webp| ]]
 source: "Pathfinder Monster Core"
 name: "Quelaunt"
 level: "Creature 15"
@@ -29,7 +30,7 @@ modifier: 29
 perception:
   - name: "Perception"
     desc: "+29; Tremorsense (Imprecise) 60 Feet"
-languages: "Aklo"
+languages: "Aklo; (Can&#x27;t Speak Any Language), Telepathy 100 feet"
 skills:
   - name: "Skills"
     desc: "Deception: +30, Intimidation: +30, Occultism: +27"
@@ -69,13 +70,13 @@ attacks:
     desc: "`pf2:3`  The quelaunt casts up to three spells chosen from its at-will innate spells and its emotional focus spells."
 
   - name: "Feed on Emotion"
-    desc: "`pf2:1` (attack,emotion,incapacitation,mental) **Frequency** once per round;\n**Effect** The quelaunt feeds on the emotional unrest of a single creature within 30 feet that's under a harmful emotion effect. The target must succeed at a DC 37 Will check save or take 4d10 mental damage and be [[Conditions/Stunned 1|Stunned]] for 1 round.\nIf the target fails its saving throw, the quelaunt regains the same number of Hit Points and regains the action it spent to Feed on Emotion. It can't use the regained action to Feed on Emotion again."
+    desc: "`pf2:1` (attack,emotion,incapacitation,mental) **Frequency** once per round;\n* * *\n\n**Effect** The quelaunt feeds on the emotional unrest of a single creature within 30 feet that's under a harmful emotion effect. The target must succeed at a DC 37 Will check save or take 4d10 mental damage and be [[Conditions/Stunned 1|Stunned]] for 1 round.\n\nIf the target fails its saving throw, the quelaunt regains the same number of Hit Points and regains the action it spent to Feed on Emotion. It can't use the regained action to Feed on Emotion again."
 
   - name: "Rapid Strikes"
     desc: "`pf2:2` (attack) The quelaunt makes three melee Strikes, each against a different target within reach. The multiple attack penalty applies to each attack but increases only after all the attacks have been made."
 
   - name: "Spiral of Despair"
-    desc: " (emotion,mental) **Trigger** A creature fails a saving throw to resist one of the quelaunt's innate spells or emotional focus spells\n**Effect** As the quelaunt invades the triggering creature's mind and plants the seeds of negative emotions, it also strips away the target's feelings of hope or positivity. The quelaunt can immediately end a single emotion effect from which the triggering creature is benefiting."
+    desc: " (emotion,mental) **Trigger** A creature fails a saving throw to resist one of the quelaunt's innate spells or emotional focus spells\n* * *\n\n**Effect** As the quelaunt invades the triggering creature's mind and plants the seeds of negative emotions, it also strips away the target's feelings of hope or positivity. The quelaunt can immediately end a single emotion effect from which the triggering creature is benefiting."
  
 ```
 

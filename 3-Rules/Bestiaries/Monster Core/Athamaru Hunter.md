@@ -68,10 +68,10 @@ attacks:
     desc: "  After the hunter attempts a Strike at a Large or larger target (regardless of success or failure), the next Strike one of the hunter's allies makes against the same target gains a +2 circumstance bonus to the attack roll."
 
   - name: "Fan Bolt"
-    desc: "  The hunter prepares their hooked crossbow bolts with carefully woven seaweed.\nOn a successful crossbow Strike, the bolt embeds and the seaweed fan deploys. The target takes a -10-foot status penalty to its swim Speed. A creature can Interact to attempt a DC 18 Athletics check check, removing the bolt on a success.\n[[Bestiary Effects/Effect_ Fan Bolt|Effect: Fan Bolt]]"
+    desc: "  The hunter prepares their hooked crossbow bolts with carefully woven seaweed.\n\nOn a successful crossbow Strike, the bolt embeds and the seaweed fan deploys. The target takes a -10-foot status penalty to its swim Speed. A creature can Interact to attempt a DC 18 Athletics check check, removing the bolt on a success.\n\n[[Bestiary Effects/Effect_ Fan Bolt|Effect: Fan Bolt]]"
 
   - name: "Hunt Prey"
-    desc: "`pf2:1` (concentrate) The athamaru hunter designates a single creature they can see and hear, or one they're Tracking, as their prey. The hunter gains a +2 circumstance bonus to Perception checks to [[Actions/Seek|Seek]] the prey and to Survival checks to [[Actions/Track|Track]] the prey.\nThe first time the athamaru hits their designated prey in a round, they deal an additional 1d8 precision damage. These effects last until the hunter uses Hunt Prey again."
+    desc: "`pf2:1` (concentrate) The athamaru hunter designates a single creature they can see and hear, or one they're Tracking, as their prey. The hunter gains a +2 circumstance bonus to Perception checks to [[Actions/Seek|Seek]] the prey and to Survival checks to [[Actions/Track|Track]] the prey.\n\nThe first time the athamaru hits their designated prey in a round, they deal an additional 1d8 precision damage. These effects last until the hunter uses Hunt Prey again."
 
   - name: "Pack Attack"
     desc: "  The hunter's Strikes deal an additional 1d8 damage to creatures within reach of at least two of the hunter's allies."

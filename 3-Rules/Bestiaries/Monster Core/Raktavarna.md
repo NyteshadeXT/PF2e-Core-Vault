@@ -20,6 +20,7 @@ license: ORC
 columns: 2
 forcecolumns: true
 layout: Basic Pathfinder 2e Layout
+token: [[modules/pf2e-tokens-bestiaries/portraits/fiendish/raktavarna.webp| ]]
 source: "Pathfinder Monster Core"
 name: "Raktavarna"
 level: "Creature 1"
@@ -70,13 +71,13 @@ attacks:
     desc: "  A raktavarna gains a +2 bonus to Strikes against any creature that is holding it."
 
   - name: "[[Bestiary Ability Glossary/Change Shape|Change Shape]]"
-    desc: "`pf2:1` (concentrate,occult,polymorph) The raktavarna takes on the appearance of a Tiny inanimate object. If, while transformed, the raktavarna takes any action other than the purely mental (such as Recall Knowledge), they immediately revert to their original form. Until then, they can use Deception to Impersonate the object.\n"
+    desc: "`pf2:1` (concentrate,occult,polymorph) The raktavarna takes on the appearance of a Tiny inanimate object. If, while transformed, the raktavarna takes any action other than the purely mental (such as Recall Knowledge), they immediately revert to their original form. Until then, they can use Deception to Impersonate the object.\n\n* * *\n"
 
   - name: "Designate Master"
-    desc: "  The raktavarna spends 10 minutes on an invocation alongside another creature. That creature becomes the raktavarna's master until the raktavarna dies or Dismisses the effect. The master gains the Master's Eyes activity as long as the bond lasts.\n[[Bestiary Ability Glossary/Master's Eye|Master's Eye]]"
+    desc: "  The raktavarna spends 10 minutes on an invocation alongside another creature. That creature becomes the raktavarna's master until the raktavarna dies or Dismisses the effect. The master gains the Master's Eyes activity as long as the bond lasts.\n\n[[Bestiary Ability Glossary/Master's Eye|Master's Eye]]"
 
   - name: "Raktavarna Venom"
-    desc: " (poison) **Saving Throw** DC 16 Fortitude check\n**Maximum Duration** 6 rounds\n**Stage 1** 1d4 poison damage and [[Conditions/Stupefied 1|Stupefied 1]] (1 round)\n**Stage 2** 1d4 poison damage and [[Conditions/Stupefied 1|Stupefied 2]] (1 round)"
+    desc: " (poison) **Saving Throw** DC 16 Fortitude check\n* * *\n\n**Maximum Duration** 6 rounds\n\n**Stage 1** 1d4 poison damage and [[Conditions/Stupefied 1|Stupefied 1]] (1 round)\n\n**Stage 2** 1d4 poison damage and [[Conditions/Stupefied 1|Stupefied 2]] (1 round)"
  
 ```
 

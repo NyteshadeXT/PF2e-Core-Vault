@@ -18,6 +18,7 @@ license: ORC
 columns: 2
 forcecolumns: true
 layout: Basic Pathfinder 2e Layout
+token: [[modules/pf2e-tokens-bestiaries/portraits/humanoid/hybrid/sphinx.webp| ]]
 source: "Pathfinder Monster Core"
 name: "Sphinx"
 level: "Creature 8"
@@ -29,7 +30,7 @@ modifier: 18
 perception:
   - name: "Perception"
     desc: "+18; Darkvision, See the Unseen"
-languages: "Common, Draconic, Sphinx"
+languages: "Common, Draconic, Sphinx; Truespeech"
 skills:
   - name: "Skills"
     desc: "Arcana: +17, Athletics: +18, Bardic Lore: +19, Deception: +16, Diplomacy: +16, Intimidation: +18, Occultism: +17"
@@ -69,7 +70,7 @@ attacks:
     desc: "`pf2:1`  The sphinx Strides and makes a Strike at the end of that movement. If the sphinx began this action [[Conditions/Hidden|Hidden]], they remain hidden until after the attack."
 
   - name: "Riddler’s Rune"
-    desc: "  Once per week, a Sphinx can create a magical symbol as the [[Spells/Rune Trap|Rune Trap]] ritual. The sphinx usually shapes it to take the form of a written riddle and sets the password to the answer.\nA creature that gives the wrong answer or tries to pass without answering must succeed at a DC 26 Will check save or be affected by one of the following spells, chosen by the sphinx when creating the symbol: [[Spells/Synaptic Pulse|Synaptic Pulse]] (5th), [[Spells/Charm|Charm]] (4th), [[Spells/Fear|Fear]] (4th), [[Spells/Phantom Pain|Phantom Pain]] (4th), [[Spells/Sleep|Sleep]] (4th). The sphinx learns the identity of any creature that answers the riddle and tends to be friendly to them if they answered correctly."
+    desc: "  Once per week, a Sphinx can create a magical symbol as the [[Spells/Rune Trap|Rune Trap]] ritual. The sphinx usually shapes it to take the form of a written riddle and sets the password to the answer.\n\nA creature that gives the wrong answer or tries to pass without answering must succeed at a DC 26 Will check save or be affected by one of the following spells, chosen by the sphinx when creating the symbol: [[Spells/Synaptic Pulse|Synaptic Pulse]] (5th), [[Spells/Charm|Charm]] (4th), [[Spells/Fear|Fear]] (4th), [[Spells/Phantom Pain|Phantom Pain]] (4th), [[Spells/Sleep|Sleep]] (4th). The sphinx learns the identity of any creature that answers the riddle and tends to be friendly to them if they answered correctly."
  
 ```
 

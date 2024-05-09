@@ -19,6 +19,7 @@ license: ORC
 columns: 2
 forcecolumns: true
 layout: Basic Pathfinder 2e Layout
+token: [[modules/pf2e-tokens-bestiaries/portraits/elemental/air/zephyr-hawk.webp| ]]
 source: "Pathfinder Monster Core"
 name: "Zephyr Hawk"
 level: "Creature 3"
@@ -31,6 +32,7 @@ modifier: 7
 perception:
   - name: "Perception"
     desc: "+7; Darkvision"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Acrobatics: +13, Stealth: +11"

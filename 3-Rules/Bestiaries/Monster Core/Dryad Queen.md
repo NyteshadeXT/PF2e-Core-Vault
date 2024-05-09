@@ -21,6 +21,7 @@ license: ORC
 columns: 2
 forcecolumns: true
 layout: Basic Pathfinder 2e Layout
+token: [[modules/pf2e-tokens-bestiaries/portraits/fey/nymph/dryad-queen.webp| ]]
 source: "Pathfinder Monster Core"
 name: "Dryad Queen"
 level: "Creature 13"
@@ -58,12 +59,12 @@ abilities_top:
     desc: "  The dryad can ask questions of, receive answers from, and use the Diplomacy skill with animals and plants."
 
   - name: "[[Creature Family Ability Glossary/(Nymph Queen) Tied to the Land|Tied to the Land]]"
-    desc: "  The dryad queen is tied to a forest or other woodland.\nA nymph queen is intrinsically tied to a specific region. As long as the queen is healthy, the environment is exceptionally resilient, allowing the nymph queen to automatically attempt to counteract any spell that would harm the environment (such as the [[Spells/Blight|Blight]] ritual), using her spell DC with a counteract rank equal to the highest-rank druid spell she can cast.\nWhen the nymph queen becomes physically or psychologically unhealthy, however, her warded region eventually becomes twisted or unhealthy as well. In that case, restoring the nymph queen swiftly heals the entire region."
+    desc: "  The dryad queen is tied to a forest or other woodland.\n* * *\n\nA nymph queen is intrinsically tied to a specific region. As long as the queen is healthy, the environment is exceptionally resilient, allowing the nymph queen to automatically attempt to counteract any spell that would harm the environment (such as the [[Spells/Blight|Blight]] ritual), using her spell DC with a counteract rank equal to the highest-rank druid spell she can cast.\n\nWhen the nymph queen becomes physically or psychologically unhealthy, however, her warded region eventually becomes twisted or unhealthy as well. In that case, restoring the nymph queen swiftly heals the entire region."
 
 abilities_mid:
   - name: ""
   - name: "[[Creature Family Ability Glossary/(Nymph Queen) Nymph's Beauty|Nymph's Beauty]]"
-    desc: " (aura,emotion,mental,primal,visual) 30 feet.\nOn a failed save, the target is [[Conditions/Immobilized|Immobilized]] in awe for 1 minute.\nCreatures that start their turn in the aura must succeed at a DC 30 Will check save or suffer an effect described in the nymph queen's entry."
+    desc: " (aura,emotion,mental,primal,visual) 30 feet.\n* * *\n\nOn a failed save, the target is [[Conditions/Immobilized|Immobilized]] in awe for 1 minute.\n* * *\n\nCreatures that start their turn in the aura must succeed at a DC 30 Will check save or suffer an effect described in the nymph queen's entry."
 
 attacks:
   - name: ""
@@ -81,16 +82,16 @@ attacks:
     desc: "DC 35, attack +25; __8th __  _[[Spells/Impaling Briars|Impaling Briars]]_; __5th __  _[[Spells/Nature's Pathway|Nature's Pathway]]_, _[[Spells/One with Plants|One with Plants]]_; __4th __  _[[Spells/Charm|Charm]]_, _[[Spells/Entangling Flora|Entangling Flora]]_, _[[Spells/Shape Wood|Shape Wood]]_, _[[Spells/Suggestion|Suggestion]]_\n__Cantrips__  __(5th)__ _[[Spells/Tangle Vine|Tangle Vine]]_"
 
   - name: "[[Creature Family Ability Glossary/(Nymph Queen) Change Shape|Change Shape]]"
-    desc: "`pf2:1` (polymorph,primal) Nymph queens can transform between their original form, which looks much like a typical nymph of their kind, and any Small or Medium humanoid form, typically choosing a more humanoid-looking version of their natural form.\n"
+    desc: "`pf2:1` (polymorph,primal) Nymph queens can transform between their original form, which looks much like a typical nymph of their kind, and any Small or Medium humanoid form, typically choosing a more humanoid-looking version of their natural form.\n\n* * *\n"
 
   - name: "[[Creature Family Ability Glossary/(Nymph Queen) Focus Beauty|Focus Beauty]]"
-    desc: "`pf2:1` (emotion,mental,primal,visual) On a failed save, if the target was already affected by the dryad queen's beauty, the target can't use hostile actions against the dryad queen for 1 hour.\nThe nymph queen focuses her beauty upon a target, who must attempt a save against her nymph's beauty aura (DC 30 Will check save). If the creature fails and was already affected by the aura, it takes a greater effect described in the nymph queen's entry.\nA nymph queen can Focus Beauty on a given creature only once per turn."
+    desc: "`pf2:1` (emotion,mental,primal,visual) On a failed save, if the target was already affected by the dryad queen's beauty, the target can't use hostile actions against the dryad queen for 1 hour.\n* * *\n\nThe nymph queen focuses her beauty upon a target, who must attempt a save against her nymph's beauty aura (DC 30 Will check save). If the creature fails and was already affected by the aura, it takes a greater effect described in the nymph queen's entry.\n\nA nymph queen can Focus Beauty on a given creature only once per turn."
 
   - name: "[[Creature Family Ability Glossary/(Nymph Queen) Inspiration|Inspiration]]"
-    desc: "`pf2:3` (emotion,mental,primal) The nymph queen inspires a single intelligent creature by giving that creature a token of her favor, typically a lock of her hair, though it can be some other significant object as well. As long as the creature carries her token and remains in good standing with her, the creature gains a +1 status bonus to all Crafting checks, Performance checks, and Will saves.\nIf the nymph grants her token to a bard, and she's the bard's muse, the queen chooses one additional benefit granted by her token: a +1 status bonus to all Lore checks, a +2 status bonus to Performance checks when determining the effects of compositions, a +4 status bonus to untrained skill checks, or a +2 status bonus to Will saves against fey.\n[[Bestiary Effects/Effect_ Nymph Queen's Inspiration|Effect: Nymph Queen's Inspiration]]"
+    desc: "`pf2:3` (emotion,mental,primal) The nymph queen inspires a single intelligent creature by giving that creature a token of her favor, typically a lock of her hair, though it can be some other significant object as well. As long as the creature carries her token and remains in good standing with her, the creature gains a +1 status bonus to all Crafting checks, Performance checks, and Will saves.\n\nIf the nymph grants her token to a bard, and she's the bard's muse, the queen chooses one additional benefit granted by her token: a +1 status bonus to all Lore checks, a +2 status bonus to Performance checks when determining the effects of compositions, a +4 status bonus to untrained skill checks, or a +2 status bonus to Will saves against fey.\n\n[[Bestiary Effects/Effect_ Nymph Queen's Inspiration|Effect: Nymph Queen's Inspiration]]"
 
   - name: "Tree Meld"
-    desc: "`pf2:2` (primal) A [[Spells/One with Plants|One with Plants]] spell cast by a dryad has an unlimited duration.\nIn addition, if the dryad merges with any tree in her domain, she can choose to instead enter an extradimensional living space within the tree, and can bring up to eight adjacent, willing creatures with her; the spell gains the extradimensional trait. The dryad can still be expelled from this space."
+    desc: "`pf2:2` (primal) A [[Spells/One with Plants|One with Plants]] spell cast by a dryad has an unlimited duration.\n\nIn addition, if the dryad merges with any tree in her domain, she can choose to instead enter an extradimensional living space within the tree, and can bring up to eight adjacent, willing creatures with her; the spell gains the extradimensional trait. The dryad can still be expelled from this space."
  
 ```
 

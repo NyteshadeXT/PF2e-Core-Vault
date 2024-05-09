@@ -35,7 +35,7 @@ modifier: 23
 perception:
   - name: "Perception"
     desc: "+23; Darkvision, Tremorsense (Precise) 60 Feet"
-languages: "Draconic, Empyrean, Petran"
+languages: "Draconic, Empyrean, Petran; Speak with Stones, Truespeech"
 skills:
   - name: "Skills"
     desc: "Athletics: +25, Diplomacy: +22, Intimidation: +22, Nature: +23"
@@ -70,7 +70,7 @@ attacks:
     desc: "  An aeolaeka can Burrow through any earthen matter, including rock. When they do so, the aeolaeka moves at their full burrow Speed, leaving no tunnels or signs of their passing."
 
   - name: "Liberate the Earth"
-    desc: "`pf2:2` (concentrate,divine,earth) The aeolaeka conjures churning stones, creating a 60-foot line of rolling boulders. Creatures in the line take 10d6 bludgeoning damage with a DC 35 Reflex check save. The area is difficult terrain for 24 hours before the leftover stone crumbles to dust. The aeolaeka can't Liberate the Earth for 1d4 rounds.\n**Critical Success** The creature takes no damage. Success The creature takes half damage.\n**Failure** The creature takes full damage and is knocked [[Conditions/Prone|Prone]].\n**Critical Failure** The creature takes double damage, is knocked prone, and is [[Conditions/Immobilized|Immobilized]] by the rubble ([[Actions/Escape|Escape]] DC 32)."
+    desc: "`pf2:2` (concentrate,divine,earth) The aeolaeka conjures churning stones, creating a 60-foot line of rolling boulders. Creatures in the line take 10d6 bludgeoning damage with a DC 35 Reflex check save. The area is difficult terrain for 24 hours before the leftover stone crumbles to dust. The aeolaeka can't Liberate the Earth for 1d4 rounds.\n* * *\n\n**Critical Success** The creature takes no damage. Success The creature takes half damage.\n\n**Failure** The creature takes full damage and is knocked [[Conditions/Prone|Prone]].\n\n**Critical Failure** The creature takes double damage, is knocked prone, and is [[Conditions/Immobilized|Immobilized]] by the rubble ([[Actions/Escape|Escape]] DC 32)."
 
   - name: "Statue"
     desc: "`pf2:1` (concentrate) Until the next time they act, the aeolaeka appears to be a statue. They have an automatic result of 45 on Deception checks and DCs to pass as a statue."

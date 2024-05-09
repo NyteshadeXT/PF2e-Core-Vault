@@ -19,6 +19,7 @@ license: ORC
 columns: 2
 forcecolumns: true
 layout: Basic Pathfinder 2e Layout
+token: [[modules/pf2e-tokens-bestiaries/portraits/monitor/protean/voidworm.webp| ]]
 source: "Pathfinder Monster Core"
 name: "Voidworm"
 level: "Creature 1"
@@ -56,7 +57,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "[[Creature Family Ability Glossary/(Protean) Protean Anatomy|Protean Anatomy]]"
-    desc: " (divine) A voidworm's vital organs shift and change shape and position constantly. Immediately after the voidworm takes acid, electricity, or sonic damage, they gains the listed amount of resistance to that damage type. This lasts for 1 hour or until the next time the voidworm takes damage of one of the other types (in which case its resistance changes to match that type), whichever comes first.\nThe voidworm is immune to polymorph effects unless it is a willing target. If [[Conditions/Blinded|Blinded]] or [[Conditions/Deafened|Deafened]], the voidworm automatically recovers at the end of its next turn as new sensory organs grow to replace the compromised ones.\n[[Bestiary Effects/Effect_ Protean Anatomy|Effect: Protean Anatomy]]"
+    desc: " (divine) A voidworm's vital organs shift and change shape and position constantly. Immediately after the voidworm takes acid, electricity, or sonic damage, they gains the listed amount of resistance to that damage type. This lasts for 1 hour or until the next time the voidworm takes damage of one of the other types (in which case its resistance changes to match that type), whichever comes first.\n\nThe voidworm is immune to polymorph effects unless it is a willing target. If [[Conditions/Blinded|Blinded]] or [[Conditions/Deafened|Deafened]], the voidworm automatically recovers at the end of its next turn as new sensory organs grow to replace the compromised ones.\n\n[[Bestiary Effects/Effect_ Protean Anatomy|Effect: Protean Anatomy]]"
 
 attacks:
   - name: ""
@@ -71,7 +72,7 @@ attacks:
     desc: "DC 16, attack +8; __4th __  _[[Spells/Read Omens|Read Omens]]_; __2nd __  _[[Spells/Blur|Blur (Self only)]]_, _[[Spells/Mist|Mist]]_\n__Cantrips__  __(4th)__ _[[Spells/Figment|Figment]]_, _[[Spells/Light|Light]]_, _[[Spells/Prestidigitation|Prestidigitation]]_\n__Constant__  __(4th)__ _[[Spells/Unfettered Movement|Unfettered Movement]]_"
 
   - name: "[[Bestiary Ability Glossary/Change Shape|Change Shape]]"
-    desc: "`pf2:1` (concentrate,divine,polymorph) The voidworm takes on the appearance of a Tiny animal. This doesn't change their Speed or their attack and damage bonuses with their Strikes but might change the damage type their Strikes deal.\n"
+    desc: "`pf2:1` (concentrate,divine,polymorph) The voidworm takes on the appearance of a Tiny animal. This doesn't change their Speed or their attack and damage bonuses with their Strikes but might change the damage type their Strikes deal.\n\n* * *\n"
 
   - name: "Confounding Lash"
     desc: " (divine,emotion,mental) A creature hit by the voidworm's tail Strike is [[Conditions/Stupefied 1|Stupefied 1]] for 1 round ([[Conditions/Stupefied 1|Stupefied 2]] on a critical hit). A successful DC 16 Will check save negates this effect and grants temporary immunity to confounding lash for 1 minute."

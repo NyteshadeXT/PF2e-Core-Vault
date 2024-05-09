@@ -19,6 +19,7 @@ license: ORC
 columns: 2
 forcecolumns: true
 layout: Basic Pathfinder 2e Layout
+token: [[modules/pf2e-tokens-bestiaries/portraits/humanoid/darklands/xulgath-leader.webp| ]]
 source: "Pathfinder Monster Core"
 name: "Xulgath Leader"
 level: "Creature 3"
@@ -54,7 +55,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "[[Bestiary Ability Glossary/Stench|Stench]]"
-    desc: " (aura,olfactory) 30 feet DC 19 Fortitude check\n"
+    desc: " (aura,olfactory) 30 feet DC 19 Fortitude check\n\n* * *\n"
 
 attacks:
   - name: ""

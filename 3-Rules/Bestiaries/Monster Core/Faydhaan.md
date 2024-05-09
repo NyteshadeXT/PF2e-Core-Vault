@@ -33,7 +33,7 @@ modifier: 16
 perception:
   - name: "Perception"
     desc: "+16; Darkvision, Wavesense (Imprecise) 60 Feet"
-languages: "Common, Thalassic, Muan, Petran, Pyric, Sussuran, Talican"
+languages: "Common, Thalassic, Muan, Petran, Pyric, Sussuran, Talican; Truespeech"
 skills:
   - name: "Skills"
     desc: "Athletics: +19 (+23 to Swim), Crafting: +16, Deception: +18, Diplomacy: +20, Nature: +18, Performance: +20, Society: +16, Stealth: +18"
@@ -56,7 +56,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Turbulent Seas"
-    desc: " (aura,water) 40 feet.\nWater in the aura that is also in the same body of water as the faydhaan is difficult terrain for Swimming creatures. Creatures with the water trait are immune."
+    desc: " (aura,water) 40 feet.\n\nWater in the aura that is also in the same body of water as the faydhaan is difficult terrain for Swimming creatures. Creatures with the water trait are immune."
 
 attacks:
   - name: ""
@@ -74,10 +74,10 @@ attacks:
     desc: "DC 24, attack +12; __7th __  _[[Spells/Interplanar Teleport|Interplanar Teleport (to Astral Plane, Elemental Planes, or the Universe only)]]_; __5th __  _[[Spells/Control Water|Control Water (At Will)]]_, _[[Spells/Hydraulic Torrent|Hydraulic Torrent]]_, _[[Spells/Truespeech|Truespeech (At Will)]]_; __4th __  _[[Spells/Hydraulic Push|Hydraulic Push (At Will)]]_; __2nd __  _[[Spells/Create Water|Create Water (At Will)]]_, _[[Spells/Invisibility|Invisibility (x2)]]_, _[[Spells/Water Breathing|Water Breathing]]_\n__Cantrips__  __(5th)__ _[[Spells/Detect Magic|Detect Magic]]_\n__Constant__  __(5th)__ _[[Spells/Truespeech|Truespeech]]_"
 
   - name: "[[Bestiary Ability Glossary/Change Shape|Change Shape]]"
-    desc: "`pf2:1` (arcane,concentrate,polymorph) The faydhaan transforms into a Small or Medium water elemental, aquatic animal, or humanoid. This doesn't affect their statistics, but it could change the damage type of their Strikes.\n"
+    desc: "`pf2:1` (arcane,concentrate,polymorph) The faydhaan transforms into a Small or Medium water elemental, aquatic animal, or humanoid. This doesn't affect their statistics, but it could change the damage type of their Strikes.\n\n* * *\n"
 
   - name: "Gift of Hospitality"
-    desc: "`pf2:3` (arcane,emotion,mental) The faydhaan gives another willing creature a magical gift or an agreeable conversation. The creature gains a +2 status bonus to Society and Diplomacy checks. A creature can't have more than one gift at a time, and a faydhaan can't grant more than one gift at a time.\nThe gift ends if the target acts hostile, or if the faydhaan renounces the recipient (a single action).\n[[Bestiary Effects/Effect_ Gift of Hospitality|Effect: Gift of Hospitality]]"
+    desc: "`pf2:3` (arcane,emotion,mental) The faydhaan gives another willing creature a magical gift or an agreeable conversation. The creature gains a +2 status bonus to Society and Diplomacy checks. A creature can't have more than one gift at a time, and a faydhaan can't grant more than one gift at a time.\n\nThe gift ends if the target acts hostile, or if the faydhaan renounces the recipient (a single action).\n\n[[Bestiary Effects/Effect_ Gift of Hospitality|Effect: Gift of Hospitality]]"
 
   - name: "Skewer"
     desc: "`pf2:1`  The faydhaan makes a trident Strike, dealing an extra 2d6 persistent bleed damage on a hit (4d6 on a critical hit)."

@@ -19,6 +19,7 @@ license: ORC
 columns: 2
 forcecolumns: true
 layout: Basic Pathfinder 2e Layout
+token: [[modules/pf2e-tokens-bestiaries/portraits/elemental/fire/elemental-inferno.webp| ]]
 source: "Pathfinder Monster Core"
 name: "Elemental Inferno"
 level: "Creature 11"
@@ -74,7 +75,7 @@ attacks:
     desc: "  When the elemental inferno scores a critical hit, its body surges with blue flames, increasing the damage of its intense heat and Inferno Leap by 3d6 until the start of its next turn."
 
   - name: "Inferno Leap"
-    desc: "`pf2:2` (fire) The elemental inferno jumps horizontally and vertically with a maximum height and distance each equal to its Speed. Its intense heat is suppressed until the end of the jump. Instead, at any point during the jump, flames explode from the elemental in a 30-foot emanation, dealing 12d6 fire damage to each creature within the area (DC 30 Reflex check save).\nThe elemental inferno can't Inferno [[Actions/Leap|Leap]] again for 1d4 rounds."
+    desc: "`pf2:2` (fire) The elemental inferno jumps horizontally and vertically with a maximum height and distance each equal to its Speed. Its intense heat is suppressed until the end of the jump. Instead, at any point during the jump, flames explode from the elemental in a 30-foot emanation, dealing 12d6 fire damage to each creature within the area (DC 30 Reflex check save).\n\nThe elemental inferno can't Inferno [[Actions/Leap|Leap]] again for 1d4 rounds."
  
 ```
 

@@ -21,6 +21,7 @@ license: ORC
 columns: 2
 forcecolumns: true
 layout: Basic Pathfinder 2e Layout
+token: [[modules/pf2e-tokens-bestiaries/portraits/fey/nymph/dryad.webp| ]]
 source: "Pathfinder Monster Core"
 name: "Dryad"
 level: "Creature 3"
@@ -72,7 +73,7 @@ attacks:
     desc: "DC 20, attack +12; __5th __  _[[Spells/Nature's Pathway|Nature's Pathway (x2)]]_; __4th __  _[[Spells/Charm|Charm (x3)]]_, _[[Spells/Suggestion|Suggestion]]_; __2nd __  _[[Spells/Entangling Flora|Entangling Flora (At Will)]]_, _[[Spells/One with Plants|One with Plants (At Will, See Tree Meld)]]_\n__Cantrips__  __(2nd)__ _[[Spells/Tangle Vine|Tangle Vine]]_"
 
   - name: "Tree Meld"
-    desc: "`pf2:2`  A [[Spells/One with Plants|One with Plants]] spell cast by a dryad has an unlimited duration.\nIn addition, if the dryad merges with her bonded tree, she can choose to instead enter an extradimensional living space within the tree, and can bring up to two adjacent, willing creatures with her; the spell gains the extradimensional trait. The dryad can still be expelled from this space."
+    desc: "`pf2:2`  A [[Spells/One with Plants|One with Plants]] spell cast by a dryad has an unlimited duration.\n\nIn addition, if the dryad merges with her bonded tree, she can choose to instead enter an extradimensional living space within the tree, and can bring up to two adjacent, willing creatures with her; the spell gains the extradimensional trait. The dryad can still be expelled from this space."
  
 ```
 

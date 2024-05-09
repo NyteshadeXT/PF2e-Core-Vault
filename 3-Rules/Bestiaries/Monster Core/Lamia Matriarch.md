@@ -19,6 +19,7 @@ license: ORC
 columns: 2
 forcecolumns: true
 layout: Basic Pathfinder 2e Layout
+token: [[modules/pf2e-tokens-bestiaries/portraits/humanoid/hybrid/lamia-matriarch.webp| ]]
 source: "Pathfinder Monster Core"
 name: "Lamia Matriarch"
 level: "Creature 8"
@@ -60,16 +61,16 @@ attacks:
     desc: "`pf2:1` Scimitar +19 (forceful, sweep)\n__Damage__  2d6 + 10 slashing"
 
   - name: "Occult Spontaneous Spells"
-    desc: "DC 28, attack +20; __3rd __ (4 slots) _[[Spells/Dispel Magic|Dispel Magic]]_, _[[Spells/Enthrall|Enthrall]]_, _[[Spells/Haste|Haste]]_, _[[Spells/Mind Reading|Mind Reading]]_; __2nd __ (4 slots) _[[Spells/Blur|Blur]]_, _[[Spells/Death Knell|Death Knell]]_, _[[Spells/Illusory Creature|Illusory Creature]]_, _[[Spells/Invisibility|Invisibility]]_; __1st __ (4 slots) _[[Spells/Bless|Bless]]_, _[[Spells/Force Barrage|Force Barrage]]_, _[[Spells/Phantom Pain|Phantom Pain]]_, _[[Spells/Soothe|Soothe]]_\n__Cantrips__  __(3rd)__ _[[Spells/Daze|Daze]]_, _[[Spells/Detect Magic|Detect Magic]]_, _[[Spells/Prestidigitation|Prestidigitation]]_, _[[Spells/Read Aura|Read Aura]]_, _[[Spells/Telekinetic Hand|Telekinetic Hand]]_"
+    desc: "DC 28, attack +20; __3rd __ (4 slots) _[[Spells/Dispel Magic|Dispel Magic]]_, _[[Spells/Enthrall|Enthrall]]_, _[[Spells/Haste|Haste]]_, _[[Spells/Mind Reading|Mind Reading]]_; __2nd __ (4 slots) _[[Spells/Blur|Blur]]_, _[[Spells/Illusory Creature|Illusory Creature]]_, _[[Spells/Invisibility|Invisibility]]_; __1st __ (4 slots) _[[Spells/Bless|Bless]]_, _[[Spells/Force Barrage|Force Barrage]]_, _[[Spells/Phantom Pain|Phantom Pain]]_, _[[Spells/Soothe|Soothe]]_\n__Cantrips__  __(3rd)__ _[[Spells/Daze|Daze]]_, _[[Spells/Detect Magic|Detect Magic]]_, _[[Spells/Prestidigitation|Prestidigitation]]_, _[[Spells/Read Aura|Read Aura]]_, _[[Spells/Telekinetic Hand|Telekinetic Hand]]_"
 
   - name: "Occult Innate Spells"
-    desc: "DC 28, attack +20; __4th __  _[[Spells/Charm|Charm (x3)]]_, _[[Spells/Suggestion|Suggestion (x3)]]_; __3rd __  _[[Spells/Sleep|Sleep]]_; __2nd __  _[[Spells/Illusory Disguise|Illusory Disguise (At Will)]]_, _[[Spells/Illusory Object|Illusory Object (At Will)]]_, _[[Spells/Mirror Image|Mirror Image]]_; __1st __  _[[Spells/Ventriloquism|Ventriloquism (At Will)]]_"
+    desc: "DC 28, attack +20; __4th __  _[[Spells/Charm|Charm (x3)]]_, _[[Spells/Suggestion|Suggestion (x3)]]_; __3rd __  _[[Spells/Sleep|Sleep]]_; __2nd __  _[[Spells/Blur|Blur]]_, _[[Spells/Illusory Disguise|Illusory Disguise (At Will)]]_, _[[Spells/Illusory Object|Illusory Object (At Will)]]_; __1st __  _[[Spells/Ventriloquism|Ventriloquism (At Will)]]_"
 
   - name: "[[Bestiary Ability Glossary/Change Shape|Change Shape]]"
-    desc: "`pf2:1` (concentrate,occult,polymorph) The lamia matriarch can take on the appearance of a Medium humanoid. This doesn't change their Speed or their attack and damage modifiers with their Strikes, but it does prevent them from using their cursed touch. Each lamia matriarch has a fixed humanoid form that resembles their upper torso when in their true form. This is the only humanoid form they can adopt using this ability.\n"
+    desc: "`pf2:1` (concentrate,occult,polymorph) The lamia matriarch can take on the appearance of a Medium humanoid. This doesn't change their Speed or their attack and damage modifiers with their Strikes, but it does prevent them from using their cursed touch. Each lamia matriarch has a fixed humanoid form that resembles their upper torso when in their true form. This is the only humanoid form they can adopt using this ability.\n\n* * *\n"
 
   - name: "Matriarch's Caress"
-    desc: "`pf2:2` (curse,mental,occult) The lamia touches a creature, who must succeed at a DC 28 Will check save or become [[Conditions/Stupefied 1|Stupefied 1]] ([[Conditions/Stupefied 1|Stupefied 2]] on a critical failure). If the target fails additional saves against this ability, the condition value increases by 1 (increases by 2 on a critical failure, to a maximum of [[Conditions/Stupefied 1|Stupefied 4]]). This condition value decreases by 1 every 24 hours."
+    desc: "`pf2:2` (curse,mental,occult) The lamia matriarch touches a creature, who must succeed at a DC 28 Will check save or become [[Conditions/Stupefied 1|Stupefied 2]] ([[Conditions/Stupefied 1|Stupefied 4]] on a critical failure). If the target fails additional saves against this ability, the condition value increases by 1 (increases by 2 on a critical failure, to a maximum of [[Conditions/Stupefied 1|Stupefied 4]]). This condition value decreases by 1 every 24 hours."
 
   - name: "Scimitar Storm"
     desc: "`pf2:3`  The lamia matriarch makes a scimitar attack against each enemy within reach. Each attack counts toward their multiple attack penalty, but the penalty does not increase until after all the attacks. The first enemy they damage is subject to Matriarch's Caress."

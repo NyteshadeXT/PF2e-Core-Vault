@@ -19,6 +19,7 @@ license: ORC
 columns: 2
 forcecolumns: true
 layout: Basic Pathfinder 2e Layout
+token: [[modules/pf2e-tokens-bestiaries/portraits/elemental/fire/elananx.webp| ]]
 source: "Pathfinder Monster Core"
 name: "Elananx"
 level: "Creature 6"
@@ -31,7 +32,7 @@ modifier: 14
 perception:
   - name: "Perception"
     desc: "+14; Darkvision"
-languages: "Fey"
+languages: "Fey; (Can&#x27;t Speak Any Language)"
 skills:
   - name: "Skills"
     desc: "Acrobatics: +14, Athletics: +14, Survival: +14 (+17 to Track)"
@@ -53,7 +54,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Cinder Dispersal"
-    desc: "`pf2:r` (fire,primal) **Frequency** once per day\n**Trigger** The elananx takes damage from a hostile source\n**Effect** The elananx disperses into a cloud of smoke and cinders, filling its space and a 20-foot emanation. While in this form, the elananx can't be attacked or targeted, and it doesn't take up space. Anything inside this cloud is [[Conditions/Concealed|Concealed]], and any creature ending its turn there takes 2d6 fire damage. At the start of its turn, the elananx returns to its normal form in any square the cloud covered. If the elananx Strikes a creature using its first action after returning to its normal form, the target is [[Conditions/Off-Guard|Off-Guard]] and the Strike deals an extra 1d6 fire damage."
+    desc: "`pf2:r` (fire,primal) **Frequency** once per day\n\n**Trigger** The elananx takes damage from a hostile source\n* * *\n\n**Effect** The elananx disperses into a cloud of smoke and cinders, filling its space and a 20-foot emanation. While in this form, the elananx can't be attacked or targeted, and it doesn't take up space. Anything inside this cloud is [[Conditions/Concealed|Concealed]], and any creature ending its turn there takes 2d6 fire damage. At the start of its turn, the elananx returns to its normal form in any square the cloud covered. If the elananx Strikes a creature using its first action after returning to its normal form, the target is [[Conditions/Off-Guard|Off-Guard]] and the Strike deals an extra 1d6 fire damage."
 
 attacks:
   - name: ""

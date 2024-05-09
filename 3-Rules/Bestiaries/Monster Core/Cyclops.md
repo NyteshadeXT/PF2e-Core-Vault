@@ -19,6 +19,7 @@ license: ORC
 columns: 2
 forcecolumns: true
 layout: Basic Pathfinder 2e Layout
+token: [[modules/pf2e-tokens-bestiaries/portraits/humanoid/giant/cyclops.webp| ]]
 source: "Pathfinder Monster Core"
 name: "Cyclops"
 level: "Creature 5"
@@ -57,7 +58,7 @@ abilities_mid:
     desc: "`pf2:r`  "
 
   - name: "Flash of Insight"
-    desc: "`pf2:0` (fortune,occult) **Frequency** once per day.\n**Trigger** The cyclops is about to roll a d20.\n**Effect** The cyclops peers into an occluded spectrum of possible futures. It gets a success (but not a critical success) on the roll instead of rolling."
+    desc: "`pf2:0` (fortune,occult) **Frequency** once per day.\n\n**Trigger** The cyclops is about to roll a d20.\n* * *\n\n**Effect** The cyclops peers into an occluded spectrum of possible futures. It gets a success (but not a critical success) on the roll instead of rolling."
 
 attacks:
   - name: ""
@@ -69,7 +70,7 @@ attacks:
     desc: "`pf2:1` Heavy Crossbow +8 (range increment 120 feet, reload 2)\n__Damage__  1d10 + 4 piercing"
 
   - name: "Swipe"
-    desc: "`pf2:2`  **Frequency** once per round\n**Effect** The cyclops makes a melee Strike and compares the attack roll result to the AC of up to two foes, each of whom must be within their melee reach and adjacent to each other. Roll damage only once and apply it to each creature hit. A Swipe counts as two attacks for the cyclops's multiple attack penalty."
+    desc: "`pf2:2`  **Frequency** once per round\n* * *\n\n**Effect** The cyclops makes a melee Strike and compares the attack roll result to the AC of up to two foes, each of whom must be within their melee reach and adjacent to each other. Roll damage only once and apply it to each creature hit. A Swipe counts as two attacks for the cyclops's multiple attack penalty."
  
 ```
 

@@ -33,7 +33,7 @@ modifier: 25
 perception:
   - name: "Perception"
     desc: "+25; Darkvision, Truesight"
-languages: "Chthonian, Draconic, Empyrean"
+languages: "Chthonian, Draconic, Empyrean; Telepathy 100 feet, Truespeech"
 skills:
   - name: "Skills"
     desc: "Acrobatics: +30, Arcana: +31, Deception: +29, Religion: +27, Stealth: +28"
@@ -56,7 +56,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Blood Healing"
-    desc: " (aura,healing,vitality) 30 feet.\nWhenever a humanoid within the aura takes bleed damage, the blood flows through the air to the seraptis's mouths and the seraptis heals by the same amount."
+    desc: " (aura,healing,vitality) 30 feet.\n\nWhenever a humanoid within the aura takes bleed damage, the blood flows through the air to the seraptis's mouths and the seraptis heals by the same amount."
 
   - name: "Recovery Vulnerability"
     desc: "  When a creature within the seraptis's blood healing aura recovers from persistent damage, the seraptis takes 3d6 mental damage."
@@ -83,10 +83,10 @@ attacks:
     desc: "`pf2:2`  The seraptis makes a Strike with up to four arms, each against a different target and using a claw or scimitar as appropriate. These attacks count toward the seraptis's multiple attack penalty, but the multiple attack penalty doesn't increase until after all the attacks. The seraptis can use Grab following this activity, separately attempting to [[Actions/Grapple|Grapple]] each creature hit by a claw."
 
   - name: "Gnawing Arms"
-    desc: "`pf2:1` (unholy) **Requirements** The seraptis has at least one creature [[Conditions/Grabbed|Grabbed]] or [[Conditions/Restrained|Restrained]]\n**Effect** s The seraptis's arm mouths gnaw on those creatures, dealing each of them 2d6 + 8 piercing damage with a DC 37 Fortitude check save. Creatures that fail the save also take 2d6 persistent bleed damage."
+    desc: "`pf2:1` (unholy) **Requirements** The seraptis has at least one creature [[Conditions/Grabbed|Grabbed]] or [[Conditions/Restrained|Restrained]]\n* * *\n\n**Effect** s The seraptis's arm mouths gnaw on those creatures, dealing each of them 2d6 + 8 piercing damage with a DC 37 Fortitude check save. Creatures that fail the save also take 2d6 persistent bleed damage."
 
   - name: "Isolating Words"
-    desc: "`pf2:1` (curse,linguistic,mental) The seraptis telepathically explains a plausible secret to a creature within 30 feet. That creature must succeed at a DC 37 Will check save or be mentally cut off from those around them for 1 minute (or permanently on a critical failure). The affected creature treats no one as an ally and any speech they hear is warped, encouraging conflict, and negating any linguistic ability from creatures that aren't unholy.\nRegardless of the results of the saving throw, the creature is immune to Isolating Words for 24 hours."
+    desc: "`pf2:1` (curse,linguistic,mental) The seraptis telepathically explains a plausible secret to a creature within 30 feet. That creature must succeed at a DC 37 Will check save or be mentally cut off from those around them for 1 minute (or permanently on a critical failure). The affected creature treats no one as an ally and any speech they hear is warped, encouraging conflict, and negating any linguistic ability from creatures that aren't unholy.\n\nRegardless of the results of the saving throw, the creature is immune to Isolating Words for 24 hours."
 
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
     desc: "`pf2:1`  "

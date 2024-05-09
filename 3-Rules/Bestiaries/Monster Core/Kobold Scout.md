@@ -19,6 +19,7 @@ license: ORC
 columns: 2
 forcecolumns: true
 layout: Basic Pathfinder 2e Layout
+token: [[modules/pf2e-tokens-bestiaries/portraits/humanoid/kobold/kobold-scout.webp| ]]
 source: "Pathfinder Monster Core"
 name: "Kobold Scout"
 level: "Creature 1"
@@ -63,10 +64,10 @@ attacks:
     desc: "`pf2:1` Crossbow +9 (range increment 120 feet, reload 1)\n__Damage__  1d8 piercing"
 
   - name: "Construct Trap"
-    desc: "`pf2:3` (manipulate) The kobold scout creates a rudimentary trap on any square adjacent to it. This must be on a surface, such as a floor, wall, or ceiling. The trap activates the next time a creature moves adjacent to it.\nThe creature takes 1d6 piercing damage and 1 persistent bleed damage with a DC 16 Reflex check save. The trap is destroyed when activated or after 1 hour, whichever comes first.\nThe scout typically carries enough raw materials to make one trap."
+    desc: "`pf2:3` (manipulate) The kobold scout creates a rudimentary trap on any square adjacent to it. This must be on a surface, such as a floor, wall, or ceiling. The trap activates the next time a creature moves adjacent to it.\n\nThe creature takes 1d6 piercing damage and 1 persistent bleed damage with a DC 16 Reflex check save. The trap is destroyed when activated or after 1 hour, whichever comes first.\n\nThe scout typically carries enough raw materials to make one trap."
 
   - name: "Scamper"
-    desc: "`pf2:1`  **Requirements** The kobold scout is adjacent to at least one enemy.\n**Effect** The kobold scout Strides up to its Speed plus 5 feet and gains a +2 circumstance bonus to AC against reactions triggered by this movement. It must end this movement in a space that's not adjacent to any enemy."
+    desc: "`pf2:1`  **Requirements** The kobold scout is adjacent to at least one enemy.\n* * *\n\n**Effect** The kobold scout Strides up to its Speed plus 5 feet and gains a +2 circumstance bonus to AC against reactions triggered by this movement. It must end this movement in a space that's not adjacent to any enemy."
 
   - name: "Sneak Attack"
     desc: "  The kobold scout deals an extra 1d6 precision damage to [[Conditions/Off-Guard|Off-Guard]] creatures."

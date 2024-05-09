@@ -21,6 +21,7 @@ license: ORC
 columns: 2
 forcecolumns: true
 layout: Basic Pathfinder 2e Layout
+token: [[modules/pf2e-tokens-bestiaries/portraits/undead/zombie-shambler.webp| ]]
 source: "Pathfinder Monster Core"
 name: "Zombie Shambler"
 level: "Creature -1"
@@ -35,6 +36,7 @@ modifier: 0
 perception:
   - name: "Perception"
     desc: "+0; Darkvision"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Athletics: +7"

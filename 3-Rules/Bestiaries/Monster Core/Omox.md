@@ -21,6 +21,7 @@ license: ORC
 columns: 2
 forcecolumns: true
 layout: Basic Pathfinder 2e Layout
+token: [[modules/pf2e-tokens-bestiaries/portraits/aberrant/ooze/omox.webp| ]]
 source: "Pathfinder Monster Core"
 name: "Omox"
 level: "Creature 12"
@@ -35,7 +36,7 @@ modifier: 22
 perception:
   - name: "Perception"
     desc: "+22; Darkvision"
-languages: "Chthonian, Draconic, Empyrean"
+languages: "Chthonian, Draconic, Empyrean; Telepathy 100 feet"
 skills:
   - name: "Skills"
     desc: "Acrobatics: +21, Athletics: +23, Religion: +20, Stealth: +24"
@@ -60,7 +61,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Absorb Weapon"
-    desc: "`pf2:r` (concentrate) **Trigger** A creature hits the omox with a melee weapon\n**Effect** The omox attempts to [[Actions/Disarm|Disarm]] the creature. On a critical success, the weapon becomes subsumed within the omox's body rather than falling to the ground. Retrieving the weapon requires Disarming the omox of it."
+    desc: "`pf2:r` (concentrate) **Trigger** A creature hits the omox with a melee weapon\n* * *\n\n**Effect** The omox attempts to [[Actions/Disarm|Disarm]] the creature. On a critical success, the weapon becomes subsumed within the omox's body rather than falling to the ground. Retrieving the weapon requires Disarming the omox of it."
 
 attacks:
   - name: ""
@@ -78,13 +79,13 @@ attacks:
     desc: "_[[Spells/Demonic Pact|Demonic Pact]]_"
 
   - name: "Liquid Leap"
-    desc: "`pf2:2` (concentrate,teleportation) **Requirements** The omox is in a space of liquid.\n**Effect** The omox teleports from its current space to any unoccupied space of liquid within 120 feet."
+    desc: "`pf2:2` (concentrate,teleportation) **Requirements** The omox is in a space of liquid.\n* * *\n\n**Effect** The omox teleports from its current space to any unoccupied space of liquid within 120 feet."
 
   - name: "Slime Trap"
-    desc: "  A creature hit by an omox's slime ball must succeed at a DC 32 Reflex check save or take a –10-foot circumstance penalty to its Speeds for 1 minute or until it [[/act escape dc=35]]{Escapes (DC 35)}. On a critical failure, the creature is also [[Conditions/Clumsy 1|Clumsy 1]] for the same duration.\n[[Bestiary Effects/Effect_ Slime Trap|Effect: Slime Trap]]"
+    desc: "  A creature hit by an omox's slime ball must succeed at a DC 32 Reflex check save or take a –10-foot circumstance penalty to its Speeds for 1 minute or until it [[/act escape dc=35]]{Escapes (DC 35)}. On a critical failure, the creature is also [[Conditions/Clumsy 1|Clumsy 1]] for the same duration.\n\n[[Bestiary Effects/Effect_ Slime Trap|Effect: Slime Trap]]"
 
   - name: "Smother"
-    desc: "`pf2:1`  **Requirements** The omox has a creature [[Conditions/Grabbed|Grabbed]] or [[Conditions/Restrained|Restrained]]\n**Effect** The demon flows over the creature, covering it in oozing acidic slime. The creature must succeed at a DC 32 Fortitude check save or it becomes [[Conditions/Blinded|Blinded]] and must hold its breath or begin suffocating. These effects lasts as long as the omox has the creature grabbed or restrained."
+    desc: "`pf2:1`  **Requirements** The omox has a creature [[Conditions/Grabbed|Grabbed]] or [[Conditions/Restrained|Restrained]]\n* * *\n\n**Effect** The demon flows over the creature, covering it in oozing acidic slime. The creature must succeed at a DC 32 Fortitude check save or it becomes [[Conditions/Blinded|Blinded]] and must hold its breath or begin suffocating. These effects lasts as long as the omox has the creature grabbed or restrained."
 
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
     desc: "`pf2:1`  "

@@ -31,6 +31,7 @@ modifier: 10
 perception:
   - name: "Perception"
     desc: "+10; Wavesense (Precise) 60 Feet"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Athletics: +17, Stealth: +14"
@@ -52,7 +53,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Mirage Spores"
-    desc: " (aura,incapacitation,mental) 120 feet.\nThe sargassum heap constantly produces a field of hallucinogenic spores that causes those affected to see the monster as whatever they desire most. Each creature within the emanation must succeed a DC 22 Will check save or become [[Conditions/Fascinated|Fascinated]] with the sargassum heap and compelled to move toward it on the creature's turn. Creatures fascinated this way are also [[Conditions/Off-Guard|Off-Guard]]. If the sargassum heap attacks, the fascinated condition ends only for the creature that is attacked. On a successful save, a creature is temporarily immune to mirage spores for 24 hours."
+    desc: " (aura,incapacitation,mental) 120 feet.\n\nThe sargassum heap constantly produces a field of hallucinogenic spores that causes those affected to see the monster as whatever they desire most. Each creature within the emanation must succeed a DC 22 Will check save or become [[Conditions/Fascinated|Fascinated]] with the sargassum heap and compelled to move toward it on the creature's turn. Creatures fascinated this way are also [[Conditions/Off-Guard|Off-Guard]]. If the sargassum heap attacks, the fascinated condition ends only for the creature that is attacked. On a successful save, a creature is temporarily immune to mirage spores for 24 hours."
 
 attacks:
   - name: ""
@@ -61,7 +62,7 @@ attacks:
     desc: "`pf2:1` Tendril +17 (reach 10 feet)\n__Damage__  2d8 + 8 bludgeoning plus grab"
 
   - name: "[[Bestiary Ability Glossary/Constrict|Constrict]]"
-    desc: "`pf2:1`  2d8 + 3 bludgeoning, DC 23 Fortitude check\n"
+    desc: "`pf2:1`  2d8 + 3 bludgeoning, DC 23 Fortitude check\n\n* * *\n"
 
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
     desc: "`pf2:1`  "

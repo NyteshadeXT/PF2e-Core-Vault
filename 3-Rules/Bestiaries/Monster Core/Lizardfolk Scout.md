@@ -19,6 +19,7 @@ license: ORC
 columns: 2
 forcecolumns: true
 layout: Basic Pathfinder 2e Layout
+token: [[modules/pf2e-tokens-bestiaries/portraits/humanoid/lizardfolk-scout.webp| ]]
 source: "Pathfinder Monster Core"
 name: "Lizardfolk Scout"
 level: "Creature 1"
@@ -69,7 +70,7 @@ attacks:
     desc: "  A lizardfolk scout can hold their breath for 150 rounds (15 minutes)."
 
   - name: "Giant Centipede Venom"
-    desc: " (poison) **Saving Throw** DC 14 Fortitude check\n**Maximum Duration** 6 rounds\n**Stage 1** 1d4 poison damage (1 round)\n**Stage 2** 1d4 poison damage and [[Conditions/Off-Guard|Off-Guard]] (1 round)\n**Stage 3** 1d4 poison damage, [[Conditions/Clumsy 1|Clumsy 1]], and [[Conditions/Fatigued|Fatigued]] (1 round)"
+    desc: " (poison) **Saving Throw** DC 14 Fortitude check\n* * *\n\n**Maximum Duration** 6 rounds\n\n**Stage 1** 1d4 poison damage (1 round)\n\n**Stage 2** 1d4 poison damage and [[Conditions/Off-Guard|Off-Guard]] (1 round)\n\n**Stage 3** 1d4 poison damage, [[Conditions/Clumsy 1|Clumsy 1]], and [[Conditions/Fatigued|Fatigued]] (1 round)"
 
   - name: "Hidden Movement"
     desc: "  If the lizardfolk scout starts its turn [[Conditions/Hidden|Hidden]] from or undetected by a creature, that creature is [[Conditions/Off-Guard|Off-Guard]] against the scout's attacks until the end of the turn."

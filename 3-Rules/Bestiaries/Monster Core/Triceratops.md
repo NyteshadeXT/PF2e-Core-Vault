@@ -19,6 +19,7 @@ license: ORC
 columns: 2
 forcecolumns: true
 layout: Basic Pathfinder 2e Layout
+token: [[modules/pf2e-tokens-bestiaries/portraits/bestial/reptilian/triceratops.webp| ]]
 source: "Pathfinder Monster Core"
 name: "Triceratops"
 level: "Creature 8"
@@ -31,6 +32,7 @@ modifier: 16
 perception:
   - name: "Perception"
     desc: "+16; Low-Light Vision, Scent (Imprecise) 30 Feet"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Athletics: +21"
@@ -52,7 +54,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Frill Defense"
-    desc: "`pf2:r`  **Trigger** The rider is targeted with an attack.\n**Requirements** A creature must be mounted on the triceratops.\n**Effect** The triceratops intercepts the attack with its bony frill. The rider gains a +2 circumstance bonus to its AC against the triggering attack."
+    desc: "`pf2:r`  **Trigger** The rider is targeted with an attack.\n\n**Requirements** A creature must be mounted on the triceratops.\n* * *\n\n**Effect** The triceratops intercepts the attack with its bony frill. The rider gains a +2 circumstance bonus to its AC against the triggering attack."
 
 attacks:
   - name: ""
@@ -67,7 +69,7 @@ attacks:
     desc: "`pf2:1`  The triceratops Strides up to 10 feet and then makes a Strike."
 
   - name: "[[Bestiary Ability Glossary/Trample|Trample]]"
-    desc: "`pf2:3`  Large or smaller, foot, DC 26 Reflex check\n"
+    desc: "`pf2:3`  Large or smaller, foot, DC 26 Reflex check\n\n* * *\n"
 
   - name: "Vicious Gore"
     desc: "  A triceratops deals 2d6 extra persistent bleed damage to [[Conditions/Prone|Prone]] targets it hits with its horns."

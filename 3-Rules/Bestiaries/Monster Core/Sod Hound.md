@@ -19,6 +19,7 @@ license: ORC
 columns: 2
 forcecolumns: true
 layout: Basic Pathfinder 2e Layout
+token: [[modules/pf2e-tokens-bestiaries/portraits/elemental/earth/sod-hound.webp| ]]
 source: "Pathfinder Monster Core"
 name: "Sod Hound"
 level: "Creature 3"
@@ -31,6 +32,7 @@ modifier: 9
 perception:
   - name: "Perception"
     desc: "+9; Darkvision"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Athletics: +11, Survival: +9 (+11 to Track)"

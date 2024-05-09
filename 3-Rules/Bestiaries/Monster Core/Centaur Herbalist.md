@@ -20,6 +20,7 @@ license: ORC
 columns: 2
 forcecolumns: true
 layout: Basic Pathfinder 2e Layout
+token: [[modules/pf2e-tokens-bestiaries/portraits/humanoid/hybrid/centaur.webp| ]]
 source: "Pathfinder Monster Core"
 name: "Centaur Herbalist"
 level: "Creature 3"
@@ -65,10 +66,10 @@ attacks:
     desc: "`pf2:1` Sling +8 (propulsive, range increment 50 feet, reload 1)\n__Damage__  1d6 + 1 bludgeoning"
 
   - name: "Load Sachet"
-    desc: "`pf2:1`  **Requirements** The centaur herbalist has at least one herbal sachet;\n**Effect** The centaur herbalist Interacts to load an herbal sachet in her sling. The next ranged Strike she makes with her sling deals an additional 1d6 poison damage."
+    desc: "`pf2:1`  **Requirements** The centaur herbalist has at least one herbal sachet;\n* * *\n\n**Effect** The centaur herbalist Interacts to load an herbal sachet in her sling. The next ranged Strike she makes with her sling deals an additional 1d6 poison damage."
 
   - name: "[[Bestiary Ability Glossary/Trample|Trample]]"
-    desc: "`pf2:3`  Medium or smaller, hoof, DC 18 Reflex check\n"
+    desc: "`pf2:3`  Medium or smaller, hoof, DC 18 Reflex check\n\n* * *\n"
  
 ```
 

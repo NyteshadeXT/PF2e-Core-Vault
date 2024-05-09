@@ -18,6 +18,7 @@ license: ORC
 columns: 2
 forcecolumns: true
 layout: Basic Pathfinder 2e Layout
+token: [[modules/pf2e-tokens-bestiaries/portraits/bestial/mammalian/hyaenodon.webp| ]]
 source: "Pathfinder Monster Core"
 name: "Hyaenodon"
 level: "Creature 3"
@@ -29,6 +30,7 @@ modifier: 9
 perception:
   - name: "Perception"
     desc: "+9; Low-Light Vision, Scent (Imprecise) 30 Feet"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Acrobatics: +8, Athletics: +12, Stealth: +8"
@@ -65,7 +67,7 @@ attacks:
     desc: "  The hyaenodon deals an extra 1d6 damage to any creature within reach of at least two of the hyaenodon's allies."
 
   - name: "Knockdown"
-    desc: "`pf2:1`  **Requirements** The monster's last action was a successful Strike that lists Knockdown in its damage entry\n**Effect** The monster attempts to [[Actions/Trip|Trip]] the creature. This attempt neither applies nor counts toward the monster's multiple attack penalty."
+    desc: "`pf2:1`  **Requirements** The monster's last action was a successful Strike that lists Knockdown in its damage entry\n* * *\n\n**Effect** The monster attempts to [[Actions/Trip|Trip]] the creature. This attempt neither applies nor counts toward the monster's multiple attack penalty."
  
 ```
 

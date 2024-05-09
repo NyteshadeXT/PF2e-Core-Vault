@@ -33,7 +33,7 @@ modifier: 11
 perception:
   - name: "Perception"
     desc: "+11; Darkvision"
-languages: "Diabolic, Draconic, Empyrean, Utopian"
+languages: "Diabolic, Draconic, Empyrean, Utopian; Truespeech"
 skills:
   - name: "Skills"
     desc: "Acrobatics: +12, Intimidation: +11, Nature: +11, Religion: +9, Stealth: +10, Survival: +11 (+15 to Track)"
@@ -56,7 +56,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Archon's Protection"
-    desc: "`pf2:r`  **Trigger** An enemy damages the archon's ally and both are within 15 feet of the archon\n**Effect** The ally gains resistance 5 to all damage against the triggering damage and the archon can make a Strike against the enemy."
+    desc: "`pf2:r`  **Trigger** An enemy damages the archon's ally and both are within 15 feet of the archon\n* * *\n\n**Effect** The ally gains resistance 5 to all damage against the triggering damage and the archon can make a Strike against the enemy."
 
 attacks:
   - name: ""
@@ -71,7 +71,7 @@ attacks:
     desc: "DC 21, attack +13; __4th __  _[[Spells/Translocate|Translocate (x3)]]_; __2nd __  _[[Spells/Animal Messenger|Animal Messenger (x3)]]_; __1st __  _[[Spells/Charm|Charm (Animals Only) (x3)]]_, _[[Spells/Sure Strike|Sure Strike (x3)]]_\n__Cantrips__  __(2nd)__ _[[Spells/Light|Light]]_\n__Constant__  __(5th)__ _[[Spells/Truespeech|Truespeech]]_"
 
   - name: "Archon’s Pursuit"
-    desc: "`pf2:2`  **Frequency** once per day\n**Requirements** The qarna saw another creature teleport within the last round and has at least one [[Spells/Translocate|Translocate]] spell remaining\n**Effect** The qarna casts one of their _translocate_ spells, which is heightened to 5th rank and causes the qarna to arrive in an unoccupied space it chooses within 30 feet of the creature it's pursuing. If the creature is too far away, the qarna arrives as close as possible."
+    desc: "`pf2:2`  **Frequency** once per day\n\n**Requirements** The qarna saw another creature teleport within the last round and has at least one [[Spells/Translocate|Translocate]] spell remaining\n* * *\n\n**Effect** The qarna casts one of their _translocate_ spells, which is heightened to 5th rank and causes the qarna to arrive in an unoccupied space it chooses within 30 feet of the creature it's pursuing. If the creature is too far away, the qarna arrives as close as possible."
 
   - name: "Distracting Arrow"
     desc: "`pf2:1` (divine,mental) The qarna makes a composite longbow Strike. If it hits, the arrow lodges in the target and that creature's senses focus on the archon, leaving all else blurry. That creature takes a –2 status penalty to attack rolls and Perception checks against any target other than the qarna. The creature can Interact to remove the arrow, which ends the effect."

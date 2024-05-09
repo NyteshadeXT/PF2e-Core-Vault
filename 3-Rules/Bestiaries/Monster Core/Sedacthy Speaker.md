@@ -33,7 +33,7 @@ modifier: 15
 perception:
   - name: "Perception"
     desc: "+15; Darkvision, Wavesense (Imprecise) 30 Feet"
-languages: "Thalassic"
+languages: "Thalassic; Sea Speech"
 skills:
   - name: "Skills"
     desc: "Athletics: +16, Crafting: +14, Diplomacy: +13, Intimidation: +15, Nature: +15"
@@ -59,7 +59,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Speaker's Privilege"
-    desc: "`pf2:r`  **Trigger** The sedacthy speaker takes damage\n**Requirements** The sedacthy speaker has cover from an animal ally\n**Effect** The animal takes the damage instead."
+    desc: "`pf2:r`  **Trigger** The sedacthy speaker takes damage\n\n**Requirements** The sedacthy speaker has cover from an animal ally\n* * *\n\n**Effect** The animal takes the damage instead."
 
 attacks:
   - name: ""
@@ -77,7 +77,7 @@ attacks:
     desc: "`pf2:1` Trident +14 (magical, thrown 20 ft.)\n__Damage__  1d8 + 8 piercing"
 
   - name: "Animal Shield"
-    desc: "`pf2:1`  **Requirements** The sedacthy speaker is adjacent to a Large or larger animal ally\n**Effect** The speaker gains cover until the start of their next turn or when they're no longer adjacent to the animal, whichever comes first."
+    desc: "`pf2:1`  **Requirements** The sedacthy speaker is adjacent to a Large or larger animal ally\n* * *\n\n**Effect** The speaker gains cover until the start of their next turn or when they're no longer adjacent to the animal, whichever comes first."
 
   - name: "Exploit Weakness"
     desc: "  The speaker's Strikes deal 1d6 additional damage to creatures that are [[Conditions/Frightened 1|Frightened]] or [[Conditions/Sickened 1|Sickened]]."
@@ -89,7 +89,7 @@ attacks:
     desc: "`pf2:2`  The sedacthy makes a jaws Strike. If it hits, an ally of their choice can spend a reaction to make a jaws Strike against the same target. Allies with beaks or similar attacks can use those instead of jaws."
 
   - name: "Swim Together"
-    desc: "`pf2:2`  **Requirements** The speaker is adjacent to an animal ally\n**Effect** The speaker and the animal both Swim, ending their movement adjacent to one another."
+    desc: "`pf2:2`  **Requirements** The speaker is adjacent to an animal ally\n* * *\n\n**Effect** The speaker and the animal both Swim, ending their movement adjacent to one another."
  
 ```
 

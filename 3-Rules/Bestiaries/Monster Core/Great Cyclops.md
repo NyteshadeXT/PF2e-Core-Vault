@@ -20,6 +20,7 @@ license: ORC
 columns: 2
 forcecolumns: true
 layout: Basic Pathfinder 2e Layout
+token: [[modules/pf2e-tokens-bestiaries/portraits/humanoid/giant/cyclops-great.webp| ]]
 source: "Pathfinder Monster Core"
 name: "Great Cyclops"
 level: "Creature 12"
@@ -59,7 +60,7 @@ abilities_mid:
     desc: "`pf2:r`  "
 
   - name: "Flash of Brutality"
-    desc: "`pf2:0` (fortune,occult) **Frequency** once per day, and recharges when the great cyclops uses Ferocity.\n**Trigger** The great cyclops succeeds at an attack roll.\n**Effect** The attack becomes a critical success."
+    desc: "`pf2:0` (fortune,occult) **Frequency** once per day, and recharges when the great cyclops uses Ferocity.\n\n**Trigger** The great cyclops succeeds at an attack roll.\n* * *\n\n**Effect** The attack becomes a critical success."
 
 attacks:
   - name: ""

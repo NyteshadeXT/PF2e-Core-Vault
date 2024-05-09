@@ -51,7 +51,7 @@ abilities_top:
   - name: ""
 
   - name: "[[Bestiary Ability Glossary/Coven|Coven]]"
-    desc: " (mental,occult) An iron hag adds [[Spells/Earthbind|Earthbind]], [[Spells/Impaling Spike|Impaling Spike]], and [[Spells/Spellwrack|Spellwrack]] to their coven's spells. Their spell DC when leading a coven is 24.\n"
+    desc: " (mental,occult) An iron hag adds [[Spells/Earthbind|Earthbind]], [[Spells/Impaling Spike|Impaling Spike]], and [[Spells/Spellwrack|Spellwrack]] to their coven's spells. Their spell DC when leading a coven is 24.\n\n* * *\n"
 
 abilities_mid:
   - name: ""
@@ -71,13 +71,13 @@ attacks:
     desc: "_[[Spells/Control Weather|Control Weather]]_"
 
   - name: "Bonds of Iron"
-    desc: "`pf2:2` (attack,occult) **Frequency** once per day\n**Effect** The hag causes a cage built of cold iron fingernails to spring out of nothingness around one creature within 30 feet, attempting an Athletics check check to [[Actions/Grapple|Grapple]] against the target's Fortitude DC; if the target has a weakness to cold iron, the iron hag gains a +2 circumstance bonus to this check.\nOn a success, the creature is [[Conditions/Grabbed|Grabbed]] by the magical fingernails (or [[Conditions/Restrained|Restrained]] on a critical success). If the creature successfully [[/act escape dc=24]]{Escapes (DC 24)}, the cage crumbles into rust.\nAny creature can attempt to destroy the cage by attacking it. It has an AC of 19, Hardness 10, and 40 Hit Points."
+    desc: "`pf2:2` (attack,occult) **Frequency** once per day\n* * *\n\n**Effect** The hag causes a cage built of cold iron fingernails to spring out of nothingness around one creature within 30 feet, attempting an Athletics check check to [[Actions/Grapple|Grapple]] against the target's Fortitude DC; if the target has a weakness to cold iron, the iron hag gains a +2 circumstance bonus to this check.\n\nOn a success, the creature is [[Conditions/Grabbed|Grabbed]] by the magical fingernails (or [[Conditions/Restrained|Restrained]] on a critical success). If the creature successfully [[/act escape dc=24]]{Escapes (DC 24)}, the cage crumbles into rust.\n\nAny creature can attempt to destroy the cage by attacking it. It has an AC of 19, Hardness 10, and 40 Hit Points."
 
   - name: "[[Bestiary Ability Glossary/Change Shape|Change Shape]]"
-    desc: "`pf2:1` (concentrate,occult,polymorph) The iron hag can take on the appearance of any Medium female humanoid. This doesn't change their Speed or their attack and damage bonuses with their Strikes but might change the damage type their Strikes deal (typically to bludgeoning).\n"
+    desc: "`pf2:1` (concentrate,occult,polymorph) The iron hag can take on the appearance of any Medium female humanoid. This doesn't change their Speed or their attack and damage bonuses with their Strikes but might change the damage type their Strikes deal (typically to bludgeoning).\n\n* * *\n"
 
   - name: "Embrace of Iron"
-    desc: "`pf2:1`  **Requirements** A creature is [[Conditions/Grabbed|Grabbed]] or [[Conditions/Restrained|Restrained]] by the iron hag's claw\n**Effect** The hag's nails tear into their captured victim, dealing 2d8 piercing damage (the nails are cold iron). Then the hag can attempt to [[Actions/Reposition|Reposition]] the creature. If the creature is adjacent to the hag, they can then attempt a jaws Strike against it."
+    desc: "`pf2:1`  **Requirements** A creature is [[Conditions/Grabbed|Grabbed]] or [[Conditions/Restrained|Restrained]] by the iron hag's claw\n* * *\n\n**Effect** The hag's nails tear into their captured victim, dealing 2d8 piercing damage (the nails are cold iron). Then the hag can attempt to [[Actions/Reposition|Reposition]] the creature. If the creature is adjacent to the hag, they can then attempt a jaws Strike against it."
 
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
     desc: "`pf2:1`  "

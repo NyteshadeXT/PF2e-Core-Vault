@@ -19,6 +19,7 @@ license: ORC
 columns: 2
 forcecolumns: true
 layout: Basic Pathfinder 2e Layout
+token: [[modules/pf2e-tokens-bestiaries/portraits/elemental/earth/living-landslide.webp| ]]
 source: "Pathfinder Monster Core"
 name: "Living Landslide"
 level: "Creature 5"
@@ -56,7 +57,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Crumble"
-    desc: "`pf2:r`  **Trigger** The living landslide takes damage from a hostile source while atop rock or earth\n**Effect** The living landslide crumbles into the ground, Burrowing down 10 feet. This Burrowing does not trigger reactions.\nThe living landslide can't Crumble again for 1d4 rounds."
+    desc: "`pf2:r`  **Trigger** The living landslide takes damage from a hostile source while atop rock or earth\n* * *\n\n**Effect** The living landslide crumbles into the ground, Burrowing down 10 feet. This Burrowing does not trigger reactions.\n\nThe living landslide can't Crumble again for 1d4 rounds."
 
 attacks:
   - name: ""

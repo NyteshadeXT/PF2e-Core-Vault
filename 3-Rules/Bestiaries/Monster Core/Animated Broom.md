@@ -19,6 +19,7 @@ license: ORC
 columns: 2
 forcecolumns: true
 layout: Basic Pathfinder 2e Layout
+token: [[modules/pf2e-tokens-bestiaries/portraits/constructed/magical/animated-broom.webp| ]]
 source: "Pathfinder Monster Core"
 name: "Animated Broom"
 level: "Creature -1"
@@ -31,6 +32,7 @@ modifier: 3
 perception:
   - name: "Perception"
     desc: "+3; Darkvision"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Athletics: +5"
@@ -61,7 +63,7 @@ attacks:
     desc: "`pf2:1` Bristles +6 (agile, finesse, magical)\n__Damage__  1d4 bludgeoning plus dust"
 
   - name: "Dust"
-    desc: "  A creature hit by an animated broom's bristles must succeed at a DC 15 Fortitude check save or spend its next action coughing. Even if hit by multiple dust attacks, the creature has to spend only 1 action coughing to clear the dust out.\nA creature that doesn't breathe is immune to this effect."
+    desc: "  A creature hit by an animated broom's bristles must succeed at a DC 15 Fortitude check save or spend its next action coughing. Even if hit by multiple dust attacks, the creature has to spend only 1 action coughing to clear the dust out.\n\nA creature that doesn't breathe is immune to this effect."
  
 ```
 

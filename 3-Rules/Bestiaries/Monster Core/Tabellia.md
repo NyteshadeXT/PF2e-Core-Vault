@@ -20,6 +20,7 @@ license: ORC
 columns: 2
 forcecolumns: true
 layout: Basic Pathfinder 2e Layout
+token: [[modules/pf2e-tokens-bestiaries/portraits/divine/angel/astral-deva.webp| ]]
 source: "Pathfinder Monster Core"
 name: "Tabellia"
 level: "Creature 14"
@@ -33,7 +34,7 @@ modifier: 26
 perception:
   - name: "Perception"
     desc: "+26; Darkvision"
-languages: "Diabolic, Draconic, Empyrean"
+languages: "Diabolic, Draconic, Empyrean; Truespeech"
 skills:
   - name: "Skills"
     desc: "Acrobatics: +24, Diplomacy: +26, Intimidation: +28, Religion: +24"
@@ -59,7 +60,7 @@ abilities_mid:
     desc: " (divine) An tabellia with a message to deliver is continually protected by the effect of [[Spells/Sanctuary|Sanctuary]] (DC 32 Will check). If the angel breaks the _sanctuary_, the effect returns if the angel ceases hostility for 10 minutes."
 
   - name: "Traveler's Aura"
-    desc: " (aura,divine) 20 feet.\nCreatures in the tabellia's aura are immune to ambient environmental damage from any plane, including severe and extreme heat and cold as well as more otherworldly dangers. The tabellia is never [[Conditions/Off-Guard|Off-Guard]] to creatures within their aura."
+    desc: " (aura,divine) 20 feet.\n\nCreatures in the tabellia's aura are immune to ambient environmental damage from any plane, including severe and extreme heat and cold as well as more otherworldly dangers. The tabellia is never [[Conditions/Off-Guard|Off-Guard]] to creatures within their aura."
 
 attacks:
   - name: ""
@@ -74,7 +75,7 @@ attacks:
     desc: "_[[Spells/Angelic Messenger|Angelic Messenger]]_"
 
   - name: "Stunning Strike"
-    desc: "`pf2:1`  **Requirements** The tabellia hit a foe earlier this turn with a weapon Strike\n**Effect** The tabellia makes a weapon Strike against the foe. On a success, the foe must also succeed at a DC 34 Fortitude check save or become [[Conditions/Stunned 1|Stunned 1]] (or [[Conditions/Stunned 1|Stunned 2]] on a critical failure)."
+    desc: "`pf2:1`  **Requirements** The tabellia hit a foe earlier this turn with a weapon Strike\n* * *\n\n**Effect** The tabellia makes a weapon Strike against the foe. On a success, the foe must also succeed at a DC 34 Fortitude check save or become [[Conditions/Stunned 1|Stunned 1]] (or [[Conditions/Stunned 1|Stunned 2]] on a critical failure)."
  
 ```
 

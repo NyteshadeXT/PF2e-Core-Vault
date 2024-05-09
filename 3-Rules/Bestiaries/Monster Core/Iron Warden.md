@@ -19,6 +19,7 @@ license: ORC
 columns: 2
 forcecolumns: true
 layout: Basic Pathfinder 2e Layout
+token: [[modules/pf2e-tokens-bestiaries/portraits/constructed/golem/iron-golem.webp| ]]
 source: "Pathfinder Monster Core"
 name: "Iron Warden"
 level: "Creature 13"
@@ -31,6 +32,7 @@ modifier: 21
 perception:
   - name: "Perception"
     desc: "+21; Darkvision"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Athletics: +30"
@@ -65,13 +67,13 @@ attacks:
     desc: "`pf2:1` Fist +28 (magical, reach 10 feet)\n__Damage__  3d10 + 12 bludgeoning"
 
   - name: "Breath Poison"
-    desc: "`pf2:2` (arcane,poison) The iron warden exhales poisonous gas in a 10-foot burst centered on the corner of one of the iron warden's squares. The gas persists until the start of the warden's next turn. Any creature in the area (or that later enters the area) is exposed to the iron warden's poison.\nThe warden can't Breathe Poison again for 1d4 rounds."
+    desc: "`pf2:2` (arcane,poison) The iron warden exhales poisonous gas in a 10-foot burst centered on the corner of one of the iron warden's squares. The gas persists until the start of the warden's next turn. Any creature in the area (or that later enters the area) is exposed to the iron warden's poison.\n\nThe warden can't Breathe Poison again for 1d4 rounds."
 
   - name: "Inexorable March"
     desc: "`pf2:1`  The iron warden Strides up to its Speed, pushing back each creature whose space it moves into and damaging them if they try to stop its movement. A creature can attempt to bar the way by succeeding at a DC 37 Fortitude check save. On a critical success, the resisting creature takes no damage; otherwise, it's damaged as if hit by the iron warden's fist."
 
   - name: "Iron Warden Poison"
-    desc: " (poison) Any drained value from this poison is reduced by 1 every hour\n**Saving Throw** DC 33 Fortitude check;\n**Maximum Duration** 4 rounds\n**Stage 1** 2d6 poison and [[Conditions/Drained 1|Drained 1]] (1 round)\n**Stage 2** 4d6 poison and [[Conditions/Drained 1|Drained 2]] (1 round)\n**Stage 3** 8d6 poison and [[Conditions/Drained 1|Drained 3]] (1 round)"
+    desc: " (poison) Any drained value from this poison is reduced by 1 every hour\n\n**Saving Throw** DC 33 Fortitude check;\n\n**Maximum Duration** 4 rounds\n* * *\n\n**Stage 1** 2d6 poison and [[Conditions/Drained 1|Drained 1]] (1 round)\n\n**Stage 2** 4d6 poison and [[Conditions/Drained 1|Drained 2]] (1 round)\n\n**Stage 3** 8d6 poison and [[Conditions/Drained 1|Drained 3]] (1 round)"
  
 ```
 

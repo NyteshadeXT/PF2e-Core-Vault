@@ -20,6 +20,7 @@ license: ORC
 columns: 2
 forcecolumns: true
 layout: Basic Pathfinder 2e Layout
+token: [[modules/pf2e-tokens-bestiaries/portraits/humanoid/darklands/aapoph-serpentfolk.webp| ]]
 source: "Pathfinder Monster Core"
 name: "Aapoph Serpentfolk"
 level: "Creature 3"
@@ -33,7 +34,7 @@ modifier: 8
 perception:
   - name: "Perception"
     desc: "+8; Darkvision, Scent (Imprecise) 30 Feet"
-languages: "Aklo, Sakvroth"
+languages: "Aklo, Sakvroth; Telepathy 100 feet"
 skills:
   - name: "Skills"
     desc: "Acrobatics: +7, Athletics: +11, Intimidation: +6"
@@ -71,7 +72,7 @@ attacks:
     desc: "`pf2:1` Tail +11 (agile)\n__Damage__  1d6 + 6 bludgeoning plus knockdown"
 
   - name: "Serpentfolk Venom"
-    desc: " (poison) **Saving Throw** DC 20 Fortitude check\n**Maximum Duration** 6 rounds\n**Stage 1** 1d4 poison damage and [[Conditions/Enfeebled 1|Enfeebled 1]] (1 round)\n**Stage 2** 2d4 poison damage and enfeebled 1 (1 round)"
+    desc: " (poison) **Saving Throw** DC 20 Fortitude check\n* * *\n\n**Maximum Duration** 6 rounds\n\n**Stage 1** 1d4 poison damage and [[Conditions/Enfeebled 1|Enfeebled 1]] (1 round)\n\n**Stage 2** 2d4 poison damage and enfeebled 1 (1 round)"
 
   - name: "Slithering Attack"
     desc: "`pf2:1`  The aapoph serpentfolk makes one scimitar or fangs Strike and one tail Strike, each targeting a different creature. These attacks both count toward the aapoph's multiple attack penalty, but the penalty doesn't increase until after the aapoph makes both attacks."

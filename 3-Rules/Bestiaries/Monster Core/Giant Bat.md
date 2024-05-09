@@ -18,6 +18,7 @@ license: ORC
 columns: 2
 forcecolumns: true
 layout: Basic Pathfinder 2e Layout
+token: [[modules/pf2e-tokens-bestiaries/portraits/bestial/mammalian/bat-giant.webp| ]]
 source: "Pathfinder Monster Core"
 name: "Giant Bat"
 level: "Creature 2"
@@ -29,6 +30,7 @@ modifier: 11
 perception:
   - name: "Perception"
     desc: "+11; Echolocation 40 Feet, Low-Light Vision"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Acrobatics: +8, Athletics: +8, Stealth: +8"
@@ -53,7 +55,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Wing Thrash"
-    desc: "`pf2:r`  **Trigger** An adjacent enemy damages the giant bat\n**Effect** The bat makes one or two wing Strikes—one against the triggering creature and one against another adjacent creature."
+    desc: "`pf2:r`  **Trigger** An adjacent enemy damages the giant bat\n* * *\n\n**Effect** The bat makes one or two wing Strikes—one against the triggering creature and one against another adjacent creature."
 
 attacks:
   - name: ""

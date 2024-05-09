@@ -31,6 +31,7 @@ modifier: 7
 perception:
   - name: "Perception"
     desc: "+7; Motion Sense (Precise) 60 Feet"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Athletics: +13"

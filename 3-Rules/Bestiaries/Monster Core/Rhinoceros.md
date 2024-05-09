@@ -18,6 +18,7 @@ license: ORC
 columns: 2
 forcecolumns: true
 layout: Basic Pathfinder 2e Layout
+token: [[modules/pf2e-tokens-bestiaries/portraits/bestial/mammalian/rhinoceros.webp| ]]
 source: "Pathfinder Monster Core"
 name: "Rhinoceros"
 level: "Creature 4"
@@ -29,6 +30,7 @@ modifier: 9
 perception:
   - name: "Perception"
     desc: "+9; Scent (Imprecise) 30 Feet"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Athletics: +12, Survival: +10"
@@ -62,7 +64,7 @@ attacks:
     desc: "`pf2:2`  The rhinoceros Strides twice, then makes a horn Strike. As long as the rhinoceros moved at least 20 feet, the Strike's damage increases to 3d8 + 6 piercing damage. A Medium or smaller creature struck by this attack must succeed at a DC 21 Reflex check save or be automatically [[Actions/Shove|Shoved]] back 5 feet and knocked [[Conditions/Prone|Prone]] by the force of the blow."
 
   - name: "[[Bestiary Ability Glossary/Trample|Trample]]"
-    desc: "`pf2:3`  Medium or smaller, DC 18 Reflex check\n"
+    desc: "`pf2:3`  Medium or smaller, DC 18 Reflex check\n\n* * *\n"
  
 ```
 

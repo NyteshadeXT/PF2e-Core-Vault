@@ -20,6 +20,7 @@ license: ORC
 columns: 2
 forcecolumns: true
 layout: Basic Pathfinder 2e Layout
+token: [[modules/pf2e-tokens-bestiaries/portraits/elemental/water/brine-shark.webp| ]]
 source: "Pathfinder Monster Core"
 name: "Brine Shark"
 level: "Creature 3"
@@ -33,6 +34,7 @@ modifier: 8
 perception:
   - name: "Perception"
     desc: "+8; Darkvision"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Athletics: +10, Stealth: +11, Survival: +8"

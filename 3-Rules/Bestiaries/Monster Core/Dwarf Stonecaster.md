@@ -63,7 +63,7 @@ attacks:
     desc: "`pf2:1` Clan Dagger +12 (agile, parry, versatile b)\n__Damage__  1d4 + 4 piercing"
 
   - name: "Boulder Roll"
-    desc: "`pf2:2` (earth,primal) The stonecaster conjures a rolling boulder that deals 5d6 bludgeoning damage to each creature in a 60-foot line with a DC 21 Reflex check save.\nThe stonecaster can't use Boulder Roll again for 1d4 rounds."
+    desc: "`pf2:2` (earth,primal) The stonecaster conjures a rolling boulder that deals 5d6 bludgeoning damage to each creature in a 60-foot line with a DC 21 Reflex check save.\n\nThe stonecaster can't use Boulder Roll again for 1d4 rounds."
 
   - name: "Dwarven Doughtiness"
     desc: "  A dwarf is often calm and collected in the face of imminent danger. At the end of this dwarf's turn, reduce their frightened condition by 2 instead of 1."

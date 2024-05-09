@@ -19,6 +19,7 @@ license: ORC
 columns: 2
 forcecolumns: true
 layout: Basic Pathfinder 2e Layout
+token: [[modules/pf2e-tokens-bestiaries/portraits/bestial/reptilian/velociraptor.webp| ]]
 source: "Pathfinder Monster Core"
 name: "Velociraptor"
 level: "Creature 1"
@@ -31,6 +32,7 @@ modifier: 6
 perception:
   - name: "Perception"
     desc: "+6; Low-Light Vision, Scent (Imprecise) 30 Feet"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Acrobatics: +8, Athletics: +5 (+8 jumping), Stealth: +6"

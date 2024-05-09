@@ -19,6 +19,7 @@ license: ORC
 columns: 2
 forcecolumns: true
 layout: Basic Pathfinder 2e Layout
+token: [[modules/pf2e-tokens-bestiaries/portraits/humanoid/darklands/caligni-creeper.webp| ]]
 source: "Pathfinder Monster Core"
 name: "Caligni Skulker"
 level: "Creature 2"
@@ -54,7 +55,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Final Night"
-    desc: " (darkness,occult) When the caligni skulker dies, their remains dissolve into a 20-foot emanation of inky darkness before dissipating. The darkness extinguishes non-magical light sources and attempts to counteract magical light as a 1st-rank effect with a +10 counteract modifier.\nThe skulker's possessions are left in a pile where they died."
+    desc: " (darkness,occult) When the caligni skulker dies, their remains dissolve into a 20-foot emanation of inky darkness before dissipating. The darkness extinguishes non-magical light sources and attempts to counteract magical light as a 1st-rank effect with a +10 counteract modifier.\n\nThe skulker's possessions are left in a pile where they died."
 
 attacks:
   - name: ""

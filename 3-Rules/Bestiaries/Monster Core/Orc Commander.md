@@ -72,7 +72,7 @@ attacks:
     desc: "`pf2:1` Javelin +8 (thrown 30 ft.)\n__Damage__  1d6 + 4 piercing"
 
   - name: "Battle Cry"
-    desc: "`pf2:1` (auditory,concentrate,emotion,mental) Bellowing mightily, the orc commander gives themself and all orc allies within 60 feet a +1 status bonus to attack and damage rolls until the start of the orc commander's next turn.\n[[Bestiary Effects/Effect_ Battle Cry|Effect: Battle Cry]]"
+    desc: "`pf2:1` (auditory,concentrate,emotion,mental) Bellowing mightily, the orc commander gives themself and all orc allies within 60 feet a +1 status bonus to attack and damage rolls until the start of the orc commander's next turn.\n\n[[Bestiary Effects/Effect_ Battle Cry|Effect: Battle Cry]]"
  
 ```
 

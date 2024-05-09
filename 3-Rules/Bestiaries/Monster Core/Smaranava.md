@@ -63,13 +63,13 @@ attacks:
     desc: "DC 25, attack +17; __3rd __  _[[Spells/Dispel Magic|Dispel Magic]]_, _[[Spells/Lightning Bolt|Lightning Bolt]]_, _[[Spells/Mind Reading|Mind Reading]]_\n__Cantrips__  __(4th)__ _[[Spells/Detect Magic|Detect Magic]]_, _[[Spells/Read Aura|Read Aura]]_, _[[Spells/Telekinetic Hand|Telekinetic Hand]]_"
 
   - name: "Coils of Knowledge"
-    desc: " (force,magical) The naga's grip is more spiritual than physical. A creature hit by a smaranava's tail must succeed at a DC 25 Will check save or become [[Conditions/Grabbed|Grabbed]] by the tail until they [[Actions/Escape|Escape]], the naga releases them with an Interact action, or the naga dies.\nA captive takes a –4 status penalty to Escape, but can choose to attempt an Occultism or Religion check to Escape instead of the usual options without taking this penalty"
+    desc: " (force,magical) The naga's grip is more spiritual than physical. A creature hit by a smaranava's tail must succeed at a DC 25 Will check save or become [[Conditions/Grabbed|Grabbed]] by the tail until they [[Actions/Escape|Escape]], the naga releases them with an Interact action, or the naga dies.\n\nA captive takes a –4 status penalty to Escape, but can choose to attempt an Occultism or Religion check to Escape instead of the usual options without taking this penalty"
 
   - name: "[[Bestiary Ability Glossary/Constrict|Constrict]]"
-    desc: "`pf2:1`  2d8 + 5 bludgeoning, DC 25 Fortitude check\n"
+    desc: "`pf2:1`  2d8 + 5 bludgeoning, DC 25 Fortitude check\n\n* * *\n"
 
   - name: "Smaranava Venom"
-    desc: " (incapacitation,mental,poison) When a holy creature succeeds at a saving throw against this poison, it is immediately cured\n**Saving Throw** DC 25 Will check\n**Maximum Duration** 5 minutes\n**Stage 1** [[Conditions/Slowed 1|Slowed 1]] (1 round)\n**Stage 2** [[Conditions/Slowed 1|Slowed 2]] (1 round)\n**Stage 3** [[Conditions/Unconscious|Unconscious]] with no Perception check to wake up (1 minute)"
+    desc: " (incapacitation,mental,poison) When a holy creature succeeds at a saving throw against this poison, it is immediately cured\n\n**Saving Throw** DC 25 Will check\n* * *\n\n**Maximum Duration** 5 minutes\n\n**Stage 1** [[Conditions/Slowed 1|Slowed 1]] (1 round)\n\n**Stage 2** [[Conditions/Slowed 1|Slowed 2]] (1 round)\n\n**Stage 3** [[Conditions/Unconscious|Unconscious]] with no Perception check to wake up (1 minute)"
  
 ```
 

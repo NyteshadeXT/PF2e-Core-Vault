@@ -21,6 +21,7 @@ license: ORC
 columns: 2
 forcecolumns: true
 layout: Basic Pathfinder 2e Layout
+token: [[modules/pf2e-tokens-bestiaries/portraits/undead/zombie-brute.webp| ]]
 source: "Pathfinder Monster Core"
 name: "Zombie Brute"
 level: "Creature 2"
@@ -35,6 +36,7 @@ modifier: 4
 perception:
   - name: "Perception"
     desc: "+4; Darkvision"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Athletics: +11"

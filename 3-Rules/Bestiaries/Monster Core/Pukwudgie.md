@@ -18,10 +18,11 @@ license: ORC
 columns: 2
 forcecolumns: true
 layout: Basic Pathfinder 2e Layout
+token: [[modules/pf2e-tokens-bestiaries/portraits/fey/pukwudgie.webp| ]]
 source: "Pathfinder Monster Core"
 name: "Pukwudgie"
 level: "Creature 7"
-rare_03: "Uncommon"
+
 alignment: ""
 size: "Small"
 trait_01: "fey"
@@ -52,7 +53,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Defensive Quills"
-    desc: "  A creature that hits a pukwudgie with an unarmed Strike or a non-reach melee Strike takes 3d8 piercing damage (DC 22 Reflex check save). On a critical failure, the creature also takes 1d6 persistent poison from the poisoned quills.\n_Note: A DC was not provided for this ability by Paizo. The DC present here is a moderate DC for the creature level according to the GM Core creature building Tables_"
+    desc: "  A creature that hits a pukwudgie with an unarmed Strike or a non-reach melee Strike takes 3d8 piercing damage (DC 22 Reflex check save). On a critical failure, the creature also takes 1d6 persistent poison from the poisoned quills.\n* * *\n\n_Note: A DC was not provided for this ability by Paizo. The DC present here is a moderate DC for the creature level according to the GM Core creature building Tables_"
 
 attacks:
   - name: ""
@@ -70,10 +71,10 @@ attacks:
     desc: "DC 25, attack +17; __4th __  _[[Spells/Mirage|Mirage]]_, _[[Spells/Unfettered Movement|Unfettered Movement]]_; __3rd __  _[[Spells/Wall of Thorns|Wall of Thorns]]_; __2nd __  _[[Spells/Invisibility|Invisibility (At Will) (Self Only)]]_"
 
   - name: "[[Bestiary Ability Glossary/Change Shape|Change Shape]]"
-    desc: "`pf2:1` (concentrate,polymorph,primal) The pukwudgie takes on the physical form of a giant porcupine or resumes their natural form. In porcupine form, their size changes to Medium, they lose their weapon Strikes, and they gain a quill Strike (+18 for 2d8+6 piercing plus 1d8 persistent poison).\n"
+    desc: "`pf2:1` (concentrate,polymorph,primal) The pukwudgie takes on the physical form of a giant porcupine or resumes their natural form. In porcupine form, their size changes to Medium, they lose their weapon Strikes, and they gain a quill Strike (+18 for 2d8+6 piercing plus 1d8 persistent poison).\n\n* * *\n"
 
   - name: "Pukwudgie Poison"
-    desc: " (poison) **Saving Throw** DC 25 Fortitude check\n**Maximum Duration** 6 rounds\n**Stage 1** 1d6 poison damage and [[Conditions/Stupefied 1|Stupefied 1]] (1 round)\n**Stage 2** 1d6 poison damage and [[Conditions/Stupefied 1|Stupefied 2]] (1 round)\n**Stage 3** 1d6 poison damage, [[Conditions/Confused|Confused]], and stupefied 2 (1 round)"
+    desc: " (poison) **Saving Throw** DC 25 Fortitude check\n* * *\n\n**Maximum Duration** 6 rounds\n\n**Stage 1** 1d6 poison damage and [[Conditions/Stupefied 1|Stupefied 1]] (1 round)\n\n**Stage 2** 1d6 poison damage and [[Conditions/Stupefied 1|Stupefied 2]] (1 round)\n\n**Stage 3** 1d6 poison damage, [[Conditions/Confused|Confused]], and stupefied 2 (1 round)"
  
 ```
 

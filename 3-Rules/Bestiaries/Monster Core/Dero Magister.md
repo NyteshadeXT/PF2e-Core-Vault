@@ -19,6 +19,7 @@ license: ORC
 columns: 2
 forcecolumns: true
 layout: Basic Pathfinder 2e Layout
+token: [[modules/pf2e-tokens-bestiaries/portraits/humanoid/darklands/dero-magister.webp| ]]
 source: "Pathfinder Monster Core"
 name: "Dero Magister"
 level: "Creature 5"
@@ -69,10 +70,10 @@ attacks:
     desc: "DC 24, attack +16; __4th __  _[[Spells/Nightmare|Nightmare]]_, _[[Spells/Rewrite Memory|Rewrite Memory]]_; __2nd __  _[[Spells/Darkness|Darkness]]_, _[[Spells/Revealing Light|Revealing Light]]_\n__Cantrips__  __(1st)__ _[[Spells/Daze|Daze]]_, _[[Spells/Light|Light]]_, _[[Spells/Read Aura|Read Aura]]_"
 
   - name: "Cytillesh Stare"
-    desc: "`pf2:1` (concentrate,incapacitation,mental,visual) **Frequency** once per round\n**Effect** The magister focuses their gaze on a creature they can see within 30 feet. The target is [[Conditions/Dazzled|Dazzled]] for 1 round and must succeed at a DC 24 Will check saving throw or be [[Conditions/Confused|Confused]] for 1 round."
+    desc: "`pf2:1` (concentrate,incapacitation,mental,visual) **Frequency** once per round\n* * *\n\n**Effect** The magister focuses their gaze on a creature they can see within 30 feet. The target is [[Conditions/Dazzled|Dazzled]] for 1 round and must succeed at a DC 24 Will check saving throw or be [[Conditions/Confused|Confused]] for 1 round."
 
   - name: "Dero Medicine"
-    desc: "`pf2:1` (healing,manipulate) **Requirements** The dero is wearing a cytillesh toolkit and has a hand free\n**Effect** The dero excises damaged flesh and crudely stitches wounds shut, healing themself or an ally in reach for 2d8+10 Hit Points. For 1 hour, the target has slashing weakness 2 and is immune to Dero Medicine.\n[[Bestiary Effects/Effect_ Dero Medicine|Effect: Dero Medicine]]"
+    desc: "`pf2:1` (healing,manipulate) **Requirements** The dero is wearing a cytillesh toolkit and has a hand free\n* * *\n\n**Effect** The dero excises damaged flesh and crudely stitches wounds shut, healing themself or an ally in reach for 2d8+10 Hit Points. For 1 hour, the target has slashing weakness 2 and is immune to Dero Medicine.\n\n[[Bestiary Effects/Effect_ Dero Medicine|Effect: Dero Medicine]]"
  
 ```
 

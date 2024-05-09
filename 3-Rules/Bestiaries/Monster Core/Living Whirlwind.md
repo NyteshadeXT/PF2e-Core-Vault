@@ -19,6 +19,7 @@ license: ORC
 columns: 2
 forcecolumns: true
 layout: Basic Pathfinder 2e Layout
+token: [[modules/pf2e-tokens-bestiaries/portraits/elemental/air/living-whirlwind.webp| ]]
 source: "Pathfinder Monster Core"
 name: "Living Whirlwind"
 level: "Creature 5"
@@ -53,10 +54,10 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Disperse"
-    desc: "`pf2:r` (air) **Trigger** The living whirlwind takes damage from a hostile action;\n**Effect** The living whirlwind disperses. Until the end of the current turn, it can't be attacked or targeted, doesn't take up space, and its high winds aura is suppressed.\nAt the end of the turn, the living whirlwind reforms in any unoccupied space within 25 feet of where it dispersed, and its high winds are restored."
+    desc: "`pf2:r` (air) **Trigger** The living whirlwind takes damage from a hostile action;\n* * *\n\n**Effect** The living whirlwind disperses. Until the end of the current turn, it can't be attacked or targeted, doesn't take up space, and its high winds aura is suppressed.\n\nAt the end of the turn, the living whirlwind reforms in any unoccupied space within 25 feet of where it dispersed, and its high winds are restored."
 
   - name: "High Winds"
-    desc: " (air,aura) 20 feet.\nAir within the emanation is difficult terrain for Flying creatures that don't have the air trait."
+    desc: " (air,aura) 20 feet.\n\nAir within the emanation is difficult terrain for Flying creatures that don't have the air trait."
 
   - name: "Swiftness"
     desc: "  The living whirlwind's movement doesn't trigger reactions."

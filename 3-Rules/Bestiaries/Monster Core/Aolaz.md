@@ -18,6 +18,7 @@ license: ORC
 columns: 2
 forcecolumns: true
 layout: Basic Pathfinder 2e Layout
+token: [[modules/pf2e-tokens-bestiaries/portraits/constructed/mechanical/aolaz.webp| ]]
 source: "Pathfinder Monster Core"
 name: "Aolaz"
 level: "Creature 18"
@@ -29,6 +30,7 @@ modifier: 33
 perception:
   - name: "Perception"
     desc: "+33; Low-Light Vision"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Athletics: +35"
@@ -68,10 +70,10 @@ attacks:
     desc: "`pf2:1`  The aolaz tucks its head down and rolls up into an armored sphere. While Rolling, an aolaz has AC 44, Fort +37, Ref +29, Will +33, and Speed 100 feet, but it can't use its trunk Strikes or its Ultrasonic Blast. It can make foot Strikes while rolling, but only as part of a [[Bestiary Ability Glossary/Trample|Trample]]. The aolaz can use this action again to unroll and resume its standing form."
 
   - name: "[[Bestiary Ability Glossary/Trample|Trample]]"
-    desc: "`pf2:3`  Huge or smaller, foot, DC 40 Reflex check\n"
+    desc: "`pf2:3`  Huge or smaller, foot, DC 40 Reflex check\n\n* * *\n"
 
   - name: "Ultrasonic Blast"
-    desc: "`pf2:1` (arcane,sonic) The aolaz releases a tremendous blast of sonic energy from its trunk in a 150-foot line, dealing 12d10 sonic damage. The frequency of this sound is such that it is completely imperceptible to humanoids, but the damage it wreaks is all too evident. Each creature in the area must attempt a DC 40 Fortitude check save.\nThe aolaz can't use Ultrasonic Blast again for 1d4 rounds.\n**Critical Success** The creature is unaffected.\n**Success** The creature takes half damage and is [[Conditions/Stunned 1|Stunned 1]].\n**Failure** The creature takes full damage and is [[Conditions/Stunned 1|Stunned 2]].\n**Critical Failure** The creature takes double damage and is [[Conditions/Stunned 1|Stunned 3]]."
+    desc: "`pf2:1` (arcane,sonic) The aolaz releases a tremendous blast of sonic energy from its trunk in a 150-foot line, dealing 12d10 sonic damage. The frequency of this sound is such that it is completely imperceptible to humanoids, but the damage it wreaks is all too evident. Each creature in the area must attempt a DC 40 Fortitude check save.\n\nThe aolaz can't use Ultrasonic Blast again for 1d4 rounds.\n* * *\n\n**Critical Success** The creature is unaffected.\n\n**Success** The creature takes half damage and is [[Conditions/Stunned 1|Stunned 1]].\n\n**Failure** The creature takes full damage and is [[Conditions/Stunned 1|Stunned 2]].\n\n**Critical Failure** The creature takes double damage and is [[Conditions/Stunned 1|Stunned 3]]."
 
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
     desc: "`pf2:1`  "

@@ -19,6 +19,7 @@ license: ORC
 columns: 2
 forcecolumns: true
 layout: Basic Pathfinder 2e Layout
+token: [[modules/pf2e-tokens-bestiaries/portraits/elemental/earth/gargoyle.webp| ]]
 source: "Pathfinder Monster Core"
 name: "Gargoyle"
 level: "Creature 4"
@@ -53,7 +54,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Clawed Feet"
-    desc: "`pf2:r` (attack) **Trigger** The gargoyle is Flying, and a creature moves into an adjacent square below it.\n**Effect** The gargoyle makes a claw Strike against the triggering creature."
+    desc: "`pf2:r` (attack) **Trigger** The gargoyle is Flying, and a creature moves into an adjacent square below it.\n* * *\n\n**Effect** The gargoyle makes a claw Strike against the triggering creature."
 
 attacks:
   - name: ""

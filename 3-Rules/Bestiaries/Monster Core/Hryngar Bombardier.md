@@ -20,6 +20,7 @@ license: ORC
 columns: 2
 forcecolumns: true
 layout: Basic Pathfinder 2e Layout
+token: [[modules/pf2e-tokens-bestiaries/portraits/humanoid/darklands/duergar-bombardier.webp| ]]
 source: "Pathfinder Monster Core"
 name: "Hryngar Bombardier"
 level: "Creature 1"
@@ -64,7 +65,7 @@ attacks:
   - name: "Melee"
     desc: "`pf2:1` Warhammer +4 (shove)\n__Damage__  1d8 + 1 bludgeoning"
 
-  - name: "Melee"
+  - name: "Ranged"
     desc: "`pf2:1` Alchemical Grenade +8 (range increment 20 feet, splash)\n__Damage__  1d6 acid"
 
   - name: "Occult Innate Spells"

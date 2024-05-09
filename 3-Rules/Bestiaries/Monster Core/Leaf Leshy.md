@@ -19,6 +19,7 @@ license: ORC
 columns: 2
 forcecolumns: true
 layout: Basic Pathfinder 2e Layout
+token: [[modules/pf2e-tokens-bestiaries/portraits/plant/leshy/leaf-leshy.webp| ]]
 source: "Pathfinder Monster Core"
 name: "Leaf Leshy"
 level: "Creature 0"
@@ -31,7 +32,7 @@ modifier: 4
 perception:
   - name: "Perception"
     desc: "+4; Low-Light Vision"
-languages: "Common, Fey"
+languages: "Common, Fey; Speak with Plants (Trees Only)"
 skills:
   - name: "Skills"
     desc: "Acrobatics: +4, Nature: +4, Stealth: +4"
@@ -54,7 +55,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Verdant Burst"
-    desc: " (healing,primal,vitality) When a leaf leshy dies, a burst of primal energy explodes from their body, restoring 1d4 Hit Points to each plant creature in a 30-foot emanation. This area is filled with tree saplings, becoming difficult terrain.\nIf the terrain is not a viable environment for these trees, they wither after 24 hours."
+    desc: " (healing,primal,vitality) When a leaf leshy dies, a burst of primal energy explodes from their body, restoring 1d4 Hit Points to each plant creature in a 30-foot emanation. This area is filled with tree saplings, becoming difficult terrain.\n\nIf the terrain is not a viable environment for these trees, they wither after 24 hours."
 
 attacks:
   - name: ""
@@ -69,10 +70,10 @@ attacks:
     desc: "DC 14, attack +6; __3rd __  _[[Spells/Speak with Plants|Speak with Plants (Constant, Trees Only)]]_"
 
   - name: "[[Bestiary Ability Glossary/Change Shape|Change Shape]]"
-    desc: "`pf2:1` (concentrate,polymorph,primal) The leaf leshy transforms into a Small tree. This ability otherwise uses the effects of [[Spells/One with Plants|One with Plants]].\n"
+    desc: "`pf2:1` (concentrate,polymorph,primal) The leaf leshy transforms into a Small tree. This ability otherwise uses the effects of [[Spells/One with Plants|One with Plants]].\n\n* * *\n"
 
   - name: "Deafening Blow"
-    desc: "  When a leaf leshy hits with their seedpod Strike, the pod explodes loudly. The target must attempt a DC 16 Fortitude check save.\n**Critical Success** The target is unaffected and temporarily immune for 24 hours.\n**Success** The target is unaffected.\n**Failure** The target is [[Conditions/Deafened|Deafened]] for 1 round.\n**Critical Failure** The target is deafened for 1 minute."
+    desc: "  When a leaf leshy hits with their seedpod Strike, the pod explodes loudly. The target must attempt a DC 16 Fortitude check save.\n* * *\n\n**Critical Success** The target is unaffected and temporarily immune for 24 hours.\n\n**Success** The target is unaffected.\n\n**Failure** The target is [[Conditions/Deafened|Deafened]] for 1 round.\n\n**Critical Failure** The target is deafened for 1 minute."
 
   - name: "Glide"
     desc: "`pf2:1` (move) The leshy glides gently through the air, moving 5 feet toward the ground and up to 25 feet forward. As long as the leshy spends at least 1 action gliding each round, they remain in the air at the end of each turn. For the purpose of determining damage from falls, a leaf leshy always treats falls as if they were 20 feet shorter."

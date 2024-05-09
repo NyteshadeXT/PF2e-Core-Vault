@@ -19,6 +19,7 @@ license: ORC
 columns: 2
 forcecolumns: true
 layout: Basic Pathfinder 2e Layout
+token: [[modules/pf2e-tokens-bestiaries/portraits/draconic/drakes/jungle-drake.webp| ]]
 source: "Pathfinder Monster Core"
 name: "Jungle Drake"
 level: "Creature 6"
@@ -53,7 +54,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Twisting Tail"
-    desc: "`pf2:r`  **Trigger** A creature within reach of the jungle drake's stinger uses a move action or leaves a square during a move action it's using.\n**Effect** The jungle drake Strikes the target with its stinger. If it hits, the jungle drake disrupts the creature's action."
+    desc: "`pf2:r`  **Trigger** A creature within reach of the jungle drake's stinger uses a move action or leaves a square during a move action it's using.\n* * *\n\n**Effect** The jungle drake Strikes the target with its stinger. If it hits, the jungle drake disrupts the creature's action."
 
 attacks:
   - name: ""
@@ -71,16 +72,16 @@ attacks:
     desc: "  The jungle drake ignores difficult terrain caused by plants, such as bushes, vines, and undergrowth. Even plants manipulated by magic don't impede their progress."
 
   - name: "Jungle Drake Venom"
-    desc: " (poison) **Saving Throw** DC 24 Fortitude check\n**Maximum Duration** 6 rounds\n**Stage 1** 1d6 poison damage and [[Conditions/Enfeebled 1|Enfeebled 1]] (1 round)\n**Stage 2** 1d6 poison damage and [[Conditions/Enfeebled 1|Enfeebled 2]] (1 round)"
+    desc: " (poison) **Saving Throw** DC 24 Fortitude check\n* * *\n\n**Maximum Duration** 6 rounds\n\n**Stage 1** 1d6 poison damage and [[Conditions/Enfeebled 1|Enfeebled 1]] (1 round)\n\n**Stage 2** 1d6 poison damage and [[Conditions/Enfeebled 1|Enfeebled 2]] (1 round)"
 
   - name: "[[Bestiary Ability Glossary/Grab|Predatory Grab]]"
-    desc: "`pf2:1`  As Grab, but the jungle drake's Grab doesn't end if they move away. Instead, they carry the [[Conditions/Grabbed|Grabbed]] creature with them. A jungle drake can't Fly while grabbing a creature unless that creature can also Fly.\n"
+    desc: "`pf2:1`  As Grab, but the jungle drake's Grab doesn't end if they move away. Instead, they carry the [[Conditions/Grabbed|Grabbed]] creature with them. A jungle drake can't Fly while grabbing a creature unless that creature can also Fly.\n\n* * *\n"
 
   - name: "Speed Surge"
-    desc: "`pf2:1` (move) **Frequency** three times per day\n**Effect** The jungle drake Strides or Flies twice."
+    desc: "`pf2:1` (move) **Frequency** three times per day\n* * *\n\n**Effect** The jungle drake Strides or Flies twice."
 
   - name: "Spit Venom"
-    desc: "`pf2:2` (poison) A jungle drake can spit a sticky glob of their venom to a range of 50 feet that explodes in a 10-foot burst. Those in the burst must succeed at a DC 24 Reflex check save or be exposed to jungle drake venom.\nThe jungle drake can't use Spit Venom again for 1d6 rounds."
+    desc: "`pf2:2` (poison) A jungle drake can spit a sticky glob of their venom to a range of 50 feet that explodes in a 10-foot burst. Those in the burst must succeed at a DC 24 Reflex check save or be exposed to jungle drake venom.\n\nThe jungle drake can't use Spit Venom again for 1d6 rounds."
  
 ```
 

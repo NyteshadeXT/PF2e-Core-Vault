@@ -20,6 +20,7 @@ license: ORC
 columns: 2
 forcecolumns: true
 layout: Basic Pathfinder 2e Layout
+token: [[modules/pf2e-tokens-bestiaries/portraits/undead/vampiric/dhampir-wizard.webp| ]]
 source: "Pathfinder Monster Core"
 name: "Dhampir Wizard"
 level: "Creature 2"

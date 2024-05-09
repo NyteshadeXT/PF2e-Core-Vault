@@ -19,6 +19,7 @@ license: ORC
 columns: 2
 forcecolumns: true
 layout: Basic Pathfinder 2e Layout
+token: [[modules/pf2e-tokens-bestiaries/portraits/humanoid/goblinoid/hobgoblin-soldier.webp| ]]
 source: "Pathfinder Monster Core"
 name: "Hobgoblin Soldier"
 level: "Creature 1"
@@ -50,7 +51,7 @@ health:
 abilities_top:
   - name: ""
   - name: "Items"
-    desc: "[[Equipment/Longsword|Longsword]], [[Equipment/Shortbow|Shortbow]], [[Equipment/Wooden Shield|Wooden Shield]], [[Equipment/Hide Armor|Hide Armor]], 10x [[Equipment/Arrows|Arrows]]"
+    desc: "[[Equipment/Longsword|Longsword]], [[Equipment/Shortbow|Shortbow]], [[Equipment/Wooden Shield|Wooden Shield]], [[Equipment/Breastplate|Breastplate]], 10x [[Equipment/Arrows|Arrows]]"
 abilities_mid:
   - name: ""
   - name: "Formation"

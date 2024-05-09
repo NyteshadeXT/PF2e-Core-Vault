@@ -19,6 +19,7 @@ license: ORC
 columns: 2
 forcecolumns: true
 layout: Basic Pathfinder 2e Layout
+token: [[modules/pf2e-tokens-bestiaries/portraits/undead/skeletal/grim-reaper.webp| ]]
 source: "Pathfinder Monster Core"
 name: "Grim Reaper"
 level: "Creature 21"
@@ -46,7 +47,7 @@ hp: 320
 health:
   - name: ""
   - name: HP
-    desc: "320, death&#x27;s embrace, void healing; __Immunities__  death effects,  disease,  paralyzed,  poison,  unconscious,  bleed; __Resistances__ all damage 15"
+    desc: "320, death&#x27;s grace, void healing; __Immunities__  death effects,  disease,  paralyzed,  poison,  unconscious,  bleed; __Resistances__ all damage 15"
 abilities_top:
   - name: ""
   - name: "Items"
@@ -60,13 +61,13 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Aura of Misfortune"
-    desc: " (aura,divine,misfortune) 20 feet.\nLiving creatures in the aura must roll twice on all d20 rolls and use the lower result.\n[[Bestiary Effects/Effect_ Aura of Misfortune|Effect: Aura of Misfortune]]"
+    desc: " (aura,divine,misfortune) 20 feet.\n\nLiving creatures in the aura must roll twice on all d20 rolls and use the lower result.\n\n[[Bestiary Effects/Effect_ Aura of Misfortune|Effect: Aura of Misfortune]]"
 
   - name: "Lurking Death"
-    desc: "`pf2:r` (teleportation) **Trigger** A creature within 100 feet makes a ranged attack or uses an action that has the concentrate, manipulate, or move trait\n**Effect** The Grim Reaper teleports to a square adjacent to the triggering creature and makes a melee Strike against it. If the Strike hits, the Grim Reaper disrupts the triggering action."
+    desc: "`pf2:r` (divine,teleportation) **Trigger** A creature within 100 feet makes a ranged attack or uses an action that has the concentrate, manipulate, or move trait\n* * *\n\n**Effect** The Grim Reaper teleports to a square adjacent to the triggering creature and makes a melee Strike against it. If the Strike hits, the Grim Reaper disrupts the triggering action."
 
   - name: "[[Bestiary Ability Glossary/Void Healing|Void Healing]]"
-    desc: "  The Grim Reaper can choose whether or not it takes vitality damage.\n"
+    desc: "  The Grim Reaper can choose whether or not it takes vitality damage.\n\n* * *\n"
 
 attacks:
   - name: ""
@@ -87,7 +88,7 @@ attacks:
     desc: "  A creature killed by the Grim Reaper can't be brought back to life by any means short of divine intervention."
 
   - name: "Infuse Weapon"
-    desc: " (divine) Any scythe gains the agile trait, can't be disarmed, and becomes a _+3 major striking keen scythe_ while the Grim Reaper wields it.\nIf the Grim Reaper Strikes a creature with a weakness to any specific type of damage, the scythe's damage counts as that type of damage, in addition to slashing."
+    desc: " (divine) Any scythe gains the agile trait, can't be disarmed, and becomes a _+3 major striking keen scythe_ while the Grim Reaper wields it.\n\nIf the Grim Reaper Strikes a creature with a weakness to any specific type of damage, the scythe's damage counts as that type of damage, in addition to slashing."
  
 ```
 

@@ -18,6 +18,7 @@ license: ORC
 columns: 2
 forcecolumns: true
 layout: Basic Pathfinder 2e Layout
+token: [[modules/pf2e-tokens-bestiaries/portraits/humanoid/goblinoid/goblin-dog.webp| ]]
 source: "Pathfinder Monster Core"
 name: "Goblin Dog"
 level: "Creature 1"
@@ -29,6 +30,7 @@ modifier: 6
 perception:
   - name: "Perception"
     desc: "+6; Low-Light Vision, Scent (Imprecise) 30 Feet"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Athletics: +6, Stealth: +7"
@@ -56,7 +58,7 @@ abilities_mid:
     desc: "  A creature that hits the goblin dog with an unarmed attack, tries to [[Actions/Grapple|Grapple]] it, or otherwise touches it is exposed to goblin pox."
 
   - name: "Juke"
-    desc: "`pf2:r`  **Requirements** A creature must be mounted on the goblin dog.\n**Trigger** The rider issues a command to the goblin dog.\n**Effect** The goblin dog Steps before following the command."
+    desc: "`pf2:r`  **Requirements** A creature must be mounted on the goblin dog.\n\n**Trigger** The rider issues a command to the goblin dog.\n* * *\n\n**Effect** The goblin dog Steps before following the command."
 
 attacks:
   - name: ""
@@ -65,7 +67,7 @@ attacks:
     desc: "`pf2:1` Jaws +9 ()\n__Damage__  1d6 + 3 piercing plus goblin-pox"
 
   - name: "Goblin Pox"
-    desc: " (disease) Goblins and goblin dogs are immune to goblin pox.\n**Saving Throw** DC 17 Fortitude check\n**Stage 1** [[Conditions/Sickened 1|Sickened 1]] (1 round)\n**Stage 2** sickened 1 and [[Conditions/Slowed 1|Slowed 1]] (1 round)\n**Stage 3** [[Conditions/Sickened 1|Sickened 2]] and can't reduce its sickened value below 1 (1 day)"
+    desc: " (disease) Goblins and goblin dogs are immune to goblin pox.\n\n**Saving Throw** DC 17 Fortitude check\n* * *\n\n**Stage 1** [[Conditions/Sickened 1|Sickened 1]] (1 round)\n\n**Stage 2** sickened 1 and [[Conditions/Slowed 1|Slowed 1]] (1 round)\n\n**Stage 3** [[Conditions/Sickened 1|Sickened 2]] and can't reduce its sickened value below 1 (1 day)"
 
   - name: "Scratch"
     desc: "`pf2:2` (manipulate) The goblin dog vigorously scratches itself, exposing all adjacent creatures to goblin pox."

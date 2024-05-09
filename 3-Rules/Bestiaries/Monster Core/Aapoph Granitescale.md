@@ -33,7 +33,7 @@ modifier: 13
 perception:
   - name: "Perception"
     desc: "+13; Darkvision, Scent (Imprecise) 30 Feet"
-languages: "Aklo, Common, Sakvroth"
+languages: "Aklo, Common, Sakvroth; Telepathy 100 feet"
 skills:
   - name: "Skills"
     desc: "Acrobatics: +14, Athletics: +15, Intimidation: +15"
@@ -56,7 +56,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Chipping Scales"
-    desc: "`pf2:r`  **Frequency** once per day\n**Trigger** The granitescale is about to take piercing or slashing damage\n**Effect** The granitescale twists to take the blow on their hardest scales, which they shed to reduce the incoming force. The granitescale gains resistance 15 to the damage, but their AC is reduced by 2 for 1 day, when the shed scales regrow."
+    desc: "`pf2:r`  **Frequency** once per day\n\n**Trigger** The granitescale is about to take piercing or slashing damage\n* * *\n\n**Effect** The granitescale twists to take the blow on their hardest scales, which they shed to reduce the incoming force. The granitescale gains resistance 15 to the damage, but their AC is reduced by 2 for 1 day, when the shed scales regrow."
 
   - name: "[[Bestiary Ability Glossary/Reactive Strike|Reactive Strike]]"
     desc: "`pf2:r`  "
@@ -74,10 +74,10 @@ attacks:
     desc: "`pf2:1` Javelin +16 (range increment 30 feet)\n__Damage__  1d6 + 11 piercing"
 
   - name: "Rattling Spear"
-    desc: "`pf2:1` (auditory,emotion,mental) **Requirements** The granitescale's last action was a successful longspear Strike\n**Effect** The granitescale rattles the base of their spear, attempting an Intimidation check to [[Actions/Demoralize|Demoralize]] all enemies within 30 feet (compare the check result to the targets' Will DCs individually)."
+    desc: "`pf2:1` (auditory,emotion,mental) **Requirements** The granitescale's last action was a successful longspear Strike\n* * *\n\n**Effect** The granitescale rattles the base of their spear, attempting an Intimidation check to [[Actions/Demoralize|Demoralize]] all enemies within 30 feet (compare the check result to the targets' Will DCs individually)."
 
   - name: "Serpentfolk Venom"
-    desc: " (poison) **Saving Throw** DC 22 Fortitude check\n**Maximum Duration** 6 rounds\n**Stage 1** 1d4 poison damage and [[Conditions/Enfeebled 1|Enfeebled 1]] (1 round)\n**Stage 2** 2d4 poison damage and enfeebled 1 (1 round)"
+    desc: " (poison) **Saving Throw** DC 22 Fortitude check\n* * *\n\n**Maximum Duration** 6 rounds\n\n**Stage 1** 1d4 poison damage and [[Conditions/Enfeebled 1|Enfeebled 1]] (1 round)\n\n**Stage 2** 2d4 poison damage and enfeebled 1 (1 round)"
  
 ```
 

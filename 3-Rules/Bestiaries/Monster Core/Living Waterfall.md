@@ -20,6 +20,7 @@ license: ORC
 columns: 2
 forcecolumns: true
 layout: Basic Pathfinder 2e Layout
+token: [[modules/pf2e-tokens-bestiaries/portraits/elemental/water/living-waterfall.webp| ]]
 source: "Pathfinder Monster Core"
 name: "Living Waterfall"
 level: "Creature 5"
@@ -58,7 +59,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Vortex"
-    desc: " (aura,water) 30 feet.\nWater in the area that is in the same body of water as the living waterfall is difficult terrain for Swimming creatures that don't have the water trait."
+    desc: " (aura,water) 30 feet.\n\nWater in the area that is in the same body of water as the living waterfall is difficult terrain for Swimming creatures that don't have the water trait."
 
 attacks:
   - name: ""
@@ -67,10 +68,10 @@ attacks:
     desc: "`pf2:1` Wave +15 (reach 10 feet)\n__Damage__  2d8 + 7 bludgeoning plus push-or-pull"
 
   - name: "Drench"
-    desc: "`pf2:1` (primal,water) The elemental puts out all fires in a 5-foot emanation.\nIt extinguishes all non-magical fires automatically and attempts to counteract magical fires (+14 counteract modifier)."
+    desc: "`pf2:1` (primal,water) The elemental puts out all fires in a 5-foot emanation.\n\nIt extinguishes all non-magical fires automatically and attempts to counteract magical fires (+14 counteract modifier)."
 
   - name: "[[Bestiary Ability Glossary/Push|Push or Pull 5 feet]]"
-    desc: "`pf2:1`  The living waterfall can choose whether to push or pull the creature on a succesful hit.\n**Push**`pf2:1`\n**Pull `pf2:1`**"
+    desc: "`pf2:1`  The living waterfall can choose whether to push or pull the creature on a succesful hit.\n* * *\n\n**Push** `pf2:1`\n* * *\n\n**Pull** `pf2:1`"
  
 ```
 

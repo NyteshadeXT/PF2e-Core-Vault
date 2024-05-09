@@ -18,6 +18,7 @@ license: ORC
 columns: 2
 forcecolumns: true
 layout: Basic Pathfinder 2e Layout
+token: [[modules/pf2e-tokens-bestiaries/portraits/bestial/invertebrate/flash-beetle.webp| ]]
 source: "Pathfinder Monster Core"
 name: "Flash Beetle"
 level: "Creature -1"
@@ -29,6 +30,7 @@ modifier: 6
 perception:
   - name: "Perception"
     desc: "+6; Low-Light Vision"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Acrobatics: +6, Athletics: +4"
@@ -50,7 +52,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Luminescent Aura"
-    desc: " (aura,light) 10 feet.\nThe flash beetle's bioluminescent organs fill the area with bright light."
+    desc: " (aura,light) 10 feet.\n\nThe flash beetle's bioluminescent organs fill the area with bright light."
 
 attacks:
   - name: ""
@@ -59,7 +61,7 @@ attacks:
     desc: "`pf2:1` Mandibles +8 (agile, finesse)\n__Damage__  1d4 + 1 piercing"
 
   - name: "Light Flash"
-    desc: "`pf2:1` (concentrate,light) The flash beetle creates a brilliant flash of light. All creatures in its luminescent aura must succeed at a DC 17 Fortitude check save or be [[Conditions/Dazzled|Dazzled]] for 1 minute.\nThe flash beetle's glow then goes out, disabling its aura for 24 hours, during which time it cannot use Light Flash."
+    desc: "`pf2:1` (concentrate,light) The flash beetle creates a brilliant flash of light. All creatures in its luminescent aura must succeed at a DC 17 Fortitude check save or be [[Conditions/Dazzled|Dazzled]] for 1 minute.\n\nThe flash beetle's glow then goes out, disabling its aura for 24 hours, during which time it cannot use Light Flash."
  
 ```
 

@@ -19,6 +19,7 @@ license: ORC
 columns: 2
 forcecolumns: true
 layout: Basic Pathfinder 2e Layout
+token: [[modules/pf2e-tokens-bestiaries/portraits/bestial/invertebrate/wasp-swarm.webp| ]]
 source: "Pathfinder Monster Core"
 name: "Wasp Swarm"
 level: "Creature 4"
@@ -31,6 +32,7 @@ modifier: 10
 perception:
   - name: "Perception"
     desc: "+10; Darkvision"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Acrobatics: +12"
@@ -58,7 +60,7 @@ attacks:
     desc: "`pf2:1`  Each enemy in the swarm's space takes 2d8 piercing damage (DC 21 Reflex check save). A creature that fails its save is also exposed to wasp venom."
 
   - name: "Wasp Venom"
-    desc: " (poison) **Saving Throw** DC 21 Fortitude check\n**Maximum Duration** 6 rounds\n**Stage 1** 1d6 poison (1 round)\n**Stage 2** 2d6 poison and [[Conditions/Clumsy 1|Clumsy 2]] (2 rounds)"
+    desc: " (poison) **Saving Throw** DC 21 Fortitude check\n* * *\n\n**Maximum Duration** 6 rounds\n\n**Stage 1** 1d6 poison (1 round)\n\n**Stage 2** 2d6 poison and [[Conditions/Clumsy 1|Clumsy 2]] (2 rounds)"
  
 ```
 

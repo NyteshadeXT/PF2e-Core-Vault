@@ -62,7 +62,7 @@ attacks:
     desc: "DC 17, attack +9; __3rd __  _[[Spells/One with Stone|One with Stone]]_; __2nd __  _[[Spells/Enlarge|Enlarge (Self Only)]]_"
 
   - name: "Scree Breath"
-    desc: "`pf2:2` (arcane,earth) The earth scamp breathes rocks in a 15-foot cone that deals 2d6 bludgeoning damage to each creature within the area (DC 17 Reflex check save).\nThe earth scamp can't use Scree Breath again for 1d4 rounds."
+    desc: "`pf2:2` (arcane,earth) The earth scamp breathes rocks in a 15-foot cone that deals 2d6 bludgeoning damage to each creature within the area (DC 17 Reflex check save).\n\nThe earth scamp can't use Scree Breath again for 1d4 rounds."
  
 ```
 

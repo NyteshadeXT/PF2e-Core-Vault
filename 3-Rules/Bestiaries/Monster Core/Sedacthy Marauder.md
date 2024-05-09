@@ -33,7 +33,7 @@ modifier: 9
 perception:
   - name: "Perception"
     desc: "+9; Darkvision, Wavesense (Imprecise) 30 Feet"
-languages: "Thalassic"
+languages: "Thalassic; Sea Speech"
 skills:
   - name: "Skills"
     desc: "Athletics: +14, Intimidation: +13, Survival: +9"
@@ -59,7 +59,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Vengeful Throw"
-    desc: "`pf2:r`  **Trigger** The marauder takes damage from a creature 20 feet or further away\n**Effect** The marauder makes a ranged spear Strike against the triggering creature. This attack doesn't take a range increment penalty if the target is within the second range increment."
+    desc: "`pf2:r`  **Trigger** The marauder takes damage from a creature 20 feet or further away\n* * *\n\n**Effect** The marauder makes a ranged spear Strike against the triggering creature. This attack doesn't take a range increment penalty if the target is within the second range increment."
 
 attacks:
   - name: ""
@@ -77,7 +77,7 @@ attacks:
     desc: "`pf2:1` Spear +11 (thrown 20 ft.)\n__Damage__  1d6 + 10 piercing"
 
   - name: "Challenging Shriek"
-    desc: "`pf2:1` (auditory,emotion,fear,mental) The marauder unleashes a terrifying battle cry. Each enemy in a 30-foot emanation must attempt a DC 21 Will check save. Regardless of the results, creatures are temporarily immune for 1 minute.\n**Critical Success** The creature is unaffected.\n**Success** The creature is [[Conditions/Frightened 1|Frightened 1]].\n**Failure** The creature is [[Conditions/Frightened 1|Frightened 2]].\n**Critical Failure** The creature is [[Conditions/Immobilized|Immobilized]] for 1 round and [[Conditions/Frightened 1|Frightened 3]]."
+    desc: "`pf2:1` (auditory,emotion,fear,mental) The marauder unleashes a terrifying battle cry. Each enemy in a 30-foot emanation must attempt a DC 21 Will check save. Regardless of the results, creatures are temporarily immune for 1 minute.\n* * *\n\n**Critical Success** The creature is unaffected.\n\n**Success** The creature is [[Conditions/Frightened 1|Frightened 1]].\n\n**Failure** The creature is [[Conditions/Frightened 1|Frightened 2]].\n\n**Critical Failure** The creature is [[Conditions/Immobilized|Immobilized]] for 1 round and [[Conditions/Frightened 1|Frightened 3]]."
 
   - name: "Shared Feast"
     desc: "`pf2:2`  The sedacthy makes a jaws Strike. If it hits, an ally of their choice can spend a reaction to make a jaws Strike against the same target. Allies with beaks or similar attacks can use those instead of jaws."

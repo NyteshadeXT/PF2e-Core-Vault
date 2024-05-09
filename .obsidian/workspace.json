@@ -177,11 +177,7 @@
       "obsidian-leaflet-plugin:Open Leaflet Map": false,
       "obsidian-5e-statblocks:Open Creature pane": false,
       "initiative-tracker:Initiative Tracker Encounter Builder": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
-      "obsidian-import-json:JSON/CSV Importer": false,
-      "obsidian42-brat:BRAT": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "helpmate:HelpMate": false
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
   "active": "894f67d17906f1e6",

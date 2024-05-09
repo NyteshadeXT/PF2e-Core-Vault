@@ -36,14 +36,14 @@ perception:
 languages: "Common, Empyrean"
 skills:
   - name: "Skills"
-    desc: "Athletics: +11, Diplomacy: +12, Medicine: +9, Religion: +11, Society: +7"
-abilityMods: [4, 1, 3, 0, 2, 3]
+    desc: "Athletics: +11, Diplomacy: +11, Medicine: +10, Religion: +12, Society: +7"
+abilityMods: [4, 1, 3, 0, 3, 2]
 speed: 20 feet
 sourcebook: "_Pathfinder Monster Core_"
 ac: 23
 armorclass:
   - name: AC
-    desc: "23; __Fort__ +12, __Ref__ +8, __Will__ +11"
+    desc: "23; __Fort__ +12, __Ref__ +8, __Will__ +12"
 hp: 64
 health:
   - name: ""
@@ -56,7 +56,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Responsive Recovery"
-    desc: "`pf2:r`  **Trigger** One of the lawbringer's allies is reduced to 0 Hit Points\n**Requirements** The lawbringer has a _heal_ spell prepared\n**Effect** Before the ally falls [[Conditions/Unconscious|Unconscious]] or dies, the lawbringer Strides toward them and casts a 2-action [[Spells/Heal|Heal]] spell targeting the ally. The ally remains standing."
+    desc: "`pf2:r`  **Trigger** One of the lawbringer's allies is reduced to 0 Hit Points\n\n**Requirements** The lawbringer has a _heal_ spell prepared\n* * *\n\n**Effect** Before the ally falls [[Conditions/Unconscious|Unconscious]] or dies, the lawbringer Strides toward them and casts a 2-action [[Spells/Heal|Heal]] spell targeting the ally. The ally remains standing."
 
 attacks:
   - name: ""
@@ -74,7 +74,7 @@ attacks:
     desc: "1 Focus Point, DC 20, attack +12; __3rd __  _[[Spells/Athletic Rush|Athletic Rush]]_"
 
   - name: "Channel Smite"
-    desc: "`pf2:2`  **Requirements** The lawbringer has a [[Spells/Heal|Heal]] or [[Spells/Harm|Harm]] spell prepared\n**Effect** The lawbringer makes a melee Strike and expends a _harm_ or _heal_ spell. On a hit, they cast the 1-action version of the spell to damage the target. The target automatically gets a failure on its save (or a critical failure if the lawbringer's Strike was a critical hit). The spell doesn't have the manipulate trait when cast this way."
+    desc: "`pf2:2`  **Requirements** The lawbringer has a [[Spells/Heal|Heal]] or [[Spells/Harm|Harm]] spell prepared\n* * *\n\n**Effect** The lawbringer makes a melee Strike and expends a _harm_ or _heal_ spell. On a hit, they cast the 1-action version of the spell to damage the target. The target automatically gets a failure on its save (or a critical failure if the lawbringer's Strike was a critical hit). The spell doesn't have the manipulate trait when cast this way."
  
 ```
 

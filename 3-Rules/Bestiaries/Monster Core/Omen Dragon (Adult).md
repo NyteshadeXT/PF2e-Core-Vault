@@ -53,7 +53,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Challenge Fate"
-    desc: "`pf2:r`  **Trigger** The dragon is targeted by an attack;\n**Effect** This fate is not set in stone. The attacker rolls the triggering attack twice and uses the worse result."
+    desc: "`pf2:r`  **Trigger** The dragon is targeted by an attack;\n* * *\n\n**Effect** This fate is not set in stone. The attacker rolls the triggering attack twice and uses the worse result."
 
   - name: "Untethered to Fate"
     desc: "  The dragon can choose to negate any fortune or misfortune effects that would affect them; other creatures remain affected normally."
@@ -77,7 +77,7 @@ attacks:
     desc: "DC 30, attack +22; __5th __  _[[Spells/Ill Omen|Ill Omen (At Will)]]_, _[[Spells/Mindlink|Mindlink (At Will)]]_, _[[Spells/Sure Strike|Sure Strike (x2)]]_\n__Cantrips__  __(6th)__ _[[Spells/Guidance|Guidance]]_"
 
   - name: "Destiny Breath"
-    desc: "`pf2:2` (mental,occult) The dragon breathes a translucent mist of potentialities that overwhelms creatures with visions of possible features, dealing 10d6 mental damage in a 30-foot cone (DC 30 Will check save). A creature that fails its save is [[Conditions/Slowed 1|Slowed 1]] for 1 round (or [[Conditions/Slowed 1|Slowed 2]] on a critical failure) as it struggles with the visions.\nThe dragon can't use Destiny Breath again for 1d4 rounds."
+    desc: "`pf2:2` (mental,occult) The dragon breathes a translucent mist of potentialities that overwhelms creatures with visions of possible features, dealing 10d6 mental damage in a 30-foot cone (DC 30 Will check save). A creature that fails its save is [[Conditions/Slowed 1|Slowed 1]] for 1 round (or [[Conditions/Slowed 1|Slowed 2]] on a critical failure) as it struggles with the visions.\n\nThe dragon can't use Destiny Breath again for 1d4 rounds."
 
   - name: "Draconic Frenzy"
     desc: "`pf2:2`  The dragon makes two claw Strikes and one wing Strike in any order."
@@ -86,10 +86,10 @@ attacks:
     desc: "  The dragon recharges their Destiny Breath whenever they score a critical hit with a Strike."
 
   - name: "Prophetic Wings"
-    desc: "  The dragon or any ally can glimpse into the future through the dragon's wings in a process that requires 10 minutes of concentration. This casts a 6th-rank [[Spells/Augury|Augury]] spell, except that the wings can predict results up to 1 month into the future and the dragon always speaks a few cryptic words related to the result of the prediction.\nThe dragon can use their wings in this way only once per day, and a given creature can seek a future in the wings only once per week."
+    desc: "  The dragon or any ally can glimpse into the future through the dragon's wings in a process that requires 10 minutes of concentration. This casts a 6th-rank [[Spells/Augury|Augury]] spell, except that the wings can predict results up to 1 month into the future and the dragon always speaks a few cryptic words related to the result of the prediction.\n\nThe dragon can use their wings in this way only once per day, and a given creature can seek a future in the wings only once per week."
 
   - name: "Walk the Timelines"
-    desc: "`pf2:2` (occult) **Frequency** once per hour\n**Effect** The dragon splits themself into two versions with different fates. Each copy Strides or Flies from the dragon's current space, then takes a single action. If the actions are both attacks, they use the same multiple attack penalty and count as one attack toward the dragon's multiple attack penalty.\nAfter both actions, the dragon chooses one of the two locations as their actual destination and the other version of themself disappears."
+    desc: "`pf2:2` (occult) **Frequency** once per hour\n* * *\n\n**Effect** The dragon splits themself into two versions with different fates. Each copy Strides or Flies from the dragon's current space, then takes a single action. If the actions are both attacks, they use the same multiple attack penalty and count as one attack toward the dragon's multiple attack penalty.\n\nAfter both actions, the dragon chooses one of the two locations as their actual destination and the other version of themself disappears."
  
 ```
 

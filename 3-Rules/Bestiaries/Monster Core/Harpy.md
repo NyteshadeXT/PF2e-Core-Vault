@@ -20,6 +20,7 @@ license: ORC
 columns: 2
 forcecolumns: true
 layout: Basic Pathfinder 2e Layout
+token: [[modules/pf2e-tokens-bestiaries/portraits/humanoid/hybrid/harpy.webp| ]]
 source: "Pathfinder Monster Core"
 name: "Harpy"
 level: "Creature 5"
@@ -33,11 +34,11 @@ modifier: 12
 perception:
   - name: "Perception"
     desc: "+12; Darkvision"
-languages: "Common"
+languages: "Common; Wind&#x27;s Whispers"
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +13, Deception: +11, Intimidation: +13, Performance: +11 (+16 singing), Stealth: +11, Thievery: +13"
-abilityMods: [1, 4, 0, -1, 1, 4]
+    desc: "Acrobatics: +13, Deception: +11, Intimidation: +13, Performance: +11, Stealth: +11, Thievery: +13"
+abilityMods: [1, 4, 0, -1, 1, 2]
 speed: 20 feet,  fly 60 feet
 sourcebook: "_Pathfinder Monster Core_"
 ac: 21
@@ -58,7 +59,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "[[Bestiary Ability Glossary/Stench|Stench]]"
-    desc: " (aura,olfactory) 30 feet, DC 21 Fortitude check\n"
+    desc: " (aura,olfactory) 30 feet, DC 21 Fortitude check\n\n* * *\n"
 
 attacks:
   - name: ""
@@ -73,7 +74,7 @@ attacks:
     desc: "`pf2:1` (air,concentrate,primal) The harpy uses the wind to pull its prey closer. A target within 20 feet must succeed at a DC 21 Fortitude check save or be pulled adjacent to the harpy, where they make a jaws Strike against the target. If the target was pulled off the ground and can't fly, it then falls as normal."
 
   - name: "Putrid Plague"
-    desc: " (disease) The sickened and unconscious conditions from putrid plague can't end or be reduced until the disease is cured\n**Saving Throw** DC 19 Fortitude check\n**Stage 1** carrier with no ill effect (1d4 hours),\n**Stage 2** [[Conditions/Sickened 1|Sickened 1]] (1 day),\n**Stage 3** sickened 1 and [[Conditions/Slowed 1|Slowed 1]] (1 day),\n**Stage 4** [[Conditions/Unconscious|Unconscious]] (1 day),\n**Stage 5** dead"
+    desc: " (disease) The sickened and unconscious conditions from putrid plague can't end or be reduced until the disease is cured\n\n**Saving Throw** DC 19 Fortitude check\n* * *\n\n**Stage 1** carrier with no ill effect (1d4 hours),\n\n**Stage 2** [[Conditions/Sickened 1|Sickened 1]] (1 day),\n\n**Stage 3** sickened 1 and [[Conditions/Slowed 1|Slowed 1]] (1 day),\n\n**Stage 4** [[Conditions/Unconscious|Unconscious]] (1 day),\n\n**Stage 5** dead"
  
 ```
 

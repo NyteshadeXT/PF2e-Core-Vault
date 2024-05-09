@@ -33,7 +33,7 @@ modifier: 9
 perception:
   - name: "Perception"
     desc: "+9; Darkvision, Wavesense (Imprecise) 30 Feet"
-languages: "Thalassic"
+languages: "Thalassic; Sea Speech"
 skills:
   - name: "Skills"
     desc: "Athletics: +8, Intimidation: +9, Stealth: +8, Survival: +7"
@@ -77,7 +77,7 @@ attacks:
     desc: "`pf2:2`  The sedacthy makes a jaws Strike. If it hits, an ally of their choice can spend a reaction to make a jaws Strike against the same target. Allies with beaks or similar attacks can use those instead of jaws."
 
   - name: "Wriggling Rush"
-    desc: "`pf2:1`  **Frequency** once per round;\n**Effect** The scout takes a Stride action and a Swim action, in either order. They ignore difficult terrain from mud, quicksand, and similar terrain during this movement."
+    desc: "`pf2:1`  **Frequency** once per round;\n* * *\n\n**Effect** The scout takes a Stride action and a Swim action, in either order. They ignore difficult terrain from mud, quicksand, and similar terrain during this movement."
  
 ```
 

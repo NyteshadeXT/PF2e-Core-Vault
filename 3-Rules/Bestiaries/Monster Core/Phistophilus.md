@@ -20,6 +20,7 @@ license: ORC
 columns: 2
 forcecolumns: true
 layout: Basic Pathfinder 2e Layout
+token: [[modules/pf2e-tokens-bestiaries/portraits/fiendish/devil/phistophilus.webp| ]]
 source: "Pathfinder Monster Core"
 name: "Phistophilus"
 level: "Creature 10"
@@ -33,7 +34,7 @@ modifier: 21
 perception:
   - name: "Perception"
     desc: "+21; Greater Darkvision"
-languages: "Aklo, Chthonian, Common, Diabolic, Draconic, Empyrean, Sakvroth"
+languages: "Aklo, Chthonian, Common, Diabolic, Draconic, Empyrean, Sakvroth; Telepathy 100 feet, Truespeech"
 skills:
   - name: "Skills"
     desc: "Arcana: +19, Deception: +23, Diplomacy: +21, Intimidation: +21, Legal Lore: +25, Religion: +19, Society: +19, Stealth: +18"
@@ -73,13 +74,13 @@ attacks:
     desc: "_[[Spells/Diabolic Pact|Diabolic Pact]]_"
 
   - name: "Draft Contract"
-    desc: "`pf2:3` (divine,manipulate) The contract devil produces an infernal contract for a single living mortal. This contract can grant a wide range of abilities and effects, akin to the power of a _[[Spells/Wish|Wish]]_ ritual but fulfilled to the letter by the contract devil. To receive any of those benefits, the mortal must willingly sign its true name to the contract. At that point, the mortal's soul is bound to the contract devil and Hell.\nWhile the contract is in effect, the victim can't be restored to life except by _wish_ or similar magic. If the mortal is restored to life by those means, the contract devil knows which mortal came to life and can locate the creature or creatures who restored the mortal to life for 1 year, gaining the effects of a _[[Spells/Locate|Locate]]_ spell with unlimited range. Avoiding the terms of an infernal contract is difficult and often dangerous."
+    desc: "`pf2:3` (divine,manipulate) The contract devil produces an infernal contract for a single living mortal. This contract can grant a wide range of abilities and effects, akin to the power of a _[[Spells/Wish|Wish]]_ ritual but fulfilled to the letter by the contract devil. To receive any of those benefits, the mortal must willingly sign its true name to the contract. At that point, the mortal's soul is bound to the contract devil and Hell.\n\nWhile the contract is in effect, the victim can't be restored to life except by _wish_ or similar magic. If the mortal is restored to life by those means, the contract devil knows which mortal came to life and can locate the creature or creatures who restored the mortal to life for 1 year, gaining the effects of a _[[Spells/Locate|Locate]]_ spell with unlimited range. Avoiding the terms of an infernal contract is difficult and often dangerous."
 
   - name: "Infernal Investment"
-    desc: "  A contract devil can cast a 10th-rank innate _[[Spells/Scrying|Scrying]]_ spell at will, but only to target a creature with which they have a contract.\nThe target automatically critically fails its save."
+    desc: "  A contract devil can cast a 10th-rank innate _[[Spells/Scrying|Scrying]]_ spell at will, but only to target a creature with which they have a contract.\n\nThe target automatically critically fails its save."
 
   - name: "Infernal Wound"
-    desc: " (divine) The wounds from a contract devil's Strikes resist healing.\nA spellcaster or item attempting to use healing magic on a creature suffering first attempts to counteract infernal wound (DC 29). If it is not counteracted, the healing has no effect."
+    desc: " (divine) The wounds from a contract devil's Strikes resist healing.\n\nA spellcaster or item attempting to use healing magic on a creature suffering first attempts to counteract infernal wound (DC 29). If it is not counteracted, the healing has no effect."
 
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
     desc: "`pf2:1`  "

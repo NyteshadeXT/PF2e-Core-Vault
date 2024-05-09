@@ -19,6 +19,7 @@ license: ORC
 columns: 2
 forcecolumns: true
 layout: Basic Pathfinder 2e Layout
+token: [[modules/pf2e-tokens-bestiaries/portraits/elemental/earth/grikkitog.webp| ]]
 source: "Pathfinder Monster Core"
 name: "Grikkitog"
 level: "Creature 14"
@@ -59,7 +60,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Infestation Aura"
-    desc: " (aura,earth,occult) 120 feet.\nWhile its core is implanted, a grikkitog infests all earth and stone within 120 feet, as long as there is a contiguous physical connection between the earth, including stone objects touching the ground. This effect spreads even if the grikkitog does not have line of effect, though it can affect earth or stone on the surface and exposed to the air only if at least part of its core is exposed as well.\nWithin the aura, it can grow maws and eyes everywhere. It can make jaws attacks against any creature, originating from any earth or stone in the aura adjacent to that creature. Determine cover from the origin point of the attack, not from the grikkitog's core."
+    desc: " (aura,earth,occult) 120 feet.\n\nWhile its core is implanted, a grikkitog infests all earth and stone within 120 feet, as long as there is a contiguous physical connection between the earth, including stone objects touching the ground. This effect spreads even if the grikkitog does not have line of effect, though it can affect earth or stone on the surface and exposed to the air only if at least part of its core is exposed as well.\n\nWithin the aura, it can grow maws and eyes everywhere. It can make jaws attacks against any creature, originating from any earth or stone in the aura adjacent to that creature. Determine cover from the origin point of the attack, not from the grikkitog's core."
 
 attacks:
   - name: ""
@@ -68,7 +69,7 @@ attacks:
     desc: "`pf2:1` Jaws +29 (magical)\n__Damage__  3d12 + 14 piercing plus barbed-maw"
 
   - name: "Barbed Maw"
-    desc: "  **Trigger** The grikkitog hits a creature with a jaws Strike\n**Effect** The grikkitog sinks its barbed teeth into the target, which must succeed at a DC 34 Reflex check save or be [[Conditions/Immobilized|Immobilized]]. While immobilized, the victim takes 3d8 persistent bleed damage and the grikkitog feeds upon its flesh. The creature is immobilized until the grikkitog ends the effect as a free action or the target succeeds at a DC 38 check to [[Actions/Escape|Escape]].\nThe grikkitog can immobilize any number of creatures with these maws."
+    desc: "  **Trigger** The grikkitog hits a creature with a jaws Strike\n* * *\n\n**Effect** The grikkitog sinks its barbed teeth into the target, which must succeed at a DC 34 Reflex check save or be [[Conditions/Immobilized|Immobilized]]. While immobilized, the victim takes 3d8 persistent bleed damage and the grikkitog feeds upon its flesh. The creature is immobilized until the grikkitog ends the effect as a free action or the target succeeds at a DC 38 check to [[Actions/Escape|Escape]].\n\nThe grikkitog can immobilize any number of creatures with these maws."
 
   - name: "Earth Glide"
     desc: "  The grikkitog can Burrow through dirt and stone at its full burrow Speed, leaving no tunnels or signs of its passing."

@@ -19,6 +19,7 @@ license: ORC
 columns: 2
 forcecolumns: true
 layout: Basic Pathfinder 2e Layout
+token: [[modules/pf2e-tokens-bestiaries/portraits/draconic/dragon-turtle.webp| ]]
 source: "Pathfinder Monster Core"
 name: "Dragon Turtle"
 level: "Creature 9"
@@ -53,7 +54,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Shell Block"
-    desc: "`pf2:r`  **Trigger** A creature adjacent to the dragon turtle targets it with a melee attack.\n**Effect** The dragon turtle rolls its shell toward the triggering creature, gaining a +2 circumstance bonus to its AC against the triggering attack."
+    desc: "`pf2:r`  **Trigger** A creature adjacent to the dragon turtle targets it with a melee attack.\n* * *\n\n**Effect** The dragon turtle rolls its shell toward the triggering creature, gaining a +2 circumstance bonus to its AC against the triggering attack."
 
 attacks:
   - name: ""
@@ -74,7 +75,7 @@ attacks:
     desc: "`pf2:2`  The dragon turtle makes two Claw Strikes and one Jaws Strike in any order."
 
   - name: "Tsunami"
-    desc: "`pf2:2` (primal,water) The dragon turtle unleashes their destructive prowess by creating a massive growing wave that deals 7d6 bludgeoning damage in a 60-foot cone (DC 27 Reflex check save). The wave's damage increases by 10 for creatures who are more than 30 feet away. A creature that fails its save is knocked [[Conditions/Prone|Prone]].\nThe dragon turtle can't use Tsunami again for 1d4 rounds."
+    desc: "`pf2:2` (primal,water) The dragon turtle unleashes their destructive prowess by creating a massive growing wave that deals 7d6 bludgeoning damage in a 60-foot cone (DC 27 Reflex check save). The wave's damage increases by 10 for creatures who are more than 30 feet away. A creature that fails its save is knocked [[Conditions/Prone|Prone]].\n\nThe dragon turtle can't use Tsunami again for 1d4 rounds."
  
 ```
 

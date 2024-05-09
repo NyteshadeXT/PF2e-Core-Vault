@@ -54,7 +54,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Gnomish Shift"
-    desc: "`pf2:r` (primal,teleportation) **Trigger** The gnome bard would take damage\n**Effect** The gnome bard gains resistance 2 to the triggering damage and teleports to an adjacent space."
+    desc: "`pf2:r` (primal,teleportation) **Trigger** The gnome bard would take damage\n* * *\n\n**Effect** The gnome bard gains resistance 2 to the triggering damage and teleports to an adjacent space."
 
 attacks:
   - name: ""
@@ -63,7 +63,7 @@ attacks:
     desc: "DC 19, attack +11; __1st __ (2 slots) _[[Spells/Charm|Charm]]_, _[[Spells/Command|Command]]_\n__Cantrips__  __(1st)__ _[[Spells/Courageous Anthem|Courageous Anthem]]_, _[[Spells/Daze|Daze]]_, _[[Spells/Figment|Figment]]_, _[[Spells/Message|Message]]_, _[[Spells/Prestidigitation|Prestidigitation]]_, _[[Spells/Summon Instrument|Summon Instrument]]_"
 
   - name: "Do a Jig!"
-    desc: "`pf2:1` (auditory,incapacitation,mental,occult) The gnome bard plays a ditty that inspires dance. One creature within 30 feet must make a DC 19 Will check saving throw.\n**Success** the target is unaffected.\n**Failure** The target must waste 1 action on its next turn dancing.\n**Critical Failure** The target must waste 2 actions on its next turn dancing."
+    desc: "`pf2:1` (auditory,incapacitation,mental,occult) The gnome bard plays a ditty that inspires dance. One creature within 30 feet must make a DC 19 Will check saving throw.\n* * *\n\n**Success** the target is unaffected.\n\n**Failure** The target must waste 1 action on its next turn dancing.\n\n**Critical Failure** The target must waste 2 actions on its next turn dancing."
  
 ```
 

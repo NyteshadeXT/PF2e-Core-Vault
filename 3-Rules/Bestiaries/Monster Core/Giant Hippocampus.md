@@ -19,6 +19,7 @@ license: ORC
 columns: 2
 forcecolumns: true
 layout: Basic Pathfinder 2e Layout
+token: [[modules/pf2e-tokens-bestiaries/portraits/bestial/aquatic/hippocampus-giant.webp| ]]
 source: "Pathfinder Monster Core"
 name: "Giant Hippocampus"
 level: "Creature 8"
@@ -31,6 +32,7 @@ modifier: 16
 perception:
   - name: "Perception"
     desc: "+16; Darkvision, Scent (Imprecise) 30 Feet"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Acrobatics: +14, Athletics: +20"

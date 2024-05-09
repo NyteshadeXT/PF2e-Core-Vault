@@ -19,6 +19,7 @@ license: ORC
 columns: 2
 forcecolumns: true
 layout: Basic Pathfinder 2e Layout
+token: [[modules/pf2e-tokens-bestiaries/portraits/aberrant/monstrous/will-o-wisp.webp| ]]
 source: "Pathfinder Monster Core"
 name: "Will-o'-Wisp"
 level: "Creature 6"
@@ -53,7 +54,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Glow"
-    desc: " (aura,light) 20 feet.\nA will-o'-wisp is itself naturally invisible, but glows with a colored light, casting bright light in the aura and making it visible."
+    desc: " (aura,light) 20 feet.\n\nA will-o'-wisp is itself naturally invisible, but glows with a colored light, casting bright light in the aura and making it visible."
 
   - name: "Magic Immunity"
     desc: "  A will-o'-wisp is immune to all spells except [[Spells/Force Barrage|Force Barrage]], [[Spells/Quandary|Quandary]], and [[Spells/Revealing Light|Revealing Light]]."
@@ -65,7 +66,7 @@ attacks:
     desc: "`pf2:1` Shock +17 (electricity, magical)\n__Damage__  2d8 + 4 electricity"
 
   - name: "Feed on Fear"
-    desc: "`pf2:1` (concentrate) **Frequency** once per round\n**Requirements** An enemy within 15 feet is under a fear effect or dying\n**Effect** The will-o'-wisp feeds on the creature's terror. It regains 2d4 Hit Points, and if it has Gone Dark, its glow reignites."
+    desc: "`pf2:1` (concentrate) **Frequency** once per round\n\n**Requirements** An enemy within 15 feet is under a fear effect or dying\n* * *\n\n**Effect** The will-o'-wisp feeds on the creature's terror. It regains 2d4 Hit Points, and if it has Gone Dark, its glow reignites."
 
   - name: "Go Dark"
     desc: "`pf2:1` (concentrate) The will-o'-wisp extinguishes its glow, becoming [[Conditions/Invisible|Invisible]]. It can end this effect with another use of this action. If it uses its shock attack while invisible, the arc of electricity lets any observer determine its location, making the will-o'-wisp only [[Conditions/Hidden|Hidden]] to all observers until it moves."

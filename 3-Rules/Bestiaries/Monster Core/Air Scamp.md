@@ -65,7 +65,7 @@ attacks:
     desc: "DC 17, attack +9; __2nd __  _[[Spells/Blur|Blur]]_; __1st __  _[[Spells/Gust of Wind|Gust of Wind]]_"
 
   - name: "Sirocco Breath"
-    desc: "`pf2:2` (air,arcane) The air scamp creates cutting winds in a 15-foot cone that deal 2d6 slashing damage to each creature within the area (DC 17 Reflex check save). A creature that fails its save is also pushed back 10 feet.\nThe air scamp can't use Sirocco Breath again for 1d4 rounds."
+    desc: "`pf2:2` (air,arcane) The air scamp creates cutting winds in a 15-foot cone that deal 2d6 slashing damage to each creature within the area (DC 17 Reflex check save). A creature that fails its save is also pushed back 10 feet.\n\nThe air scamp can't use Sirocco Breath again for 1d4 rounds."
  
 ```
 

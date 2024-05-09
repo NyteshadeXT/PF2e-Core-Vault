@@ -29,6 +29,7 @@ modifier: 12
 perception:
   - name: "Perception"
     desc: "+12; Darkvision"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Athletics: +13, Intimidation: +11, Stealth: +10"
@@ -50,7 +51,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Revolting Aura"
-    desc: " (aura,olfactory) 20 feet.\nA creature entering the aura or begins their turn in the aura must succeed at a DC 20 Fortitude check save or become [[Conditions/Sickened 1|Sickened 1]] (or [[Conditions/Sickened 1|Sickened 2]] on a critical failure). A creature that succeeds is temporarily immune to the aura for 1 minute."
+    desc: " (aura,olfactory) 20 feet.\n\nA creature entering the aura or begins their turn in the aura must succeed at a DC 20 Fortitude check save or become [[Conditions/Sickened 1|Sickened 1]] (or [[Conditions/Sickened 1|Sickened 2]] on a critical failure). A creature that succeeds is temporarily immune to the aura for 1 minute."
 
 attacks:
   - name: ""
@@ -62,10 +63,10 @@ attacks:
     desc: "`pf2:1` Larval Spit +14 (range increment 10 feet)\n__Damage__  2d8 bleed plus ravenous-young"
 
   - name: "Bogwid Fever"
-    desc: " (disease) **Saving Throw** DC 20 Fortitude check\n**Onset** 1 day\n**Stage 1** [[Conditions/Enfeebled 1|Enfeebled 1]] (1 day)\n**Stage 2** [[Conditions/Enfeebled 1|Enfeebled 2]], and the DC to recover from persistent bleed is increased by 2 (1 day)\n**Stage 3** [[Conditions/Enfeebled 1|Enfeebled 3]], and the DC to recover from persistent bleed is increased by 5 (1 day)\n**Stage 4** [[Conditions/Enfeebled 1|Enfeebled 4]], the DC to recover from persistent bleed is increased by 5, and you take 1d8 persistent bleed damage every 1d4 hours (1 day)\n[[Bestiary Effects/Effect_ Bogwid Fever|Effect: Bogwid Fever]]"
+    desc: " (disease) **Saving Throw** DC 20 Fortitude check\n\n**Onset** 1 day\n* * *\n\n**Stage 1** [[Conditions/Enfeebled 1|Enfeebled 1]] (1 day)\n\n**Stage 2** [[Conditions/Enfeebled 1|Enfeebled 2]], and the DC to recover from persistent bleed is increased by 2 (1 day)\n\n**Stage 3** [[Conditions/Enfeebled 1|Enfeebled 3]], and the DC to recover from persistent bleed is increased by 5 (1 day)\n\n**Stage 4** [[Conditions/Enfeebled 1|Enfeebled 4]], the DC to recover from persistent bleed is increased by 5, and you take 1d8 persistent bleed damage every 1d4 hours (1 day)\n* * *\n\n[[Bestiary Effects/Effect_ Bogwid Fever|Effect: Bogwid Fever]]"
 
   - name: "Ravenous Young"
-    desc: "  The larvae launched from the bogwid attach themselves to the target and begin to feed. Once a larva is attached, the target becomes [[Conditions/Drained 1|Drained 1]]. While the larva remains attached, the target cannot recover from persistent bleed. To remove the larva, the target can attempt a DC 21 [[Actions/Escape|Escape]] check. Additionally, any area damage dealt to the target destroys all attached larvae.\n[[Bestiary Effects/Effect_ Ravenous Young|Effect: Ravenous Young]]"
+    desc: "  The larvae launched from the bogwid attach themselves to the target and begin to feed. Once a larva is attached, the target becomes [[Conditions/Drained 1|Drained 1]]. While the larva remains attached, the target cannot recover from persistent bleed. To remove the larva, the target can attempt a DC 21 [[Actions/Escape|Escape]] check. Additionally, any area damage dealt to the target destroys all attached larvae.\n* * *\n\n[[Bestiary Effects/Effect_ Ravenous Young|Effect: Ravenous Young]]"
  
 ```
 

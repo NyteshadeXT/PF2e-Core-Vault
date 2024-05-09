@@ -20,6 +20,7 @@ license: ORC
 columns: 2
 forcecolumns: true
 layout: Basic Pathfinder 2e Layout
+token: [[modules/pf2e-tokens-bestiaries/portraits/fiendish/cythnigot.webp| ]]
 source: "Pathfinder Monster Core"
 name: "Cythnigot"
 level: "Creature 1"
@@ -33,7 +34,7 @@ modifier: 5
 perception:
   - name: "Perception"
     desc: "+5; Darkvision"
-languages: "Chthonian"
+languages: "Chthonian; Telepathy (Touch Only)"
 skills:
   - name: "Skills"
     desc: "Acrobatics: +6, Occultism: +7, Stealth: +6"
@@ -64,10 +65,10 @@ attacks:
     desc: "DC 17, attack +9; __4th __ (1 slots) _[[Spells/Read Omens|Read Omens]]_; __2nd __ (1 slots) _[[Spells/Paranoia|Paranoia]]_; __1st __ (1 slots) _[[Spells/Phantom Pain|Phantom Pain]]_\n__Cantrips__  __(1st)__ _[[Spells/Daze|Daze]]_, _[[Spells/Detect Magic|Detect Magic]]_"
 
   - name: "Sickening Display"
-    desc: "`pf2:1` (concentrate,emotion,fear,mental,occult,visual) The cythnigot presents its awful appearance fully, and creatures in a 10-foot emanation must attempt a DC 17 Will check save. Once a creature attempts this save, it's temporarily immune to further Sickening Displays for 1 minute.\n**Critical Success** The creature is unaffected.\n**Success** The creature is [[Conditions/Off-Guard|Off-Guard]] until its next turn.\n**Failure** The creature is [[Conditions/Sickened 1|Sickened 1]] and is off-guard for as long as it's sickened.\n**Critical Failure** As failure but [[Conditions/Sickened 1|Sickened 2]]."
+    desc: "`pf2:1` (concentrate,emotion,fear,mental,occult,visual) The cythnigot presents its awful appearance fully, and creatures in a 10-foot emanation must attempt a DC 17 Will check save. Once a creature attempts this save, it's temporarily immune to further Sickening Displays for 1 minute.\n* * *\n\n**Critical Success** The creature is unaffected.\n\n**Success** The creature is [[Conditions/Off-Guard|Off-Guard]] until its next turn.\n\n**Failure** The creature is [[Conditions/Sickened 1|Sickened 1]] and is off-guard for as long as it's sickened.\n\n**Critical Failure** As failure but [[Conditions/Sickened 1|Sickened 2]]."
 
   - name: "Tangle Spores"
-    desc: " (disease) A creature bitten by a cythnigot becomes afflicted by fast-growing spores that swiftly grow into twitching spikes and hideous pallid growths of hairlike fibers. These growths erupt from the bite wound and writhe and wrap around the creature's limbs. Plant creatures take a –2 circumstance penalty to save against tangle spores\n**Saving Throw** DC 17 Fortitude check;\n**Maximum Duration** 6 rounds\n**Stage 1** [[Conditions/Clumsy 1|Clumsy 1]] (1 round)\n**Stage 2** clumsy 1 and [[Conditions/Off-Guard|Off-Guard]] (1 round)\n**Stage 3** [[Conditions/Clumsy 1|Clumsy 2]], off-guard, and if you attempt a manipulate action, you must succeed at a DC 5 Flat check or it's lost; roll the check after spending the action, but before any effects are applied (1 round)."
+    desc: " (disease) A creature bitten by a cythnigot becomes afflicted by fast-growing spores that swiftly grow into twitching spikes and hideous pallid growths of hairlike fibers. These growths erupt from the bite wound and writhe and wrap around the creature's limbs. Plant creatures take a –2 circumstance penalty to save against tangle spores\n\n**Saving Throw** DC 17 Fortitude check;\n* * *\n\n**Maximum Duration** 6 rounds\n\n**Stage 1** [[Conditions/Clumsy 1|Clumsy 1]] (1 round)\n\n**Stage 2** clumsy 1 and [[Conditions/Off-Guard|Off-Guard]] (1 round)\n\n**Stage 3** [[Conditions/Clumsy 1|Clumsy 2]], off-guard, and if you attempt a manipulate action, you must succeed at a DC 5 Flat check or it's lost; roll the check after spending the action, but before any effects are applied (1 round)."
  
 ```
 

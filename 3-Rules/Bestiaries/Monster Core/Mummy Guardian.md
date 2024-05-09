@@ -20,6 +20,7 @@ license: ORC
 columns: 2
 forcecolumns: true
 layout: Basic Pathfinder 2e Layout
+token: [[modules/pf2e-tokens-bestiaries/portraits/undead/mummy-guardian.webp| ]]
 source: "Pathfinder Monster Core"
 name: "Mummy Guardian"
 level: "Creature 6"
@@ -33,7 +34,7 @@ modifier: 16
 perception:
   - name: "Perception"
     desc: "+16; Darkvision"
-languages: "Necril"
+languages: "Necril; plus any one language they knew while alive"
 skills:
   - name: "Skills"
     desc: "Athletics: +15, Stealth: +11"
@@ -58,7 +59,7 @@ abilities_mid:
     desc: "  The guardian's weakness to alchemical items not only applies to damage from alchemical items, but the guardian also takes 5 damage when splashed with non-damaging alchemical items or dosed with alchemical poisons, even if they're immune to their other effects."
 
   - name: "Blighted Consumption"
-    desc: "`pf2:r` (curse,divine,poison) **Trigger** A creature within 30 feet eats or drinks (including an alchemical item or potion)\n**Effect** The food or drink burns like the caustic substances fed to the mummy before its death. If the creature fails a DC 24 Fortitude check save, they become [[Conditions/Sickened 1|Sickened 2]] after they finish the consumption and can't reduce their sickened condition while within 30 feet of any mummy."
+    desc: "`pf2:r` (curse,divine,poison) **Trigger** A creature within 30 feet eats or drinks (including an alchemical item or potion)\n* * *\n\n**Effect** The food or drink burns like the caustic substances fed to the mummy before its death. If the creature fails a DC 24 Fortitude check save, they become [[Conditions/Sickened 1|Sickened 2]] after they finish the consumption and can't reduce their sickened condition while within 30 feet of any mummy."
 
 attacks:
   - name: ""
@@ -67,7 +68,7 @@ attacks:
     desc: "`pf2:1` Fist +16 (agile)\n__Damage__  2d10 + 7 bludgeoning plus choking-pain"
 
   - name: "Choking Pain"
-    desc: "`pf2:1` (divine,illusion,mental,void) **Requirements** The mummy's last action was a successful fist Strike\n**Effect** The mummy shares the pain of its dying moments with the target of that Strike. That creature takes 3d8 void damage with a DC 24 Will check save. If the creature critically fails the saving throw, it can't speak for 1 round, including to Cast a Spell."
+    desc: "`pf2:1` (divine,illusion,mental,void) **Requirements** The mummy's last action was a successful fist Strike\n* * *\n\n**Effect** The mummy shares the pain of its dying moments with the target of that Strike. That creature takes 3d8 void damage with a DC 24 Will check save. If the creature critically fails the saving throw, it can't speak for 1 round, including to Cast a Spell."
  
 ```
 

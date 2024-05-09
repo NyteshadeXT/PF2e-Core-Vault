@@ -19,6 +19,7 @@ license: ORC
 columns: 2
 forcecolumns: true
 layout: Basic Pathfinder 2e Layout
+token: [[modules/pf2e-tokens-bestiaries/portraits/aberrant/ooze/sewer-ooze.webp| ]]
 source: "Pathfinder Monster Core"
 name: "Sewer Ooze"
 level: "Creature 1"
@@ -31,6 +32,7 @@ modifier: 3
 perception:
   - name: "Perception"
     desc: "+3; Motion Sense (Precise) 60 Feet"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Stealth: +1 (+4 in sewers)"
@@ -61,7 +63,7 @@ attacks:
     desc: "`pf2:1` Pseudopod +9 ()\n__Damage__  1d6 + 1 bludgeoning 1d4 acid"
 
   - name: "Filth Wave"
-    desc: "`pf2:1`  **Frequency** once per minute\n**Effect** The sewer ooze unleashes a wave of filth, covering all creatures in a 20-foot emanation. Each creature in the area must succeed at a DC 17 Reflex check save or take 1d4 acid damage and take a –10-foot penalty to its Speeds for 1 minute (on a critical failure, the creature also falls [[Conditions/Prone|Prone]]).\nA creature can spend an Interact action to clean someone off, decreasing the Speed penalty by 5 feet with each action.\n[[Bestiary Effects/Effect_ Filth Wave|Effect: Filth Wave]]"
+    desc: "`pf2:1`  **Frequency** once per minute\n* * *\n\n**Effect** The sewer ooze unleashes a wave of filth, covering all creatures in a 20-foot emanation. Each creature in the area must succeed at a DC 17 Reflex check save or take 1d4 acid damage and take a –10-foot penalty to its Speeds for 1 minute (on a critical failure, the creature also falls [[Conditions/Prone|Prone]]).\n\nA creature can spend an Interact action to clean someone off, decreasing the Speed penalty by 5 feet with each action.\n\n[[Bestiary Effects/Effect_ Filth Wave|Effect: Filth Wave]]"
  
 ```
 

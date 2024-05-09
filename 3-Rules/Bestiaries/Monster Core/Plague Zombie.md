@@ -21,6 +21,7 @@ license: ORC
 columns: 2
 forcecolumns: true
 layout: Basic Pathfinder 2e Layout
+token: [[modules/pf2e-tokens-bestiaries/portraits/undead/zombie-plague.webp| ]]
 source: "Pathfinder Monster Core"
 name: "Plague Zombie"
 level: "Creature 1"
@@ -35,6 +36,7 @@ modifier: 3
 perception:
   - name: "Perception"
     desc: "+3; Darkvision"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Athletics: +9"
@@ -68,7 +70,7 @@ attacks:
     desc: "`pf2:1` Jaws +9 ()\n__Damage__  1d12 + 4 piercing plus zombie-rot"
 
   - name: "Zombie Rot"
-    desc: " (disease,divine,void) An infected creature can't heal damage it takes from zombie rot until it has been cured of the disease.\n**Saving Throw** DC 18 Fortitude check\n**Stage 1** carrier with no ill effect (1 day)\n**Stage 2** 1d6 void damage (1 day)\n**Stage 3** 1d6 void damage (1 day)\n**Stage 4** 1d6 void damage (1 day)\n**Stage 5** dead, rising as a plague zombie immediately"
+    desc: " (disease,divine,void) An infected creature can't heal damage it takes from zombie rot until it has been cured of the disease.\n* * *\n\n**Saving Throw** DC 18 Fortitude check\n\n**Stage 1** carrier with no ill effect (1 day)\n\n**Stage 2** 1d6 void damage (1 day)\n\n**Stage 3** 1d6 void damage (1 day)\n\n**Stage 4** 1d6 void damage (1 day)\n\n**Stage 5** dead, rising as a plague zombie immediately"
 
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
     desc: "`pf2:1`  "

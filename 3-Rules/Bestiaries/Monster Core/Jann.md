@@ -25,6 +25,7 @@ license: ORC
 columns: 2
 forcecolumns: true
 layout: Basic Pathfinder 2e Layout
+token: [[modules/pf2e-tokens-bestiaries/portraits/elemental/genie/janni.webp| ]]
 source: "Pathfinder Monster Core"
 name: "Jann"
 level: "Creature 4"
@@ -43,7 +44,7 @@ modifier: 11
 perception:
   - name: "Perception"
     desc: "+11; Darkvision"
-languages: "Common, Muan, Petran, Pyric, Sussuran, Talican, Thalassic"
+languages: "Common, Muan, Petran, Pyric, Sussuran, Talican, Thalassic; Truespeech"
 skills:
   - name: "Skills"
     desc: "Acrobatics: +8, Arcana: +10, Crafting: +8, Deception: +7, Survival: +11"
@@ -66,7 +67,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Commanding Presence"
-    desc: " (aura,emotion,fear,mental) 20 feet.\nA creature that enters the aura must succeed at a DC 19 Will check save or be [[Conditions/Frightened 1|Frightened 1]] ([[Conditions/Frightened 1|Frightened 2]] on a critical failure) and is then temporarily immune for 1 minute.\nA genie (with the exception of another jann) takes a –4 circumstance penalty to its save."
+    desc: " (aura,emotion,fear,mental) 20 feet.\n\nA creature that enters the aura must succeed at a DC 19 Will check save or be [[Conditions/Frightened 1|Frightened 1]] ([[Conditions/Frightened 1|Frightened 2]] on a critical failure) and is then temporarily immune for 1 minute.\n\nA genie (with the exception of another jann) takes a –4 circumstance penalty to its save."
 
   - name: "Elemental Resistance"
     desc: "  The jann's elemental resistance applies to cold, electricity, and fire damage, as well as all damage from elemental sources (including environmental damage from the elemental planes and damage from anything with the air, earth, fire, metal, water, or wood trait)."
@@ -87,13 +88,13 @@ attacks:
     desc: "DC 21, attack +13; __7th __  _[[Spells/Interplanar Teleport|Interplanar Teleport (to Astral Plane, Elemental Planes, or the Universe only)]]_; __4th __  _[[Spells/Read Omens|Read Omens]]_; __2nd __  _[[Spells/Invisibility|Invisibility (x2)]]_\n__Cantrips__  __(2nd)__ _[[Spells/Detect Magic|Detect Magic]]_, _[[Spells/Know the Way|Know the Way]]_\n__Constant__  __(5th)__ _[[Spells/Truespeech|Truespeech]]_"
 
   - name: "All Made One"
-    desc: "`pf2:1`  The jann calls upon all of the elements that make up their being to gain an additional arcane spell they can cast at will and empower their Strikes with the element, dealing an extra 1d4 damage of the listed type. These benefits last until the jann uses this ability again.\n*   Air [[Spells/Tailwind|Tailwind]], 1d4 electricity;\n*   Earth [[Spells/Pummeling Rubble|Pummeling Rubble]], 1d4 bludgeoning;\n*   Fire [[Spells/Breathe Fire|Breathe Fire]], 1d4 fire;\n*   Metal [[Spells/Thunderstrike|Thunderstrike]], 1d4 electricity;\n*   Water [[Spells/Hydraulic Push|Hydraulic Push]], 1d4 bludgeoning;\n*   Wood [[Spells/Summon Plant or Fungus|Summon Plant or Fungus]], 1d4 piercing."
+    desc: "`pf2:1`  The jann calls upon all of the elements that make up their being to gain an additional arcane spell they can cast at will and empower their Strikes with the element, dealing an extra 1d4 damage of the listed type. These benefits last until the jann uses this ability again.\n\n*   Air [[Spells/Tailwind|Tailwind]], 1d4 electricity;\n*   Earth [[Spells/Pummeling Rubble|Pummeling Rubble]], 1d4 bludgeoning;\n*   Fire [[Spells/Breathe Fire|Breathe Fire]], 1d4 fire;\n*   Metal [[Spells/Thunderstrike|Thunderstrike]], 1d4 electricity;\n*   Water [[Spells/Hydraulic Push|Hydraulic Push]], 1d4 bludgeoning;\n*   Wood [[Spells/Summon Plant or Fungus|Summon Plant or Fungus]], 1d4 piercing."
 
   - name: "[[Bestiary Ability Glossary/Change Shape|Change Shape]]"
-    desc: "`pf2:1` (arcane,concentrate,polymorph) The jann transforms into any Small or Medium animal. This doesn't affect their statistics, but it could change the damage type of their Strikes.\n"
+    desc: "`pf2:1` (arcane,concentrate,polymorph) The jann transforms into any Small or Medium animal. This doesn't affect their statistics, but it could change the damage type of their Strikes.\n\n* * *\n"
 
   - name: "Wanderer’s Wish"
-    desc: "`pf2:3`  **Frequency** three times per year\n**Effect** The jann instantly grants the benefits of a critical success with the [[Spells/Wish|Wish]] ritual to a mortal creature. This has no cost. That creature specifies what they wish for, but the interpretation is up to the jann. A jann typically attempts to grant wishes in a way that encourages growth and exploration.\nA summoned jann can't use this ability."
+    desc: "`pf2:3`  **Frequency** three times per year\n* * *\n\n**Effect** The jann instantly grants the benefits of a critical success with the [[Spells/Wish|Wish]] ritual to a mortal creature. This has no cost. That creature specifies what they wish for, but the interpretation is up to the jann. A jann typically attempts to grant wishes in a way that encourages growth and exploration.\n\nA summoned jann can't use this ability."
  
 ```
 

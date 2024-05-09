@@ -19,6 +19,7 @@ license: ORC
 columns: 2
 forcecolumns: true
 layout: Basic Pathfinder 2e Layout
+token: [[modules/pf2e-tokens-bestiaries/portraits/humanoid/giant/ogre-boss.webp| ]]
 source: "Pathfinder Monster Core"
 name: "Ogre Boss"
 level: "Creature 7"
@@ -69,7 +70,7 @@ attacks:
     desc: "`pf2:1` (auditory,emotion,fear,linguistic,mental) The ogre boss issues a command to hasten their fellows. Each ogre ally who hears and understands this command becomes [[Conditions/Quickened|Quickened]] until the end of that ally's next turn but can use the extra action only to Step or Stride."
 
   - name: "Sweeping Hook"
-    desc: "`pf2:r`  **Trigger** The ogre boss successfully [[Actions/Trip|Trips]] a creature using an ogre hook\n**Effect** The ogre boss makes an ogre hook Strike against the creature they tripped."
+    desc: "`pf2:r`  **Trigger** The ogre boss successfully [[Actions/Trip|Trips]] a creature using an ogre hook\n* * *\n\n**Effect** The ogre boss makes an ogre hook Strike against the creature they tripped."
  
 ```
 

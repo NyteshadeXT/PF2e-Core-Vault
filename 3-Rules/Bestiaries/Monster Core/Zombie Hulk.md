@@ -21,6 +21,7 @@ license: ORC
 columns: 2
 forcecolumns: true
 layout: Basic Pathfinder 2e Layout
+token: [[modules/pf2e-tokens-bestiaries/portraits/undead/zombie-hulk.webp| ]]
 source: "Pathfinder Monster Core"
 name: "Zombie Hulk"
 level: "Creature 6"
@@ -35,6 +36,7 @@ modifier: 8
 perception:
   - name: "Perception"
     desc: "+8; Darkvision"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Athletics: +18"

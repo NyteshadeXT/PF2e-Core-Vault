@@ -18,6 +18,7 @@ license: ORC
 columns: 2
 forcecolumns: true
 layout: Basic Pathfinder 2e Layout
+token: [[modules/pf2e-tokens-bestiaries/portraits/bestial/reptilian/frilled-lizard-giant.webp| ]]
 source: "Pathfinder Monster Core"
 name: "Giant Frilled Lizard"
 level: "Creature 5"
@@ -29,6 +30,7 @@ modifier: 11
 perception:
   - name: "Perception"
     desc: "+11; Low-Light Vision, Scent (Imprecise) 30 Feet"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Acrobatics: +10, Athletics: +14, Stealth: +10"
@@ -59,7 +61,7 @@ attacks:
     desc: "`pf2:1` Tail +16 (agile, reach 10 feet)\n__Damage__  2d6 + 7 bludgeoning"
 
   - name: "Intimidating Display"
-    desc: "`pf2:2` (auditory,emotion,fear,mental,visual) The giant frilled lizard Strides. If it ends that Stride adjacent to at least one other creature, it suddenly displays its colorful neck frills and issues a frightening hiss. Each adjacent creature must succeed at a DC 21 Will check save or become [[Conditions/Frightened 1|Frightened 2]] (or [[Conditions/Frightened 1|Frightened 3]] on a critical failure).\nThe creature is then temporarily immune to Intimidating Display for 1 minute."
+    desc: "`pf2:2` (auditory,emotion,fear,mental,visual) The giant frilled lizard Strides. If it ends that Stride adjacent to at least one other creature, it suddenly displays its colorful neck frills and issues a frightening hiss. Each adjacent creature must succeed at a DC 21 Will check save or become [[Conditions/Frightened 1|Frightened 2]] (or [[Conditions/Frightened 1|Frightened 3]] on a critical failure).\n\nThe creature is then temporarily immune to Intimidating Display for 1 minute."
  
 ```
 

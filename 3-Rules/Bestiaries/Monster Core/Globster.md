@@ -19,6 +19,7 @@ license: ORC
 columns: 2
 forcecolumns: true
 layout: Basic Pathfinder 2e Layout
+token: [[modules/pf2e-tokens-bestiaries/portraits/aberrant/ooze/globster.webp| ]]
 source: "Pathfinder Monster Core"
 name: "Globster"
 level: "Creature 5"
@@ -31,6 +32,7 @@ modifier: 9
 perception:
   - name: "Perception"
     desc: "+9; "
+languages: ""
 skills:
   - name: "Skills"
     desc: "Athletics: +15"
@@ -52,7 +54,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "[[Bestiary Ability Glossary/Stench|Stench]]"
-    desc: " (aura,olfactory) 30 feet, DC 19 Fortitude check\n"
+    desc: " (aura,olfactory) 30 feet, DC 19 Fortitude check\n\n* * *\n"
 
 attacks:
   - name: ""
@@ -61,10 +63,10 @@ attacks:
     desc: "`pf2:1` Tendril +15 ()\n__Damage__  2d8 + 6 bludgeoning plus grab,nauseating-slap"
 
   - name: "[[Bestiary Ability Glossary/Constrict|Constrict]]"
-    desc: "`pf2:1`  1d8 + 6 bludgeoning, DC 22 Fortitude check\n"
+    desc: "`pf2:1`  1d8 + 6 bludgeoning, DC 22 Fortitude check\n\n* * *\n"
 
   - name: "Nauseating Slap"
-    desc: " (poison) A living creature struck by a globster's tendril must attempt a DC 19 Fortitude check save. On a failure, the creature becomes [[Conditions/Sickened 1|Sickened 1]]. If the creature is already sickened, the condition value increases by 1, to a maximum of sickened 4.\nOnce a creature succeeds at its saving throw, it is temporarily immune for 24 hours."
+    desc: " (poison) A living creature struck by a globster's tendril must attempt a DC 19 Fortitude check save. On a failure, the creature becomes [[Conditions/Sickened 1|Sickened 1]]. If the creature is already sickened, the condition value increases by 1, to a maximum of sickened 4.\n\nOnce a creature succeeds at its saving throw, it is temporarily immune for 24 hours."
 
   - name: "Saturated"
     desc: "  A globster can survive for 1 hour out of the water, after which it risks drowning and suffocation."

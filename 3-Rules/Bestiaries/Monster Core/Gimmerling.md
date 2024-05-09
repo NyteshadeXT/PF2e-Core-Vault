@@ -18,6 +18,7 @@ license: ORC
 columns: 2
 forcecolumns: true
 layout: Basic Pathfinder 2e Layout
+token: [[modules/pf2e-tokens-bestiaries/portraits/fey/gimmerling.webp| ]]
 source: "Pathfinder Monster Core"
 name: "Gimmerling"
 level: "Creature 12"
@@ -55,10 +56,10 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Treacherous Aura"
-    desc: " (aura,primal) 15 feet.\nTangled roots, jagged divots, sharp rocks and other hazards appear on surfaces in the aura, creating difficult terrain."
+    desc: " (aura,primal) 15 feet.\n\nTangled roots, jagged divots, sharp rocks and other hazards appear on surfaces in the aura, creating difficult terrain."
 
   - name: "Trip Up"
-    desc: "`pf2:r`  **Trigger** A creature critically fails a melee attack to hit the gimmerling or moves into a space within the gimmerling's treacherous aura\n**Effect** The triggering creature must attempt a DC 32 Reflex check save.\n**Critical Success** The target is unaffected.\n**Success** The target is [[Conditions/Off-Guard|Off-Guard]] until the start of its next turn.\n**Failure** The target takes 2d10 bludgeoning damage and is offguard until the start of its next turn.\n**Critical Failure** As failure, and the target is knocked [[Conditions/Prone|Prone]]."
+    desc: "`pf2:r`  **Trigger** A creature critically fails a melee attack to hit the gimmerling or moves into a space within the gimmerling's treacherous aura\n* * *\n\n**Effect** The triggering creature must attempt a DC 32 Reflex check save.\n* * *\n\n**Critical Success** The target is unaffected.\n\n**Success** The target is [[Conditions/Off-Guard|Off-Guard]] until the start of its next turn.\n\n**Failure** The target takes 2d10 bludgeoning damage and is off-guard until the start of its next turn.\n\n**Critical Failure** As failure, and the target is knocked [[Conditions/Prone|Prone]]."
 
 attacks:
   - name: ""
@@ -73,10 +74,10 @@ attacks:
     desc: "`pf2:1` Hand Crossbow +28 (range increment 60 feet, reload 1)\n__Damage__  2d6 + 3 piercing 2d6 poison"
 
   - name: "[[Bestiary Ability Glossary/Change Shape|Change Shape]]"
-    desc: "`pf2:1` (concentrate,polymorph,primal) The gimmerling takes on the appearance of any humanoid. In humanoid form, They lose their treacherous aura, and their equipment appears to be trinkets or toys. If the chosen form lacks claws or fangs, they lose the matching Strike. If they lose their claw Strike, they gain a fist Strike that is identical except that it deals bludgeoning damage.\n"
+    desc: "`pf2:1` (concentrate,polymorph,primal) The gimmerling takes on the appearance of any humanoid. In humanoid form, They lose their treacherous aura, and their equipment appears to be trinkets or toys. If the chosen form lacks claws or fangs, they lose the matching Strike. If they lose their claw Strike, they gain a fist Strike that is identical except that it deals bludgeoning damage.\n\n* * *\n"
 
   - name: "Sly Disarm"
-    desc: "`pf2:2`  **Requirements** The gimmerling's last action was a successful claw Strike;\n**Effect** The gimmerling attempts to [[Actions/Disarm|Disarm]] the creature they hit. They gain a +4 status bonus on the Athletics check. This attempt neither applies nor counts toward the gimmerling's multiple attack penalty."
+    desc: "`pf2:1`  **Requirements** The gimmerling's last action was a successful claw Strike\n* * *\n\n**Effect** The gimmerling attempts to [[Actions/Disarm|Disarm]] the creature they hit. They gain a +4 status bonus on the Athletics check. This attempt neither applies nor counts toward the gimmerling's multiple attack penalty."
 
   - name: "Sneak Attack"
     desc: "  The gimmerling deals 2d6 extra precision damage to [[Conditions/Off-Guard|Off-Guard]] creatures."

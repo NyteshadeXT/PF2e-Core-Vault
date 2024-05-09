@@ -19,6 +19,7 @@ license: ORC
 columns: 2
 forcecolumns: true
 layout: Basic Pathfinder 2e Layout
+token: [[modules/pf2e-tokens-bestiaries/portraits/bestial/aquatic/sea-serpent.webp| ]]
 source: "Pathfinder Monster Core"
 name: "Sea Serpent"
 level: "Creature 12"
@@ -31,6 +32,7 @@ modifier: 22
 perception:
   - name: "Perception"
     desc: "+22; Darkvision"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Acrobatics: +18, Athletics: +26 (+28 to Swim), Stealth: +28"
@@ -70,16 +72,16 @@ attacks:
     desc: "`pf2:1` (attack) The sea serpent attempts to capsize an aquatic vessel of its size or smaller that it's adjacent to. It must succeed at an DC 35 Athletics check check with a DC of 35 (reduced by 5 for each size smaller than the sea serpent) or the pilot's Sailing Lore DC, whichever is higher."
 
   - name: "[[Bestiary Ability Glossary/Constrict|Constrict]]"
-    desc: "`pf2:1`  1d10 + 14 bludgeoning, DC 32 Fortitude check\n"
+    desc: "`pf2:1`  1d10 + 14 bludgeoning, DC 32 Fortitude check\n\n* * *\n"
 
   - name: "Sea Serpent Algae"
-    desc: " (incapacitation,poison) The water in the ballast organs around the sea serpent's neck is full of psychotropic algae.\n**Saving Throw** DC 34 Fortitude check\n**Maximum Duration** 6 rounds\n**Stage 1** [[Conditions/Confused|Confused]] and, if flying, spends its first action each turn to descend 20 feet (1 round)\n**Stage 2** confused and, if flying, descends until reaching the ground or water below (1 round)"
+    desc: " (incapacitation,poison) The water in the ballast organs around the sea serpent's neck is full of psychotropic algae.\n\n**Saving Throw** DC 34 Fortitude check\n* * *\n\n**Maximum Duration** 6 rounds\n\n**Stage 1** [[Conditions/Confused|Confused]] and, if flying, spends its first action each turn to descend 20 feet (1 round)\n\n**Stage 2** confused and, if flying, descends until reaching the ground or water below (1 round)"
 
   - name: "Spine Rake"
     desc: "`pf2:2` (attack,move) The sea serpent extends the spines along its back and Swims or Strides. Each creature the serpent is adjacent to at any point during its movement takes 4d6 + 8 slashing damage (DC 32 Reflex check save)."
 
   - name: "[[Bestiary Ability Glossary/Swallow Whole|Swallow Whole]]"
-    desc: "`pf2:1` (attack) Huge, 2d10 + 6 bludgeoning, Rupture 20\n"
+    desc: "`pf2:1` (attack) Huge, 2d10 + 6 bludgeoning, Rupture 20\n\n* * *\n"
 
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
     desc: "`pf2:1`  "

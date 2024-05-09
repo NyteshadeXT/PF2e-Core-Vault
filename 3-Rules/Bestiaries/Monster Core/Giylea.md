@@ -33,7 +33,7 @@ modifier: 28
 perception:
   - name: "Perception"
     desc: "+28; Darkvision, Truesight"
-languages: "Diabolic, Draconic, Empyrean, Utopian"
+languages: "Diabolic, Draconic, Empyrean, Utopian; Truespeech"
 skills:
   - name: "Skills"
     desc: "Acrobatics: +31, Athletics: +30, Intimidation: +29, Religion: +28, Warfare Lore: +29"
@@ -55,10 +55,10 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "All-Knowing Eyes"
-    desc: " (aura,divine,mental,visual) 30 feet.\nWhen a creature ends its turn in the giylea's aura, it must attempt a DC 34 Will check save. If the creature fails, any Deception check it attempts until the end of its next turn has its result reduced by one degree of success. If a creature is currently disguised or in a shape other than its true form when it fails its save, it also becomes [[Conditions/Stupefied 1|Stupefied 1]] until the end of its next turn."
+    desc: " (aura,divine,mental,visual) 30 feet.\n\nWhen a creature ends its turn in the giylea's aura, it must attempt a DC 34 Will check save. If the creature fails, any Deception check it attempts until the end of its next turn has its result reduced by one degree of success. If a creature is currently disguised or in a shape other than its true form when it fails its save, it also becomes [[Conditions/Stupefied 1|Stupefied 1]] until the end of its next turn."
 
   - name: "[[Actor.oTw6wAZmGiL3oGWR.Item.fHJ8nd0W2SbII4o1|Archon's Protection]]"
-    desc: "`pf2:r`  **Trigger** An enemy damages the archon's ally and both are within 15 feet of the archon\n**Effect** The ally gains resistance 20 to all damage against the triggering damage and the archon can make a Strike against the enemy."
+    desc: "`pf2:r`  **Trigger** An enemy damages the archon's ally and both are within 15 feet of the archon\n* * *\n\n**Effect** The ally gains resistance 20 to all damage against the triggering damage and the archon can make a Strike against the enemy."
 
 attacks:
   - name: ""

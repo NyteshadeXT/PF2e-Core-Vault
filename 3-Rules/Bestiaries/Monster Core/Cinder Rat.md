@@ -19,6 +19,7 @@ license: ORC
 columns: 2
 forcecolumns: true
 layout: Basic Pathfinder 2e Layout
+token: [[modules/pf2e-tokens-bestiaries/portraits/elemental/fire/cinder-rat.webp| ]]
 source: "Pathfinder Monster Core"
 name: "Cinder Rat"
 level: "Creature 3"
@@ -31,6 +32,7 @@ modifier: 9
 perception:
   - name: "Perception"
     desc: "+9; Darkvision"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Acrobatics: +10, Stealth: +10, Survival: +9"
@@ -55,7 +57,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Fetid Fumes"
-    desc: " (aura,fire) 5 feet.\nA creature that enters the aura or begins its turn there must succeed at a DC 22 Fortitude check save or become [[Conditions/Sickened 1|Sickened 1]].\nEverything within the aura, including the cinder rat, is [[Conditions/Concealed|Concealed]] by smoke."
+    desc: " (aura,fire) 5 feet.\n\nA creature that enters the aura or begins its turn there must succeed at a DC 22 Fortitude check save or become [[Conditions/Sickened 1|Sickened 1]].\n\nEverything within the aura, including the cinder rat, is [[Conditions/Concealed|Concealed]] by smoke."
 
 attacks:
   - name: ""

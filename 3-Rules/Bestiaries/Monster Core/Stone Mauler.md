@@ -19,6 +19,7 @@ license: ORC
 columns: 2
 forcecolumns: true
 layout: Basic Pathfinder 2e Layout
+token: [[modules/pf2e-tokens-bestiaries/portraits/elemental/earth/stone-mauler.webp| ]]
 source: "Pathfinder Monster Core"
 name: "Stone Mauler"
 level: "Creature 9"
@@ -56,10 +57,10 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Crumble"
-    desc: "`pf2:r`  **Trigger** The stone mauler takes damage from a hostile source while atop rock or earth\n**Effect** The stone mauler crumbles into the ground, Burrowing down 15 feet. This Burrowing does not trigger reactions.\nThe stone mauler can't Crumble again for 1d4 rounds."
+    desc: "`pf2:r`  **Trigger** The stone mauler takes damage from a hostile source while atop rock or earth\n* * *\n\n**Effect** The stone mauler crumbles into the ground, Burrowing down 15 feet. This Burrowing does not trigger reactions.\n\nThe stone mauler can't Crumble again for 1d4 rounds."
 
   - name: "Spike Stones"
-    desc: " (aura,earth,primal) 5 feet.\nSpikes of rock rise up from all stone surfaces in the emanation, creating difficult terrain. A creature moving in the terrain takes 2d6 piercing damage for each square of spikes it moves into (a Large or larger creature takes damage only once for each square it moves, even if its space covers multiple squares of spikes). Creatures with the earth trait ignore all effects within the area.\nThe stone mauler can disable or activate this aura using a single action, which has the concentrate trait."
+    desc: " (aura,earth,primal) 5 feet.\n\nSpikes of rock rise up from all stone surfaces in the emanation, creating difficult terrain. A creature moving in the terrain takes 2d6 piercing damage for each square of spikes it moves into (a Large or larger creature takes damage only once for each square it moves, even if its space covers multiple squares of spikes). Creatures with the earth trait ignore all effects within the area.\n\nThe stone mauler can disable or activate this aura using a single action, which has the concentrate trait."
 
 attacks:
   - name: ""

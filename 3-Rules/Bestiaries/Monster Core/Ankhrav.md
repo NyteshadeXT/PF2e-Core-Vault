@@ -18,6 +18,7 @@ license: ORC
 columns: 2
 forcecolumns: true
 layout: Basic Pathfinder 2e Layout
+token: [[modules/pf2e-tokens-bestiaries/portraits/bestial/invertebrate/ankhrav.webp| ]]
 source: "Pathfinder Monster Core"
 name: "Ankhrav"
 level: "Creature 3"
@@ -29,6 +30,7 @@ modifier: 7
 perception:
   - name: "Perception"
     desc: "+7; Darkvision, Tremorsense (Imprecise) 60 Feet"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Acrobatics: +6, Athletics: +11, Stealth: +8"
@@ -62,7 +64,7 @@ attacks:
     desc: "`pf2:2`  The ankhrav makes a mandibles Strike; if the Strike hits, the target's armor takes the damage and the acid damage bypasses the armor's Hardness."
 
   - name: "Spray Acid"
-    desc: "`pf2:2` (acid) **Frequency** once per hour\n**Effect** The ankhrav spews acid in a 30-foot cone, dealing 3d6 acid damage and 1d6 persistent acid damage (DC 20 Reflex check save)."
+    desc: "`pf2:2` (acid) **Frequency** once per hour\n* * *\n\n**Effect** The ankhrav spews acid in a 30-foot cone, dealing 3d6 acid damage and 1d6 persistent acid damage (DC 20 Reflex check save)."
  
 ```
 

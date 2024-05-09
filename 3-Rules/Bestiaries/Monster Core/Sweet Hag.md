@@ -31,7 +31,7 @@ modifier: 10
 perception:
   - name: "Perception"
     desc: "+10; Darkvision"
-languages: "Aklo, Common, Fey, Jotun"
+languages: "Aklo, Common, Fey, Jotun; Truespeech"
 skills:
   - name: "Skills"
     desc: "Acrobatics: +9, Athletics: +11, Deception: +10, Nature: +8, Occultism: +8, Society: +9"
@@ -51,7 +51,7 @@ abilities_top:
   - name: ""
 
   - name: "[[Bestiary Ability Glossary/Coven|Coven]]"
-    desc: " (mental,occult) A sweet hag adds [[Spells/Charm|Charm]], [[Spells/Honeyed Words|Honeyed Words]], and [[Spells/Outcast's Curse|Outcast's Curse]] to their coven's spells.\n"
+    desc: " (mental,occult) A sweet hag adds [[Spells/Charm|Charm]], [[Spells/Honeyed Words|Honeyed Words]], and [[Spells/Outcast's Curse|Outcast's Curse]] to their coven's spells.\n\n* * *\n"
 
 abilities_mid:
   - name: ""
@@ -74,13 +74,13 @@ attacks:
     desc: "`pf2:1`  The sweet hag touches a creature that doesn't realize the hag is an enemy. The betrayed creature is affected by soporific strike with a –4 circumstance penalty to their saving throw."
 
   - name: "[[Bestiary Ability Glossary/Change Shape|Change Shape]]"
-    desc: "`pf2:1` (concentrate,occult,polymorph) The sweet hag can take on the appearance of any Medium humanoid woman. This doesn't change their Speed or their attack and damage bonuses with their Strikes, but it might change the damage type their Strikes deal (typically to bludgeoning).\n"
+    desc: "`pf2:1` (concentrate,occult,polymorph) The sweet hag can take on the appearance of any Medium humanoid woman. This doesn't change their Speed or their attack and damage bonuses with their Strikes, but it might change the damage type their Strikes deal (typically to bludgeoning).\n\n* * *\n"
 
   - name: "Poisoned Candy"
     desc: "`pf2:2` (occult) The sweet hag casts an innate spell that can normally target 1 creature on a piece of food, typically a sweet treat. The spell is stored in the food. The first creature that eats any of the food is affected by the spell and takes a –4 circumstance penalty to their saving throw against that effect."
 
   - name: "Soporific Touch"
-    desc: " (incapacitation,occult) A creature damaged by a sweet hag's claw must succeed at a DC 20 Fortitude check save or be [[Conditions/Enfeebled 1|Enfeebled 1]] for 1 day.\nIf the creature critically fails or fails this save while already enfeebled by soporific strike, it falls [[Conditions/Unconscious|Unconscious]] and dreams of eating delicious sweets; this is a mental sleep effect. If not woken up before 1 minute passes, the creature wakes up automatically."
+    desc: " (incapacitation,occult) A creature damaged by a sweet hag's claw must succeed at a DC 20 Fortitude check save or be [[Conditions/Enfeebled 1|Enfeebled 1]] for 1 day.\n\nIf the creature critically fails or fails this save while already enfeebled by soporific strike, it falls [[Conditions/Unconscious|Unconscious]] and dreams of eating delicious sweets; this is a mental sleep effect. If not woken up before 1 minute passes, the creature wakes up automatically."
  
 ```
 

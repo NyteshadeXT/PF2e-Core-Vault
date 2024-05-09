@@ -19,6 +19,7 @@ license: ORC
 columns: 2
 forcecolumns: true
 layout: Basic Pathfinder 2e Layout
+token: [[modules/pf2e-tokens-bestiaries/portraits/bestial/reptilian/compsognathus.webp| ]]
 source: "Pathfinder Monster Core"
 name: "Compsognathus"
 level: "Creature -1"
@@ -31,6 +32,7 @@ modifier: 5
 perception:
   - name: "Perception"
     desc: "+5; Low-Light Vision, Scent (Imprecise) 30 Feet"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Acrobatics: +6, Stealth: +6"
@@ -58,7 +60,7 @@ attacks:
     desc: "`pf2:1` Jaws +7 (agile, finesse, reach 0 feet)\n__Damage__  1d6 piercing plus compsognathus-venom"
 
   - name: "Compsognathus Venom"
-    desc: " (poison) **Saving Throw** DC 16 Fortitude check\n**Maximum Duration** 4 rounds\n**Stage 1** 1d6 poison damage and [[Conditions/Enfeebled 1|Enfeebled 1]] (1 round)\n**Stage 2** 1d8 poison damage and Enfeebled 1 (1 round)"
+    desc: " (poison) **Saving Throw** DC 16 Fortitude check\n\n**Maximum Duration** 4 rounds\n\n**Stage 1** 1d6 poison damage and [[Conditions/Enfeebled 1|Enfeebled 1]] (1 round)\n\n**Stage 2** 1d8 poison damage and Enfeebled 1 (1 round)"
  
 ```
 

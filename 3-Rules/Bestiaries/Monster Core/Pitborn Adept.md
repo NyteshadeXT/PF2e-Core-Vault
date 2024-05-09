@@ -20,6 +20,7 @@ license: ORC
 columns: 2
 forcecolumns: true
 layout: Basic Pathfinder 2e Layout
+token: [[modules/pf2e-tokens-bestiaries/portraits/humanoid/tiefling-adept.webp| ]]
 source: "Pathfinder Monster Core"
 name: "Pitborn Adept"
 level: "Creature 3"
@@ -68,7 +69,7 @@ attacks:
     desc: "DC 17, attack +9; __2nd __  _[[Spells/Darkness|Darkness]]_"
 
   - name: "Drain Bonded Item"
-    desc: "  **Frequency** once per day\n**Requirements** The adept hasn't acted yet on this turn\n**Effect** The adept expends the power stored in its staff. This gives the adept the ability to cast one prepared spell it had already previously cast today (choosing a different spell rank each time), without spending a spell slot. The adept must still Cast the Spell and meet the spell's other requirements."
+    desc: "  **Frequency** once per day\n\n**Requirements** The adept hasn't acted yet on this turn\n* * *\n\n**Effect** The adept expends the power stored in its staff. This gives the adept the ability to cast one prepared spell it had already previously cast today (choosing a different spell rank each time), without spending a spell slot. The adept must still Cast the Spell and meet the spell's other requirements."
  
 ```
 

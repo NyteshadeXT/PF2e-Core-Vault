@@ -19,6 +19,7 @@ license: ORC
 columns: 2
 forcecolumns: true
 layout: Basic Pathfinder 2e Layout
+token: [[modules/pf2e-tokens-bestiaries/portraits/elemental/fire/living-wildfire.webp| ]]
 source: "Pathfinder Monster Core"
 name: "Living Wildfire"
 level: "Creature 5"
@@ -68,7 +69,7 @@ attacks:
     desc: "`pf2:1` Fire Mote +15 (range increment 60 feet)\n__Damage__  2d6 + 3 fire"
 
   - name: "Spreading Flames"
-    desc: "`pf2:1` (fire,primal) **Requirements** The living wildfire's last action was a Strike that dealt fire damage\n**Effect** The fire flares, dealing 3d6 fire damage to each creature adjacent to that target with a DC 19 Reflex check save."
+    desc: "`pf2:1` (fire,primal) **Requirements** The living wildfire's last action was a Strike that dealt fire damage\n* * *\n\n**Effect** The fire flares, dealing 3d6 fire damage to each creature adjacent to that target with a DC 19 Reflex check save."
  
 ```
 

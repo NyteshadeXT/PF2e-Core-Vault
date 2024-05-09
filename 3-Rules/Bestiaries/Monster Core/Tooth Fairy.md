@@ -18,6 +18,7 @@ license: ORC
 columns: 2
 forcecolumns: true
 layout: Basic Pathfinder 2e Layout
+token: [[modules/pf2e-tokens-bestiaries/portraits/fey/fairy/tooth-fairy.webp| ]]
 source: "Pathfinder Monster Core"
 name: "Tooth Fairy"
 level: "Creature -1"
@@ -64,7 +65,7 @@ attacks:
     desc: "DC 13, attack +5; __1st __  _[[Spells/Sleep|Sleep]]_\n__Cantrips__  __(1st)__ _[[Spells/Telekinetic Hand|Telekinetic Hand]]_"
 
   - name: "Tooth Tug"
-    desc: "`pf2:1` (manipulate) **Requirements** The tooth fairy's last action was a successful pliers Strike against a creature with teeth\n**Effect** The tooth fairy attempts a Thievery check check against the creature's Fortitude DC, dealing 2 bleed damage on any result but a critical failure. On a critical success, it also pulls out one of the target's teeth.\nIf the creature loses a tooth, it takes a –1 status penalty to Charisma-based skill checks and must succeed at a DC 5 Flat check to Cast a Spell unless that spell has the subtle trait. These effects last for 1 day, or until the stolen tooth is returned and the target regains at least 1 Hit Point."
+    desc: "`pf2:1` (manipulate) **Requirements** The tooth fairy's last action was a successful pliers Strike against a creature with teeth\n* * *\n\n**Effect** The tooth fairy attempts a Thievery check check against the creature's Fortitude DC, dealing 2 bleed damage on any result but a critical failure. On a critical success, it also pulls out one of the target's teeth.\n\nIf the creature loses a tooth, it takes a –1 status penalty to Charisma-based skill checks and must succeed at a DC 5 Flat check to Cast a Spell unless that spell has the subtle trait. These effects last for 1 day, or until the stolen tooth is returned and the target regains at least 1 Hit Point."
  
 ```
 

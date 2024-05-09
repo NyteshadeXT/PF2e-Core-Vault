@@ -18,6 +18,7 @@ license: ORC
 columns: 2
 forcecolumns: true
 layout: Basic Pathfinder 2e Layout
+token: [[modules/pf2e-tokens-bestiaries/portraits/bestial/invertebrate/tarantula-giant.webp| ]]
 source: "Pathfinder Monster Core"
 name: "Giant Tarantula"
 level: "Creature 6"
@@ -29,6 +30,7 @@ modifier: 14
 perception:
   - name: "Perception"
     desc: "+14; Darkvision"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Acrobatics: +9, Athletics: +16, Stealth: +11"
@@ -59,7 +61,7 @@ attacks:
     desc: "`pf2:1` Leg +17 (reach 10 feet)\n__Damage__  1d12 + 8 bludgeoning plus knockdown"
 
   - name: "Giant Tarantula Venom"
-    desc: " (poison) **Saving Throw** DC 23 Fortitude check\n**Maximum Duration** 8 rounds\n**Stage 1** 1d10 poison damage (1 round)\n**Stage 2** 1d12 poison damage, [[Conditions/Clumsy 1|Clumsy 1]], and [[Conditions/Off-Guard|Off-Guard]] (1 round)\n**Stage 3** 2d6 poison damage, [[Conditions/Clumsy 1|Clumsy 2]], and off-guard (1 round)\n**Stage 4** 2d6 poison damage and [[Conditions/Paralyzed|Paralyzed]] (1 round)"
+    desc: " (poison) **Saving Throw** DC 23 Fortitude check\n* * *\n\n**Maximum Duration** 8 rounds\n\n**Stage 1** 1d10 poison damage (1 round)\n\n**Stage 2** 1d12 poison damage, [[Conditions/Clumsy 1|Clumsy 1]], and [[Conditions/Off-Guard|Off-Guard]] (1 round)\n\n**Stage 3** 2d6 poison damage, [[Conditions/Clumsy 1|Clumsy 2]], and off-guard (1 round)\n\n**Stage 4** 2d6 poison damage and [[Conditions/Paralyzed|Paralyzed]] (1 round)"
 
   - name: "Hair Barrage"
     desc: "`pf2:2`  The tarantula flicks its legs, flinging spiky hairs in a 15-foot cone. This deals 4d6 piercing damage with a DC 25 Reflex check save."

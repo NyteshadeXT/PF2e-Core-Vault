@@ -18,6 +18,7 @@ license: ORC
 columns: 2
 forcecolumns: true
 layout: Basic Pathfinder 2e Layout
+token: [[modules/pf2e-tokens-bestiaries/portraits/bestial/invertebrate/wasp-giant.webp| ]]
 source: "Pathfinder Monster Core"
 name: "Giant Wasp"
 level: "Creature 3"
@@ -29,6 +30,7 @@ modifier: 8
 perception:
   - name: "Perception"
     desc: "+8; Darkvision"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Acrobatics: +11, Athletics: +9"
@@ -56,13 +58,13 @@ attacks:
     desc: "`pf2:1` Stinger +12 (poison)\n__Damage__  1d12 + 4 piercing plus giant-wasp-venom"
 
   - name: "Giant Wasp Venom"
-    desc: " (incapacitation,poison) **Saving Throw** DC 19 Fortitude check\n**Maximum Duration** 6 rounds\n**Stage 1** no effect (1 round)\n**Stage 2** [[Conditions/Clumsy 1|Clumsy 2]] (1 round)\n**Stage 3** [[Conditions/Paralyzed|Paralyzed]] (1 round)"
+    desc: " (incapacitation,poison) **Saving Throw** DC 19 Fortitude check\n* * *\n\n**Maximum Duration** 6 rounds\n\n**Stage 1** no effect (1 round)\n\n**Stage 2** [[Conditions/Clumsy 1|Clumsy 2]] (1 round)\n\n**Stage 3** [[Conditions/Paralyzed|Paralyzed]] (1 round)"
 
   - name: "Implant Eggs"
     desc: "`pf2:1`  The giant wasp lays eggs in an adjacent creature that is [[Conditions/Paralyzed|Paralyzed]] or [[Conditions/Unconscious|Unconscious]], exposing it to the wasp larva disease."
 
   - name: "Wasp Larva"
-    desc: " (disease) **Saving Throw** DC 21 Fortitude check\n**Stage 1** carrier with no ill effect (1d6 days)\n**Stage 2** [[Conditions/Drained 1|Drained 1]] (1d3 days)\n**Stage 3** 5d6 damage, larva emerges (disease ends)"
+    desc: " (disease) **Saving Throw** DC 21 Fortitude check\n* * *\n\n**Stage 1** carrier with no ill effect (1d6 days)\n\n**Stage 2** [[Conditions/Drained 1|Drained 1]] (1d3 days)\n\n**Stage 3** 5d6 damage, larva emerges (disease ends)"
  
 ```
 

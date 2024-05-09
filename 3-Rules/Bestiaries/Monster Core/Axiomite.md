@@ -19,6 +19,7 @@ license: ORC
 columns: 2
 forcecolumns: true
 layout: Basic Pathfinder 2e Layout
+token: [[modules/pf2e-tokens-bestiaries/portraits/monitor/aeon/axiomite.webp| ]]
 source: "Pathfinder Monster Core"
 name: "Axiomite"
 level: "Creature 8"
@@ -66,7 +67,7 @@ attacks:
     desc: "DC 27, attack +17; __5th __  _[[Spells/Telekinetic Haul|Telekinetic Haul]]_; __4th __  _[[Spells/Dispel Magic|Dispel Magic]]_, _[[Spells/Lightning Bolt|Lightning Bolt (x3)]]_; __3rd __  _[[Spells/Haste|Haste (x3)]]_, _[[Spells/Paralyze|Paralyze]]_; __2nd __  _[[Spells/Telekinetic Maneuver|Telekinetic Maneuver]]_; __1st __  _[[Spells/Sure Strike|Sure Strike (At Will)]]_\n__Cantrips__  __(4th)__ _[[Spells/Telekinetic Projectile|Telekinetic Projectile]]_"
 
   - name: "Crystalline Dust Form"
-    desc: "`pf2:1` (polymorph) The axiomite shifts their form to a cloud of crystalline dust in which strange symbols and equations flash.\nThey gain a fly Speed of 40 feet and can fit through even tiny apertures, similar to vapor form. They can cast spells but can't make melee or ranged attacks.\nThe axiomite can [[Actions/Dismiss|Dismiss]] this form to return to humanoid form."
+    desc: "`pf2:1` (polymorph) The axiomite shifts their form to a cloud of crystalline dust in which strange symbols and equations flash.\n\nThey gain a fly Speed of 40 feet and can fit through even tiny apertures, similar to vapor form. They can cast spells but can't make melee or ranged attacks.\n\nThe axiomite can [[Actions/Dismiss|Dismiss]] this form to return to humanoid form."
  
 ```
 

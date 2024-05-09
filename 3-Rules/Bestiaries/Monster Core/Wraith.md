@@ -21,6 +21,7 @@ license: ORC
 columns: 2
 forcecolumns: true
 layout: Basic Pathfinder 2e Layout
+token: [[modules/pf2e-tokens-bestiaries/portraits/undead/ghostly/wraith.webp| ]]
 source: "Pathfinder Monster Core"
 name: "Wraith"
 level: "Creature 6"
@@ -69,10 +70,10 @@ attacks:
     desc: "`pf2:2` (emotion,fear,mental,nonlethal) The wraith reaches into an adjacent creature's chest, gripping their heart. The target takes 6d6 mental damage with a DC 24 Will check save. On a critical failure, the creature is also [[Conditions/Paralyzed|Paralyzed]] until the start of the wraith's next turn."
 
   - name: "Robes of Welcome"
-    desc: "`pf2:1` (divine,void) **Frequency** once per round\n**Effect** The wraith wraps its robes around an adjacent living creature, exposing it to void's embrace. If any creature is cursed by the wraith's void's embrace, the wraith can't impose void's embrace on another creature."
+    desc: "`pf2:1` (divine,void) **Frequency** once per round\n* * *\n\n**Effect** The wraith wraps its robes around an adjacent living creature, exposing it to void's embrace. If any creature is cursed by the wraith's void's embrace, the wraith can't impose void's embrace on another creature."
 
   - name: "Void's Embrace"
-    desc: " (curse,death,divine,void) If the victim succeeds at a saving throw against this curse while in sunlight, the curse ends. While you have this curse, you bypass the resistance of the wraith that cursed you;\n**Saving Throw** DC 24 Will check\n**Stage 1** the victim is [[Conditions/Dazzled|Dazzled]] in any light (1 hour)\n**Stage 2** the victim gains lifesense 30 feet but is [[Conditions/Blinded|Blinded]] in any light (1 hour)\n**Stage 3** as stage 2, but the creature also has [[Bestiary Ability Glossary/Void Healing|Void Healing]] (1 hour)\n**Stage 4** the victim becomes [[Conditions/Unconscious|Unconscious]] and can't awaken (1 day)\n**Stage 5** the creature dies and becomes a wraith, its body crumbling to ash"
+    desc: " (curse,death,divine,void) If the victim succeeds at a saving throw against this curse while in sunlight, the curse ends. While you have this curse, you bypass the resistance of the wraith that cursed you;\n\n**Saving Throw** DC 24 Will check\n* * *\n\n**Stage 1** the victim is [[Conditions/Dazzled|Dazzled]] in any light (1 hour)\n\n**Stage 2** the victim gains lifesense 30 feet but is [[Conditions/Blinded|Blinded]] in any light (1 hour)\n\n**Stage 3** as stage 2, but the creature also has [[Bestiary Ability Glossary/Void Healing|Void Healing]] (1 hour)\n\n**Stage 4** the victim becomes [[Conditions/Unconscious|Unconscious]] and can't awaken (1 day)\n\n**Stage 5** the creature dies and becomes a wraith, its body crumbling to ash"
  
 ```
 

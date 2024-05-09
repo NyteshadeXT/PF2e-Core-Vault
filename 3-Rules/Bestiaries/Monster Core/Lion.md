@@ -18,6 +18,7 @@ license: ORC
 columns: 2
 forcecolumns: true
 layout: Basic Pathfinder 2e Layout
+token: [[modules/pf2e-tokens-bestiaries/portraits/bestial/mammalian/lion.webp| ]]
 source: "Pathfinder Monster Core"
 name: "Lion"
 level: "Creature 3"
@@ -29,9 +30,10 @@ modifier: 9
 perception:
   - name: "Perception"
     desc: "+9; Low-Light Vision, Scent (Imprecise) 30 Feet"
+languages: ""
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +8, Athletics: +11, Stealth: +10"
+    desc: "Acrobatics: +8, Athletics: +9, Stealth: +10"
 abilityMods: [4, 3, 2, -4, 2, -2]
 speed: 30 feet
 sourcebook: "_Pathfinder Monster Core_"

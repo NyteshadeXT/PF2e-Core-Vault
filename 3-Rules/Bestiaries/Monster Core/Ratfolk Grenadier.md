@@ -19,6 +19,7 @@ license: ORC
 columns: 2
 forcecolumns: true
 layout: Basic Pathfinder 2e Layout
+token: [[modules/pf2e-tokens-bestiaries/portraits/humanoid/ratfolk-grenadier.webp| ]]
 source: "Pathfinder Monster Core"
 name: "Ratfolk Grenadier"
 level: "Creature 4"
@@ -75,7 +76,7 @@ attacks:
     desc: "`pf2:1`  The ratfolk grenadier draws an alchemical grenade with an Interact action and throws it as a ranged Strike."
 
   - name: "Quick Stow"
-    desc: "  **Frequency** once per round\n**Effect** The ratfolk grenadier stores one held item of light or negligible Bulk in its cheek pouches."
+    desc: "  **Frequency** once per round\n* * *\n\n**Effect** The ratfolk grenadier stores one held item of light or negligible Bulk in its cheek pouches."
 
   - name: "Swarming"
     desc: "  A ratfolk grenadier can end its movement in the same square as an ally that also has this ability. Only two such creatures can share the same space."

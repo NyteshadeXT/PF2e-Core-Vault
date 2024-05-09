@@ -18,6 +18,7 @@ license: ORC
 columns: 2
 forcecolumns: true
 layout: Basic Pathfinder 2e Layout
+token: [[modules/pf2e-tokens-bestiaries/portraits/bestial/reptilian/deinosuchus.webp| ]]
 source: "Pathfinder Monster Core"
 name: "Deinosuchus"
 level: "Creature 9"
@@ -29,6 +30,7 @@ modifier: 17
 perception:
   - name: "Perception"
     desc: "+17; Low-Light Vision"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Athletics: +20, Stealth: +16 (+20 in water)"
@@ -65,7 +67,7 @@ attacks:
     desc: "`pf2:1`  50 feet"
 
   - name: "[[Bestiary Ability Glossary/Swallow Whole|Swallow Whole]]"
-    desc: "`pf2:1` (attack) Large, 2d8 + 7 bludgeoning, Rupture 18\n"
+    desc: "`pf2:1` (attack) Large, 2d8 + 7 bludgeoning, Rupture 18\n\n* * *\n"
 
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
     desc: "`pf2:1`  "

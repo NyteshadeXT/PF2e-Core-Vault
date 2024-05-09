@@ -20,6 +20,7 @@ license: ORC
 columns: 2
 forcecolumns: true
 layout: Basic Pathfinder 2e Layout
+token: [[modules/pf2e-tokens-bestiaries/portraits/fiendish/daemon/leukodaemon.webp| ]]
 source: "Pathfinder Monster Core"
 name: "Leukodaemon"
 level: "Creature 9"
@@ -33,7 +34,7 @@ modifier: 20
 perception:
   - name: "Perception"
     desc: "+20; Darkvision"
-languages: "Daemonic"
+languages: "Daemonic; Telepathy 100 feet"
 skills:
   - name: "Skills"
     desc: "Acrobatics: +18, Intimidation: +18, Medicine: +20, Religion: +20, Stealth: +18, Survival: +16"
@@ -59,7 +60,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Infectious Aura"
-    desc: " (aura,disease) 30 feet.\nLeukodaemons radiate infection. All creatures within 30 feet of a leukodaemon take a –2 status penalty to saves against disease. If a creature within range contracts or progresses a disease, all adjacent creatures are exposed to the same disease, at the same DC.\n[[Bestiary Effects/Effect_ Infectious Aura|Effect: Infectious Aura]]"
+    desc: " (aura,disease) 30 feet.\n\nLeukodaemons radiate infection. All creatures within 30 feet of a leukodaemon take a –2 status penalty to saves against disease. If a creature within range contracts or progresses a disease, all adjacent creatures are exposed to the same disease, at the same DC.\n\n[[Bestiary Effects/Effect_ Infectious Aura|Effect: Infectious Aura]]"
 
 attacks:
   - name: ""
@@ -77,7 +78,7 @@ attacks:
     desc: "DC 26, attack +18; __5th __  _[[Spells/Translocate|Translocate]]_; __4th __  _[[Spells/Dispel Magic|Dispel Magic (x2)]]_, _[[Spells/Translocate|Translocate (At Will)]]_"
 
   - name: "Daemonic Pestilence"
-    desc: " (disease) The leukodaemon can telepathically communicate with the afflicted creature at any distance on the same plane\n**Saving Throw** DC 28 Fortitude check\n**Stage 1** carrier (1 day)\n**Stage 2** [[Conditions/Drained 1|Drained 1]] (1 day)\n**Stage 3** [[Conditions/Drained 1|Drained 2]] (1 day)\n**Stage 4** drained 2 (1 day)\n**Stage 5** [[Conditions/Drained 1|Drained 3]] (1 week)\n**Stage 6** dead"
+    desc: " (disease) The leukodaemon can telepathically communicate with the afflicted creature at any distance on the same plane\n\n**Saving Throw** DC 28 Fortitude check\n* * *\n\n**Stage 1** carrier (1 day)\n\n**Stage 2** [[Conditions/Drained 1|Drained 1]] (1 day)\n\n**Stage 3** [[Conditions/Drained 1|Drained 2]] (1 day)\n\n**Stage 4** drained 2 (1 day)\n\n**Stage 5** [[Conditions/Drained 1|Drained 3]] (1 week)\n\n**Stage 6** dead"
 
   - name: "Plague Breath"
     desc: "`pf2:2` (divine,unholy) The leukodaemon exhales a cloud of corpse-bloated, biting black flies in a 20-foot cone. Creatures within the cone take 4d8 piercing damage (DC 28 Reflex check save). A creature that fails the save becomes [[Conditions/Sickened 1|Sickened 1]] (or [[Conditions/Sickened 1|Sickened 2]] on a critical failure)."

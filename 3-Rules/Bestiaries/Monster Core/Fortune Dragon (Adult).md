@@ -53,10 +53,10 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Aura of Disruption"
-    desc: " (arcane,aura) 120 feet.\nThe dragon radiates disruptive energies that allow them to feed on magic. When a spell is counteracted or disrupted within the aura, the dragon regains one expended spontaneous spell slot and gains 25 temporary Hit Points that last for 1 minute."
+    desc: " (arcane,aura) 120 feet.\n\nThe dragon radiates disruptive energies that allow them to feed on magic. When a spell is counteracted or disrupted within the aura, the dragon regains one expended spontaneous spell slot and gains 25 temporary Hit Points that last for 1 minute."
 
   - name: "Capture Spell"
-    desc: "`pf2:r` (arcane) **Trigger** The dragon succeeds or critically succeeds on a saving throw against a spell\n**Effect** The dragon attempts to capture a portion of the spell's magic to feed themself. They attempt to counteract the spell (counteract rank 7, counteract modifier +28). If successful, the dragon is unaffected by the spell and regains one expended spontaneous spell slot; other subjects are affected by the spell normally."
+    desc: "`pf2:r` (arcane) **Trigger** The dragon succeeds or critically succeeds on a saving throw against a spell\n* * *\n\n**Effect** The dragon attempts to capture a portion of the spell's magic to feed themself. They attempt to counteract the spell (counteract rank 7, counteract modifier +28). If successful, the dragon is unaffected by the spell and regains one expended spontaneous spell slot; other subjects are affected by the spell normally."
 
 attacks:
   - name: ""
@@ -74,7 +74,7 @@ attacks:
     desc: "DC 36, attack +22; __7th __ (2 slots) _[[Spells/Chain Lightning|Chain Lightning]]_, _[[Spells/Fireball|Fireball]]_, _[[Spells/Force Barrage|Force Barrage]]_, _[[Spells/Slither|Slither]]_, _[[Spells/Unfettered Movement|Unfettered Movement]]_, _[[Spells/Warp Mind|Warp Mind]]_\n__Cantrips__  __(7th)__ _[[Spells/Detect Magic|Detect Magic]]_, _[[Spells/Read Aura|Read Aura]]_"
 
   - name: "Disruptive Breath"
-    desc: "`pf2:2` (arcane,force) The dragon unleashes a spray of magic-disrupting energies that deals 13d6 force damage in a 40-foot cone (DC 36 Reflex check save). Creatures that fail become [[Conditions/Stupefied 1|Stupefied 1]] ([[Conditions/Stupefied 1|Stupefied 2]] on a critical failure) for 1 minute.\nThe dragon can't use Disruptive Breath again for 1d4 rounds."
+    desc: "`pf2:2` (arcane,force) The dragon unleashes a spray of magic-disrupting energies that deals 13d6 force damage in a 40-foot cone (DC 36 Reflex check save). Creatures that fail become [[Conditions/Stupefied 1|Stupefied 1]] ([[Conditions/Stupefied 1|Stupefied 2]] on a critical failure) for 1 minute.\n\nThe dragon can't use Disruptive Breath again for 1d4 rounds."
 
   - name: "Draconic Frenzy"
     desc: "`pf2:2`  The dragon makes two claw Strikes and one tail Strike in any order."
@@ -83,10 +83,10 @@ attacks:
     desc: "  Whenever they score a critical hit with a Strike, the dragon chooses to either recharge Disruptive Breath or regain one expended spontaneous spell slot."
 
   - name: "Share the Wealth"
-    desc: "`pf2:2`  **Requirements** The dragon's body is covered in riches (this is typically the case when the dragon is first encountered)\n**Effect** The dragon shakes their body aggressively, sending coins and other riches flying in every direction, dealing 9d10 bludgeoning damage with a DC 35 Reflex check save to all creatures in a 40-foot emanation. The dragon's body is then no longer covered in riches."
+    desc: "`pf2:2`  **Requirements** The dragon's body is covered in riches (this is typically the case when the dragon is first encountered)\n* * *\n\n**Effect** The dragon shakes their body aggressively, sending coins and other riches flying in every direction, dealing 9d10 bludgeoning damage with a DC 35 Reflex check save to all creatures in a 40-foot emanation. The dragon's body is then no longer covered in riches."
 
   - name: "Treasure Dive"
-    desc: "`pf2:2`  **Requirements** The dragon's body isn't covered in riches and the dragon is adjacent to their hoard\n**Effect** The dragon Strides or Burrows through their hoard using their land Speed. They coat themself in coins, magic items, and other treasures. This contact with magical items revitalizes the dragon, causing them to regain one expended spontaneous spell slot.\nThe dragon can move through other creatures while moving in this way. Creatures in the dragon's path, or above it if the dragon Burrows, must succeed at a DC 33 Reflex check save or be pushed 10 feet (or pushed 20 feet and knocked [[Conditions/Prone|Prone]] on a critical failure)."
+    desc: "`pf2:2`  **Requirements** The dragon's body isn't covered in riches and the dragon is adjacent to their hoard\n* * *\n\n**Effect** The dragon Strides or Burrows through their hoard using their land Speed. They coat themself in coins, magic items, and other treasures. This contact with magical items revitalizes the dragon, causing them to regain one expended spontaneous spell slot.\n\nThe dragon can move through other creatures while moving in this way. Creatures in the dragon's path, or above it if the dragon Burrows, must succeed at a DC 33 Reflex check save or be pushed 10 feet (or pushed 20 feet and knocked [[Conditions/Prone|Prone]] on a critical failure)."
  
 ```
 

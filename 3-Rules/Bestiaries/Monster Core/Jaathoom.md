@@ -20,6 +20,7 @@ license: ORC
 columns: 2
 forcecolumns: true
 layout: Basic Pathfinder 2e Layout
+token: [[modules/pf2e-tokens-bestiaries/portraits/elemental/genie/djinni.webp| ]]
 source: "Pathfinder Monster Core"
 name: "Jaathoom"
 level: "Creature 5"
@@ -33,7 +34,7 @@ modifier: 15
 perception:
   - name: "Perception"
     desc: "+15; Darkvision"
-languages: "Common, Sussuran"
+languages: "Common, Sussuran; (Can’t Speak Any Language); Cloud of Visions"
 skills:
   - name: "Skills"
     desc: "Acrobatics: +14, Arcana: +11, Athletics: +11, Crafting: +9, Deception: +11, Diplomacy: +13, Society: +9, Stealth: +12"
@@ -48,13 +49,13 @@ hp: 55
 health:
   - name: ""
   - name: HP
-    desc: "55; __Immunities__  acid; __Resistances__ mental 5, sonic 5"
+    desc: "55"
 abilities_top:
   - name: ""
   - name: "Items"
     desc: "[[Equipment/Scimitar|Scimitar]]"
   - name: "Cloud of Visions"
-    desc: " (arcane,aura,mental) 60 feet.\nA jaathoom has [[Bestiary Ability Glossary/Telepathy|Telepathy]] 60 feet but can only show images, not speak."
+    desc: " (arcane,aura,mental) 60 feet.\n\nA jaathoom has [[Bestiary Ability Glossary/Telepathy|Telepathy]] 60 feet but can only show images, not speak."
 
 abilities_mid:
   - name: ""
@@ -62,7 +63,7 @@ abilities_mid:
     desc: "  The jaathoom is [[Conditions/Invisible|Invisible]] at all times, though when they take a hostile action of any kind, they are [[Conditions/Hidden|Hidden]] instead of undetected until the start of their next turn, as the vague outline of their form is faintly visible for a short period of time."
 
   - name: "Turbulent Skies"
-    desc: " (air,arcane,aura) 20 feet.\nAll squares in the emanation are difficult terrain for Striding and Flying creatures. Creatures with the air trait are immune.\nThe jaathoom can activate or deactivate this aura as a single action with the concentrate trait."
+    desc: " (air,arcane,aura) 20 feet.\n\nAll squares in the emanation are difficult terrain for Striding and Flying creatures. Creatures with the air trait are immune.\n\nThe jaathoom can activate or deactivate this aura as a single action with the concentrate trait."
 
 attacks:
   - name: ""
@@ -74,19 +75,19 @@ attacks:
     desc: "`pf2:1` Fist +16 (agile, finesse, magical, nonlethal, reach 10 feet)\n__Damage__  1d4 + 10 bludgeoning"
 
   - name: "Ranged"
-    desc: "`pf2:1` Crashing Wind +15 (air, arcane, range increment 20 feet)\n__Damage__  1d8 + 8 bludgeoning"
+    desc: "`pf2:1` Crashing Wind +16 (air, arcane, range increment 20 feet)\n__Damage__  1d8 + 8 bludgeoning"
 
   - name: "Arcane Innate Spells"
     desc: "DC 21, attack +13; __7th __  _[[Spells/Interplanar Teleport|Interplanar Teleport(to Astral Plane, Elemental Planes, or the Universe only)]]_; __4th __  _[[Spells/Nightmare|Nightmare]]_, _[[Spells/Vapor Form|Vapor Form]]_; __3rd __  _[[Spells/Ill Omen|Ill Omen]]_, _[[Spells/Illusory Creature|Illusory Creature]]_, _[[Spells/Illusory Object|Illusory Object]]_, _[[Spells/Sleep|Sleep]]_\n__Cantrips__  __(3rd)__ _[[Spells/Detect Magic|Detect Magic]]_"
 
   - name: "[[Bestiary Ability Glossary/Change Shape|Change Shape]]"
-    desc: "`pf2:1` (arcane,concentrate,polymorph) The jaathoom transforms into a Small or Medium air elemental or aerial animal, such as an owl. This doesn't affect their statistics, but it could change the damage type of their Strikes.\n"
+    desc: "`pf2:1` (arcane,concentrate,polymorph) The jaathoom transforms into a Small or Medium air elemental or aerial animal, such as an owl. This doesn't affect their statistics, but it could change the damage type of their Strikes.\n\n* * *\n"
 
   - name: "Hurricane Blast"
-    desc: "`pf2:1` (air,arcane) **Frequency** once per round\n**Effect** The jaathoom moves all creatures without the air trait in their turbulent skies aura 20 feet directly away, clockwise, or counterclockwise. A creature avoids being moved if it succeeds at a DC 21 Fortitude check save."
+    desc: "`pf2:1` (air,arcane) **Frequency** once per round\n* * *\n\n**Effect** The jaathoom moves all creatures without the air trait in their turbulent skies aura 20 feet directly away, clockwise, or counterclockwise. A creature avoids being moved if it succeeds at a DC 21 Fortitude check save."
 
   - name: "Ominous Dreams"
-    desc: "`pf2:2` (mental,prediction) The jaathoom sends a prophetic dream to a sleeping creature within 10 feet. An unwilling creature avoids the vision if it succeeds at a DC 23 Will check save.\nThe jaathoom chooses the dream's subject, but not its exact events. The target sees a brief vision of its future related to that subject, with the effect of [[Spells/Augury|Augury]]. If the result is bad or mixed, the creature is [[Conditions/Frightened 1|Frightened 2]] and can't recover from being frightened until it wakes."
+    desc: "`pf2:2` (mental,prediction) The jaathoom sends a prophetic dream to a sleeping creature within 10 feet. An unwilling creature avoids the vision if it succeeds at a DC 23 Will check save.\n\nThe jaathoom chooses the dream's subject, but not its exact events. The target sees a brief vision of its future related to that subject, with the effect of [[Spells/Augury|Augury]]. If the result is bad or mixed, the creature is [[Conditions/Frightened 1|Frightened 2]] and can't recover from being frightened until it wakes."
  
 ```
 

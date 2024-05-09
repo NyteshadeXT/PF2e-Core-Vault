@@ -18,6 +18,7 @@ license: ORC
 columns: 2
 forcecolumns: true
 layout: Basic Pathfinder 2e Layout
+token: [[modules/pf2e-tokens-bestiaries/portraits/bestial/mammalian/riding-pony.webp| ]]
 source: "Pathfinder Monster Core"
 name: "Riding Pony"
 level: "Creature 0"
@@ -29,6 +30,7 @@ modifier: 4
 perception:
   - name: "Perception"
     desc: "+4; Low-Light Vision, Scent (Imprecise) 30 Feet"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Acrobatics: +4, Athletics: +7"

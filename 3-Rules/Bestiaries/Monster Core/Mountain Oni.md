@@ -74,10 +74,10 @@ attacks:
     desc: "DC 25, attack +17; __2nd __  _[[Spells/Invisibility|Invisibility (At Will, Self Only)]]_"
 
   - name: "[[Bestiary Ability Glossary/Change Shape|Change Shape]]"
-    desc: "`pf2:1` (concentrate,polymorph,primal) The mountain oni can take on the appearance of any Medium or Large humanoid creature. This doesn't change their Speed or their attack and damage bonuses with their Strikes but might change the damage type their Strikes deal (typically to bludgeoning).\n"
+    desc: "`pf2:1` (concentrate,polymorph,primal) The mountain oni can take on the appearance of any Medium or Large humanoid creature. This doesn't change their Speed or their attack and damage bonuses with their Strikes but might change the damage type their Strikes deal (typically to bludgeoning).\n\n* * *\n"
 
   - name: "Thundering Iron"
-    desc: "`pf2:2`  The oni lifts their tetsubo and brings it down in a deafening peal. They make a tetsubo Strike. On a success, the target takes an additional 1d10 sonic damage.\nEach creature in a 10-foot emanation around the target, other than the oni, take this damage as well and is pushed 5 feet away from the target."
+    desc: "`pf2:2`  The oni lifts their tetsubo and brings it down in a deafening peal. They make a tetsubo Strike. On a success, the target takes an additional 1d10 sonic damage.\n\nEach creature in a 10-foot emanation around the target, other than the oni, take this damage as well and is pushed 5 feet away from the target."
  
 ```
 

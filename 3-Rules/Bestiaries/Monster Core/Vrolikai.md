@@ -20,6 +20,7 @@ license: ORC
 columns: 2
 forcecolumns: true
 layout: Basic Pathfinder 2e Layout
+token: [[modules/pf2e-tokens-bestiaries/portraits/fiendish/demon/vrolikai.webp| ]]
 source: "Pathfinder Monster Core"
 name: "Vrolikai"
 level: "Creature 20"
@@ -33,7 +34,7 @@ modifier: 34
 perception:
   - name: "Perception"
     desc: "+34; Darkvision, Truesight"
-languages: "Chthonian, Draconic, Empyrean, Necril"
+languages: "Chthonian, Draconic, Empyrean, Necril; Telepathy 100 feet"
 skills:
   - name: "Skills"
     desc: "Acrobatics: +37, Arcana: +33, Athletics: +36, Deception: +36, Intimidation: +38, Religion: +34, Stealth: +34, Survival: +34"
@@ -55,7 +56,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Death-Stealing Gaze"
-    desc: " (aura,divine,visual) 30 feet. When a non-demon ends its turn in the aura, it must attempt a DC 38 Fortitude check save. If it fails, it becomes [[Conditions/Drained 1|Drained 1]].\nA creature that dies while it has drain from a vrolikai's gaze rises as a ghoul the next midnight. The GM determines what kind of ghoul."
+    desc: " (aura,divine,visual) 30 feet. When a non-demon ends its turn in the aura, it must attempt a DC 38 Fortitude check save. If it fails, it becomes [[Conditions/Drained 1|Drained 1]].\n\nA creature that dies while it has drain from a vrolikai's gaze rises as a ghoul the next midnight. The GM determines what kind of ghoul."
 
 attacks:
   - name: ""
@@ -79,13 +80,13 @@ attacks:
     desc: "`pf2:1` (divine,unholy) The vrolikai manifests a dagger-shaped blade of what looks like crystallized black flame in each of their four hands. These weapons function as _+2 greater striking daggers_ that deal an additional 2d6 void damage. They fade away into nothingness 1 minute after a vrolikai no longer carries them."
 
   - name: "Consume Death"
-    desc: "`pf2:1` (concentrate,divine,visual) The vrolikai focuses their deathstealing gaze upon a single target they can see within 30 feet. The target must immediately attempt a Fortitude save against death-stealing gaze.\n**Success** The creature is unaffected.\n**Failure** The creature is affected by death-stealing gaze and becomes [[Conditions/Drained 1|Drained 1]]. If the creature was already drained 1 by the death-stealing gaze before attempting the save, a failed save increases the value of the drained condition by 1, to a maximum of [[Conditions/Drained 1|Drained 4]]. The vrolikai gains 10 temporary Hit Points, and the drained creature is temporarily immune until the start of the vrolikai's next turn.\n**Critical Failure** As failure, but the creature increases the amount of drain by 2."
+    desc: "`pf2:1` (concentrate,divine,visual) The vrolikai focuses their deathstealing gaze upon a single target they can see within 30 feet. The target must immediately attempt a Fortitude save against death-stealing gaze.\n* * *\n\n**Success** The creature is unaffected.\n\n**Failure** The creature is affected by death-stealing gaze and becomes [[Conditions/Drained 1|Drained 1]]. If the creature was already drained 1 by the death-stealing gaze before attempting the save, a failed save increases the value of the drained condition by 1, to a maximum of [[Conditions/Drained 1|Drained 4]]. The vrolikai gains 10 temporary Hit Points, and the drained creature is temporarily immune until the start of the vrolikai's next turn.\n\n**Critical Failure** As failure, but the creature increases the amount of drain by 2."
 
   - name: "Focused Flames"
-    desc: "`pf2:2`  The vrolikai attacks a single target with all of their black flame knives. The demon makes a black flame knife Strike with the following additional effects. This counts toward the vrolikai's multiple attack penalty as a number of attacks equal to the number of back flame knives the vrolikai used.\n**Critical Success** The target takes an additional 2d6 void damage for each knife beyond the first (typically 6d6 extra damage) and takes 4d6 persistent void damage.\n**Success** The target takes an additional 2d6 void damage for each knife beyond the first.\n**Failure** The vrolikai deals the damage their black flame knife Strike normally deals on a hit."
+    desc: "`pf2:2`  The vrolikai attacks a single target with all of their black flame knives. The demon makes a black flame knife Strike with the following additional effects. This counts toward the vrolikai's multiple attack penalty as a number of attacks equal to the number of back flame knives the vrolikai used.\n* * *\n\n**Critical Success** The target takes an additional 2d6 void damage for each knife beyond the first (typically 6d6 extra damage) and takes 4d6 persistent void damage.\n\n**Success** The target takes an additional 2d6 void damage for each knife beyond the first.\n\n**Failure** The vrolikai deals the damage their black flame knife Strike normally deals on a hit."
 
   - name: "Mindwarping"
-    desc: " (emotion,mental) The sting of a vrolikai is mind-warping. A creature struck must attempt a DC 44 Will check save.\n**Critical Success** The creature is unaffected.\n**Success** The creature becomes [[Conditions/Stupefied 1|Stupefied 1]] for 1 minute.\n**Failure** The creature becomes stupefied 1. If it's already stupefied, its stupefied value increases by 1 instead (to a maximum of [[Conditions/Stupefied 1|Stupefied 4]]).\n**Critical Failure** As failure, plus the creature is [[Conditions/Confused|Confused]] for 1 minute."
+    desc: " (emotion,mental) The sting of a vrolikai is mind-warping. A creature struck must attempt a DC 44 Will check save.\n* * *\n\n**Critical Success** The creature is unaffected.\n\n**Success** The creature becomes [[Conditions/Stupefied 1|Stupefied 1]] for 1 minute.\n\n**Failure** The creature becomes stupefied 1. If it's already stupefied, its stupefied value increases by 1 instead (to a maximum of [[Conditions/Stupefied 1|Stupefied 4]]).\n\n**Critical Failure** As failure, plus the creature is [[Conditions/Confused|Confused]] for 1 minute."
  
 ```
 

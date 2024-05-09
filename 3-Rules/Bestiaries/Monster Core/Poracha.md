@@ -18,6 +18,7 @@ license: ORC
 columns: 2
 forcecolumns: true
 layout: Basic Pathfinder 2e Layout
+token: [[modules/pf2e-tokens-bestiaries/portraits/bestial/mythological/poracha.webp| ]]
 source: "Pathfinder Monster Core"
 name: "Poracha"
 level: "Creature 4"
@@ -60,10 +61,10 @@ attacks:
     desc: "`pf2:1` Claw +13 (agile, finesse, magical)\n__Damage__  2d4 + 7 slashing"
 
   - name: "Jaunt"
-    desc: "`pf2:1` (move,primal,teleportation) The poracha teleports up to 40 feet to a location it can see.\nIt can't use Jaunt again for 1d4 rounds."
+    desc: "`pf2:1` (move,primal,teleportation) The poracha teleports up to 40 feet to a location it can see.\n\nIt can't use Jaunt again for 1d4 rounds."
 
   - name: "Object Meld"
-    desc: "`pf2:2` (primal) The poracha touches an adjacent object of enough volume to contain it. It merges into the object indefinitely, and while it's inside, time moves exceptionally slowly for it and it has only limited perception of the outside world. The poracha can sense what's going on outside the object only using tremorsense.\nThe poracha can use only mental actions or Jaunt; if it Jaunts, it leaves the object and appears where it chooses. If a creature Strikes the object, the poracha is expelled unharmed."
+    desc: "`pf2:2` (primal) The poracha touches an adjacent object of enough volume to contain it. It merges into the object indefinitely, and while it's inside, time moves exceptionally slowly for it and it has only limited perception of the outside world. The poracha can sense what's going on outside the object only using tremorsense.\n\nThe poracha can use only mental actions or Jaunt; if it Jaunts, it leaves the object and appears where it chooses. If a creature Strikes the object, the poracha is expelled unharmed."
  
 ```
 

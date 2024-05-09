@@ -18,6 +18,7 @@ license: ORC
 columns: 2
 forcecolumns: true
 layout: Basic Pathfinder 2e Layout
+token: [[modules/pf2e-tokens-bestiaries/portraits/bestial/reptilian/viper.webp| ]]
 source: "Pathfinder Monster Core"
 name: "Viper"
 level: "Creature -1"
@@ -29,6 +30,7 @@ modifier: 5
 perception:
   - name: "Perception"
     desc: "+5; Low-Light Vision, Scent (Imprecise) 30 Feet"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Acrobatics: +5, Athletics: +1 (+4 to Climb), Stealth: +5, Survival: +3"
@@ -50,7 +52,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Slink"
-    desc: "`pf2:r`  **Trigger** A creature ends its movement adjacent to the viper or within the viper's space.\n**Effect** The viper Strides, Climbs, or Swims up to 10 feet (or up to the relevant Speed, if that Speed is less than 10 feet). It must end its movement in a location that isn't within 5 feet of a foe. This movement doesn't trigger reactions."
+    desc: "`pf2:r`  **Trigger** A creature ends its movement adjacent to the viper or within the viper's space.\n* * *\n\n**Effect** The viper Strides, Climbs, or Swims up to 10 feet (or up to the relevant Speed, if that Speed is less than 10 feet). It must end its movement in a location that isn't within 5 feet of a foe. This movement doesn't trigger reactions."
 
 attacks:
   - name: ""
@@ -59,7 +61,7 @@ attacks:
     desc: "`pf2:1` Fangs +6 (agile, finesse, reach 0 feet)\n__Damage__  1d8 - 3 piercing plus viper-venom"
 
   - name: "Viper Venom"
-    desc: " (poison) **Saving Throw** DC 16 Fortitude check\n**Maximum Duration** 4 rounds\n**Stage 1** 1d8 poison (1 round)."
+    desc: " (poison) **Saving Throw** DC 16 Fortitude check\n* * *\n\n**Maximum Duration** 4 rounds\n\n**Stage 1** 1d8 poison (1 round)."
  
 ```
 

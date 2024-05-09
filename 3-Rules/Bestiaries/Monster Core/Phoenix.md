@@ -19,6 +19,7 @@ license: ORC
 columns: 2
 forcecolumns: true
 layout: Basic Pathfinder 2e Layout
+token: [[modules/pf2e-tokens-bestiaries/portraits/elemental/fire/phoenix.webp| ]]
 source: "Pathfinder Monster Core"
 name: "Phoenix"
 level: "Creature 15"
@@ -53,10 +54,10 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Self-Resurrection"
-    desc: " (healing,primal) When a phoenix dies, they collapse into a pile of smoldering ashes before returning to life fully healed 1d4 rounds later, as if subject to a 7th-rank [[Spells/Resurrect|Resurrect]] ritual. Self-resurrection happens only if there are some remains to resurrect; for instance, a phoenix killed by a [[Spells/Disintegrate|Disintegrate]] spell can't use this ability.\nA phoenix whose remains rest within an area devoted to an unholy deity by [[Spells/Consecrate|Consecrate]] can't self-resurrect until their remains are no longer in that area. A phoenix can self-resurrect only once per year."
+    desc: " (healing,primal) When a phoenix dies, they collapse into a pile of smoldering ashes before returning to life fully healed 1d4 rounds later, as if subject to a 7th-rank [[Spells/Resurrect|Resurrect]] ritual. Self-resurrection happens only if there are some remains to resurrect; for instance, a phoenix killed by a [[Spells/Disintegrate|Disintegrate]] spell can't use this ability.\n\nA phoenix whose remains rest within an area devoted to an unholy deity by [[Spells/Consecrate|Consecrate]] can't self-resurrect until their remains are no longer in that area. A phoenix can self-resurrect only once per year."
 
   - name: "Shroud of Flame"
-    desc: " (aura,fire,primal) 20 feet. 4d6 fire, DC 37 Reflex check save.\nWhile this aura is active, any adjacent creature that hits the phoenix with a melee attack or otherwise touches them takes 2d6 fire damage. The phoenix can activate or deactivate the aura with a single action, which has the concentrate trait."
+    desc: " (aura,fire,primal) 20 feet. 4d6 fire, DC 37 Reflex check save.\n\nWhile this aura is active, any adjacent creature that hits the phoenix with a melee attack or otherwise touches them takes 2d6 fire damage. The phoenix can activate or deactivate the aura with a single action, which has the concentrate trait."
 
 attacks:
   - name: ""

@@ -18,6 +18,7 @@ license: ORC
 columns: 2
 forcecolumns: true
 layout: Basic Pathfinder 2e Layout
+token: [[modules/pf2e-tokens-bestiaries/portraits/bestial/mammalian/rat-giant.webp| ]]
 source: "Pathfinder Monster Core"
 name: "Giant Rat"
 level: "Creature -1"
@@ -29,6 +30,7 @@ modifier: 5
 perception:
   - name: "Perception"
     desc: "+5; Low-Light Vision, Scent (Imprecise) 30 Feet"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Acrobatics: +5, Athletics: +2 (+4 to Climb or Swim), Stealth: +5"
@@ -56,7 +58,7 @@ attacks:
     desc: "`pf2:1` Jaws +7 (agile, finesse)\n__Damage__  1d6 + 1 piercing plus filth-fever"
 
   - name: "Putrid Plague"
-    desc: " (disease) The [[Conditions/Sickened 1|Sickened]] and [[Conditions/Unconscious|Unconscious]] conditions from putrid plague don't improve on their own until the disease is cured.\n**Saving Throw** DC 14 Fortitude check\n**Stage 1** carrier with no ill effect (1d4 hours)\n**Stage 2** [[Conditions/Sickened 1|Sickened 1]] (1 day)\n**Stage 3** Sickened 1 and [[Conditions/Slowed 1|Slowed 1]] (1 day)\n**Stage 4** [[Conditions/Unconscious|Unconscious]] (1 day)\n**Stage 5** dead"
+    desc: " (disease) The [[Conditions/Sickened 1|Sickened]] and [[Conditions/Unconscious|Unconscious]] conditions from putrid plague don't improve on their own until the disease is cured.\n\n**Saving Throw** DC 14 Fortitude check\n* * *\n\n**Stage 1** carrier with no ill effect (1d4 hours)\n\n**Stage 2** [[Conditions/Sickened 1|Sickened 1]] (1 day)\n\n**Stage 3** Sickened 1 and [[Conditions/Slowed 1|Slowed 1]] (1 day)\n\n**Stage 4** [[Conditions/Unconscious|Unconscious]] (1 day)\n\n**Stage 5** dead"
  
 ```
 

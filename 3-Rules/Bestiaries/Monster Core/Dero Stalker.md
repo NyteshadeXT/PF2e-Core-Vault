@@ -19,6 +19,7 @@ license: ORC
 columns: 2
 forcecolumns: true
 layout: Basic Pathfinder 2e Layout
+token: [[modules/pf2e-tokens-bestiaries/portraits/humanoid/darklands/dero-stalker.webp| ]]
 source: "Pathfinder Monster Core"
 name: "Dero Stalker"
 level: "Creature 2"
@@ -72,7 +73,7 @@ attacks:
     desc: "DC 17, attack +9\n__Cantrips__  __(1st)__ _[[Spells/Daze|Daze]]_, _[[Spells/Light|Light]]_, _[[Spells/Read Aura|Read Aura]]_"
 
   - name: "Dero Medicine"
-    desc: "`pf2:1` (healing,manipulate) **Requirements** The dero is wearing a cytillesh toolkit and has a hand free\n**Effect** The dero excises damaged flesh and crudely stitches wounds shut, healing themself or an ally in reach for 2d8 Hit Points. For 1 hour, the target has slashing weakness 2 and is immune to Dero Medicine.\n[[Bestiary Effects/Effect_ Dero Medicine|Effect: Dero Medicine]]"
+    desc: "`pf2:1` (healing,manipulate) **Requirements** The dero is wearing a cytillesh toolkit and has a hand free\n* * *\n\n**Effect** The dero excises damaged flesh and crudely stitches wounds shut, healing themself or an ally in reach for 2d8 Hit Points. For 1 hour, the target has slashing weakness 2 and is immune to Dero Medicine.\n\n[[Bestiary Effects/Effect_ Dero Medicine|Effect: Dero Medicine]]"
 
   - name: "Exploit Lethargy"
     desc: "  A creature afflicted with [[Equipment/Lethargy Poison|Lethargy Poison]] is [[Conditions/Off-Guard|Off-Guard]] to the dero stalker, and the stalker can choose to add the nonlethal trait to their attacks against the creature without taking the normal penalty."

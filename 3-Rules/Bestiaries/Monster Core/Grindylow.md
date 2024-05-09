@@ -19,6 +19,7 @@ license: ORC
 columns: 2
 forcecolumns: true
 layout: Basic Pathfinder 2e Layout
+token: [[modules/pf2e-tokens-bestiaries/portraits/aberrant/humanoid/grindylow.webp| ]]
 source: "Pathfinder Monster Core"
 name: "Grindylow"
 level: "Creature 0"
@@ -54,7 +55,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "[[Bestiary Ability Glossary/Reactive Strike|Reactive Strike (Special)]]"
-    desc: "`pf2:r`  A grindylow gains 1 extra reaction at the start of each of their turns that they can use only to make a Reactive Strike with a tentacle. They can't use more than one Reactive Strike triggered by the same action or choice.\n"
+    desc: "`pf2:r`  A grindylow gains 1 extra reaction at the start of each of their turns that they can use only to make a Reactive Strike with a tentacle. They can't use more than one Reactive Strike triggered by the same action or choice.\n\n* * *\n"
 
 attacks:
   - name: ""
@@ -72,7 +73,7 @@ attacks:
     desc: "`pf2:1` Spear +7 (thrown 20 ft.)\n__Damage__  1d6 + 1 piercing"
 
   - name: "Clinging Suckers"
-    desc: "  When a grindylow successfully Grabs a creature larger than themself, they attach to that creature. The [[Conditions/Grabbed|Grabbed]] creature is not [[Conditions/Immobilized|Immobilized]], but if it moves, the grindylow moves with it.\nIf the creature is Medium or smaller, it takes a –5-foot status penalty to its Speeds while the grindylow is attached. The grindylow is [[Conditions/Off-Guard|Off-Guard]] while attached to a creature."
+    desc: "  When a grindylow successfully Grabs a creature larger than themself, they attach to that creature. The [[Conditions/Grabbed|Grabbed]] creature is not [[Conditions/Immobilized|Immobilized]], but if it moves, the grindylow moves with it.\n\nIf the creature is Medium or smaller, it takes a –5-foot status penalty to its Speeds while the grindylow is attached. The grindylow is [[Conditions/Off-Guard|Off-Guard]] while attached to a creature."
 
   - name: "Jet"
     desc: "`pf2:2` (move) The grindylow moves up to 60 feet in a straight line through the water without triggering reactions."

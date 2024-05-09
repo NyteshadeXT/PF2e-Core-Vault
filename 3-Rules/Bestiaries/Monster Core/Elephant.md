@@ -18,6 +18,7 @@ license: ORC
 columns: 2
 forcecolumns: true
 layout: Basic Pathfinder 2e Layout
+token: [[modules/pf2e-tokens-bestiaries/portraits/bestial/mammalian/elephant.webp| ]]
 source: "Pathfinder Monster Core"
 name: "Elephant"
 level: "Creature 7"
@@ -29,6 +30,7 @@ modifier: 13
 perception:
   - name: "Perception"
     desc: "+13; Low-Light Vision, Scent (Imprecise) 30 Feet"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Athletics: +17, Survival: +15"
@@ -62,7 +64,7 @@ attacks:
     desc: "`pf2:1` Foot +16 (reach 10 feet)\n__Damage__  2d10 + 9 bludgeoning"
 
   - name: "[[Bestiary Ability Glossary/Trample|Trample]]"
-    desc: "`pf2:3`  Large or smaller, foot, DC 24 Reflex check\n"
+    desc: "`pf2:3`  Large or smaller, foot, DC 24 Reflex check\n\n* * *\n"
 
   - name: "Grabbing Trunk"
     desc: "  A Medium or smaller creature hit by the elephant's trunk is [[Conditions/Grabbed|Grabbed]]. If the elephant moves, it can bring the Grabbed creature along with it."

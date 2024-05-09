@@ -29,7 +29,7 @@ modifier: 11
 perception:
   - name: "Perception"
     desc: "+11; Darkvision"
-languages: "Common, Draconic"
+languages: "Common, Draconic; Translate"
 skills:
   - name: "Skills"
     desc: "Acrobatics: +8, Arcana: +9, Athletics: +7, Occultism: +9, Society: +9, Stealth: +8"
@@ -63,7 +63,7 @@ attacks:
     desc: "  Even if the pipefox does not speak a creature's language, it can rapidly pick up on inflection, root words, and body language. If the pipefox interacts or observes a creature for at least 10 minutes and that creature can speak a language, it can communicate basic concepts to that creature."
 
   - name: "Rapid Erudition"
-    desc: "`pf2:1` (concentrate) **Requirements** The pipefox saw a cantrip cast within the last minute;\n**Effect** The pipefox can cast the cantrip it saw as an innate arcane spell for 1 minute."
+    desc: "`pf2:1` (concentrate) **Requirements** The pipefox saw a cantrip cast within the last minute;\n* * *\n\n**Effect** The pipefox can cast the cantrip it saw as an innate arcane spell for 1 minute."
  
 ```
 

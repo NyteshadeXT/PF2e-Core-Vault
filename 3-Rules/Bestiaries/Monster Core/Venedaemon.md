@@ -33,7 +33,7 @@ modifier: 12
 perception:
   - name: "Perception"
     desc: "+12; Darkvision"
-languages: "Aklo, Chthonian, Common, Daemonic, Diabolic, Draconic, Requian"
+languages: "Aklo, Chthonian, Common, Daemonic, Diabolic, Draconic, Requian; Telepathy 100 feet"
 skills:
   - name: "Skills"
     desc: "Acrobatics: +13, Arcana: +16, Deception: +12, Occultism: +14, Religion: +13, Scribing Lore: +14"
@@ -70,13 +70,13 @@ attacks:
     desc: "DC 22, attack +14; __4th __  _[[Spells/Translocate|Translocate]]_"
 
   - name: "Residual Force"
-    desc: "`pf2:1` (arcane,force) **Requirements** The venedaemon's most recent action was to cast a spell\n**Effect** Fading runes cling to the venedaemon's tentacles. The venedaemon makes a tentacle Strike that has a reach of 20 feet and deals 2d4 additional force damage."
+    desc: "`pf2:1` (arcane,force) **Requirements** The venedaemon's most recent action was to cast a spell\n* * *\n\n**Effect** Fading runes cling to the venedaemon's tentacles. The venedaemon makes a tentacle Strike that has a reach of 20 feet and deals 2d4 additional force damage."
 
   - name: "Soul Spell"
     desc: "  If a venedaemon ingest a soul gem from a cacodaemon, they can recover an expended spell slot instead of gaining fast healing. The spell slot’s rank can be no higher than half the level of the creature whose soul was consumed, rounded up."
 
   - name: "Twisted Whispers"
-    desc: "`pf2:1` (arcane,auditory,concentrate,linguistic,mental) The venedaemon whispers to a creature within 15 feet, which must succeed at a DC 22 Will check save or be [[Conditions/Stupefied 1|Stupefied 2]] for 1 minute (or [[Conditions/Stupefied 1|Stupefied 3]] on a critical failure).\nRegardless of the results of the save, the creature is immune to Twisted Whispers for 24 hours."
+    desc: "`pf2:1` (arcane,auditory,concentrate,linguistic,mental) The venedaemon whispers to a creature within 15 feet, which must succeed at a DC 22 Will check save or be [[Conditions/Stupefied 1|Stupefied 2]] for 1 minute (or [[Conditions/Stupefied 1|Stupefied 3]] on a critical failure).\n\nRegardless of the results of the save, the creature is immune to Twisted Whispers for 24 hours."
  
 ```
 

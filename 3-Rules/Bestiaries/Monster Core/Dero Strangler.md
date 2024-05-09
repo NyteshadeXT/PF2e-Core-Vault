@@ -19,6 +19,7 @@ license: ORC
 columns: 2
 forcecolumns: true
 layout: Basic Pathfinder 2e Layout
+token: [[modules/pf2e-tokens-bestiaries/portraits/humanoid/darklands/dero-strangler.webp| ]]
 source: "Pathfinder Monster Core"
 name: "Dero Strangler"
 level: "Creature 3"
@@ -72,10 +73,10 @@ attacks:
     desc: "DC 19, attack +11; __2nd __  _[[Spells/Darkness|Darkness]]_, _[[Spells/Revealing Light|Revealing Light]]_\n__Cantrips__  __(2nd)__ _[[Spells/Daze|Daze]]_, _[[Spells/Light|Light]]_, _[[Spells/Read Aura|Read Aura]]_"
 
   - name: "Dero Medicine"
-    desc: "`pf2:1` (healing,manipulate) **Requirements** The dero is wearing a cytillesh toolkit and has a hand free\n**Effect** The dero excises damaged flesh and crudely stitches wounds shut, healing themself or an ally in reach for 2d8 Hit Points. For 1 hour, the target has slashing weakness 2 and is immune to Dero Medicine.\n[[Bestiary Effects/Effect_ Dero Medicine|Effect: Dero Medicine]]"
+    desc: "`pf2:1` (healing,manipulate) **Requirements** The dero is wearing a cytillesh toolkit and has a hand free\n* * *\n\n**Effect** The dero excises damaged flesh and crudely stitches wounds shut, healing themself or an ally in reach for 2d8 Hit Points. For 1 hour, the target has slashing weakness 2 and is immune to Dero Medicine.\n\n[[Bestiary Effects/Effect_ Dero Medicine|Effect: Dero Medicine]]"
 
   - name: "Strangle"
-    desc: "`pf2:1` (attack,nonlethal) **Requirements** The dero must have two free hands or be wielding a spiked chain\n**Effect** The dero attempts an Athletics check to [[Actions/Grapple|Grapple]] with a +2 circumstance bonus. On a success, the target also takes 1d6 + 6 bludgeoning damage and can't speak (including to Cast a Spell) as long as they're [[Conditions/Grabbed|Grabbed]] or [[Conditions/Restrained|Restrained]]."
+    desc: "`pf2:1` (attack,nonlethal) **Requirements** The dero must have two free hands or be wielding a spiked chain\n* * *\n\n**Effect** The dero attempts an Athletics check to [[Actions/Grapple|Grapple]] with a +2 circumstance bonus. On a success, the target also takes 1d6 + 6 bludgeoning damage and can't speak (including to Cast a Spell) as long as they're [[Conditions/Grabbed|Grabbed]] or [[Conditions/Restrained|Restrained]]."
  
 ```
 

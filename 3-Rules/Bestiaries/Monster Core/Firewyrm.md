@@ -19,6 +19,7 @@ license: ORC
 columns: 2
 forcecolumns: true
 layout: Basic Pathfinder 2e Layout
+token: [[modules/pf2e-tokens-bestiaries/portraits/elemental/fire/firewyrm.webp| ]]
 source: "Pathfinder Monster Core"
 name: "Firewyrm"
 level: "Creature 9"
@@ -71,7 +72,7 @@ attacks:
     desc: "`pf2:1` Fire Mote +20 (range increment 60 feet)\n__Damage__  2d8 + 6 fire"
 
   - name: "Breath Fire"
-    desc: "`pf2:2` (fire,primal) The firewyrm breathes a 30-foot cone of fire dealing 7d6 fire + 2d8 persistent fire damage to every creature within the cone (DC 28 Reflex check save).\nThe firewyrm can't Breathe Fire again for 1d4 rounds."
+    desc: "`pf2:2` (fire,primal) The firewyrm breathes a 30-foot cone of fire dealing 7d6 fire + 2d8 persistent fire damage to every creature within the cone (DC 28 Reflex check save).\n\nThe firewyrm can't Breathe Fire again for 1d4 rounds."
  
 ```
 

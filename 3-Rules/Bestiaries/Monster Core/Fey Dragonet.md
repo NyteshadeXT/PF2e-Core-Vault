@@ -31,7 +31,7 @@ modifier: 8
 perception:
   - name: "Perception"
     desc: "+8; Darkvision"
-languages: "Common, Draconic, Fey"
+languages: "Common, Draconic, Fey; Telepathy 100 feet"
 skills:
   - name: "Skills"
     desc: "Acrobatics: +8, Deception: +8, Diplomacy: +8, Nature: +4, Stealth: +10"
@@ -65,7 +65,7 @@ attacks:
     desc: "DC 21, attack +13; __4th __  _[[Spells/Invisibility|Invisibility (Self Only)]]_"
 
   - name: "Euphoric Breath"
-    desc: "`pf2:2` (arcane,poison) The dragonet breathes euphoric gas in a 15-foot cone. Each creature in the area must succeed at a DC 18 Fortitude check save or become [[Conditions/Stupefied 1|Stupefied 2]] and [[Conditions/Slowed 1|Slowed 1]] for 1d4 rounds; on a critical failure, the duration is 1 minute.\nThe fey dragonet can't use Euphoric Breath again for 1d4 rounds."
+    desc: "`pf2:2` (arcane,poison) The dragonet breathes euphoric gas in a 15-foot cone. Each creature in the area must succeed at a DC 18 Fortitude check save or become [[Conditions/Stupefied 1|Stupefied 2]] and [[Conditions/Slowed 1|Slowed 1]] for 1d4 rounds; on a critical failure, the duration is 1 minute.\n\nThe fey dragonet can't use Euphoric Breath again for 1d4 rounds."
  
 ```
 

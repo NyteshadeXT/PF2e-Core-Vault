@@ -19,6 +19,7 @@ license: ORC
 columns: 2
 forcecolumns: true
 layout: Basic Pathfinder 2e Layout
+token: [[modules/pf2e-tokens-bestiaries/portraits/humanoid/gnoll-sergeant.webp| ]]
 source: "Pathfinder Monster Core"
 name: "Kholo Sergeant"
 level: "Creature 4"
