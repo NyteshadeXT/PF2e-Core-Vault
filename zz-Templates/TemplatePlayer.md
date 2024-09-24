@@ -45,6 +45,6 @@ _%>
 | ![[ImagePlaceholder.png\|cover hsmall]] | `=this.file.name` | `=this.player` | `=this.class` | `=this.race` | `=this.level` |
 
 ```custom-frames
-frame: ConfigureInCustomFramesPlugin
+frame: PathbuilderCustomFrame
 ```
 

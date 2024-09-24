@@ -13,13 +13,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3-Rules/Bestiaries/Battlezoo Bestiary/Afneith.md",
+                "file": "3-Rules/Bestiaries/Bestiary 1/Aasimar Redeemer.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "6de5711fd0245399",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "zz-Templates/TemplateSettlement.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "cb429b2e20c510cb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Creature Finder.md",
                 "mode": "preview",
                 "source": true
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -69,7 +94,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 364.5
+    "width": 365.5
   },
   "right": {
     "id": "414a1381b9bc07e4",
@@ -85,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3-Rules/Bestiaries/Battlezoo Bestiary/Afneith.md",
+                "file": "Creature Finder.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3-Rules/Bestiaries/Battlezoo Bestiary/Afneith.md",
+                "file": "Creature Finder.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3-Rules/Bestiaries/Battlezoo Bestiary/Afneith.md"
+                "file": "Creature Finder.md"
               }
             }
           },
@@ -177,56 +202,60 @@
       "obsidian-leaflet-plugin:Open Leaflet Map": false,
       "obsidian-5e-statblocks:Open Creature pane": false,
       "initiative-tracker:Initiative Tracker Encounter Builder": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian-import-json:JSON/CSV Importer": false,
+      "obsidian42-brat:BRAT": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "helpmate:HelpMate": false
     }
   },
-  "active": "894f67d17906f1e6",
+  "active": "cb429b2e20c510cb",
   "lastOpenFiles": [
-    "zz_assets/modules/pf2e-tokens-bestiaries/portraits/aberrant/eldritch/brain-collector.webp",
-    "zz_assets/icons/magic/control/buff-strength-muscle-damage.webp",
+    "zz-Templates/3_Dataview Templates/3_Dataview Templates.md",
+    "zz-Templates/TemplateCity.md",
+    "3-Rules/Character Building/Equipment/Ablative Shield Plating (Greater).md",
+    "3-Rules/Bestiaries/Bestiary 2/Aapoph Serpentfolk.md",
+    "zz-Templates/TemplateGroup.md",
+    "zz-Templates/Insert Publish Tree.md",
+    "zz-Templates/How To Create New Templates.md",
+    "zz-Templates/TemplateSettlement.md",
+    "Creature Finder.md",
+    "zz_assets/Placeholder Images/Pasted Image 20231026201051_609.jpg",
+    "zz_assets/Placeholder Images/RandomGensTitleBar.png",
+    "zz_assets/Placeholder Images/README-20231026233959519.webp",
+    "zz_assets/Placeholder Images/RestTravelTitleBar.png",
+    "zz_assets/Placeholder Images/SkillsTitleBar.png",
+    "zz_assets/Placeholder Images/The Wound-20231026225622829.webp",
+    "zz_assets/Placeholder Images/WeaponsArmorItemsTitleBar.png",
+    "zz_assets/Placeholder Images/PartyLogo.jpg",
+    "zz_assets/Placeholder Images/Northern Faerun Map.jpg",
+    "zz_assets/Placeholder Images/MovementTitleBar.png",
+    "zz_assets/Placeholder Images/MapPlaceholder.md",
+    "zz-Templates/TemplatePlayer.md",
+    "zz-Templates/TemplateMagicItem.md",
+    "zz-Templates/TemplateNPC.md",
+    "zz-Templates/TemplateQuest.md",
+    "3-Rules/Bestiaries/Bestiary 1/Aasimar Redeemer.md",
+    "2-World/Religions",
+    "2-World/Cities",
+    "2-World/Deities.md",
+    "2-World/Cities.md",
+    "2-World/Regions",
+    "3-Rules/Bestiaries/Bestiary 1/Adamantine Golem.md",
+    "2-World/Regions",
+    "3-Rules/Bestiaries/Adventure Paths/Abomination Vaults/Afflicted Irnakurse.md",
+    "3-Rules/Battlezoo Bestiary/Archetypes/Vestige Hunter.md",
+    "3-Rules/Battlezoo Bestiary/Archetypes/Monster Mage.md",
+    "3-Rules/Bestiaries/Battlezoo Bestiary/Afneith.md",
     "3-Rules/Battlezoo Strange and Unusual/Monster Parts Subsystem/Monster Parts Subsystem.md",
     "3-Rules/Battlezoo Bestiary/Imbued Properties/Imbued Properties.md",
     "Battlezoo Bestiary_ Strange and Unusual/Journals/Strange & Unusual Character Options/Strange & Unusual Character Options.md",
     "3-Rules/Battlezoo Strange and Unusual/Imbued Properties/Imbued Properties.md",
-    "3-Rules/Battlezoo Bestiary/Monster Parts Subsystem/Monster Parts Subsystem.md",
-    "3-Rules/Character Building/Backgrounds/Abadar's Avenger.md",
-    "Roll For Combat/Fusions/Token Preview/Fusions Static Token Preview.md",
-    "Roll For Combat/Fusions/Token Preview/Fusions Animated Token Preview.md",
-    "Roll For Combat/Fusions/Journals/From the Archives of Aitheria Nyx/From the Archives of Aitheria Nyx.md",
-    "Roll For Combat/Fusions/Journals/Battlezoo Secret Dragons.md",
-    "Roll For Combat/Fusions/Feats/All For One.md",
-    "Roll For Combat/Fusions/Ancestry/Fusion.md",
-    "Battlezoo Bestiary/Macros/Change Token Style.md",
-    "3-Rules/Battlezoo Bestiary/Archetypes/Archetypes.md",
-    "3-Rules/Battlezoo Bestiary/Archetypes/Vestige Hunter.md",
-    "3-Rules/Battlezoo Bestiary/Archetypes/Monster Mage.md",
-    "3-Rules/Bestiaries/Battlezoo Bestiary/Afneith.md",
-    "3-Rules/Character Building/Actions/Battlezoo Actions/Create Token.md",
-    "3-Rules/Character Building/Actions/Opportune Riposte.md",
-    "3-Rules/Character Building/Actions/Ten Paces.md",
-    "3-Rules/Character Building/Actions/Scout Location.md",
-    "3-Rules/Character Building/Actions/Call Gun.md",
-    "3-Rules/Character Building/Actions/De-Animating Gestures (True).md",
-    "3-Rules/Character Building/Actions/Final Surge.md",
-    "3-Rules/Character Building/Actions/Perform.md",
     "3-Rules/Character Building/Actions",
-    "zz_assets/modules/pf2e-tokens-bestiaries/portraits/humanoid/darklands/deep-gnome-rockwarden.webp",
     "Game Mastery Guide",
-    "zz_assets/systems/pf2e/icons/equipment/treasure/currency/gold-pieces.webp",
     "zz_assets/systems/pf2e/icons/equipment/treasure/currency",
-    "zz_assets/systems/pf2e/icons/features/classes/surprice-attack.webp",
-    "zz_assets/systems/pf2e/icons/equipment/adventuring-gear/cartographers-kit.webp",
-    "zz_assets/systems/pf2e/icons/equipment/adventuring-gear/advanced-book-of-translation.webp",
-    "zz_assets/systems/pf2e/icons/spells/vision-of-weakness.webp",
     "zz_assets/systems/pf2e/icons/equipment/treasure",
     "zz_assets/systems/pf2e/icons/features/classes",
-    "zz_assets/systems/pf2e/icons/equipment/adventuring-gear",
-    "zz_assets/systems/pf2e/icons/actions/raise-a-shield.webp",
-    "zz_assets/systems/pf2e/icons/spells",
-    "zz_assets/systems/pf2e/icons/features",
-    "zz_assets/systems/pf2e/icons/equipment",
-    "zz_assets/systems/pf2e/icons/actions",
-    "zz_assets/icons/svg/sleep.svg",
-    "zz_assets/icons/svg/regen.svg"
+    "zz_assets/systems/pf2e/icons/equipment/adventuring-gear"
   ]
 }
